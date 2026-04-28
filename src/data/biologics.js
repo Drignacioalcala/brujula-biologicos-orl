@@ -186,18 +186,23 @@ export function rankBiologics(p) {
     .sort((a, b) => b.overall - a.overall);
 }
 
-export const DEFAULT_PATIENT = {
-  age: 45,
-  eosinophils: 350,
-  ige: 120,
-  asthma: true,
+// Paciente vacío de partida — la app no muestra ranking hasta que
+// el usuario empiece a marcar datos.
+export const EMPTY_PATIENT = {
+  age: 50,
+  eosinophils: 0,
+  ige: 0,
+  asthma: false,
   allergic: false,
   nerd: false,
   atopicDermatitis: false,
-  anosmia: 2,        // 0 = normal, 1 = hiposmia, 2 = anosmia
-  snot22: 55,
-  nps: 6,
-  priorSurgeries: 1,
-  scsCourses: 2,
+  anosmia: 0,        // 0 = normal, 1 = hiposmia, 2 = anosmia
+  snot22: 0,
+  nps: 0,
+  priorSurgeries: 0,
+  scsCourses: 0,
   scsContraindication: false,
 };
+
+// Alias por compatibilidad con import previo
+export const DEFAULT_PATIENT = EMPTY_PATIENT;

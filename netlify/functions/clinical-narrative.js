@@ -115,7 +115,8 @@ export default async (req) => {
       generationConfig: {
         temperature: 0.55,
         topP: 0.92,
-        maxOutputTokens: 600,
+        maxOutputTokens: 1500,
+        thinkingConfig: { thinkingBudget: 0 },
       },
     }),
   });

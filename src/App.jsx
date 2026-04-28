@@ -1,11 +1,11 @@
 import { useMemo, useState } from 'react';
-import { BookOpen } from 'lucide-react';
+import { BookOpen, MousePointerClick } from 'lucide-react';
 import PatientInput from './components/PatientInput';
 import EuforeaCheck from './components/EuforeaCheck';
 import BiologicRadar from './components/BiologicRadar';
 import Recommendation from './components/Recommendation';
 import {
-  DEFAULT_PATIENT,
+  EMPTY_PATIENT,
   euforeaCriteria,
   rankBiologics,
   BIOLOGIC_ORDER,
@@ -37,15 +37,27 @@ const PRESETS = {
 };
 
 export default function App() {
-  const [patient, setPatient] = useState(DEFAULT_PATIENT);
+  const [patient, setPatientRaw] = useState(EMPTY_PATIENT);
+  const [hasInteracted, setHasInteracted] = useState(false);
   const [visible, setVisible] = useState(
     Object.fromEntries(BIOLOGIC_ORDER.map((id) => [id, true])),
   );
+
+  // Wrapper: cualquier cambio del fenotipo marca la sesión como iniciada.
+  const setPatient = (next) => {
+    setHasInteracted(true);
+    setPatientRaw(next);
+  };
 
   const ranking = useMemo(() => rankBiologics(patient), [patient]);
   const criteria = useMemo(() => euforeaCriteria(patient), [patient]);
 
   const handleExport = () => exportPdf({ patient, ranking, criteria });
+
+  const handleReset = () => {
+    setPatientRaw(EMPTY_PATIENT);
+    setHasInteracted(false);
+  };
 
   return (
     <div className="min-h-full">
@@ -58,29 +70,59 @@ export default function App() {
             <PatientInput
               patient={patient}
               setPatient={setPatient}
-              onReset={() => setPatient(DEFAULT_PATIENT)}
-              onPreset={(k) => setPatient({ ...DEFAULT_PATIENT, ...PRESETS[k] })}
+              onReset={handleReset}
+              onPreset={(k) => setPatient({ ...EMPTY_PATIENT, ...PRESETS[k] })}
             />
           </aside>
           <section className="space-y-6">
-            <EuforeaCheck criteria={criteria} />
-            <BiologicRadar
-              ranking={ranking}
-              visible={visible}
-              toggleVisible={(id) => setVisible((v) => ({ ...v, [id]: !v[id] }))}
-            />
-            <Recommendation
-              ranking={ranking}
-              patient={patient}
-              criteria={criteria}
-              onExport={handleExport}
-            />
+            {hasInteracted ? (
+              <>
+                <EuforeaCheck criteria={criteria} />
+                <BiologicRadar
+                  ranking={ranking}
+                  visible={visible}
+                  toggleVisible={(id) => setVisible((v) => ({ ...v, [id]: !v[id] }))}
+                />
+                <Recommendation
+                  ranking={ranking}
+                  patient={patient}
+                  criteria={criteria}
+                  onExport={handleExport}
+                />
+              </>
+            ) : (
+              <EmptyState />
+            )}
             <BiologicReference />
           </section>
         </div>
       </main>
 
       <Footer />
+    </div>
+  );
+}
+
+function EmptyState() {
+  return (
+    <div className="flex min-h-[400px] flex-col items-center justify-center rounded-2xl border-2 border-dashed border-slate-200 bg-white/60 p-10 text-center">
+      <img
+        src="/brand/groog.png"
+        alt="Groog te espera"
+        className="groog-wobble h-32 w-auto opacity-90"
+      />
+      <h3 className="mt-4 text-lg font-bold text-rsInk">
+        Empieza marcando los rasgos de tu paciente
+      </h3>
+      <p className="mt-2 max-w-md text-sm text-rsMuted">
+        Mueve los sliders, activa las comorbilidades o usa un caso rápido del panel izquierdo.
+        Cuando haya datos, aparecerá la verificación EUFOREA, el radar comparativo y el ranking
+        adaptado a su fenotipo.
+      </p>
+      <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-rsBlueSoft px-3 py-1.5 text-xs font-semibold text-rsBlue">
+        <MousePointerClick className="h-3.5 w-3.5" />
+        Sin datos no hay recomendación
+      </div>
     </div>
   );
 }
