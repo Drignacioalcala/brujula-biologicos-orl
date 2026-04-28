@@ -14,47 +14,75 @@ const NAMES = {
 };
 
 function buildPrompt(patient, ranking, criteria) {
-  const top = ranking.slice(0, 4);
   const metCount = criteria.filter((c) => c.met).length;
-  const phenotype = [
-    `Edad: ${patient.age} años`,
-    `Eosinófilos: ${patient.eosinophils} cel/µL`,
-    `IgE total: ${patient.ige} UI/mL`,
-    `SNOT-22: ${patient.snot22}`,
-    `NPS: ${patient.nps}/8`,
-    `Olfato: ${['normal', 'hiposmia', 'anosmia'][patient.anosmia]}`,
-    `Asma: ${patient.asthma ? 'sí' : 'no'}`,
-    `Alergia: ${patient.allergic ? 'sí' : 'no'}`,
-    `EREA / N-ERD: ${patient.nerd ? 'sí' : 'no'}`,
-    `Dermatitis atópica: ${patient.atopicDermatitis ? 'sí' : 'no'}`,
-    `Cirugías endoscópicas previas: ${patient.priorSurgeries}`,
-    `Ciclos de corticoides sistémicos/año: ${patient.scsCourses}`,
-    `Contraindicación a corticoides sistémicos: ${patient.scsContraindication ? 'sí' : 'no'}`,
-  ].join('; ');
+  const notMet = criteria.filter((c) => !c.met).map((c) => c.label).join(', ') || 'ninguno';
 
-  const ranked = top
-    .map((r, i) => `${i + 1}. ${NAMES[r.id]} (puntuación global ${Math.round(r.overall * 100)}/100)`)
-    .join('; ');
+  // Rasgos fenotípicos en lenguaje natural, solo los relevantes.
+  const traits = [];
+  if (patient.eosinophils >= 300) traits.push(`eosinofilia marcada (${patient.eosinophils}/µL)`);
+  else if (patient.eosinophils < 150) traits.push(`eosinofilia baja (${patient.eosinophils}/µL, perfil T2-low)`);
+  else traits.push(`eosinófilos ${patient.eosinophils}/µL`);
 
-  const criteriaText = criteria
-    .map((c) => `${c.label}: ${c.met ? 'sí' : 'no'}`)
-    .join('; ');
+  if (patient.allergic && patient.ige >= 100) traits.push(`alergia documentada con IgE elevada (${patient.ige} UI/mL)`);
+  else if (patient.ige < 30) traits.push(`IgE baja (${patient.ige} UI/mL)`);
+  else traits.push(`IgE ${patient.ige} UI/mL`);
 
-  return `Eres un especialista ORL experto en rinología y biológicos para poliposis nasal grave.
-Redacta una recomendación clínica en español de España, dirigida a otro otorrinolaringólogo, en 3-4 frases breves.
+  if (patient.asthma) traits.push('asma comórbida');
+  if (patient.nerd) traits.push('EREA / enfermedad respiratoria exacerbada por AINE');
+  if (patient.atopicDermatitis) traits.push('dermatitis atópica concomitante');
+  if (patient.anosmia === 2) traits.push('anosmia');
+  else if (patient.anosmia === 1) traits.push('hiposmia');
 
-FENOTIPO: ${phenotype}.
-CRITERIOS EPOS/EUFOREA 2023: ${criteriaText} (cumple ${metCount}/5).
-RANKING ALGORÍTMICO (basado en SUCRA de meta-análisis en red ajustado al fenotipo): ${ranked}.
+  traits.push(`SNOT-22 ${patient.snot22}`);
+  traits.push(`NPS ${patient.nps}/8`);
+  if (patient.priorSurgeries >= 2) traits.push(`${patient.priorSurgeries} cirugías endoscópicas previas`);
+  if (patient.scsCourses >= 2) traits.push(`${patient.scsCourses} ciclos/año de corticoides sistémicos`);
+  if (patient.scsContraindication) traits.push('contraindicación a corticoides sistémicos');
 
-Estructura tu respuesta así:
-- Frase 1: por qué el primer biológico es la primera elección en este fenotipo concreto (cita 1-2 rasgos clave del paciente).
-- Frase 2: por qué el segundo es alternativa razonable.
-- Frase 3: por qué los otros dos quedan en segundo plano (no descalifiques, contextualiza).
-- Frase 4: una alerta clínica relevante si la hay (criterios EUFOREA no cumplidos, dermatitis atópica que decanta dupilumab, EREA, T2-low, etc.).
+  const rankingDetail = ranking
+    .map((r, i) => {
+      const top = Object.entries(r.scores)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 2)
+        .map(([k]) => DOMAIN_LABEL[k])
+        .join(' y ');
+      return `${i + 1}º ${NAMES[r.id]} (${Math.round(r.overall * 100)}/100, destaca en ${top})`;
+    })
+    .join('\n');
 
-NO repitas el ranking. NO uses listas. NO añadas disclaimers. Tono profesional, directo, sin jerga innecesaria. Máximo 130 palabras en total.`;
+  return `Eres un otorrinolaringólogo experto en rinología y biológicos para poliposis nasal grave (CRSwNP), comentando un caso a un colega.
+
+PERFIL DEL PACIENTE
+${traits.join('; ')}.
+
+CRITERIOS EPOS/EUFOREA 2023
+Cumple ${metCount}/5. Criterios NO cumplidos: ${notMet}.
+
+RANKING DEL ALGORITMO (SUCRA de meta-análisis en red ajustado al fenotipo)
+${rankingDetail}
+
+TAREA
+Redacta UN SOLO PÁRRAFO de 110-140 palabras en español de España, dirigido a otro ORL. En ese párrafo:
+1. Justifica la primera elección anclando explícitamente en 1-2 rasgos del fenotipo (eosinofilia, IgE, dermatitis atópica, EREA, T2-low, etc.) y, cuando proceda, en su mecanismo de acción.
+2. Razona por qué el segundo biológico es alternativa válida (qué situación lo elegiría).
+3. Explica brevemente por qué los otros dos quedan por detrás en este caso concreto, sin descalificarlos.
+4. Si hay una alerta clínica relevante (criterios EUFOREA no cumplidos, perfil T2-low que limita anti-IL-5, dermatitis atópica que decanta dupilumab, EREA, IgE muy baja para omalizumab, eosinófilos muy bajos para mepolizumab), inclúyela al final del párrafo.
+
+REGLAS
+- Un único párrafo, fluido, sin listas ni viñetas.
+- No repitas literalmente el ranking ni cifras del SUCRA.
+- No añadas disclaimers ni recomiendes "consultar guías".
+- Tono profesional y directo, registro SEORL.
+- Si el caso NO cumple criterios EUFOREA (≥3/5), dilo con claridad.`;
 }
+
+const DOMAIN_LABEL = {
+  nps: 'reducción del pólipo',
+  snot22: 'calidad de vida',
+  smell: 'recuperación del olfato',
+  congestion: 'descongestión',
+  comorbidity: 'beneficio sistémico',
+};
 
 export default async (req) => {
   if (req.method !== 'POST') {
@@ -85,9 +113,9 @@ export default async (req) => {
     body: JSON.stringify({
       contents: [{ role: 'user', parts: [{ text: prompt }] }],
       generationConfig: {
-        temperature: 0.4,
-        topP: 0.9,
-        maxOutputTokens: 400,
+        temperature: 0.55,
+        topP: 0.92,
+        maxOutputTokens: 600,
       },
     }),
   });
