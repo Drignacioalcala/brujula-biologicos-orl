@@ -1,0 +1,814 @@
+ Biologics and immunotherapy
+
+ Mepolizumab for chronic rhinosinusitis with
+ nasal polyps: Treatment efficacy by comorbidity
+ and blood eosinophil count
+ Claus Bachert, MD, PhD,a,b,c Ana R. Sousa, PhD,d Joseph K. Han, MD,e Rodney J. Schlosser, MD,f Leigh J. Sowerby, MD,g
+ Claire Hopkins, DM (Oxon),h Jorge F. Maspero, MD, FCCP,i Steven G. Smith, PhD,j Oliver Kante, MSc,k
+ Despina E. Karidi-Andrioti, MSc,l Bhabita Mayer, MSc,m Robert H. Chan, MD,d Steve W. Yancey, MSc,m and
+ Adam M. Chaker, MDn                  Ghent, Belgium; Stockholm, Sweden; Guangzhou, China; Brentford and London, United Kingdom;
+ Norfolk, Va; Charleston, SC; London, Ontario, Canada; Buenos Aires, Argentina; Research Triangle Park, NC; and Munich, Germany
+
+
+ GRAPHICAL ABSTRACT
+
+
+
+
+From athe Upper Airways Research Laboratory and Department of Oto-Rhino-Laryngology,         employees of GSK and contributed to the design of the study, the analysis and interpre-
+  Ghent University and Ghent University Hospital, Ghent; bthe Division of ENT                tation of data, writing the manuscript, and the decision to submit the manuscript for
+  Diseases, CLINTEC, Karolinska Institute, University of Stockholm, Stockholm;               publication. Editorial support (in the form of writing assistance, including preparation
+  c
+    the First Affiliated Hospital, Sun Yat-sen University, International Airway Research     of the draft manuscript under the direction and guidance of the authors, collating and
+  Center, Guangzhou; dClinical Sciences, GSK R&D, Brentford; ethe Department of              incorporating authors’ comments for each draft, assembling tables and figures, gram-
+  Otolaryngology, Head & Neck Surgery, Eastern Virginia Medical School, Norfolk;             matical editing, and referencing) was provided by Katie Crossland, PhD, and Ciara
+  f
+    the Department of Otolaryngology-Head and Neck Surgery, Medical University of            Keogh, PhD, at Fishawack Indicia Ltd, part of Fishawack Health, UK, and was funded
+  South Carolina, Charleston; gthe Department of Otolaryngology-Head and Neck                by GSK.
+  Surgery, Western University, London, Ontario; hthe ENT Department, Guys and St           Disclosure of potential conflict of interest: C. Bachert reports advisory board membership
+  Thomas’s Hospital, and King’s College, London; ithe Allergy and Respiratory                and speaker fees for ALK, AstraZeneca, GlaxoSmithKline (GSK), and Mylan. J. K.
+  Research Unit, Fundaci    on CIDEA, Buenos Aires; jthe Respiratory Therapeutic            Han has received consultancy fees from Sanofi Genzyme, Regeneron, Genentech,
+  Area Unit, GSK, Research Triangle Park; kGlobal Clinical Sciences and Delivery,            AstraZeneca, GSK, and Gossamer Bio. R. J. Schlosser has received consultancy fees
+  GSK, Munich; lGlobal Clinical Sciences and Delivery and mClinical Statistics,              from Sanofi Genzyme, Regeneron, Genentech, AstraZeneca, GSK, Healthy Humming,
+  GSK, Brentford; and nthe Technical University of Munich, TUM School of                     Optinose, Stryker, and Medtronic. L. J. Sowerby has received research grants from
+  Medicine, Klinikum rechts der Isar, Department of Otolaryngology and Center for            AstraZeneca, Roche, GSK, and Optinose, consultancy fees from Olympus and
+  Allergy and Environment, Munich.                                                           Freudenberg Medical, and speaker honoraria or advisory board fees from Mylan,
+This study was funded by GlaxoSmithKline (GSK ID: 205687; ClinicalTrials.gov:                Medtronic, Sanofi, and GSK. C. Hopkins has received advisory board fees from Sanofi,
+  NCT03085797). A.R.S., S.G.S., O.K., D.E.K.-A., B.M., R.H.C., and S.W.Y. are                AstraZeneca, Olympus, and GSK. J. F. Maspero has received consultancy fees from
+
+
+                                                                                                                                                                               1711
+1712 BACHERT ET AL                                                                                                                                J ALLERGY CLIN IMMUNOL
+                                                                                                                                                                  MAY 2022
+
+
+
+
+Background: In the phase III SYNAPSE study, mepolizumab
+reduced nasal polyp (NP) size and nasal obstruction in chronic                              Abbreviations used
+rhinosinusitis with NP.                                                                       ACQ-5: 5-item Asthma Control Questionnaire
+Objective: We sought to assess the efficacy of mepolizumab in                                     AE: Adverse event
+patients from SYNAPSE grouped by comorbid asthma,                                             AERD: Aspirin-exacerbated respiratory disease
+                                                                                            CRSwNP: Chronic rhinosinusitis with nasal polyps
+aspirin-exacerbated respiratory disease (AERD), and baseline
+                                                                                                 ITT: Intent-to-treat
+blood eosinophil count (BEC).                                                                 MCID: Minimum clinically important difference
+Methods: SYNAPSE, a randomized, double-blind, 52-week                                             NP: Nasal polyp
+study (NCT03085797), included patients with severe bilateral                                      SC: Subcutaneous
+chronic rhinosinusitis with NP eligible for surgery despite                                     SCS: Systemic corticosteroid
+intranasal corticosteroid treatment. Patients received 4-weekly                             SNOT-22: 22-item Sino-Nasal Outcomes Test
+subcutaneous mepolizumab 100 mg or placebo plus standard of                                     SoC: Standard of care
+care for 52 weeks. Coprimary end points were change in total                                    VAS: Visual analog scale
+endoscopic NP score (week 52) and nasal obstruction visual
+analog scale score (weeks 49-52). Subgroup analyses by
+comorbid asthma and AERD status, and post hoc by BEC, were
+exploratory.
+Results: Analyses included 407 patients (289 with asthma;                               proinflammatory cytokines such as IL-5, IL-4, and IL-13 along-
+108 with AERD; 371 and 278 with BEC counts _     >150 or _>300                          side high levels of eosinophils in the surrounding tissue.3,4 Symp-
+cells/mL, respectively). The proportion of patients with greater                        toms mainly include nasal blockage, loss of sense of smell,
+than or equal to 1-point improvement from baseline in NP score                          postnasal drip, facial pressure, and rhinorrhea.3,5-7
+was higher with mepolizumab versus placebo across comorbid                                 Standard of care (SoC) treatments include topical intranasal
+diseases (asthma: 52.9% vs 29.5%; AERD: 51.1% vs 20.6%)                                 corticosteroids, short courses of systemic corticosteroids (SCS),
+and baseline BEC subgroups (<150 cells/mL: 55.0% vs 31.3%;                              and endoscopic sinus surgery.3,6,8 These treatment options may
+_150 cells/mL: 49.5% vs 28.1%; <300 cells/mL: 50.7% vs 29.0%;
+>                                                                                       offer short-term symptom relief; however, the use of SCS is
+_300 cells/mL: 50.4% vs 28.1%). A similar trend was observed
+>                                                                                       associated with significant adverse events (AEs) and although
+in patients without comorbid asthma or AERD. More patients                              endoscopic sinus surgery is successful in up to 85% of patients
+had more than 3-point improvement in nasal obstruction VAS                              with CRS, patients with severe CRSwNP who have had endonasal
+score with mepolizumab versus placebo across comorbid                                   surgery experience a 40% recurrence rate over 3 years and up to
+subgroups.                                                                              80% over 12 years.9-11 As such, additional treatment options are
+Conclusions: Mepolizumab reduced polyp size and nasal                                   needed.
+obstruction in chronic rhinosinusitis with NP regardless of the                            Patients with severe CRSwNP and comorbid asthma,
+presence of comorbid asthma or AERD. (J Allergy Clin                                    aspirin-exacerbated respiratory disease (AERD), and patients
+Immunol 2022;149:1711-21.)                                                              who present with eosinophilic infiltration experience the greatest
+                                                                                        burden of disease. Of significance, these patients experience
+Key words: Asthma, blood eosinophils, chronic rhinosinusitis,                           greater numbers of sinus surgeries, high corticosteroid use, and
+biologic therapy, mepolizumab, nasal polyps, AERD, type 2 inflam-                       long-term disease recurrence with SoC than patients without
+mation, sinus surgery                                                                   these disease characteristics.9,11-14 Importantly, patients with
+                                                                                        asthma and AERD represent 23% to 45%15-17 and 10% to
+   Chronic rhinosinusitis with nasal polyps (CRSwNP) is a                               16%12,16 of patients with severe CRSwNP, respectively. The
+clinical diagnosis that affects approximately 4% of the adult                           European Forum for Research and Education in Allergy and
+population in postindustrialized countries and is one of the most                       Airway Diseases (EUFOREA) suggests that patients with severe
+severe forms of chronic rhinosinusitis associated with a                                CRSwNP and comorbid asthma or patients with a blood
+significantly impaired health-related quality of life.1,2 In                            eosinophil count >300 cells/mL are more likely to present with
+CRSwNP, chronic inflammation is primarily driven by type 2                              type 2 inflammation, and as such may benefit from type 2 biologic
+
+
+
+ AstraZeneca, Sanofi, and Teva; speaker honoraria from GSK, Menarini, Novartis, and     Data sharing statement: Anonymized individual participant data and study documents for
+ Uriach; and research grants from Novartis. A. R. Sousa, S. G. Smith, O. Kante, D. E.      the parent study can be requested for further research from www.
+ Karidi-Andrioti, B. Mayer, R. H. Chan, and S. W. Yancey are employees of GSK and          clinicalstudydatarequest.com.
+ own stocks/shares. A. M. Chaker has received research/clinical study grants via        Received for publication June 27, 2021; revised October 12, 2021; accepted for publica-
+ Technical University Munich (TUM) from ALK Abello, AstraZeneca, Bencard/                  tion October 28, 2021.
+ Allergen Therapeutics, ASIT Biotech, LETI, Roche, Sanofi Genzyme, and EIT Health;      Available online January 7, 2022.
+ speaker honoraria via TUM from Allergopharma, ALK Abello, AstraZeneca, Bencard/        Corresponding author: Adam M. Chaker, MD, Technical University of Munich, TUM
+ Allergen Therapeutics, ASIT Biotech, Immunotek, Lofarma, GSK, Novartis, LETI,             School of Medicine, Klinikum rechts der Isar, Department of Otolaryngology and Cen-
+ Roche, Regeneron, Sanofi Genzyme, Zeller, and the European Institute of Technology;       ter for Allergy and Environment (ZAUM), Ismaninger Str. 22, Munich, Germany.
+ advisory board fees via TUM from Allergopharma, ALK Abello, AstraZeneca,                  E-mail: adam.chaker@tum.de.
+ Bencard/Allergen Therapeutics, GSK, Novartis, Regeneron, and Sanofi Genzyme;                The CrossMark symbol notifies online readers when updates have been made to the
+ data safety monitoring board fees from Immunotek and Lofarma; is a board member of          article such as errata or minor corrections
+ the German Allergy and Immunology Society, the German Society of Applied               0091-6749
+ Allergology, and the Immunotherapy Interest Group for the European Academy of          Ó 2022 The Authors. Published by Elsevier Inc. on behalf of the American Academy of
+ Allergy and Clinical Immunology; the past Chair for the Allergy and Clinical              Allergy, Asthma & Immunology. This is an open access article under the CC BY li-
+ Immunology Board; and a past board member of the Biologics Working Group for the          cense (http://creativecommons.org/licenses/by/4.0/).
+ European Academy of Allergy and Clinical Immunology.                                   https://doi.org/10.1016/j.jaci.2021.10.040
+J ALLERGY CLIN IMMUNOL                                                                                                                   BACHERT ET AL 1713
+VOLUME 149, NUMBER 5
+
+
+
+
+therapy (eg, anti–IL-4/receptor alpha and anti–IL-5/receptor                       End points and assessments
+alpha).18 In addition, previous mepolizumab trials in severe                          The coprimary end points were change from baseline in total endoscopic
+eosinophilic asthma suggest that patients with a blood eosinophil                  NP score at week 52 and change from baseline in nasal obstruction VAS score
+count _ >150 cells/mL at baseline were more likely to benefit from                 during weeks 49 to 52. Total endoscopic NP score was the sum of left and right
+mepolizumab therapy.19,20                                                          nostril scores ranging from 0 (no polyps) to 4 (large polyps causing complete
+                                                                                   obstruction of the inferior meatus), giving a total score of up to 8. VAS scores
+   Mepolizumab is a targeted, humanized anti–IL-5 mAb that
+                                                                                   ranged from 0 to 10. As a minimum clinically important difference (MCID)
+prevents IL-5 from binding to its receptor on eosinophils, and
+                                                                                   has not been established for total endoscopic NP score, we reported the
+selectively inhibits eosinophilic inflammation.21 Mepolizumab                      proportion of patients with either a 1-point or higher or a 2-point or higher
+(100 mg administered subcutaneously [SC]) is approved for the                      improvement in total endoscopic NP score, in line with the POLYP1 and
+treatment of severe eosinophilic asthma and CRSwNP and at a                        POLYP2 phase III clinical studies.18 Likewise, for nasal obstruction VAS
+dose of 300 mg for patients with eosinophilic granulomatosis                       score, we reported the proportion of patients with more than 3-point improve-
+with polyangiitis and hypereosinophilic syndrome in multiple                       ment in nasal obstruction VAS score, as previous studies have shown that
+countries worldwide.22,23                                                          improvement in VAS scores is associated with meaningful improvement in
+   The phase III SYNAPSE study demonstrated that mepolizu-                         both quality of life and symptom scores.26
+mab reduced nasal polyp (NP) size and ameliorated symptoms of                         The key secondary end point was time-to-first actual nasal surgery up to
+                                                                                   week 52. Nasal surgery was defined as any procedure involving instruments
+nasal obstruction, decreased actual nasal surgery rates and SCS
+                                                                                   resulting in the incision of the paranasal sinuses and removal of polyp tissue
+use, improved sinonasal symptoms in patients with severe
+                                                                                   from the nasal cavity (polypectomy) and the sinuses. Full nasal surgery
+CRSwNP, and had an acceptable safety profile.24 In addition,                       definitions have been published previously.24 Other secondary end points
+initial results from SYNAPSE suggested that mepolizumab                            included the proportion of patients requiring SCS for NP up to week 52,
+was efficacious in improving nasal obstruction in patients                         and change from baseline in overall symptoms VAS score during weeks 49
+with a high baseline blood eosinophil count,24 in line with                        to 52, 22-item Sino-Nasal Outcomes Test (SNOT-22) total score at week 52,
+mepolizumab’s IL-5 binding and eosinophil-blocking                                 composite VAS score (combining scores for nasal obstruction, nasal
+mechanism of action.21 Similar observations have been reported                     discharge, mucus in the throat, and loss of sense of smell) during weeks 49
+in patients with asthma and chronic obstructive pulmonary                          to 52, and VAS score for loss of sense of smell during weeks 49 to 52.
+disease.19,25 The aim of this exploratory analysis was to assess                   SNOT-22 scores ranged from 0 to 110. Change from baseline in SNOT-22
+                                                                                   score of more than 9 points by week 52 is reported (MCID, -8.9 points27).
+the efficacy of mepolizumab compared with placebo in adults
+                                                                                   In patients with comorbid asthma, post hoc analyses included the annual
+with severe, bilateral CRSwNP requiring revision surgery,
+                                                                                   rate of clinically significant exacerbations, change from baseline in 5-item
+stratified by the presence of comorbid asthma, comorbid                            Asthma Control Questionnaire (ACQ-5) score at week 52, and the proportion
+AERD, and baseline blood eosinophil count.                                         of patients with a greater than or equal to 0.5 reduction in ACQ-5 score
+                                                                                   (MCID).28 A clinically significant asthma exacerbation was defined as a wors-
+                                                                                   ening of asthma requiring SCS for 3 or more days or a single intramuscular
+                                                                                   corticosteroid dose, an emergency department visit, and/or hospitalization.
+METHODS                                                                               Safety assessments included monitoring for AE and serious AEs
+Study design                                                                       throughout the study.
+   SYNAPSE was a phase III, randomized, double-blind, placebo-controlled,
+parallel-group study (GlaxoSmithKline ID: 205687; NCT03085797). Full
+details of this study and eligibility criteria have been published previously.24   Statistical analysis
+Briefly, following a 4-week run-in period, patients were randomized 1:1 to            End points were assessed in patients who were randomized and received 1
+treatment with mepolizumab 100 mg SC or placebo every 4 weeks for 52               or more dose of the study drug (intent-to-treat [ITT] population) grouped
+weeks. All patients received SoC throughout the study, consisting of daily         according to the presence of comorbid asthma (with/without) or comorbid
+mometasone furoate nasal spray, and saline nasal irrigations and short courses     AERD (with/without). The presence of a comorbidity was determined from
+of SCS and/or antibiotics, as required. The study was conducted in accordance      the patient’s medical history, as reported on their electronic case report form.
+with the ethical principles of the Declaration of Helsinki, the International      End points were also assessed within the baseline blood eosinophil count
+Conference on Harmonization Good Clinical Practice guidelines, and the             thresholds established for severe asthma (<150 or _     >150 cells/mL; <300 or
+applicable country-specific regulatory requirements. All patients provided         >300 cells/mL), and according to the categories of _
+                                                                                   _                                                   <300, >300 to _<500, >500 to
+written informed consent before any study-related activities. The study was        <700, or >700 cells/mL.20,29
+                                                                                   _
+approved by local ethics review boards of the participating sites. The protocol       Statistical analyses for this study have been described in detail previously.24
+is available at https://www.gsk-studyregister.com/ (GlaxoSmithKline ID:            Briefly, all data reported up to week 52 were included in the analysis,
+205687).                                                                           regardless of treatment discontinuation. Patients who underwent nasal surgery
+                                                                                   before week 52, or who withdrew from the study early or had missing data for
+                                                                                   any other reason, were assigned their worst observed score before the event
+Patients                                                                           (surgery/study withdrawal/missing visit) for all subsequent visits.24 Use of
+   Eligible patients were 18 years or older, with recurrent, severe bilateral      SCS during the treatment period was considered part of SoC, so observed
+NP symptoms (nasal obstruction visual analog scale [VAS] symptom score             scores following SCS use were included in the analyses.
+of >5 out of 10), eligible for repeat nasal surgery (overall VAS symptom              Analyses by baseline blood eosinophil thresholds (<150 or _    >150 cells/mL;
+score >7 out of 8 and an endoscopic NP score of _ >5 of 8 and with a minimum       <300 or _>300 cells/mL) were performed post hoc. For patients with comorbid
+score of 2 in each nasal cavity), despite SoC. Patients must also have had 1 or    asthma, post hoc analyses included the annual rate of clinically significant
+more nasal surgery (any procedure involving instruments with resulting             exacerbations, and the proportion of patients with a greater than or equal to
+polypectomy) in the previous 10 years as well as stable maintenance therapy        0.5 reduction in ACQ-5 score (MCID).
+for 8 or more weeks before screening, and displayed symptoms of CRS for at            As described by Han et al24 for the coprimary end points, VAS scores, and
+least 12 weeks before screening (nasal blockage/obstruction/congestion or          SNOT-22 scores, the nonparametric Wilcoxon rank-sum test was used to
+nasal discharge [anterior/posterior nasal drip], with _  >1 of the following       assess the difference in change from baseline scores between treatment
+additional symptoms: nasal discharge, facial pain/pressure, or reduction/loss      groups.24 Time-to-first nasal surgery was analyzed using a Cox proportional
+of sense of smell).                                                                hazards model. The proportion of patients requiring SCS for NP was analyzed
+1714 BACHERT ET AL                                                                                                                                                   J ALLERGY CLIN IMMUNOL
+                                                                                                                                                                                     MAY 2022
+
+
+
+
+TABLE I. Baseline demographic and clinical characteristics for patients with or without comorbid asthma or with or without
+comorbid AERD
+                                                                  Comorbid asthma                                                                    Comorbid AERD
+
+                                                    With                                     Without                                 With                                      Without
+
+                                       Placebo                Mepo              Placebo                   Mepo           Placebo               Mepo                Placebo                  Mepo
+Characteristic                        (n 5 149)             (n 5 140)           (n 5 52)                 (n 5 66)        (n 5 63)             (n 5 45)            (n 5 138)               (n 5 161)
+
+Age (y), mean 6 SD                   48.7 6 12.2           48.5 6 13.3        49.4 6 13.2              48.9 6 14.3    48.6 6 11.3           46.8 6 12.2         49.0 6 13.0              49.1 6 13.9
+Sex: female, n (%)                      65 (43.6)             48 (34.3)          11 (21.2)                19 (28.8)      28 (44.4)             18 (40.0)           48 (34.8)                49 (30.4)
+Ethnicity, n (%)
+  Hispanic/Latino                         20 (13.4)           14 (10.0)              9 (17.3)          10 (15.2)             4 (6.3)              2 (4.4)           25 (18.1)           22 (13.7)
+  Not Hispanic/Latino                    129 (86.6)         126 (90.0)             43 (82.7)           56 (84.8)            59 (93.7)           43 (95.6)          113 (81.9)          139 (86.3)
+Race, n (%)
+  Central/South Asian Heritage             1 (0.7)             2 (1.4)                0                  0                   1 (1.6)               0                   0                 2 (1.2)
+  East Asian Heritage                      7 (4.7)             5 (3.6)                0                 1 (1.5)              4 (6.3)              1 (2.2)            3 (2.2)             5 (3.1)
+  South East Asian Heritage                 0                  1 (0.7)             1 1.9)                0                    0                    0                 1 (0.7)             1 (0.6)
+  Black or African American                3 (2.0)             5 (3.6)               1 (1.9)             0                   1 (1.6)              1 (2.2)            3 (2.2)             4 (2.5)
+  Arabic/North African Heritage            3 (2.0)             1 (0.7)               1 (1.9)            1 (1.5)              2 (3.2)               0                 2 (1.4)             2 (1.2)
+  White/Caucasian/ European              134 (89.9)         126 (90.0)             49 (94.2)           64 (97.0)            55 (87.3)           43 (95.6)          128 (92.6)          147 (91.3)
+      Heritage
+  Multiple                                 1 (0.7)              0                     0                  0                    0                    0                 1 (0.7)              0
+BMI (kg/m2), mean 6 SD                 28.3 6 5.7          28.0 6 5.2           27.9 6 4.8          28.4 6 5.4           28.8 6 5.6           28.0 6 5.6          27.9 6 5.4         28.2 6 5.2
+Duration of NP (y), mean 6 SD          11.4 6 7.6          11.8 6 8.0           11.6 6 10.0         10.5 6 9.5           13.6 6 8.7           11.8 6 8.5          10.5 6 7.9         11.2 6 8.6
+Previous nasal surgery, n (%)
+  0                                        0 (0)               0 (0)                 0 (0)               0(0)                0 (0)                 0(0)              0 (0)               0 (0)
+  >1
+  _                                      149 (100.0)        140 (100.0)            52 (100.0)          66 (100.0)           63 (100.0)          45 (100.0)         138 (100.0)         161 (100.0)
+  >2
+  _                                       95 (63.8)           71 (50.7)            25 (48.1)           27 (40.9)            44 (69.8)           24 (53.3)           76 (55.1)           74 (45.9)
+  >3
+  _                                       59 (39.6)           37 (26.4)            14 (26.9)           14 (21.2)            31 (49.2)           14 (31.1)           42 (30.4)           37 (23.0)
+  >4
+  _                                       28 (18.8)           18 (12.9)            10 (19.2)            5 (7.6)             21 (33.3)             4 (8.8)           17 (12.3)           20 (12.4)
+  >5
+  _                                       19 (12.8)            8 (5.7)               7 (13.5)           3 (4.5)             15 (23.8)             3 (6.7)           11 (8.0)             8 (5.0)
+Time since last NP surgery (y),    3.8 6 2.6 (0.3-9.9) 4.2 6 2.8 (0.0-10.3) 3.9 6 2.8 (0.5-9.5) 4.2 6 2.4 (0.7-10.7) 3.8 6 2.8 (0.5-9.9) 4.1 6 2.6 (0.4-9.7) 3.9 6 2.6 (0.3-9.8) 4.2 6 2.7 (0.0-10.7)
+   mean 6 SD (range)*
+OCS courses for NP in previous 12
+       mo, n (%)
+  0                                       75 (50.3)           58 (41.4)            35 (67.3)           42 (63.6)            33 (52.4)           21 (46.7)           77 (55.8)           79 (49.1)
+  >1
+  _                                       74 (49.7)           82 (58.6)            17 (32.7)           24 (36.4)            30 (47.6)           24 (53.3)           61 (44.2)           82 (50.9)
+  >2
+  _                                       35 (23.5)           33 (23.6)              9 (17.3)           9 (13.6)            16 (25.4)           10 (22.2)           28 (20.3)           32 (19.9)
+Total endoscopic NP score,               6.0 (0-8)           5.0 (2-8)             5.0 (2-8)          5.0 (2-8)            5.0 (2-8)            6.0 (4-8)          6.0 (0-8)           5.0 (2-8)
+   median (range) (scale: 0-8)
+Nasal obstruction VAS score,             9.2 (6.7-10.0)      9.1 (6.8-10.0)        8.9 (5.3-10.0)     8.9 (6.5-10.0)       9.4 (5.3-10.0)       9.2 (6.8, 10.0)    9.1 (6.3-10.0)      9.0 (6.5-10.0)
+   median (range) (scale: 0-10)
+Overall VAS symptom score,               9.3 (7.3-10.0)      9.2 (7.2-10.0)        9.0 (7.2-10.0)     9.0 (7.5-10.0)       9.4 (7.3-10.0)       9.4 (7.5-10.0)     9.1 (7.2-10.0)      9.1 (7.2-10.0)
+   median (range) (scale: 0-10)
+Nasal symptom VAS compositeà             9.3 (6.0-10.0)      9.2 (6.9-10.0)        9.1 (6.6-10.0)     9.0 (4.9-10.0)       9.4 (6.0-10.0)       9.2 (7.2-10.0)     9.1 (6.6-10.0)      9.0 (4.9-10.0)
+   score, median (range) (scale:
+   0-10)
+Loss of sense of smell VAS score,       10.0 (6.7-10.0)     10.0 (0.9-10.0)        9.7 (7.4-10.0)     9.8 (7.7-10.0)      10.0 (8.8-10.0)     10.0 (7.7-10.0)      9.9 (6.7- 10.0)     9.9 (0.9-10.0)
+   median (range) (scale: 0-10)
+SNOT-22 total score, median             68.0 (21-107)       67.0 (28-105)        56.5 (19-110)       56.0 (17-88)         72.0 (38-101)       67.0 (28-98)        61.0 (19-110)       62.0 (17-105)
+   (range)
+Patients with asthma, n (%)              149 (100.0)        140 (100.0)               0                  0                  60 (95.2)           43 (95.6)           89 (64.5)           97 (60.2)
+Baseline ACQ-5 score,                  2.15 6 1.4          2.38 6 1.4                NA                 NA                   NA                   NA                  NA                 NA
+   mean 6 SD
+Patients with AERD, n (%)                 60 (40.3)           43 (30.7)              3 (5.8)            2 (3.0)             63 (100.0)          45 (100.0)             0                  0
+Blood eosinophil count (cells/mL),       430 (0.769)        460 (0.747)           310 (0.747)         270 (0.641)         460 (0.819)          420 (0.874)         370 (0.749)         380 (0.720)
+   geometric mean (SD logs)
+
+BMI, Body mass index; mepo, mepolizumab 100 mg subcutaneous; OCS, oral corticosteroid.
+*Twenty-five percent of patients in the ITT population had partial dates for previous surgeries. Where partial dates were available, missing day was assumed as the last day of the
+month and missing month as December.
+ Higher scores indicate greater disease severity or worse quality of life.
+àCombining scores for nasal obstruction, nasal discharge, mucus in the throat, and loss of sense of smell.
+
+
+
+using a logistic regression model. To control for multiplicity arising from mul-                         patients had a blood eosinophil count _  >150 cells/mL and 278
+tiple secondary end points, a closed testing procedure was used according to a                           patients had _ >300 cells/mL. The number of patients in each
+predefined hierarchy: time-to-first nasal surgery, overall VAS symptom score,                            subgroup and the overlap between subgroups is presented in
+SNOT-22 total score, SCS for NP use, composite VAS score, and loss of sense
+                                                                                                         Fig E1 in this article’s Online Repository at www.jacionline.org.
+of smell VAS symptom score end points.
+                                                                                                            At baseline, in patients with comorbid asthma, higher
+                                                                                                         SNOT-22 scores, blood eosinophil counts, number of previous
+                                                                                                         surgeries, and proportion of females were observed compared
+RESULTS                                                                                                  with patients without comorbid asthma; a similar trend was
+Patient population                                                                                       observed in patients with versus without comorbid AERD
+   Of the 407 patients included in the ITT population                                                    (Table I). In addition, patients with comorbid asthma had more
+(mepolizumab, n 5 206; placebo, n 5 201), 289 had comorbid                                               oral corticosteroid courses for NP in the 12 months before base-
+asthma and 108 had comorbid AERD; of those with comorbid                                                 line than patients without comorbid asthma (Table I). Patients
+asthma, 103 patients also had comorbid AERD. At baseline, 371                                            generally had similar baseline demographic and disease
+J ALLERGY CLIN IMMUNOL                                                                                                                                             BACHERT ET AL 1715
+VOLUME 149, NUMBER 5
+
+
+
+
+TABLE II. Baseline demographic and clinical characteristics by baseline blood eosinophil count
+                                                                                               Baseline blood eosinophil count (cells/mL)
+
+                                                    <150                                     _150
+                                                                                             >                                         <300                                    _300
+                                                                                                                                                                               >
+
+                                       Placebo                Mepo              Placebo                Mepo               Placebo                Mepo             Placebo                Mepo
+Characteristic                         (n 5 16)              (n 5 20)          (n 5 185)             (n 5 186)            (n 5 62)              (n 5 67)         (n 5 139)             (n 5 139)
+
+Age (y), mean 6 SD                   50.6 6 14.4           49.2 6 13.2        48.7 6 12.3           48.6 6 13.6         50.2 6 12.0           49.3 6 12.7       48.3 6 12.7           48.3 6 14.0
+Sex: female, n (%)                       5 (31.3)             11 (55.0)          71 (38.4)             56 (30.1)           20 (32.3)             26 (38.8)         56 (40.3)             41 (29.5)
+Ethnicity, n (%)
+  Hispanic/Latino                         3 (18.8)            3 (15.0)           26 (14.1)           21 (11.3)             9 (14.5)             6 (9.0)           20 (14.4)           18 (12.9)
+  Not Hispanic/Latino                    13 (81.3)           17 (85.0)          159 (85.9)          165 (88.7)            53 (85.5)            61 (91.0)         119 (85.6)          121 (87.1)
+Race, n (%)
+  Central/South Asian Heritage             0                   0                  1 (0.5)             2 (1.1)               0                    0                  1 (0.7)             2 (1.4)
+  East Asian Heritage                      0                  1 (5.0)             7 (3.8)             5 (2.7)              1 (1.6)              1 (1.5)             6 (4.3)             5 (3.6)
+  South East Asian Heritage                0                   0                  1 (0.5)            1 0.5)                 0                    0                  1 (0.7)             1 (0.7)
+  Black or African American                0                   0                  4 (2.2)             5 (2.7)               0                   2 (3.0)           4 2.9)                3 (2.2)
+  Arabic/North African Heritage            0                   0                  4 (2.2)             2 (1.1)              1 (1.6)              1 (1.5)             3 (2.2)             1 (0.7)
+  White/Caucasian/ European              15 (93.8)           19 (95.0)          168 (90.8)          171 (91.9)            59 (95.2)            63 (94.0)         124 (89.2)          127 (91.4)
+      Heritage
+  Multiple                                1 (6.3)              0                   0                   0                   1 (1.6)               0                   0                   0
+BMI (kg/m2), mean 6 SD                26.6 6 3.1          25.3 6 5.0          28.3 6 5.6          28.5 6 5.2           27.3 6 5.7           27.3 6 4.9          28.5 6 5.3          28.5 6 5.4
+Duration of NP (y), mean 6 SD         12.0 6 10.4         11.3 6 10.4         11.4 6 8.1          11.4 6 8.3           12.7 6 9.0          12.1 6 10.2          10.9 6 7.9          11.0 6 7.6
+Previous nasal surgery, n (%)
+  0                                       0 (0)               0 (0)               0 (0)               0 (0)                0 (0)                0 (0)               0 (0)               0 (0)
+  >1
+  _                                      16 (100.0)          20 (100.0)         185 (100.0)         186 (100.0)           62 (100.0)           67 (100.0)        139 (100.0)         139 (100.0)
+  >2
+  _                                       9 (56.3)           11 (55.0)          111 (60)             87 (46.8)            38 (61.3)            33 (49.3)          82 (59.0)           65 (46.8)
+  >3
+  _                                       3 (18.8)            5 (25.0)           70 (38)             46 (24.7)            21 (33.9)            16 (23.9)          62 (44.6)           35 (25.2)
+  >4
+  _                                       3 (18.8)            2 (10.0)           35 (19)             22 (11.8)            12 (19.4)             8 (11.9)          26 (18.7)           16 (11.5)
+  >5
+  _                                       2 (12.5)            1 (5.0)            24 (13)             10 (5.4)              8 (12.9)             4 (6.0)           18 (12.9)             7 (5.0)
+Time since last NP surgery (y),   4.1 6 2.7 (1.0-9.9) 4.1 6 2.6 (0.5-8.8) 3.8 6 2.7 (0.3-9.8) 4.2 6 2.7 (0.0-10.7) 4.4 6 2.8 (0.3-9.9) 4.3 6 2.6 (0.5-10.7) 3.6 6 2.6 (0.5-9.7) 4.2 6 2.7 (0.0-10.3)
+   mean 6 SD (range)*
+OCS courses for NP in previous 12
+       mo, n (%)
+  0                                      10 (62.5)           12 (60.0)          100 (54.1)           88 (47.3)            41 (66.1)            40 (59.7)          69 (49.6)           60 (43.2)
+  >1
+  _                                       6 (37.5)            8 (40.0)           85 (45.9)           98 (52.7)            21 (33.9)            27 (40.3)          70 (50.4)           79 (56.8)
+  >2
+  _                                       3 (18.8)            3 (15.0)           41 (22.2)           39 (21.0)            10 (16.1)             9 (13.4)          34 (24.5)           33 (23.7)
+Total endoscopic NP score,              5.5 (2-7)           5.0 (2-8)           6.0 (0-8)           5.0 (2-8)            5.0 (2-8)            5.0 (2-8)           6.0 (0-8)           5.0 (2-8)
+   median (range) (scale: 0-8)
+Nasal obstruction VAS score,            9.0 (7.7-10.0)      9.3 (6.8-10.0)      9.2 (5.3-10.0)      9.0 (6.5-10.0)       8.9 (7.0-10.0)       9.0 (6.8-10.0)      9.2 (5.3-10.0)      9.0 (6.5-10.0)
+   median (range) (scale: 0-10)
+Overall VAS symptom score,              9.0 (8.3-10.0)      9.2 (7.5-10.0)      9.2 (7.2-10.0)      9.1 (7.2-10.0)       9.0 (7.3-10.0)       9.2 (7.5-10.0)      9.3 (7.2-10.0)      9.1 (7.2-10.0)
+   median (range) (scale: 0-10)
+Nasal symptom VAS compositeà            9.0 (7.9-10.0)      9.3 (7.5-10.0)      9.2 (6.0-10.0)      9.0 (4.9-10.0)       9.1 (6.0-10.0)       9.1 (6.9-10.0)      9.3 (6.4-10.0)      9.1 (4.9-10.0)
+   score, median (range)
+   (scale: 0-10)
+Loss of sense of smell VAS score,       9.7 (8.3-10.0)      9.9 (8.5-10.0)     10.0 (6.7-10.0)     10.0 (0.9-10.0)      10.0 (8.0-10.0)       9.9 (0.9-10.0)     10.0 (6.7-10.0)     10.0 (7.2-10.0)
+   median (range) (scale: 0-10)
+SNOT-22 total score, median            65.0 (19-92)        62.0 (33-86)        64.0 (21-110)       65.0 (17-105)        64.0 (19-110)          60 (28-100)       64.5 (21-107)       66.0 (17-105)
+   (range)
+Patients with asthma, n (%)               9 (56.3)            7 (35.0)          140 (75.7)          133 (71.5)            41 (66.1)            33 (49.3)         108 (77.7)          107 (77.0)
+Patients with AERD, n (%)                 3 (18.8)            5 (25.0)           60 (32.4)           40 (21.5)            17 (27.4)            10 (14.9)          46 (33.1)           35 (25.2)
+
+BMI, Body mass index; mepo, mepolizumab 100 mg subcutaneous; OCS, oral corticosteroid.
+*Twenty-five percent of patients in the ITT population had partial dates for previous surgeries. Where partial dates were available, missing day was assumed as the last day of the
+month and missing month as December.
+ Higher scores indicate greater disease severity or worse quality of life.
+àCombining scores for nasal obstruction, nasal discharge, mucus in the throat, and loss of sense of smell.
+
+
+characteristics regardless of blood eosinophil count; however, a                                      patients without these comorbidities also saw greater than or
+higher proportion of patients with baseline blood eosinophil                                          equal to 1-point improvement from baseline in total endoscopic
+counts _
+       >150 cells/mL or _ >300 cells/mL had comorbid asthma or                                        NP score when treated with mepolizumab versus placebo (Fig
+comorbid AERD compared with those who had baseline blood                                              1, A and B). A similar trend was observed for patients with a
+eosinophil counts <150 cells/mL or <300 cells/mL, respectively                                        greater than or equal to 2-point improvement from baseline in to-
+(Table II).                                                                                           tal endoscopic NP score at week 52 (Fig 1, A and B). For patients
+                                                                                                      with a baseline blood eosinophil count of _
+                                                                                                                                                >150 cells/mL or _>300
+                                                                                                      cells/mL, more patients had greater than or equal to 1-point
+Coprimary end points                                                                                  improvement from baseline in total endoscopic NP score at
+   In the ITT population, more patients had greater than or equal                                     week 52 with mepolizumab treatment versus placebo (49.5%,
+to 1-point improvement from baseline in total endoscopic NP                                           n 5 92 of 186 vs 28.1%, n 5 52 of 185 and 50.4%, n 5 70 of
+score at week 52 with mepolizumab (50.5%, n 5 104 of 206)                                             139 and 28.1%, n 5 39 of 139, respectively; Fig 1, C and D); a
+versus placebo (28.4%, n 5 57 of 201; P < .0001).24 This benefit                                      similar trend was observed in patients with greater than or equal
+of mepolizumab relative to placebo was observed across both co-                                       to 2-point improvement from baseline in total endoscopic NP
+morbidities: comorbid asthma (52.9%, n 5 74 of 140 vs 29.5%,                                          score at week 52 (Fig 1, C and D). These outcomes were similar
+n 5 44 of 149) (Fig 1, A); comorbid AERD (51.1%, n 5 23 of                                            in patients with blood eosinophil counts <150 cells/mL and <300
+45 vs 20.6%, n 5 13 of 63) (Fig 1, B). Similar percentages of                                         cells/mL (Fig 1, C and D).
+1716 BACHERT ET AL                                                                                                         J ALLERGY CLIN IMMUNOL
+                                                                                                                                           MAY 2022
+
+
+
+
+                    FIG 1. Proportion of patients with 1-point or more or 2-point or more improvement from baseline in total
+                    endoscopic NP score at week 52 for patients by (A and B) comorbidity and (C and D) baseline blood
+                    eosinophil count. *Difference in percentage between mepolizumab and placebo.
+
+
+   For nasal obstruction VAS score, more patients showed a more           Secondary end points
+than 3-point improvement from baseline during weeks 49 to 52                 Over the 52-week treatment period, patients receiving
+with mepolizumab versus placebo (ITT: 60.2%, n 5 124 of 206 vs            mepolizumab had a lower risk of surgery compared with
+36.3%, n 5 73 of 201; P < .0001).24 Across both comorbidities, a          those receiving placebo.24 The reduction in risk of surgery
+higher proportion of patients treated with mepolizumab versus             with mepolizumab versus placebo was greater in patients
+placebo had a more than 3-point improvement from baseline                 without comorbid asthma than in those with comorbid
+during weeks 49 to 52 (comorbid asthma: 60.0%, n 5 84 of                  asthma (Fig 3, A). Reductions in the risk of surgery with me-
+140 vs 34.9%, n 5 52 of 149, Fig 2, A; comorbid AERD:                     polizumab relative to placebo were similar for patients irre-
+64.4%, n 5 29 of 45 vs 30.2%, n 5 19 of 63, Fig 2, B).                    spective of the presence or absence of AERD. A greater
+A similar trend was seen for patients treated with mepolizumab            decrease in risk of surgery with mepolizumab versus placebo
+versus placebo without these comorbidities (Fig 2, A and B).              over the 52-week treatment period was observed in patients
+For patients with a baseline blood eosinophil count _ >150 cells/         with a baseline blood eosinophil count _     >150 cells/mL and
+mL or _  >300 cells/mL, a higher proportion of patients had a             >300 cells/mL than in those with baseline blood eosinophil
+                                                                          _
+more than 3-point improvement from baseline in nasal obstruc-             counts <150 cells/mL and <300 cells/mL, respectively (Fig
+tion VAS score during weeks 49 to 52 with mepolizumab versus              3, A). Overall, there were fewer actual surgeries in patients
+placebo (>_150 cells/mL: 59.1%, n 5 110 of 186 vs 34.1%, n 5 63           treated with mepolizumab versus placebo in all subgroups
+        >300 cells/mL: 59.0%, n 5 82 of 139 and 32.4%, n 5 45 of
+of 185; _                                                                 (Fig 3, A).
+139, respectively; Fig 2, C and D, respectively). A similar trend            Patients treated with mepolizumab had a lower probability of
+was seen in patients with baseline blood eosinophil counts <300           requiring SCS for NP up to week 52 versus placebo24; a similar
+cells/mL (Fig 2, D); however, the difference in the proportion of         trend was observed in patients with/without comorbid asthma
+patients who had a more than 3-point improvement from baseline            or with/without comorbid AERD (Fig 3, B). For patients with a
+in nasal obstruction VAS score during weeks 49 to 52 between the          baseline blood eosinophil count _  >150 cells/mL or _   >300 cells/
+mepolizumab and placebo groups was less clear in those with               mL, there was a trend for a greater decrease in the need for SCS
+baseline blood eosinophil counts <150 cells/mL (Fig 2, C).                use for NP with mepolizumab versus placebo, compared with pa-
+   Improvements in the coprimary end points with                          tients with baseline blood eosinophil counts <150 cells/mL and
+mepolizumab versus placebo were generally observed within                 <300 cells/mL, respectively (Fig 3, B). Overall, a trend for a lower
+the baseline blood eosinophil count categories: _ <300, >300 to           proportion of patients receiving 1 or more course of SCS for NP
+<500, >500 to _
+_              <700, and >700 cells/mL (see Figs E2 and E3 in this        was observed with mepolizumab versus placebo treatment in all
+article’s Online Repository at www.jacionline.org).                       subgroups (Fig 3, B).
+J ALLERGY CLIN IMMUNOL                                                                                                      BACHERT ET AL 1717
+VOLUME 149, NUMBER 5
+
+
+
+
+                     FIG 2. Proportion of patients with more than 3-point improvement from baseline in nasal obstruction VAS
+                     score during weeks 49 to 52 for patients by (A and B) comorbidity and (C and D) baseline blood eosinophil
+                     count. *Difference in percentage between mepolizumab and placebo.
+
+
+
+   Mepolizumab treatment was also associated with an                       (0.02-0.12) versus 0.15 with placebo (0.08-0.26). The rate ratio
+improvement in overall VAS symptom score, SNOT-22 score,                   (95% CI) was 0.33 (0.12-0.95).
+composite VAS score, and loss of smell VAS score versus                       At week 52, the mean 6 SD ACQ-5 score was 1.19 6 1.21 in
+placebo, for all patients with or without comorbid asthma or               patients with comorbid asthma treated with mepolizumab
+AERD (Fig 4). Mepolizumab, versus placebo, was associated                  compared with 1.74 6 1.42 with placebo. Mepolizumab
+with an increased proportion of patients with more than 3-point            compared with placebo resulted in a greater improvement in
+improvement in overall VAS symptom score, composite VAS                    ACQ-5 scores from baseline in patients with comorbid asthma
+score, and loss of smell VAS score in comorbid asthma and                  (difference [95% CI], -0.66 [-0.92 to -0.40]) at week 52. In
+comorbid AERD subgroups as well as in subgroups without these              addition, a higher proportion of patients with comorbid asthma
+comorbidities (see Table E1 in this article’s Online Repository at         experienced a change of 0.5 point or more in the ACQ-5 score
+www.jacionline.org). Likewise, for patients with a baseline blood          (MCID) from baseline with mepolizumab versus placebo (56.5%,
+eosinophil count _>150 cells/mL, <300 cells/mL, or _
+                                                   >300 cells/mL,          n 5 78 of 138 vs 35.4%, n 5 51 of 144, respectively; odds ratio
+mepolizumab treatment was associated with a trend for                      [95% CI], 2.42 [1.43-4.11]).
+improvements in overall VAS symptom score, SNOT-22 total
+score, and composite VAS score versus placebo (Fig 4). For
+SNOT-22 score, the proportion of patients with a change in                 Safety
+SNOT-22 score of 9 points or more from baseline by week 52                   The proportion of patients who experienced on-treatment AEs
+was higher with mepolizumab versus placebo for all subjects                was similar for patients receiving mepolizumab versus placebo
+with or without comorbid asthma, or comorbid AERD, and in                  across all comorbidity and blood eosinophil count subgroups. The
+all baseline blood eosinophil count subgroups (see Table E2 in             most frequently reported AEs were nasopharyngitis and headache
+this article’s Online Repository at www.jacionline.org).                   (Tables III and IV).
+
+
+Exacerbations and asthma control in patients with                          DISCUSSION
+comorbid asthma                                                              These subgroup analyses of SYNAPSE demonstrate that
+  During the 52-week study period, 6 of 140 (4.3%) patients had            mepolizumab 100 mg SC versus placebo reduced NP size, nasal
+6 asthma exacerbations in the mepolizumab treatment                        obstruction, risk of surgery, and use of SCS for NP, while
+group compared with 11 of 149 (7.4%) patients with 20                      improving nasal symptoms in patients with severe, bilateral
+exacerbations in the placebo group. The annual rate of                     CRSwNP, regardless of the presence/absence of asthma or
+exacerbations (95% CI) was 0.05 with mepolizumab                           AERD. As mechanistically expected, there was an overall trend
+1718 BACHERT ET AL                                                                                                           J ALLERGY CLIN IMMUNOL
+                                                                                                                                             MAY 2022
+
+
+
+
+                    FIG 3. Risk of (A) surgery and (B) odds of patients requiring SCS for NP by week 52 for patients receiving
+                    mepolizumab or placebo with or without comorbid asthma, with or without comorbid AERD, and by
+                    baseline blood eosinophil count. Mepo, Mepolizumab.
+
+
+
+
+                    FIG 4. Change from baseline in overall VAS symptom score (A) by weeks 49 to 52, (B) SNOT-22 total score at
+                    week 52, (C) composite VAS score by weeks 49 to 52, and (D) loss of smell VAS score by weeks 49 to 52 for
+                    patients receiving mepolizumab or placebo by comorbidity and baseline blood eosinophil count.
+                    Mepo, Mepolizumab 100 mg subcutaneous.
+
+
+
+for mepolizumab to provide greater benefit in patients with a              shown benefit to patients with severe CRSwNP,24 and these
+baseline blood eosinophil count _
+                                >150 cells/mL versus those with a          analyses explored whether comorbidities impacted results from
+baseline blood eosinophil count <150 cells/mL and in those with a          the overall SYNAPSE study population. Several studies have
+count _
+      >300 cells/mL versus <300 cells/mL. Consistent with the              reported high disease burden in patients with uncontrolled disease
+primary SYNAPSE results,24 these subgroup analyses support the             irrespective of optimized SoC.8,9,11,12 Despite the high disease
+use of mepolizumab in addition to SoC in patients with severe              burden in these patients, our data suggest that mepolizumab is
+CRSwNP.                                                                    efficacious in patients with or without these comorbidities, and
+   SYNAPSE targeted patients with severe and uncontrolled                  the safety profiles are similar between the groups. Interestingly,
+disease in accordance with the 2019 EUFOREA and 2020                       our analyses of patients with severe CRSwNP and comorbid
+European Position Paper on Rhinosinusitis and Nasal Polyps                 asthma show that exacerbation frequency and asthma control
+expert team definition.3,18 As such, mepolizumab has already               improved with mepolizumab versus placebo, indicating that
+J ALLERGY CLIN IMMUNOL                                                                                                                                      BACHERT ET AL 1719
+VOLUME 149, NUMBER 5
+
+
+
+
+TABLE III. On-treatment safety profile for patients with or without comorbid asthma or with or without comorbid AERD
+                                                                   Comorbid asthma                                                                  Comorbid AERD
+
+                                                     With                                   Without                                   With                                 Without
+
+                                        Placebo                Mepo             Placebo                 Mepo              Placebo             Mepo             Placebo                 Mepo
+On-treatment safety profile            (n 5 149)             (n 5 140)          (n 5 52)               (n 5 66)           (n 5 63)           (n 5 45)         (n 5 138)              (n 5 161)
+
+Any AE, n (%)*                         128 (85.9)            114 (81.4)         42 (80.8)              55 (83.3)         57 (90.5)           42 (93.3)        113 (81.9)             127 (78.9)
+AE related to study treatment, n (%)    14 (9.4)              20 (14.3)          5 (9.6)               10 (15.2)          8 (12.7)           11 (24.4)         11 (8.0)               19 (11.8)
+Any SAE, n (%)*                         14 (9.4)               3 (2.1)              0                   9 (13.6)          7 (11.1)            3 (6.6)           7 (5.1)                9 (5.6)
+Most common AE occurring
+      in >10% of patients, n (%)
+  Nasopharyngitis                       38 (25.5)             32 (22.9)          8 (15.4)              20 (30.3)         14 (22.2)           18 (40.0)         32 (23.2)              34 (21.1)
+  Headache                              34 (22.8)             29 (20.7)         10 (19.2)               8 (12.1)         19 (30.2)           16 (35.6)         25 (18.1)              21 (13.0)
+  Asthma                                17 (11.4)              4 (2.9)              0                      0              7 (11.1)            1 (2.2)          11 (8.0)                3 (1.9)
+  Sinusitis                             16 (0.7)               6 (4.3)           6 (11.5)               4 (6.1)           7 (11.1)               0             15 (10.9)              10 (6.2)
+  Epistaxis                             12 (8.1)              10 (7.1)           6 (11.5)               7 (10.6)          4 (6.3)             5 (11.1)         14 (10.1)              12 (7.5)
+  Acute sinusitis                        7 (4.7)               9 (6.4)           6 (11.5)               4 (6.1)           4 (6.3)             1 (2.2)           9 (6.5)               12 (7.5)
+
+mepo, Mepolizumab 100 mg subcutaneous; SAE, serious adverse event.
+*Includes data up to week 52.
+
+
+
+TABLE IV. On-treatment safety profile by baseline blood eosinophil count.
+                                                                                               Baseline blood eosinophil count (cells/mL)
+
+                                                    <150                                    _150
+                                                                                            >                                         <300                                  _300
+                                                                                                                                                                            >
+
+                                       Placebo               Mepo              Placebo                  Mepo              Placebo             Mepo             Placebo                 Mepo
+On-treatment safety profile            (n 5 16)             (n 5 20)          (n 5 185)               (n 5 186)           (n 5 62)           (n 5 67)         (n 5 139)              (n 5 139)
+
+Any AE, n (%)*                         14 (87.5)            17 (85.0)         156 (84.3)              152 (81.7)         52 (83.9)           58 (86.6)        118 (84.9)             111 (79.9)
+AE related to study treatment, n (%)       0                 3 (15.0)          19 (10.3)               27 (14.5)          2 (3.2)             7 (10.4)         17 (12.2)              23 (16.5)
+Any SAE, n (%)*                         1 (6.3)              2 (10.0)          13 (7.0)                10 (5.4)           3 (4.8)             6 (9.0)          11 (7.9)                6 (4.3)
+Most common AE occurring in >10%
+      of patients, n (%)
+  Nasopharyngitis                       2 (12.5)             3 (15.0)          44 (23.8)               49 (26.3)         13 (21.0)           15 (22.4)         33 (23.7)              37 (26.6)
+  Headache                              3 (18.8)             3 (15.0)          41 (22.2)               34 (18.3)         12 (19.4)           10 (14.9)         32 (23.0)              27 (19.4)
+  Sinusitis                             2 (12.5)             3 (15.0)          20 (10.8)                7 (3.8)           7 (11.3)            6 (9.0)          15 (10.8)               4 (2.9)
+  Acute sinusitis                       2 (12.5)             2 (10.0)          11 (5.9)                11 (5.9)           5 (8.1)             7 (10.4)          8 (5.8)                6 (4.3)
+  Epistaxis                             0 (0)                3 (15.0)          18 (9.7)                14 (7.5)           5 (8.1)             8 (11.9)         13 (9.4)                9 (6.5)
+  NP                                    3 (18.8)             0 (0)             13 (7.0)                 8 (4.3)           4 (6.5)             2 (3.0)          12 (8.6)                6 (4.3)
+  Chronic sinusitis                     2 (12.5)             0 (0)              0 (0)                   0 (0)             2 (3.2)             1 (1.5)           0 (0)                  0 (0)
+  Upper respiratory tract infection     2 (12.5)             0 (0)             12 (6.5)                12 (6.5)           4 (6.5)             3 (4.5)          10 (7.2)                9 (6.5)
+
+mepo, Mepolizumab 100 mg subcutaneous; SAE, serious adverse event.
+*Includes data up to week 52.
+
+
+mepolizumab is of benefit to both upper and lower airway asthma                                between the mepolizumab and placebo treatment groups for pa-
+symptoms in these patients. These data are consistent with both                                tients with comorbid asthma may be due to the SCS-sparing effect
+clinical and real-world studies assessing efficacy of mepolizumab                              of mepolizumab in patients with asthma.34 Consistent with the
+100 mg SC in patients with severe eosinophilic asthma.20,30,31                                 SCS-sparing effect of mepolizumab,34 we also report that fewer
+   In line with the primary analysis of SYNAPSE,24 we report that                              patients required SCS with mepolizumab versus placebo,
+fewer patients receiving mepolizumab underwent actual nasal                                    irrespective of comorbid asthma, comorbid AERD, or baseline
+surgery versus those receiving placebo, regardless of asthma or                                blood eosinophil count. Despite the efficacy of mepolizumab in
+AERD status. The benefit of mepolizumab in reducing nasal sur-                                 patients with comorbid AERD, we are not inferring tolerance to
+gery aligns with the European Position Paper on Rhinosinusitis                                 nonsteroidal anti-inflammatory drugs in clinical practice.
+and Nasal Polyps 2020 recommendations to reduce surgery.3                                         Our phase III data suggest that mepolizumab was efficacious
+The benefit of mepolizumab in reducing actual surgery may be                                   and is a treatment option for patients with severe CRSwNP
+an important consideration for patients expressing concerns                                    irrespective of blood eosinophil count; a follow-up evaluation of
+over the risks associated with, and the disruptive nature of, sur-                             treatment response at 6 months is recommended as per
+gery.32 Notably, patients without comorbid asthma had a greater                                EUFOREA recommendations for biologic use.35 Although eosin-
+reduction in risk of nasal surgery than those with comorbid                                    ophil tissue infiltration and markers of type 2 inflammation are
+asthma. Patients without versus with comorbid asthma had lower                                 often associated with CRSwNP, the underlying mechanisms
+baseline blood eosinophil counts, which have been shown to                                     that contribute to disease pathology are not fully understood.1,3,36
+correlate with better disease control,33 thereby potentially                                   As such, our data confirm that eosinophils are an appropriate and
+reducing the need for further surgery in patients without comorbid                             effective target in severe CRSwNP.
+asthma. As short courses of SCS were permitted as part of SoC in                                  The limitations of the study design have been reported.24 The
+SYNAPSE, a higher number of patients with comorbid asthma                                      current exploratory analyses relate to the presence of comorbid
+receiving placebo were prescribed 1 or more course of SCS                                      asthma and comorbid AERD being determined from patient med-
+than patients receiving mepolizumab. Thus, patients with comor-                                ical history, with no further diagnoses for these diseases being per-
+bid asthma in the placebo group may have experienced some im-                                  formed during the study. This may have resulted in misdiagnoses
+provements in NP symptoms due to receiving SCS for their                                       of those without a comorbidity. In addition, low patient numbers
+asthma symptoms, potentially disproportionally reducing the                                    in the <150 cells/mL subgroup may have obscured the benefits
+need for surgery in the placebo population. Further disparity                                  of mepolizumab in patients with blood eosinophil counts
+1720 BACHERT ET AL                                                                                                                                  J ALLERGY CLIN IMMUNOL
+                                                                                                                                                                    MAY 2022
+
+
+
+
+<150 cells/mL. The low patient numbers were likely due to the in-                         12. Stevens WW, Peters AT, Hirsch AG, Nordberg CM, Schwartz BS, Mercer DG,
+clusion criteria, because patients with severe CRSwNP are more                                et al. Clinical characteristics of patients with chronic rhinosinusitis with nasal
+                                                                                              polyps, asthma, and aspirin-exacerbated respiratory disease. J Allergy Clin Immu-
+likely to have higher blood eosinophil counts than those with                                 nol Pract 2017;5:1061-70.e3.
+less severe disease. Finally, although blood eosinophil count is                          13. Loftus CA, Soler ZM, Koochakzadeh S, Desiato VM, Yoo F, Nguyen SA, et al.
+an accessible, measurable marker in patients with severe                                      Revision surgery rates in chronic rhinosinusitis with nasal polyps: meta-analysis
+CRSwNP, other biomarkers of nasal polyposis (not assessed in                                  of risk factors. Int Forum Allergy Rhinol 2020;10:199-207.
+                                                                                          14. McHugh T, Snidvongs K, Xie M, Banglawala S, Sommer D. High tissue
+this study) may also exist. The low patient numbers also prevent                              eosinophilia as a marker to predict recurrence for eosinophilic chronic
+any meaningful analysis assessing the effectiveness of mepolizu-                              rhinosinusitis: a systematic review and meta-analysis. Int Forum Allergy Rhinol
+mab in patients with blood eosinophil counts <150 cells/mL who                                2018;8:1421-9.
+do not have either comorbid disease. Therefore, further studies in                        15. Klossek JM, Neukirch F, Pribil C, Jankowski R, Serrano E, Chanal I, et al. Prev-
+                                                                                              alence of nasal polyposis in France: a cross-sectional, case-control study. Allergy
+this population are warranted.
+                                                                                              2005;60:233-7.
+   These exploratory analyses indicate that mepolizumab is                                16. Philpott CM, Erskine S, Hopkins C, Kumar N, Anari S, Kara N, et al. Preva-
+efficacious for the treatment of severe CRSwNP, irrespective of                               lence of asthma, aspirin sensitivity and allergy in chronic rhinosinusitis: data
+the presence or absence of comorbid asthma or comorbid AERD.                                  from the UK National Chronic Rhinosinusitis Epidemiology Study. Respir
+Our data showed a trend for greater clinical benefit in patients                              Res 2018;19:129.
+                                                                                          17. Seybt MW, McMains KC, Kountakis SE. The prevalence and effect of asthma on
+with baseline blood eosinophil counts _>150 cells/mL versus <150
+                                                                                              adults with chronic rhinosinusitis. Ear Nose Throat J 2007;86:409-11.
+cells/mL and in those with baseline blood eosinophil counts _
+                                                            >300                          18. Gevaert P, Omachi TA, Corren J, Mullol J, Han J, Lee SE, et al. Efficacy and safety
+cells/mL versus <300 cells/mL. This provides further evidence                                 of omalizumab in nasal polyposis: 2 randomized phase 3 trials. J Allergy Clin Im-
+that baseline blood eosinophil counts _
+                                      >150 cells/mL or _
+                                                       >300 cells/                            munol 2020;146:595-605.
+mL may be suitable biomarkers for responsiveness to mepolizu-                             19. Dalal AA, Duh MS, Gozalo L, Robitaille MN, Albers F, Yancey S, et al. Dose-
+                                                                                              response relationship between long-term systemic corticosteroid use and related
+mab in patients with severe CRSwNP and supports the previously                                complications in patients with severe asthma. J Manag Care Spec Pharm 2016;
+described relationship between mepolizumab and baseline blood                                 22:833-47.
+eosinophil count in severe eosinophil asthma.19                                           20. Ortega HG, Liu MC, Pavord ID, Brusselle GG, FitzGerald JM, Chetta A, et al. Me-
+                                                                                              polizumab treatment in patients with severe eosinophilic asthma. N Engl J Med
+                                                                                              2014;371:1198-207.
+Clinical implications: Mepolizumab should be considered for                               21. Emma R, Morjaria JB, Fuochi V, Polosa R, Caruso M. Mepolizumab in the man-
+the treatment of CRSwNP, particularly in patients with comor-                                 agement of severe eosinophilic asthma in adults: current evidence and practical
+bid asthma or AERD.                                                                           experience. Ther Adv Respir Dis 2018;12:1-12.
+                                                                                          22. Nucala Summary of Product Characteristics. 2020. Available at: https://www.ema.
+                                                                                              europa.eu/en/documents/product-information/nucala-epar-product-information_
+                                                                                              en-0.pdf. Accessed October 19, 2020.
+REFERENCES                                                                                23. Nucala US prescribing information. 2021. Available at: https://gskpro.com/content/
+ 1. Kim J, Naclerio R. Therapeutic potential of dupilumab in the treatment of chronic         dam/global/hcpportal/en_US/Prescribing_Information/Nucala/pdf/NUCALA-PI-
+    rhinosinusitis with nasal polyps: evidence to date. Ther Clin Risk Manag 2020;16:         PIL-IFU-COMBINED.PDF. Accessed October 19, 2020.
+    31-7.                                                                                 24. Han JK, Bachert C, Fokkens W, Desrosiers M, Wagenmann M, Lee SE, et al. Me-
+ 2. Lange B, Holst R, Thilsing T, Baelum J, Kjeldsen A. Quality of life and associated        polizumab for chronic rhinosinusitis with nasal polyps (SYNAPSE): a randomised,
+    factors in persons with chronic rhinosinusitis in the general population: a               double-blind, placebo-controlled, phase 3 trial. Lancet Respir Med 2021;9:
+    prospective questionnaire and clinical cross-sectional study. Clin Otolaryngol            1141-53.
+    2013;38:474-80.                                                                       25. Pavord ID, Chanez P, Criner GJ, Kerstjens HAM, Korn S, Lugogo N, et al. Mepo-
+ 3. Fokkens WJ, Lund VJ, Hopkins C, Hellings PW, Kern R, Reitsma S, et al.                    lizumab for eosinophilic chronic obstructive pulmonary disease. N Engl J Med
+    European Position Paper on Rhinosinusitis and Nasal Polyps 2020. Rhinology                2017;377:1613-29.
+    2020;58:1-464.                                                                        26. Bousquet PJ, Combescure C, Klossek JM, Daures JP, Bousquet J. Change in visual
+ 4. Radabaugh JP, Han JK, Moebus RG, Somers E, Lam K. Analysis of                             analog scale score in a pragmatic randomized cluster trial of allergic rhinitis.
+    histopathological endotyping for chronic rhinosinusitis phenotypes based on               J Allergy Clin Immunol 2009;123:1349-54.
+    comorbid asthma and allergic rhinitis. Am J Rhinol Allergy 2019;33:507-12.            27. Chowdhury NI, Mace JC, Bodner TE, Alt JA, Deconde AS, Levy JM, et al. Inves-
+ 5. Hox V, Delrue S, Scheers H, Adams E, Keirsbilck S, Jorissen M, et al. Negative            tigating the minimal clinically important difference for SNOT-22 symptom do-
+    impact of occupational exposure on surgical outcome in patients with                      mains in surgically managed chronic rhinosinusitis. Int Forum Allergy Rhinol
+    rhinosinusitis. Allergy 2012;67:560-5.                                                    2017;7:1149-55.
+ 6. Passali D, Cingi C, Cambi J, Passali F, Muluk NB, Bellussi ML. A survey on            28. Juniper EF, Svensson K, M€ork AC, St  ahl E. Measurement properties and interpre-
+    chronic rhinosinusitis: opinions from experts of 50 countries. Eur Arch                   tation of three shortened versions of the asthma control questionnaire. Respir Med
+    Otorhinolaryngol 2016;273:2097-109.                                                       2005;99:553-8.
+ 7. Stevens WW, Schleimer RP, Kern RC. Chronic rhinosinusitis with nasal polyps.          29. Ortega H, Katz L, Gunsoy N, Keene O, Yancey S. Blood eosinophil counts predict
+    J Allergy Clin Immunol Pract 2016;4:565-72.                                               treatment response in patients with severe eosinophilic asthma. J Allergy Clin Im-
+ 8. Khan A, Vandeplas G, Huynh TMT, Joish VN, Mannent L, Tomassen P, et al. The               munol 2015;136:825-6.
+    Global Allergy and Asthma European Network (GALEN rhinosinusitis cohort): a           30. Llanos JP, Ortega H, Bogart M, Packnett ER, Manjelievskaia J, Bell CF, et al. Real-
+    large European cross-sectional study of chronic rhinosinusitis patients with and          world effectiveness of mepolizumab in patients with severe asthma: an examina-
+    without nasal polyps. Rhinology 2019;57:32-42.                                            tion of exacerbations and costs. J Asthma Allergy 2020;13:77-87.
+ 9. Vlaminck S, Vauterin T, Hellings PW, Jorissen M, Acke F, Van Cauwenberge P,           31. Schleich F, Graff S, Nekoee H, Moermans C, Henket M, Sanchez C, et al. Real-
+    et al. The importance of local eosinophilia in the surgical outcome of chronic rhi-       world experience with mepolizumab: does it deliver what it has promised? Clin
+    nosinusitis: a 3-year prospective observational study. Am J Rhinol Allergy 2014;          Exp Allergy 2020;50:687-95.
+    28:260-4.                                                                             32. Vennik J, Eyles C, Thomas M, Hopkins C, Little P, Blackshaw H, et al. Man-
+10. DeConde AS, Mace JC, Levy JM, Rudmik L, Alt JA, Smith TL. Prevalence of                   agement strategies for chronic rhinosinusitis: a qualitative study of GP and
+    polyp recurrence after endoscopic sinus surgery for chronic rhinosinusitis with           ENT specialist views of current practice in the UK. BMJ Open 2018;8:
+    nasal polyposis. Laryngoscope 2017;127:550-5.                                             e022643.
+11. Rosati D, Rosato C, Pagliuca G, Cerbelli B, Della Rocca C, Di Cristofano C, et al.    33. Wang K, Deng J, Yang M, Chen Y, Chen F, Gao W-X, et al. Concordant systemic
+    Predictive markers of long-term recurrence in chronic rhinosinusitis with nasal           and local eosinophilia relates to poorer disease control in patients with nasal
+    polyps. Am J Otolaryngol 2020;41:102286.                                                  polyps. World Allergy Organ J 2019;12:100052.
+J ALLERGY CLIN IMMUNOL                                                                                                                       BACHERT ET AL 1721
+VOLUME 149, NUMBER 5
+
+
+
+
+34. Bel EH, Wenzel SE, Thompson PJ, Prazma CM, Keene ON, Yancey SW, et al. Oral         with Nasal Polyps (CRSwNP) and Biologics: definitions and management.
+    glucocorticoid-sparing effect of mepolizumab in eosinophilic asthma. N Engl J       J Allergy Clin Immunol 2020;147:1981-2.
+    Med 2014;371:1189-97.                                                           36. Tomassen P, Vandeplas G, Van Zele T, Cardell LO, Arebro J, Olze H, et al. Inflam-
+35. Bachert C, Han JK, Wagenmann M, Hosemann W, Lee SE, Backer V, et al. EU-            matory endotypes of chronic rhinosinusitis based on cluster analysis of biomarkers.
+    FOREA Expert Board Meeting on Uncontrolled Severe Chronic Rhinosinusitis            J Allergy Clin Immunol 2016;137:1449-56.e4.
+1721.e1 BACHERT ET AL                                                                                                                 J ALLERGY CLIN IMMUNOL
+                                                                                                                                                      MAY 2022
+
+
+
+
+REFERENCE                                                                           domains in surgically managed chronic rhinosinusitis. Int Forum Allergy Rhinol
+ E1. Chowdhury NI, Mace JC, Bodner TE, Alt JA, Deconde AS, Levy JM, et al. Inves-   2017;7:1149-55.
+     tigating the minimal clinically important difference for SNOT-22 symptom
+J ALLERGY CLIN IMMUNOL                                                                                                          BACHERT ET AL 1721.e2
+VOLUME 149, NUMBER 5
+
+
+
+
+             A                                                                    B
+                                                               Total asthma                                                      Total asthma
+                                                                population,                                                       population,
+                                                                  n = 289                                                           n = 289
+                                       ASTHMA                                                        ASTHMA
+                                                n=9                                                           n = 49
+
+
+
+                                     n = 177            n=7                                        n = 137             n = 25
+
+                                               n = 96                                                         n = 78
+                      ≥150                                                              ≥300
+                                                          AERD                                                              AERD
+                     cells/μL                   n=4           n=1                      cells/μL                n=3              n=2
+                            n = 94                                                        n = 60
+
+
+
+
+                         Total ≥150 cells/μL            Total AERD                      Total ≥300 cells/μL              Total AERD
+                             population,                population,                         population,                  population,
+                                n = 371                    n = 108                             n = 278                     n = 108
+
+                     FIG E1. Proportion of patients with comorbid asthma, comorbid AERD, and blood eosinophil count (A) _
+                                                                                                                        >150
+                     cells/mL and (B) _
+                                      >300 cells/mL.
+1721.e3 BACHERT ET AL                                                                                               J ALLERGY CLIN IMMUNOL
+                                                                                                                                    MAY 2022
+
+
+
+
+                 FIG E2. Proportion of patients with greater than or equal to 1- or greater than or equal to 2-point
+                 improvement from baseline in total endoscopic NP score at week 52 by baseline blood eosinophil count
+                 thresholds. *Difference in percentage points between mepolizumab and placebo.
+J ALLERGY CLIN IMMUNOL                                                                                                  BACHERT ET AL 1721.e4
+VOLUME 149, NUMBER 5
+
+
+
+
+                     FIG E3. Proportion of patients with more than 3-point improvement from baseline in nasal obstruction VAS
+                     score during weeks 49 to 52 by baseline blood eosinophil count thresholds. *Difference in percentage
+                     between mepolizumab and placebo.
+                                                                                                                                                                                                 1721.e5 BACHERT ET AL
+
+
+
+
+TABLE E1. Proportion of patients with >3-point improvement in overall VAS symptom score, composite VAS score, and loss of smell VAS score by weeks 49 to 52 for
+patients with or without comorbid asthma, with or without comorbid AERD, and by baseline blood eosinophil count
+>3-point                          Comorbid asthma                       Comorbid AERD                                Baseline blood eosinophil count (cells/mL)
+improvement
+from baseline                 With              Without           With              Without             <150                 _
+                                                                                                                             >150                 <300                  _300
+                                                                                                                                                                        >
+at weeks 49 to 52           (n 5 289)          (n 5 118)        (n 5 108)          (n 5 299)          (n 5 36)            (n 5 371)             (n 5 129)            (n 5 278)
+
+Overall VAS symptom
+    score
+  Placebo, n (%)         54 of 149 (36.2)   22 of 52 (42.3)   19 of 63 (30.2)   57 of 138 (41.3)   10 of 16 (62.5)     66 of 185 (35.7)      36 of 62 (58.1)      47 of 139 (33.8)
+  Mepolizumab            86 of 140 (61.4)   41 of 66 (62.1)   30 of 45 (66.7)   97 of 161 (60.2)   14 of 20 (70.0)    113 of 186 (60.8)      50 of 67 (74.6)      82 of 139 (59.0)
+  100 mg SC, n (%)
+Composite VAS score
+  Placebo, n (%)         49 of 149 (32.9)   23 of 52 (44.2)   28 of 63 (44.4)   54 of 138 (39)     10 of 16 (62.5)     62 of 185 (33.5)      25 of 62 (40.3)      47 of 139 (33.8)
+  Mepolizumab            82 of 140 (58.6)   39 of 66 (59.1)   28 of 45 (62.2)   91 of 161 (57)     14 of 20 (70.0)    105 of 186 (56.5)      40 of 67 (59.7)      79 of 139 (56.8)
+  100 mg SC, n (%)
+Loss of sense of smell
+    VAS score
+  Placebo, n (%)         24 of 149 (16.1)   15 of 52 (28.8)    6 of 63 (9.5)    33 of 138 (23.9)    9 of 16 (56.3)     30 of 185 (16.2)      15 of 62 (24.2)      24 of 139 (17.3)
+  Mepolizumab            49 of 140 (35.0)   25 of 66 (37.9)   16 of 45 (35.0)   58 of 161 (36.0)   11 of 20 (55.0)     63 of 186 (33.9)      28 of 67 (41.8)      46 of 139 (33.1)
+  100 mg SC, n (%)
+
+
+
+
+                                                                                                                                                                                     J ALLERGY CLIN IMMUNOL
+
+
+
+
+                                                                                                                                                                                                     MAY 2022
+                                                                                                                                                                                                                    J ALLERGY CLIN IMMUNOL
+
+
+
+
+                                                                                                                                                                                                                    VOLUME 149, NUMBER 5
+
+
+
+
+                                        _9-point improvement from baseline in SNOT-22 score by week 52 in patients receiving mepolizumab or placebo treatment with or
+TABLE E2. Proportion of patients with a >
+without comorbid asthma, with or without comorbid AERD, and by baseline blood eosinophil count
+                                                       Comorbid asthma                              Comorbid AERD                                      Baseline blood eosinophil count (cells/mL)
+_
+>9-point improvement in SNOT-22                    With                 Without               With                 Without                <150                   _
+                                                                                                                                                                 >150             <300                 _300
+                                                                                                                                                                                                       >
+score from baseline by week 52                   (n 5 289)             (n 5 118)            (n 5 108)             (n 5 299)             (n 5 36)              (n 5 371)         (n 5 129)           (n 5 278)
+
+Placebo, n of N (%)                           78 of 149 (52.3)      28 of 52 (53.8)      31 of 63 (49.2)      75 of 138 (54.3)       10 of 16 (62.5)      96 of 185 (51.9)    36 of 62 (58.1)    70 of 139 (50.4)
+Mepolizumab 100 mg SC, n of N (%)            101 of 140 (72.1)      49 of 66 (74.2)      32 of 45 (71.1)     118 of 161 (73.3)       16 of 20 (80.0)     134 of 186 (72.0)    50 of 67 (74.6)   100 of 139 (71.9)
+                                                                                           >9.0-point improvement is shown; >8.9 points is reported as an MCID.E1
+SNOT-22 scores ranged from 0 to 110. A change from baseline in SNOT-22 score by week 52 of _
+
+
+
+
+                                                                                                                                                                                                                                 BACHERT ET AL 1721.e6
+

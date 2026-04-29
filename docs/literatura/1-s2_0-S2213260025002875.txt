@@ -1,0 +1,885 @@
+                                                                                                                                                                Articles
+
+
+
+
+Dupilumab versus omalizumab in patients with chronic
+rhinosinusitis with nasal polyps and coexisting
+asthma (EVEREST): a multicentre, randomised, double-blind,
+head-to-head phase 4 trial
+Eugenio De Corso, G Walter Canonica, Enrico Heffler, Michal Springer, Tomasz Grzegorzek, Miguel Viana, Zsuzsanna Horváth, Joaquim Mullol,
+Philippe Gevaert, Justin Michel, Anju T Peters, Martin Wagenmann, Sherif Zaghloul, Mei Zhang, Mark Corbett, Scott Nash, James T Angello,
+Amr Radwan, Yamo Deniz, Antonio Martin, Peter W Hellings
+
+Summary
+Background Chronic rhinosinusitis with nasal polyps (CRSwNP) is predominantly driven by type 2 inflammation.                                            Lancet Respir Med 2025;
+The biologics dupilumab and omalizumab, which target drivers and mediators of type 2 inflammation                                                       13: 1067–77
+
+(interleukin [IL]-4/IL-13 signaling and immunoglobulin E [IgE], respectively), are efficacious in treating CRSwNP but                                   Published Online
+                                                                                                                                                        September 28, 2025
+direct comparisons are few. In EVEREST (EValuating trEatment RESponses of dupilumab versus omalizumab), the
+                                                                                                                                                        https://doi.org/10.1016/
+first head-to-head trial in respiratory biologics, we aimed to compare the efficacy and safety of dupilumab and                                         S2213-2600(25)00287-5
+omalizumab in patients with severe CRSwNP who had mild, moderate, or severe asthma.                                                                     See Correspondence page e60
+                                                                                                                                                        Otorhinolaryngology–Head
+Methods EVEREST was an international, randomised, double-blind, phase 4 trial, conducted at 100 hospitals or                                            and Neck Surgery, A Gemelli
+clinical centres in 17 countries. Sites were selected with otolaryngology, pneumologist, allergist, and immunologist                                    Hospital Foundation IRCCS,
+practices; needed to have previously conducted double-blind studies; and were required have nasal endoscopy and                                         Rome, Italy
+                                                                                                                                                        (Prof E De Corso PhD);
+electrocardiogram machines. Eligible patients aged 18 years or older with severe uncontrolled CRSwNP (with a nasal                                      Personalized Medicine, Asthma
+polyp score of 5 or more [and ≥2 for each nostril]), symptoms of nasal congestion and loss of smell for at least 8 weeks                                and Allergy, Humanitas
+before screening, and physician-diagnosed asthma. Patients were randomly assigned (1:1) to subcutaneous dupilumab                                       Research Hospital, Milan, Italy
+300 mg every 2 weeks or omalizumab weight-tiered and IgE-tiered dosing every 2 weeks or 4 weeks for 24 weeks, with                                      (Prof G W Canonica MD,
+                                                                                                                                                        E Heffler PhD); Department of
+background mometasone furoate nasal spray. Patients and investigators were masked to the study drugs. Primary                                           Biomedical Sciences,
+endpoints were change from baseline in endoscopic nasal polyp score and University of Pennsylvania Smell                                                Humanitas University, Pieve
+Identification Test (UPSIT) at 24 weeks. Efficacy was assessed in the intention-to-treat population and safety was                                      Emanuele, Milan, Italy
+                                                                                                                                                        (Prof G W Canonica, E Heffler);
+assessed in patients who received at least one dose of study medication. The trial was registered at ClinicalTrials.gov,
+                                                                                                                                                        Specialized Non-Public Health
+NCT04998604.                                                                                                                                            Care Facility Alergologia Plus,
+                                                                                                                                                        Allergy Diagnostics and
+Findings Between Sept 27, 2021, and Dec 27, 2024, 819 individuals were screened for study inclusion, 459 were                                           Therapy Center, Poznań,
+                                                                                                                                                        Poland (M Springer PhD);
+excluded (most common screen failures were: 167 did not meet nasal polyp score ≥5 or did not have ongoing
+                                                                                                                                                        Department of
+symptoms of nasal congestion and loss of smell, 114 did not meet pre-bronchodilator FEV1 ≤85% predicted normal,                                         Otorhinolaryngology, Angelius
+and 99 did not meet eligibility as per omalizumab drug-dosing), and 360 participants were randomly assigned                                             Provita Medical Center,
+(181 assigned to the dupilumab group and 179 assigned to the omalizumab group). Of the 360 participants,                                                Katowice, Poland
+                                                                                                                                                        (T Grzegorzek MD);
+198 (55%) participants were male, 162 (45%) were female, and the mean age of the total population sample was
+                                                                                                                                                        Othorhinolaryngology
+52 years (SD 13∙1). Improvements were significantly greater with dupilumab than omalizumab for all primary and                                          Department, Hospital Pedro
+secondary efficacy endpoints at week 24. Least squares mean differences in change from baseline dupilumab over                                          Hispano, Matosinhos, Portugal
+omalizumab were: nasal polyp score –1∙60 (95% CI –1∙96 to –1∙25; p<0∙0001) and UPSIT 8∙0 (6∙3 to 9∙7; p<0∙0001).                                        (M Viana MD);
+                                                                                                                                                        Otorhinolaryngology
+115 (64%) of 179 participants in the dupilumab group and 116 (67%) of 173 participants in the omalizumab group
+                                                                                                                                                        Department, Szent Imre
+reported treatment-emergent adverse events, the most common of which were nasopharyngitis, accidental overdose,                                         University Teaching Hospital,
+headache, upper respiratory tract infection, and cough. There were no deaths in the study.                                                              Budapest, Hungary
+                                                                                                                                                        (Z Horváth MD); Rhinology Unit
+                                                                                                                                                        & Smell Clinic, ENT
+Interpretation Dupilumab was superior to omalizumab in patients with severe CRSwNP and coexisting asthma.                                               Department, Hospital Clínic
+These findings support the efficacy of dupilumab in patients with type 2 respiratory diseases versus an active biologic                                 Barcelona, FRCB-IDIBAPS,
+comparator, the known safety profiles of dupilumab and omalizumab, and could enable better treatment targeting for                                      Universitat de Barcelona,
+patients with CRSwNP and asthma in clinical practice.                                                                                                   CIBERES, Barcelona, Spain
+                                                                                                                                                        (Prof J Mullol PhD); Upper
+                                                                                                                                                        Airways Research Laboratory,
+Funding Sanofi and Regeneron Pharmaceuticals.                                                                                                           Department of Head and Skin,
+                                                                                                                                                        Ghent University, Ghent,
+Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and data mining, AI training, and similar                                  Belgium (Prof P Gevaert PhD);
+                                                                                                                                                        Aix Marseille University,
+technologies.                                                                                                                                           APHM, CNRS, IUSTI,
+
+
+
+
+www.thelancet.com/respiratory Vol 13 December 2025                                                                                                                                 1067
+                   Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                       uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+         Articles
+
+
+
+
+        La Conception University
+               Hospital, ENT-HNS        Research in context
+  Department, Marseille, France
+               (Prof J Michel PhD);     Evidence before this study                                               Added value of this study
+  Allergy-Immunology Division           Chronic rhinosinusitis with nasal polyps (CRSwNP) is a                   To our knowledge, EVEREST is the first head-to-head phase 4 trial
+        and the Sinus and Allergy       predominantly type 2 inflammatory disease associated with                assessing two biologics, dupilumab and omalizumab, in a large
+       Center, Feinberg School of
+         Medicine, Northwestern
+                                        high disease burden and poor quality of life, particularly in            group of patients with severe CRSwNP coexisting with mild,
+      University, Chicago, IL, USA      patients with coexisting type 2 inflammatory conditions such             moderate, or severe asthma. Treatment with dupilumab resulted
+              (Prof A T Peters MD);     as asthma or non-steroidal anti-inflammatory drug                        in reduced nasal polyp size and severity of symptoms, and
+                   Department of        exacerbated respiratory disease (NSAID-ERD). We searched                 improved sense of smell, asthma control, and both CRSwNP-
+           Otorhinolaryngology,
+ Düsseldorf University Hospital
+                                        MEDLINE from database inception (via PubMed) for articles                specific and asthma-specific health-related quality of life com­
+     (UKD), Düsseldorf, Germany         published in English up to March 4, 2025, using search terms             pared with omalizumab. Both treatments were well tolerated.
+        (Prof M Wagenmann MD);          “nasal polyposis”, “chronic rhinosinusitis”, “chronic
+     Sanofi, Morristown, NJ, USA                                                                                 Implications of all the available evidence
+                                        rhinosinusitis with nasal polyps”, “asthma”, “biologic”,
+   (S Zaghloul MD, M Zhang PhD,                                                                                  Patients with CRSwNP and coexisting asthma have a high
+                    M Corbett MD,
+                                        “dupilumab”, and “omalizumab”. Dupilumab and
+                                                                                                                 disease burden that is challenging to treat. Dupilumab showed
+J T Angello PharmD); Regeneron          omalizumab have been shown to have significant efficacy
+                                                                                                                 a more favourable benefit–risk profile with superior efficacy in
+   Pharmaceuticals, Tarrytown,          in diseases arising from type 2 inflammation, such as
+             NY, USA (S Nash MD,                                                                                 treating these patients compared with omalizumab and
+                                        CRSwNP, asthma, NSAID-ERD, and atopic dermatitis. In
+         Y Deniz MD); Regeneron                                                                                  demonstrated tolerability consistent with the known safety
+Pharmaceuticals, Uxbridge, UK
+                                        previous phase 3 studies in patients with CRSwNP, dupilumab
+                                                                                                                 profile. These findings will enable better treatment targeting
+    (A Radwan MB BChir); Sanofi,        and omalizumab showed efficacy in reducing nasal polyp
+                                                                                                                 for patients with CRSwNP and asthma.
+            Cambridge, MA, USA          burden.
+       (A Martin PhD); University
+       Hospitals Leuven, Leuven,
+Belgium (Prof P W Hellings PhD)
+                                      Introduction                                                                 EVEREST (EValuating trEatment RESponses of
+            Correspondence to:
+         Prof Eugenio De Corso,
+                                      Chronic rhinosinusitis with nasal polyps (CRSwNP) is                       dupilumab versus omalizumab) is the first head-to-head
+ Otorhinolaryngology–Head and         associated with a high symptom burden including                            study designed to fill the key evidence gap in providing
+        Neck Surgery, A Gemelli       nasal congestion, rhinorrhoea and loss of sense of                         direct comparative data.20 We aimed to evaluate the
+    Hospital Foundation IRCCS,        smell, and a substantial reduction in health-related                       efficacy and safety of dupilumab compared with
+              Rome 00136, Italy
+            eugenio.decorso@
+                                      quality of life, particularly in patients with moderate-to-                omalizumab in patients with severe CRSwNP coexisting
+           policlinicogemelli.it      severe disease.1–3 Up to 67% of patients with CRSwNP                       with mild, moderate, or severe asthma.
+                                      have coexisting asthma, which is associated with more
+                                      severe disease, a higher risk of polyp recurrence, greater                 Methods
+                                      dependence on systemic corticosteroids, reduced                            Study design
+                                      health-related quality of life,4–6 and increased costs.7–9                 EVEREST was a multicentre, randomised, double-blind,
+                                      Approximately a quarter of patients with CRSwNP and                        phase 4 trial comparing efficacy and safety of dupilumab
+                                      coexisting asthma have non-steroidal anti-inflammatory                     versus omalizumab in patients with severe CRSwNP and
+                                      drug-exacerbated respiratory disease (NSAID-ERD),                          coexisting asthma. A summary of the study design was
+                                      characterised by adult-onset asthma with CRSwNP and                        reported previously20 and details are presented in
+       See Online for appendix 1      hypersensitivity to NSAIDs.10                                              appendix 1 (p 1). EVEREST was conducted in 100 hospitals
+                                        CRSwNP is a predominantly type 2 inflammatory                            or clinical centres in 17 countries (Belgium, Canada,
+                                      disease and biologics targeting different key molecules of                 Czech Republic, Denmark, Finland, France, Germany,
+                                      type 2 inflammation have shown efficacy versus placebo                     Hungary, Italy, Mexico, Poland, Portugal, UK, USA,
+                                      in phase 3 trials. The biologics dupilumab (anti-                          Romania, Spain, and Sweden) with dual CRSwNP and
+                                      interleukin [IL]-4Rα), omalizumab (anti-immunoglobulin                     asthma expertise. Sites were selected with otolaryngology,
+                                      [Ig]E), and mepolizumab (anti-IL-5) are approved for the                   pneumologist, allergist, and immunologist practices;
+                                      treatment of CRSwNP with or without coexisting                             needed to have previously conducted double-blind
+                                      asthma.1,10–12 Differences in study designs and study                      studies; and needed to have nasal endoscopy and
+                                      populations between the placebo-controlled trials of                       electrocardiogram machines. The trial consisted of a
+                                      these biologics preclude direct comparison of the                          4-week run-in period, a 24-week treatment period, and a
+                                      results, but several meta-analyses13,14 and indirect                       12-week follow-up period (appendix 1 p 16). The protocol
+                                      treatment comparisons have been published.15–19 These                      was developed by the funders and sponsors (Sanofi and
+                                      analyses indicate that dupilumab is a more effective                       Regeneron Pharmaceuticals) in collaboration with the
+                                      treatment than omalizumab for patients with CRSwNP,                        principal investigators. The local institutional review
+                                      including in difficult-to-treat populations such as those                  board or ethics committee at each study centre approved
+                                      with coexisting type 2 inflammatory diseases. However,                     the protocol and patient information materials and
+                                      direct comparisons of these biologics in a head-to-head                    oversaw trial conduct. There was no patient or public
+                                      clinical trial in patients with CRSwNP or asthma have                      involvement in the design, conduct, or reporting of the
+       See Online for appendix 2      not yet been made.                                                         trial. Details of the protocol are presented in appendix 2
+
+
+1068                                                                                                                                    www.thelancet.com/respiratory Vol 13 December 2025
+                            Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                               uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+                                                                                                                                                                               Articles
+
+
+
+
+and the statistical analysis plan is presented in appendix 3.
+This trial was registered at Clinicaltrials.gov,                                                       819 individuals screened for study inclusion
+
+NCT04998604 on Aug 10, 2021 before patient enrolment,
+and is now completed.                                                                                                               459 excluded
+                                                                                                                                        167 did not meet nasal polyp score ≥5 or
+                                                                                                                                            did not have ongoing symptoms of
+Participants                                                                                                                                nasal congestion and loss of smell
+Eligible participants were aged 18 years or older with                                                                                  114 did not meet pre-bronchodilator
+CRSwNP, which despite treatment with systemic                                                                                               FEV1 ≤85% predicted normal
+                                                                                                                                         99 not meet eligibility as per omalizumab
+corticosteroids in the past 2 years (or contradiction or                                                                                    drug-dosing table
+intolerance to these drugs) or previous surgery for nasal                                                                                79 excluded for other reasons
+                                                                                                                                            (did not meet inclusion criteria or
+polyps, had a nasal polyp score of 5 or more (and ≥2 for                                                                                    met exclusion criteria)
+each nostril [a score of 2 in each nostril would be
+excluded]),21 and symptoms of nasal congestion and loss of
+smell for at least 8 weeks before screening, with moderate-                                            360 randomly assigned
+
+to-severe symptoms in the 7 days before randomisation
+(average daily score >1). Participants also required
+physician-diagnosed coexisting asthma for at least                              181 assigned to dupilumab                        179 assigned to omalizumab
+12 months on a stable dose of low, medium, or high-dose                             179 received allocated intervention              173 received allocated intervention
+inhaled corticosteroid and a second controller (long-acting
+β-2 adrenergic receptor agonist). All participants were
+                                                                                                           8 discontinued treatment before                   8 discontinued treatment before
+required to meet the eligible weight range (30–150 kg) and                                                   week 24                                           week 24
+serum IgE concentrations (30–1500 IU/mL) for                                                                 5 due to adverse events                           2 due to adverse events
+                                                                                                             2 due to poor compliance                          1 due to lack of efficacy
+omalizumab dosing. Participants who had undergone any                                                        1 participant withdrew                            4 participants withdrew
+endoscopic sinus surgery (including nasal polypectomy)                                                                                                         1 due to other reasons
+within 6 months before screening were excluded from the
+study, as were patients with conditions or concomitant                          171 completed 24-week study                      165 completed 24-week study
+diseases such as antrochoanal polyps, nasal septal                                  intervention                                     intervention
+deviation that would occlude at least one nostril, acute
+rhinosinusitis, nasal or upper respiratory viral infection,
+                                                                                174 completed study                              165 completed study
+known or suspected diagnosis of cystic fibrosis or
+eosinophilic granulomatous with polyangiitis. Participants
+who received a biologic treatment less than 4 weeks                             181 included in intention-to-treat               179 included in intention-to-treat
+                                                                                    population                                       population
+(or 5 half-lives) before screening were also excluded.
+Further details of selection criteria are provided in the
+protocol (appendix 2 p 41). Data on sex (male or female)                    Figure 1: Trial profile
+and race (American Indian or Alaska Native, Asian, Black
+or African American, Native Hawaiian or Other Pacific                       or no), and region (eastern Europe or rest of the world).                                 See Online for appendix 3
+Islander, White, Multiple, Not Reported, or Unknown)                        Participants and investigators were masked to the
+were self-reported by the participants and all participants                 assigned drug, with active drug or placebo injections
+provided written informed consent before participating in                   administered by unmasked study personnel who were
+the trial.                                                                  not involved in evaluating the participant.
+
+Randomisation and masking                                                   Procedures
+Patients were randomly assigned (1:1) to dupilumab or                       During the 4-week run-in period and throughout the
+omalizumab. Randomisation was assigned centrally with                       trial, patients received mometasone furoate nasal spray
+a stratified block randomisation schedule (block size 4)                    at a stable dose of 400 µg per day as two actuations of
+by Interactive Voice Response Technology. This system                       50 µg per nostril twice daily. If this dose was not tolerated
+generated the participant randomisation list and allocated                  or was not approved under local policy, patients followed
+the intervention number and the corresponding                               a once-daily regimen (total daily dose 200 µg). Asthma
+intervention kits to the participants. Before the study was                 background therapy (inhaled corticosteroid and second
+initiated, the log in information and directions for the                    controller medication) had to be maintained at a stable
+Interactive Voice Response Technology were provided to                      dose for at least 1 month before the screening visit,
+each site. Site personnel had access to the portal.                         during the screening and run-in period, and throughout
+Randomisation was stratified by previous endoscopic                         the study intervention period. During the treatment
+sinus surgery (yes or no), inhaled corticosteroid dose                      period, patients received either 300 mg of subcutaneous
+(low vs medium or high according to Global Initiative for                   dupilumab every 2 weeks or 75–600 mg subcutaneous
+Asthma 2020 guidelines), presence of NSAID-ERD (yes                         omalizumab every 2 weeks or every 4 weeks according to
+
+
+www.thelancet.com/respiratory Vol 13 December 2025                                                                                                                                                1069
+                   Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                       uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+         Articles
+
+
+
+
+                                                                                                               diary. Other secondary endpoints were change from
+                                            Dupilumab group       Omalizumab group         Total
+                                            (n=181)               (n=179)                  (n=360)             baseline at week 24 in total symptom score (range 0–9,
+                                                                                                               with a higher score indicating greater disease severity),
+  Age, years                                 51 (13∙3)             52 (12∙9)                52 (13∙1)
+                                                                                                               22-item Sino-Nasal Outcome Test (SNOT-22) total score
+  Sex
+                                                                                                               (range 0–110, with a higher score indicating greater
+    Male                                    107 (59%)              91 (51%)                198 (55%)
+                                                                                                               disease severity), peak nasal inspiratory flow, and
+    Female                                   74 (41%)              88 (49%)                162 (45%)
+                                                                                                               rhinosinusitis     severity    visual    analogue   scale
+  Race
+                                                                                                               (range 0–10 cm, with a higher score indicating greater
+    American Indian or Alaska Native          0                      2 (1%)                   2/358 (1%)
+                                                                                                               disease severity). SNOT-22 sub-domain scores will be
+    Asian                                     1/179 (1%)             1 (1%)                   2/358 (1%)       reported as post-hoc analyses. Tertiary or exploratory
+    Black or African American                 2/179 (1%)             1 (1%)                   3/358 (1%)       endpoints included change from baseline at week 24 in
+    White                                   171/179 (96%)         170 (95%)                341/358 (95%)       pre-bronchodilator FEV1, 7-point Asthma Control
+    Multiple                                  0                      1 (1%)                   1/358 (<1%)      Questionnaire score (ACQ-7, range 0–6, with a higher
+    Not reported or unknown                   5/179 (3%)             4 (2%)                  9/358 (3%)        score indicating greater disease severity), Asthma Quality
+  BMI (kg/m2)                                27∙43 (5∙03)          26∙85 (3∙98)             27∙14 (4∙54)       of Life Questionnaire (AQLQ, range 1–7, with a higher
+  CRSwNP duration, years                     13∙3 (9∙64)            13∙2 (9∙91)             13∙3 (9∙76)        score indicating greater disease severity), fractional
+  Previous endoscopic sinus surgery                                                                            exhaled nitric oxide (FeNO, ppb), forced expiratory
+       No previous surgeries                 36 (20%)              34 (19%)                 70 (19%)           flow 25–75%, time to first systemic corticosteroid burst
+       One previous surgery                  59 (33%)              61 (34%)                120 (33%)           (defined as short, high-dose course) for asthma and nasal
+       Two previous surgeries                35 (19%)              33 (18%)                 68 (19%)           polyp, and annualised rate of systemic corticosteroid
+       Three or more previous surgeries      51 (28%)               51 (29%)               102 (28%)           courses.
+  Age of onset of asthma, years              34∙9 (16∙48)          36∙1 (16∙35)             35∙5 (16∙40)         Safety was assessed in all participants who received at
+  NSAID-ERD                                  74 (41%)               71 (40%)               145 (40%)           least one dose of the study drugs and included incidence
+  Ongoing allergic rhinitis                  83 (46%)              81 (45%)                164 (46%)           of adverse events, serious adverse events, and adverse
+  Ongoing seasonal allergic rhinitis         73 (40%)              66 (37%)                139 (39%)           events of special interest (appendix 1 p 2).
+  Ongoing perennial allergic rhinitis        60 (33%)              46 (26%)                106 (29%)
+  Nasal polyp score (scale 0–8)*              6∙11 (1∙17)            6∙15 (1∙28)              6∙13 (1∙22)      Statistical analysis
+  Smell test (UPSIT) score (scale 0–40)†     11∙10 (5∙45)           11∙00 (6∙13)             11∙10 (5∙79)      Originally, a sample size of 422 was targeted to power the
+  Loss of smell score (scale 0–3)*            2∙86 (0∙40)            2∙83 (0∙44)              2∙84 (0∙42)      two primary endpoints, nasal polyp score and UPSIT, as
+  Nasal congestion score (scale 0–3)*         2∙47 (0∙56)            2∙44 (0∙63)              2∙46 (0∙59)      well as the key asthma secondary endpoint of change
+  Total symptom score (scale 0–9)*            7∙38 (1∙27)            7∙30 (1∙49)              7∙34 (1∙38)      from pre-bronchodilator FEV1. However, the patient
+  SNOT-22 total score (scale 0–110)*         64∙80 (19∙06)         66∙20 (20∙56)            65∙50 (19∙81)
+                                                                                                               inclusion criterion of pre-bronchodilator FEV1 of 85% or
+                                                                           (Table 1 continues on next page)
+                                                                                                               less predicted normal at screening proved to be a barrier
+                                                                                                               to enrolment. To accelerate enrolment, the protocol was
+                                                                                                               therefore amended to remove the inclusion criterion of
+                                     weight tier and IgE concentrations. Further information                   pre-bronchodilator FEV1 of 85% or less predicted normal.
+                                     on dosing is provided in the protocol (appendix 2                         Due to the low recruitment rate, the protocol was further
+                                     pp 48–51). Patients receiving omalizumab every 4 weeks                    amended to decrease the sample size to 320 participants
+                                     also received placebo as needed to mask the number of                     and downgrade the key asthma endpoint from secondary
+                                     active injections. Rescue treatment with systemic                         to exploratory. Based on the original assumptions, the
+                                     antibiotics, short-course systemic corticosteroids, or                    reduced sample size of 320 patients with approximately
+                                     endoscopic sinus surgery was permitted as needed                          160 patients per group would provide 96% power to detect
+                                     during the treatment. Participants receiving rescue                       a treatment difference of –0∙7 using a two-sided t-test
+                                     treatment other than endoscopic sinus surgery could                       with an α of 0∙025 for change from baseline in nasal
+                                     continue on the study drug.                                               polyp score at week 24 in dupilumab 300 mg administered
+                                                                                                               every 2 weeks versus omalizumab administered every
+                                     Outcomes                                                                  2 weeks or 4 weeks, and more than 99% power to detect a
+                                     The two primary endpoints were change from baseline                       treatment difference of 6∙7 with pooled standard deviation
+                                     in endoscopic nasal polyp score (range 0–8, with a higher                 of 8∙64 (dupilumab) and 6∙69 (omalizumab) using a
+                                     score indicating greater disease severity) and University                 two-sided t-test with an α of 0∙025 for change from
+                                     of Pennsylvania Smell Identification Test (UPSIT;                         baseline in UPSIT at week 24 in dupilumab
+                                     range 0–40, with a lower score indicating greater disease                 versus omalizumab. Further details are provided in the
+                                     severity) at week 24. Key secondary endpoints were                        protocol (appendix 2 pp 77–78; appendix 1 p 1).
+                                     change from baseline at week 24 in daily loss of smell                      Efficacy data for all outcomes were analysed in the
+                                     and nasal congestion severity scores (range 0–3, with a                   intention-to-treat study population (consisting of all
+                                     higher score indicating greater disease severity), each                   randomised patients, regardless of whether they received
+                                     recorded in the patient-reported daily nasal symptom                      treatment, and analysed according to the study
+
+
+1070                                                                                                                                  www.thelancet.com/respiratory Vol 13 December 2025
+                          Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                             uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+                                                                                                                                                                             Articles
+
+
+
+
+intervention group allocated by randomisation). Change
+                                                                                                                          Dupilumab group            Omalizumab group           Total
+from baseline in nasal polyp score and UPSIT at week 24                                                                   (n=181)                    (n=179)                    (n=360)
+was analysed in an ANCOVA model with study
+                                                                               (Continued from previous page)
+intervention (dupilumab, omalizumab), corresponding
+                                                                               Peak nasal inspiratory flow, L/min†          79∙78 (50∙16)              77∙68 (59∙44)              78∙74 (54∙89)
+baseline value, previous endoscopic sinus surgery (yes or
+                                                                               Rhinosinusitis disease severity (visual       8∙63 (1∙50)                8∙75 (1∙41)                8∙69 (1∙45)
+no), inhaled corticosteroid dose (low vs medium or high),                      analogue scale, 0–10 cm)*
+presence of NSAID-ERD (yes or no), and region                                  Pre-bronchodilator FEV1, L                    2∙68 (0∙92)                2∙59 (0∙82)                2∙63 (0∙87)
+(Eastern Europe or rest of world) as covariates and                            Pre-bronchodilator FEV1, % predicted         77∙4 (19∙68)               77∙9 (16∙06)               77∙6 (17∙96)
+reported as mean (SD). The adjusted least squares means                        ACQ-7 score (scale 0–6)*                      2∙82 (0∙99)                2∙69 (0∙96)                2∙76 (0∙97)
+in change from baseline of each study intervention
+                                                                               Forced expiratory flow 25–75%, L/s            1∙84 (1∙11)                1∙72 (0∙91)                 1∙78 (1∙02)
+group, the least squares mean difference between the
+                                                                               AQLQ (scale 1–7)*                             4∙13 (1∙20)                4∙23 (1∙25)                4∙18 (1∙22)
+dupilumab and omalizumab groups, and the
+                                                                               Blood eosinophil count, cells per µL       562 (385)                  550 (351)                   556 (368)
+corresponding SEs and 95% CI of the differences
+                                                                               Baseline serum total                       212 (181)                  220 (185)                   216 (183)
+obtained from the imputed data were combined using                             immunoglobulin E, IU/mL
+Rubin’s formula. The safety analysis set included all                          FeNO (ppb)                                   54∙30 (40∙78)              54∙60 (38∙52)              54∙40 (39∙65)
+randomly assigned patients who received at least                               Number of severe asthma                       0∙6 (1∙9)                  0∙9 (2∙7)                  0∙7 (2∙3)
+one dose of treatment. Incidences of adverse events were                       exacerbations in the year before
+summarised using descriptive statistics and reported as                        screening
+absolute values with percentages.                                              Inhaled corticosteroid dose level‡
+  For patients discontinuing the study intervention                              Low                                       64 (35%)                    63 (35%)                  127 (35%)
+before week 24 not due to any reason related to the                              Medium or high                            117 (65%)                  116 (65%)                  233 (65%)
+COVID-19 pandemic, off-study intervention efficacy                             Systemic corticosteroid use in the          86 (48%)                    90 (50%)                  176 (49%)
+assessments measured up to week 24 were included in                            previous 2 years
+this analysis. By contrast, for any patients discontinuing                     Indication for previous systemic corticosteroid use
+the study intervention due to any reason related to the                          CRSwNP                                     67/86 (78%)                77/90 (86%)               144/176 (82%)
+COVID-19 pandemic, off-study intervention data were                              Asthma                                     18/86 (21%)                15/90 (17%)                33/176 (19%)
+set to missing. For patients who underwent endoscopic                            Other                                       5/86 (6%)                  5/90 (6%)                 10/176 (6%)
+sinus surgery for CRSwNP or received systemic                                 Data are n (%), n/N (%), or mean (SD). Additional demographic data are presented in appendix 1 (p 5).
+corticosteroids for any reason during the study, data                         CRSwNP=chronic rhinosinusitis with nasal polyps. NSAID-ERD=non-steroidal anti-inflammatory drug-exacerbated
+                                                                              respiratory disease. SNOT-22=22-item Sino-Nasal Outcome Test. UPSIT=University of Pennsylvania Smell
+collected afterwards were set to missing, and the worst                       Identification Test. ACQ-7=asthma control questionnaire 7-item version. AQLQ=asthma quality of life questionnaire
+post-baseline value on or before the time of endoscopic                       with standardised activities. FeNO=fractional exhaled nitric oxide. ppb=parts per billion. *Higher scores indicate
+sinus surgery or systemic corticosteroid intake was used                      greater disease severity. †Higher scores indicate lower disease severity. ‡According to The Global initiative for
+to impute the missing week 24 value (for patients whose                       Asthma 2020 guidelines.
+
+post-baseline values are all missing, the baseline was                        Table 1: Baseline characteristics
+used to impute the value). For patients who discontinued
+the treatment without being rescued by endoscopic sinus
+surgery or receiving systemic corticosteroid, a multiple                    week 24 in total severity score. This fixed hierarchical
+imputation approach was used to impute the missing                          approach controlled the overall type I error rate at the
+week 24 value by using all patients excluding those who                     0∙05 level. Secondary and other endpoints not in
+had undergone endoscopic sinus surgery or received                          the hierarchy were not included in multiplicity adjust­
+systemic corticosteroids on or before week 24 under an                      ments and p values for these are nominal and for
+assumption of missing at random. Further details are                        descriptive purpose. Statistical analyses were done with
+provided in the statistical analysis plan (appendix 3                       SAS (version 9.4).
+pp 22–23). Subgroup analyses were conducted for the
+two primary endpoints (appendix 1 p 1).                                     Role of the funding source
+  The changes from baseline in the continuous secondary                     The study sponsors participated in the study design, data
+endpoints to week 24 were analysed using the ANCOVA                         analysis, data interpretation, and writing of the report,
+model in the same way as for the primary endpoints.                         and approved the decision to submit for publication.
+Significance was only possible at p=0∙05 for each key
+secondary and selected secondary endpoints in the                           Results
+hierarchy if both comparisons had p<0∙05 for the                            Between Sept 27, 2021, and Dec 27, 2024, 819 individuals
+primary endpoints. The following key secondary                              were screened for inclusion in the study. 459 were
+endpoints and the selected secondary endpoint were                          ineligible, the most common reasons being not meeting
+included in the multiplicity adjustment scheme and                          the inclusion criteria of nasal polyp score ≥5 and ongoing
+tested in the following order: change from baseline to                      symptoms of nasal congestion and loss of smell (n=167);
+week 24 in loss of smell, change from baseline to week 24                   not meeting the inclusion criterion of pre-bronchodilator
+in nasal congestion, and change from baseline to                            FEV1 ≤85% of predicted normal (n=114); and not meeting
+
+
+www.thelancet.com/respiratory Vol 13 December 2025                                                                                                                                                1071
+                   Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                       uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+       Articles
+
+
+
+
+                                                Dupilumab group (n=181)                                 Omalizumab group (n=179)                                 Least squares mean difference of
+                                                                                                                                                                 dupilumab over omalizumab
+                                                                                                                                                                 (95% CI; p-value)
+                                                Baseline           Week 24                              Baseline            Week 24
+                                                Mean (SD)          Mean (SD)        Least squares       Mean (SD)           Mean (SD)          Least squares
+                                                                                    mean change                                                mean change
+                                                                                    from                                                       from
+                                                                                    baseline (SE)                                              baseline (SE)
+  Primary endpoints
+  Nasal polyp score (scale 0–8)                   6∙11               3∙56             –2∙65               6∙15                 5∙19              –1∙05             –1∙60
+                                                (1∙17)             (2∙01)           (0∙15)              (1∙28)              (1∙83)             (0∙15)            (–1∙96 to –1∙25; p<0∙0001)
+  Smell test score (UPSIT; scale 0–40)           11∙10               23∙40            12∙70              11∙00                15∙20              4∙70              8∙00
+                                                (5∙45)              (8∙80)          (0∙72)              (6∙13)              (8∙86)             (0∙74)            (6∙30 to 9∙70; p<0∙0001)
+  Secondary endpoints
+  Nasal congestion score (scale 0–3)              2∙47                0∙86            –1∙63               2∙44                 1∙43              –1∙05             –0∙58
+                                                (0∙56)              (0∙66)          (0∙07)              (0∙63)              (0∙91)             (0∙07)            (–0∙74 to –0∙42; p<0∙0001)
+  Loss-of-smell score (scale 0–3)                 2∙86                1∙41            –1∙55               2∙83                 2∙23             –0∙74              –0∙81
+                                                (0∙40)              (1∙03)          (0∙08)              (0∙44)              (0∙96)             (0∙09)            (–1∙01 to –0∙61; p<0∙0001)
+  Total symptom score (scale 0–9)                 7∙38                3∙03            –4∙48               7∙30                 4∙79              –2∙73             –1∙74
+                                                (1∙27)              (1∙83)          (0∙17)              (1∙49)              (2∙26)             (0∙18)            (–2∙15 to –1∙33; p<0∙0001)
+  SNOT-22 total score (scale 0–110)             64∙80               20∙80            –44∙60             66∙20                 34∙60            –31∙90            –12∙70
+                                                (19∙06)            (16∙75)          (1∙66)              (20∙56)             (22∙77)            (1∙71)            (–16∙70 to –8∙80; nominal p<0∙0001)
+  Peak nasal inspiratory flow (L/min)            79∙78             150∙88            68∙96               77∙68              118∙18              37∙69             31∙27
+                                                (50∙16)            (61∙72)          (4∙11)              (59∙44)             (67∙48)            (4∙29)            (21∙40 to 41∙15; nominal p<0∙0001)
+  Rhinosinusitis disease severity (visual         8∙63                3∙22            –5∙43               8∙75                 5∙21              –3∙56             –1∙87
+  analogue scale, 0–10 cm)                      (1∙50)              (2∙97)          (0∙27)              (1∙41)              (3∙21)             (0∙28)            (–2∙52 to –1∙23; nominal p<0∙0001)
+  Other endpoints
+  Pre-bronchodilator FEV1 (L)                     2∙68               2∙99              0∙29               2∙59                 2∙79              0∙14              0∙15
+                                                (0∙92)             (0∙88)           (0∙04)              (0∙82)              (0∙91)             (0∙05)            (0∙05 to 0∙26; nominal p=0∙0030)
+  ACQ-7 score (scale 0–6)                         2∙82                0∙90            –1∙92               2∙69                 1∙37              –1∙44             –0∙48
+                                                (0∙99)              (0∙74)          (0∙07)              (0∙96)              (1.00)             (0∙08)            (–0∙65 to –0∙31; nominal p<0∙0001)
+  FeNO (ppb)                                    54∙30                25∙60           –30∙0              54∙60                48∙90              –4∙60            –25∙40
+                                                (40∙78)             (14∙24)         (2∙48)              (38∙52)             (42∙74)            (2∙65)            (–31∙40 to –19∙40; nominal p<0∙0001)
+  Forced expiratory flow 25–75% (L/s)             1∙84               2∙27              0∙41               1∙72                 1∙99              0∙21              0∙20
+                                                (1∙11)             (1∙12)           (0∙07)              (0∙91)              (1∙04)             (0∙07)            (0∙04 to 0∙36; nominal p=0∙013)
+  AQLQ (scale 1–7)                                4∙13                6∙14             2∙00               4∙23                 5∙58               1∙44             0∙56
+                                                (1∙20)              (0∙83)          (0∙08)              (1∙25)              (1∙14)             (0·08)            (0∙37 to 0∙75; nominal p<0∙0001)
+ UPSIT=University of Pennsylvania Smell Identification Test. SNOT-22=22-item Sino-Nasal Outcome Test. ACQ-7=asthma control questionnaire 7-item version. FeNO=fractional exhaled nitric oxide. ppb=parts
+ per billion. AQLQ=asthma quality of life questionnaire with standardised activities.
+
+ Table 2: Summary of primary, secondary, and other efficacy endpoints
+
+
+
+                                    the eligibility requirements of the omalizumab drug-                                  176 (49%) participants used systemic corticosteroids in
+                                    dosing table (n=99; figure 1). 360 participants were                                  the 2 years before enrolment, predominantly for
+                                    enrolled in EVEREST and randomly assigned to                                          CRSwNP. Most (81%) participants had undergone at least
+                                    dupilumab every 2 weeks (n=181) or omalizumab every                                   one endoscopic sinus surgery before enrolment. The
+                                    2 weeks or 4 weeks (n=179; figure 1). The database lock                               mean baseline nasal polyp score was 6∙13 (SD 1∙22),
+                                    occurred on Jan 27, 2025. Eight participants were                                     UPSIT was 11∙10 (5∙79), nasal congestion was 2∙46 (0∙59),
+                                    randomly assigned to a group but were not treated and                                 and loss of smell was 2∙84 (0∙42). The mean baseline pre-
+                                    eight participants in each treatment group discontinued                               bronchodilator FEV1 was 2∙63 L (SD 0∙87) and ACQ-7
+                                    treatment before week 24 (figure 1). The most common                                  score was 2∙76 (0∙97), indicating inadequately controlled
+                                    reason for treatment discontinuation was adverse events.                              asthma. The overall study population showed a mean
+                                      Baseline demographics and patient characteristics were                              baseline pre-bronchodilator FEV1 percent predicted value
+                                    balanced across the treatment groups and were consistent                              of 77∙6% corresponding to moderate asthma. The
+                                    with a population with severe, uncontrolled CRSwNP                                    distribution of pre-bronchodilator FEV1 percent predicted
+                                    coexisting with mild, moderate, or severe asthma (table 1).                           value for mild (≥80%), moderate (60% to <80%), and
+                                    198 (55%) participants were male, 162 (45%) were female,                              severe (<60%) asthma was 44%, 42%, and 14% of the
+                                    and most of the participants were white (95%). The mean                               study population, respectively. Around two-thirds (65%) of
+                                    age of the total population sample was 52 years (SD 13∙1).                            patients were on medium or high dose inhaled
+
+
+1072                                                                                                                                www.thelancet.com/respiratory Vol 13 December 2025
+                        Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                           uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+                                                                                                                                                                Articles
+
+
+
+
+                                         A Nasal polyp score                                                            B UPSIT score
+                                          0                                                                           15·0
+
+                                        –0·5                                                                          12·5
+
+
+                   Nasal polyp score                                                               UPSIT score
+                                        –1·0                                                                          10·0
+
+                                        –1·5                                                                           7·5
+
+
+                 change from baseline                                                          change from baseline
+                                        –2·0                                                                           5·0
+                                                Treatment group
+                                        –2·5        Dupilumab                                                          2·5
+                                                    Omalizumab
+                                        –3·0                                                                            0
+                                           Baseline    4               12                24                              lin e      2   4     12     24
+                                                                      Week                                            Ba                      Week
+  Number of participants                                                                                                se
+             Dupilumab                         181    181             181                181                                 180 180 180      180    180
+            Omalizumab                         179    179             179                179                                 175 175 175      175    175
+
+                                          C Loss of smell score                                                         D SNOT-22 score
+                                          0                                                                             0
+
+                                                                                                                      –10
+
+                  Loss of smell score                                                           SNOT-22 total score
+                                        –0·5
+                                                                                                                      –20
+                                        –1·0
+
+
+                 change from baseline                                                          change from baseline
+                                                                                                                      –30
+                                        –1·5
+                                                                                                                      –40
+
+                                        –2·0                                                                          –50
+                                           Baseline    4          8    12    16    20    24                              Baseline       4     12     24
+                                                                      Week                                                                    Week
+  Number of participants
+             Dupilumab                         179    179      179    179    179   179   179                                 176        176   176    176
+            Omalizumab                         178    178      178    178    178   178   178                                 176        176   176    176
+
+Figure 2: Change from baseline in nasal polyp score (A), UPSIT (B), loss of smell score (C), and SNOT-22 (D) up to week 24
+Data are least squares mean (SE). UPSIT=University of Pennsylvania Smell Identification Test. SNOT-22=22-item Sino-Nasal Outcome Test.
+
+
+corticosteroids at baseline, and 35% were on a low dose                                  dupilumab and omalizumab arms, respectively) and
+inhaled corticosteroid, according to the Global Initiative                               <300 cells/µL (n=33 and n=40 in the dupilumab and
+for Asthma 2020 guidelines.22 145 patients (40%) had                                     omalizumab arms, respectively), the superiority of
+NSAID-ERD.                                                                               dupilumab over omalizumab was evident at week 24 for
+  Improvements were significantly greater with                                           UPSIT but was non-significant for nasal polyp score
+dupilumab than omalizumab for all primary and                                            (appendix 1 pp 17–19). Nominally greater improvement
+secondary efficacy endpoints at week 24 (table 2; figure 2).                             with dupilumab over omalizumab was evident from the
+Least squares mean differences in change from baseline                                   first post-baseline assessment for each primary endpoint;
+dupilumab over omalizumab at week 24 were: nasal polyp                                   at week 4, nasal polyp score least squares mean difference
+score –1∙60 (95% CI –1∙96 to –1∙25; p<0∙0001) and                                        in change from baseline for dupilumab over omalizumab
+UPSIT 8∙0 (6∙3 to 9∙7; p<0∙0001). The magnitudes of the                                  was –1∙01 (95% CI –1∙32 to –0∙71; nominal p<0∙0001); at
+mean differences in improvement with dupilumab over                                      week 2, UPSIT least squares mean difference for
+omalizumab for the primary endpoints met or exceeded                                     dupilumab over omalizumab was 3∙5 (2∙0 to 5∙0;
+reported thresholds for meaningful within-patient change                                 nominal p<0∙0001; figure 2A, B).
+in clinical settings (appendix 1 p 6). The treatment benefit                                Similarly, patients receiving dupilumab showed
+of dupilumab over omalizumab was largely consistent                                      significantly greater improvements in loss of smell, nasal
+across the prespecified patient subgroups (appendix 1                                    congestion, total symptom score (all p<0∙0001, table 2,
+pp 17–19). Dupilumab superiority for each primary                                        figure 2), and nominally greater improvements in
+endpoint was evident at 24 weeks irrespective of age, sex,                               SNOT-22, peak nasal inspiratory flow, and rhinosinusitis
+bodyweight, inhaled corticosteroid dose level, region,                                   severity visual analogue scale (all nominal p<0∙0001,
+presence or absence of NSAID-ERD, presence or absence                                    table 2) at week 24 than patients receiving omalizumab.
+of previous endoscopic sinus surgery, age of onset of                                    The least squares mean differences in change from
+asthma, presence or absence of severe asthma                                             baseline dupilumab over omalizumab at week 24
+exacerbations in the year before the study, smoking                                      of −12∙70 (95% CI −16∙70 to −8∙80; nominal p<0∙0001)
+history, and use of systemic corticosteroids in the 2 years                              for SNOT-22 and 31∙27 (21∙40 to 41∙15; p<0∙0001) for
+before the study. In the subgroups with baseline blood                                   peak nasal inspiratory flow were greater than the
+eosinophil counts of <150 cells/µL (n=8 and n=5 in the                                   minimally important clinical differences of at least
+
+
+www.thelancet.com/respiratory Vol 13 December 2025                                                                                                                         1073
+                   Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                       uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+       Articles
+
+
+
+
+                                                                          A Pre-bronchodilator FEV1                                               B ACQ-7
+                                                                         0·4    Treatment group                                                   0
+                                                                                    Dupilumab
+                                                                                    Omalizumab
+
+
+                                           Pre-bronchodilator FEV1 (L)
+                                                                         0·3                                                                    –0·5
+
+                                                                                                                             ACQ-7 score
+                                                                         0·2                                                                    –1·0
+
+
+
+                                              change from baseline
+                                                                         0·1                                             change from baseline   –1·5
+
+
+                                                                           0                                                                    –2·0
+                                                                         Ba          2    4    8       12    16    24                              Baseline   4     12              24
+                                                                           seline                     Week                                                          Week
+                            Number of participants
+                                       Dupilumab                               174 174 174     174    174    174   174                                 181    181   181             181
+                                      Omalizumab                               170 170 170     170    170    170   170                                 179    179   179             179
+
+                                                                          C AQLQ                                                                 D FeNO
+                                                                         2·5                                                                      0
+
+                                                                         2·0
+                                                                                                                                                –10
+
+                                                  AQLQ                                                                       FeNO (ppb)
+                                                                         1·5
+                                                                                                                                                –20
+
+
+                                           change from baseline                                                          change from baseline
+                                                                         1·0
+
+                                                                                                                                                –30
+                                                                         0·5
+
+                                                                           0                                                                    –40
+                                                                            Baseline     4             12          24                              Baseline    4    12              24
+                                                                                                      Week                                                          Week
+                            Number of participants
+                                       Dupilumab                               176       176          176          176                                 168    168   168             168
+                                      Omalizumab                               176       176          176          176                                 156    156   156             156
+
+                          Figure 3: Change from baseline in pre-bronchodilator FEV1 (A), ACQ-7 (B), AQLQ (C), and FeNO (ppb) (D) up to week 24
+                          Data are least squares mean (SE). ACQ-7=asthma control questionnaire. AQLQ=asthma quality of life questionnaire. FeNO=fractional exhaled nitric oxide. ppb=parts
+                          per billion.
+
+                          8∙9 points for SNOT-22 and at least 20 L per min for peak                                pre-bronchodilator FEV1, –21∙10 (–25∙90 to –16∙30) for
+                          nasal inspiratory flow (appendix 1 p 6). Nominally greater                               FeNO, and 0∙33 (0∙14 to 0∙52) for AQLQ. One (1%) patient
+                          improvements with dupilumab over omalizumab were                                         in the dupilumab group and two (1%) patients in the
+                          evident from week 4 with least squares mean differences                                  omalizumab group had one severe asthma exacerbation
+                          in change from baseline of –0∙27 (95% CI –0∙37 to –0∙17)                                 during the study.
+                          for loss of smell, −0∙35 (−0∙46 to −0∙24) for nasal                                        The number of participants with a first systemic
+                          congestion, −0∙83 (−1∙09 to −0∙58) for total symptom                                     corticosteroid burst during the study treatment period
+                          score, −8∙60 (−12∙20 to −5∙10) for SNOT-22, 14∙30 L                                      was none for nasal polyps and three (2%) for asthma in
+                          per min (9∙20 to 19∙50) for peak nasal inspiratory flow,                                 the dupilumab group, and 14 (8%) for nasal polyps and
+                          and −1∙56 (−2∙10 to −1∙03) for rhinosinusitis severity                                   four (2%) for asthma in the omalizumab group
+                          visual analogue scale.                                                                   (appendix 1 p 8). The annualised rates of systemic
+                            Improvements were also greater with dupilumab than                                     corticosteroid courses for any reason were 4% in the
+                          omalizumab for asthma endpoints, with least squares                                      dupilumab group and 20% in the omalizumab group,
+                          mean differences at week 24 of 0∙15 L (95% CI 0∙05 to                                    and the relative risk of requiring systemic corticosteroids
+                          0∙26; nominal p=0∙0030) for pre-bronchodilator FEV1,                                     was 18% (95% CI 6∙25 to 54∙15; nominal p=0·0020) for
+                          0∙20 L/s (0∙04 to 0∙36; nominal p=0∙013) for forced                                      dupilumab versus omalizumab, indicating a reduced risk
+                          expiratory flow 25–75%, −0∙48 ( –0∙65 to −0∙31; nominal                                  of requiring systemic corticosteroids with dupilumab.
+                          p<0∙0001) for ACQ-7 score, –25∙40 ppb (–31∙40 to –19∙40;                                 The risk of worsening CRSwNP or asthma was assessed
+                          nominal p<0∙0001) for FeNO, and 0∙56 (0∙37 to 0∙75;                                      based on the need for initiation with rescue therapy. The
+                          nominal p<0∙0001) for AQLQ (figure 3, table 2). The least                                risk of CRSwNP worsening was higher for omalizumab
+                          squares mean differences for AQLQ were greater than the                                  than dupilumab but there was little difference between
+                          minimally important clinical differences of at least 0∙5                                 groups in the worsening of asthma (appendix 1 p 9). No
+                          points (appendix 1 p 6). At week 4, least squares mean                                   patient in the dupilumab group and three patients in the
+                          differences in change from baseline were –0∙45 (95% CI                                   omalizumab group needed endoscopic sinus surgery
+                          –0∙62 to –0∙28) for ACQ-7 score, 0∙16 (0∙08 to 0∙24) for                                 during the 24-week treatment period.
+
+
+1074                                                                                                                          www.thelancet.com/respiratory Vol 13 December 2025
+                  Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                     uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+                                                                                                                                                                              Articles
+
+
+
+
+  Blood eosinophil count showed a transient increase in
+                                                                                                                                                      Dupilumab group Omalizumab group
+the dupilumab group, returning towards baseline levels                                                                                                (n=179)         (n=173)
+by week 24, whereas in the omalizumab group there was
+                                                                               Treatment-emergent adverse events
+a generally sustained decrease (appendix 1 p 20). Patients
+                                                                               Any                                                                    115 (64%)              116 (67%)
+in the dupilumab group had a decrease in serum total
+                                                                               Any serious                                                               3 (2%)                7 (4%)
+IgE concentrations between baseline and week 24, while
+                                                                               Any leading to death                                                      0                     0
+patients in the omalizumab group showed an increase
+                                                                               Any leading to permanent study intervention discontinuation               5 (3%)                2 (1%)
+(appendix 1 p 20). Efficacy improve­ments were greater
+                                                                               Treatment-emergent adverse events occurring in ≥5% of patients*
+with dupilumab than omalizumab in nasal polyp score
+                                                                               Nasopharyngitis                                                         21 (12%)               20 (12%)
+and UPSIT irrespective of baseline IgE concentration
+                                                                               Accidental overdose                                                     12 (7%)                21 (12%)
+(<100 vs ≥100 IU/mL; appendix 1 pp 11–12).
+  In the safety population, which included all patients                        Headache                                                                10 (6%)                13 (8%)
+
+who were randomly assigned and received at least                               Upper respiratory tract infection                                       10 (6%)                 8 (5%)
+
+one dose of study medication, the number of patients                           Cough                                                                    9 (5%)                 2 (1%)
+with any treatment-emergent adverse events was similar                        Data are n (%). Following randomisation, two patients in the dupilumab group and six patients in the omalizumab
+in the dupilumab and omalizumab groups (115 [64%] of                          group did not receive treatment and were therefore not included in the safety population. *According to the preferred
+                                                                              terms of the Medical Dictionary for Regulatory Activities.
+179 vs 116 [67%] of 173; table 3). The most commonly
+reported adverse events were nasopharyngitis, accidental                      Table 3: Treatment-emergent adverse events in the safety population
+overdose, headache, upper respiratory tract infection,
+and cough. Three (2%) patients in the dupilumab group
+and seven (4%) patients in the omalizumab group                             week 4 in nasal polyp score and week 2 in UPSIT scores
+reported at least one serious treatment-emergent adverse                    were evident with dupilumab compared with omalizumab.
+event (table 3, appendix 1 p 13). Four (2%) patients in the                 The differences between nasal polyp score and UPSIT
+dupilumab group and two (1%) patients in the                                scores on dupilumab treatment compared with
+omalizumab group reported at least one adverse event of                     omalizumab were sustained and significant at week 24
+special interest (appendix 1 p 14). The adverse events                      and were clinically meaningful with the mean differences
+of special interest reported in the dupilumab group were                    meeting or exceeding the thresholds for clinically
+seasonal allergy, urticaria, and pregnancy, and in the                      meaningful within-patient change.23 Additionally, the
+omalizumab group were helminthic infection and                              superiority of dupilumab over omalizumab was
+keratitis. The participant who became pregnant withdrew                     demonstrated across all the CRSwNP-specific secondary
+from the study per protocol. Five (3%) participants in the                  efficacy endpoints, namely, loss of smell, nasal congestion,
+dupilumab group and two (1%) participants in the                            total symptom score, SNOT-22, peak nasal inspiratory
+omalizumab group permanently discontinued treatment                         flow, and rhinosinusitis severity visual analogue score.
+due to treatment-emergent adverse events (appendix 1                        Notably, the mean UPSIT score of patients in the
+p 15). No adverse events led to death.                                      dupilumab group crossed the anosmia threshold (>18)
+                                                                            between weeks 2–4, maintaining this improvement
+Discussion                                                                  throughout the study, while the mean UPSIT score for
+In patients with severe CRSwNP that is inadequately                         patients in the omalizumab group remained below the
+controlled with standard of care treatment and coexists                     UPSIT anosmia threshold (≤18) throughout the study.
+with mild, moderate, or severe asthma, adding dupilumab                     Dupilumab treatment also substantially improved
+to daily mometasone furoate nasal spray provided                            asthma control compared with omalizumab as measured
+significant and clinically meaningful improvements over                     by improvements in pre-bronchodilator FEV1, ACQ-7,
+those seen with omalizumab. This broad and significant                      AQLQ, and FeNO. Dupilumab superiority to omalizumab
+effect was reflected in reduced polyp size and improved                     manifested in both CRSwNP (upper airways) and
+sense of smell. The improved benefit with dupilumab                         asthma (lower airways) outcomes, supporting the unified
+over omalizumab was seen within 4 weeks and sustained                       airway concept model of interlinked respiratory diseases.24
+over 24 weeks.                                                              These head-to-head results corroborate previous
+  In this first head-to-head comparison of dupilumab and                    indirect treatment comparisons of phase 3 randomised
+omalizumab in patients with severe CRSwNP and                               controlled trials that showed dupilumab resulted in
+coexisting asthma, dupilumab showed superiority over                        significantly greater improvements in nasal polyp score
+omalizumab in meeting the primary endpoints and                             (mean −1∙09 [95% CI –1∙60 to −0∙57]) and nasal
+demonstrating significant improvement in all secondary                      congestion score (–0∙52 [–0∙84 to −0∙20]) at week 24
+endpoints, including asthma endpoints. Baseline                             compared with omalizumab in patients with CRSwNP
+characteristics were generally balanced across treatment                    and coexisting asthma.15,19
+groups, although there were slightly more women in the                        The increase of total IgE concentration in the
+dupilumab group compared with the omalizumab                                omalizumab group following treatment is consistent
+group (49% vs 41%). Rapid improvements as early as                          with previous pharmacokinetic studies in which the
+
+
+www.thelancet.com/respiratory Vol 13 December 2025                                                                                                                                              1075
+                   Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                       uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+       Articles
+
+
+
+
+                          more stable omalizumab-IgE complexes were slower to                          mepolizumab outcomes in CRSwNP, highlighting the
+                          eliminate than free IgE.25 Consistent with previous                          need for a head-to-head trial including dupilumab and
+                          studies, blood total IgE concentrations decreased in the                     mepolizumab.18 Further studies will be necessary to
+                          dupilumab group.1 Changes in eosinophil counts were                          identify subgroups of patients with CRSwNP by
+                          consistent with previously observed studies and the                          phenotype who might respond better to omalizumab
+                          known mechanism of action of both biologic agents,                           than to dupilumab.
+                          and therefore expected. These biomarker observations                           In conclusion, dupilumab demonstrated superiority
+                          were conducted exclusively for research purposes.                            over omalizumab for both CRSwNP and asthma
+                          Notably, these changes in biomarkers appear to have no                       outcomes in patients with severe CRSwNP and coexisting
+                          effect on clinical outcomes, as reported in the existing                     asthma. This study supports the efficacy of dupilumab in
+                          literature.26                                                                comorbid type 2 respiratory diseases versus an active
+                             The superiority of dupilumab over omalizumab was                          biologic comparator and supports the known safety
+                          evident across a range of prespecified baseline subgroups,                   profiles of dupilumab and omalizumab.
+                          including subgroups with and without NSAID-ERD, with                         Contributors
+                          and without previous endoscopic sinus surgery, and with                      EDC, GWC, EH, MS, TG, MV, ZH, JMu, PG, JMi, ATP, MW, MZ, and
+                          and without the use of systemic corticosteroids in the                       PWH acquired data. EDC, EH, PG, ATP, MW, SZ, MC, SN, JTA, AR,
+                                                                                                       YD, AM, and PWH contributed to the conception and design of the
+                          previous 2 years. NSAID-ERD is a challenging disease in                      study. EDC and PG verified the underlying data. SZ, MC, JTA, and
+                          which biologics have shown good efficacy,27,28 and the                       MZ interpreted the data. MZ did the statistical analysis. All authors had
+                          current findings provide important new evidence relevant                     access to the data, provided critical feedback and final approval for
+                          to its pathophysiology and management. The requirement                       submission, and accept responsibility for the accuracy, completeness,
+                                                                                                       and protocol adherence of data and analyses. All authors made the
+                          for systemic corticosteroids was low in both groups                          decision to submit this manuscript. All investigators had confidentiality
+                          during the study, consistent with the imputed steroid-                       agreements with the funders and sponsors (Sanofi and Regeneron
+                          sparing effect of biologics.29 Incidence of systemic steroid                 Pharmaceuticals).
+                          use was numerically lower in the dupilumab group than                        Declaration of interests
+                          the omalizumab group for both CRSwNP and asthma.                             EDC is an advisory board member for and has received speaker fees or
+                          However, the number of systemic corticosteroid bursts                        honoraria from AstraZeneca, Firma, GSK, Novartis, Regeneron, and
+                                                                                                       Sanofi. GWC has received research or clinical trials grants from
+                          per treatment group was too small to make comparisons                        AstraZeneca, GSK, Menarini, and Sanofi Genzyme, and fees for lectures
+                          of time to first systemic corticosteroid burst.                              or advisory board participation from AstraZeneca, CellTrion, Chiesi,
+                             The safety profiles of dupilumab and omalizumab                           Faes Farma, Firma, Genentech, GSK, Guidotti-Malesci, HAL Allergy,
+                          were generally similar in this trial and were consistent                     Innovacaremd, Menarini, Novartis, OM-Pharma, Red Maple, Sanofi-
+                                                                                                       Aventis, Sanofi-Genzyme, Stallergenes-Greer, and Uriach Pharma.
+                          with their previously reported profiles in CRSwNP and                        EH reports consulting fees from Allergy Therapeutics, Almirall, Apogee
+                          asthma indications. These findings add to the body of                        Therapeutics, AstraZeneca, Bosch, Celltrion Healthcare, Chiesi, Lofarma,
+                          evidence supporting the tolerable safety profiles of these                   Novartis, Regeneron, and Sanofi; research grants from AstraZeneca and
+                                                                                                       Chiesi; speaker fees or honoraria from AstraZeneca, Chiesi, GSK,
+                          biologic treatments.
+                                                                                                       Lofarma, and Sanofi; and travel support from AstraZeneca and GSK.
+                             Limitations of our study include the relatively short                     MS reports research grants from Eli Lilly, Insmed, and Sanofi. MV has
+                          treatment duration, which might not have given                               received speaker fees from Sanofi and advisory board and speaker fees
+                          treatment effects time to plateau, and the absence of                        from GSK. JMu is an advisory board member for, and has received
+                                                                                                       research grants and speaker fees from Almirall, AstraZeneca, GSK,
+                          efficacy assessments at the end of the 12-week follow-up.
+                                                                                                       Glenmark, Lilly, Menarini, MSD, Noucor and Uriach Group, Regeneron
+                          Evidence from longer-term studies of dupilumab and                           Pharmaceuticals, Sanoﬁ, and Viatris and MEDA. PG is an advisory board
+                          omalizumab suggest that their treatment effects continue                     member for and has received clinical trial funding from AstraZeneca,
+                          to increase beyond 24 weeks.1,30 Small sample sizes in                       Eli Lilly, Genentech, Insmed, Novartis, Regeneron Pharmaceuticals,
+                                                                                                       Roche, and Sanofi. JMi is an advisory board member for and has received
+                          some pre-specified subgroups mean that conclusions
+                                                                                                       speaker fees or honoraria from AstraZeneca, GSK, Novartis, and Sanofi.
+                          cannot be drawn about the influence of some                                  ATP has received research support from AstraZeneca, Insmed,
+                          characteristics on treatment effects. The low numbers of                     Regeneron Pharmaceuticals, and Sanofi, and is an advisory board
+                          patients who had severe asthma exacerbations or                              member for AstraZeneca, Chiesi, Eli Lilly, GSK, Regeneron
+                                                                                                       Pharmaceuticals, and Sanofi. MW reports research grants from
+                          endoscopic sinus surgery in both groups made median                          ALK-Abelló, AstraZeneca, GSK, Novartis, Sanofi, and Takeda; is an
+                          times to these events difficult to calculate, and would                      advisory board member for ALK-Abelló, AstraZeneca, GSK, Novartis,
+                          require larger comparative studies. When this study was                      and Sanofi; has received lecture fees from ALK-Abelló, Allergopharma,
+                          designed, omalizumab and dupilumab were the only                             AstraZeneca, CSL Behring, Genzyme, GSK, HAL Allergie, Infectopharm,
+                                                                                                       LETI Pharma, MSD, NeilMed, Novartis, Sanofi, Stallergenes Greer, and
+                          biologics approved for CRSwNP. Since then, another                           Takeda; and is a member of the executive committee of the German
+                          biologic has been approved: mepolizumab. Although the                        Society of Allergology and Clinical Immunology (DGAKI). SZ, MZ, MC,
+                          current study demonstrates clinically important                              JTA, and AM are employees of Sanofi and may hold stock or stock
+                          differences between dupilumab and omalizumab, to                             options. SN, AR, and YD are employees of Regeneron Pharmaceuticals
+                                                                                                       and may hold stock or stock options. PWH is an advisory board member
+                          date, there is still no head-to-head comparison for                          for and has received lecture fees and research grants from Regeneron
+                          CRSwNP that includes mepolizumab. Recent indirect                            Pharmaceuticals and Sanofi, and has received consulting and speaker
+                          treatment comparisons indicate that there might be                           fees from GSK, Regeneron Pharmaceuticals, Sanofi, and Viatris. All other
+                          clinically significant differences between dupilumab and                     authors declare no competing interests.
+
+
+
+1076                                                                                                                          www.thelancet.com/respiratory Vol 13 December 2025
+                  Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                     uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+                                                                                                                                                                Articles
+
+
+
+
+Data sharing                                                                   14   Wu Q, Zhang Y, Kong W, et al. Which is the best biologic for nasal
+Qualified researchers can request access to patient-level data and related          polyps: dupilumab, omalizumab, or mepolizumab? A network
+documents (including the clinical study report, study protocol with any             meta-analysis. Int Arch Allergy Immunol 2022; 183: 279–88.
+amends, blank case report form, and dataset specifications). The               15   Peters AT, Han JK, Hellings P, et al. Indirect treatment comparison
+protocol is provided in appendix 2 and the statistical analysis plan is             of biologics in chronic rhinosinusitis with nasal polyps.
+provided in appendix 3. Patient-level data will be anonymised, and study            J Allergy Clin Immunol Pract 2021; 9: 2461–71.e5.
+documents will be redacted to protect the privacy of trial participants.       16   Papacharalampous GX, Constantinidis J, Fotiadis G, Zhang N,
+Further details on Sanofi’s data sharing criteria, eligible studies, and            Bachert C, Katotomichelakis M. Chronic rhinosinusitis with
+process for requesting access can be found at https://www.vivli.org.                nasal polyps (CRSwNP) treated with omalizumab, dupilumab, or
+                                                                                    mepolizumab: a systematic review of the current knowledge towards
+Acknowledgments                                                                     an attempt to compare agents’ efficacy. Int Forum Allergy Rhinol 2024;
+This research was sponsored by Sanofi and Regeneron Pharmaceuticals.                14: 96–109.
+The authors wish to thank Pascaline Picard (Sanofi) for assistance with        17   Kavanagh JE, Hearn AP, Jackson DJ. A pragmatic guide to choosing
+statistical analysis, and Lucia De Prado Gomez (Sanofi) for their                   biologic therapies in severe asthma. Breathe (Sheff) 2021; 17: 210144.
+contributions to the study design. Medical writing and editorial               18   Hopkins C, Han JK, Fokkens W, et al. Dupilumab versus
+assistance were provided by Claire L Jarvis of Adelphi Group                        mepolizumab for chronic rhinosinusitis with nasal polyposis:
+(Macclesfield, UK), funded by Sanofi and Regeneron Pharmaceuticals,                 an indirect treatment comparison. J Allergy Clin Immunol Pract
+in accordance with the Good Publication Practice guidelines.                        2024; 12: 3393–401.e15.
+                                                                               19   Cai S, Xu S, Lou H, Zhang L. Comparison of different biologics for
+References                                                                          treating chronic rhinosinusitis with nasal polyps: a network
+1    Bachert C, Han JK, Desrosiers M, et al. Efficacy and safety of                 analysis. J Allergy Clin Immunol Pract 2022; 10: 1876–86.e7.
+     dupilumab in patients with severe chronic rhinosinusitis with nasal       20   De Prado Gomez L, Khan AH, Peters AT, et al. Efficacy and safety of
+     polyps (LIBERTY NP SINUS-24 and LIBERTY NP SINUS-52):                          dupilumab versus omalizumab in chronic rhinosinusitis with nasal
+     results from two multicentre, randomised, double-blind, placebo-               polyps and asthma: EVEREST trial design. Am J Rhinol Allergy 2022;
+     controlled, parallel-group phase 3 trials. Lancet 2019; 394: 1638–50.          36: 788–95.
+2    Fokkens WJ, Lund VJ, Hopkins C, et al. European position paper            21   Gevaert P, De Craemer J, Bachert C, et al. European Academy of
+     on rhinosinusitis and nasal polyps 2020. Rhinology 2020;                       Allergy and Clinical Immunology position paper on endoscopic
+     58 (suppl S29): 1–464.                                                         scoring of nasal polyposis. Allergy 2023; 78: 912–22.
+3    Mullol J, Azar A, Buchheit KM, Hopkins C, Bernstein JA. Chronic           22   Global Initiative for Asthma. Global Strategy for Asthma
+     rhinosinusitis with nasal polyps: quality of life in the biologics era.        Management and Prevention. 2020. https://ginasthma.org/wp-
+     J Allergy Clin Immunol Pract 2022; 10: 1434–53.e9.                             content/uploads/2020/04/GINA-2020-full-report_-final-_wms.pdf
+4    Laidlaw TM, Mullol J, Woessner KM, Amin N, Mannent LP.                         (accessed Feb 27, 2025).
+     Chronic rhinosinusitis with nasal polyps and asthma.                      23   Han JK, Bachert C, Lee SE, et al. Estimating clinically meaningful
+     J Allergy Clin Immunol Pract 2021; 9: 1133–41.                                 change of efficacy outcomes in inadequately controlled chronic
+5    Khan A, Vandeplas G, Huynh TMT, et al. The Global Allergy and                  rhinosinusitis with nasal polyposis. Laryngoscope 2022; 132: 265–71.
+     Asthma European Network (GALEN rhinosinusitis cohort: a large             24   Blanco-Aparicio M, Domínguez-Ortega J, Cisneros C, et al.
+     European cross-sectional study of chronic rhinosinusitis patients              Consensus on the management of united airways disease with
+     with and without nasal polyps. Rhinology 2019; 57: 32–42.                      type 2 inflammation: a multidisciplinary Delphi study.
+6    Stevens WW, Peters AT, Hirsch AG, et al. Clinical characteristics of           Allergy Asthma Clin Immunol 2023; 19: 34.
+     patients with chronic rhinosinusitis with nasal polyps, asthma, and       25   Zhu R, Owen R, Wilkins J, et al. Pharmacokinetics and exposure-
+     aspirin-exacerbated respiratory disease. J Allergy Clin Immunol Pract          efficacy relationships of omalizumab in patients with nasal polyps.
+     2017; 5: 1061–70.e3.                                                           Pulm Pharmacol Ther 2021; 71: 102080.
+7    Mora T, Muñoz-Cano R, Ribó P, Mullol J, Valero A. Differential            26   De Corso E, Montuori C, Baroni S, et al. Temporal trends of blood
+     healthcare direct costs of asthma and chronic rhinosinusitis with              eosinophilia in severe uncontrolled CRSwNP treated with dupilumab:
+     nasal polyps in Catalonia (Spain). Rhinology 2024; 62: 590–96.                 a real-life study. Eur Arch Oto-Rhino-Laryngol 2024; 281: 2429–40.
+8    Canonica GW, Malvezzi L, Blasi F, et al. Chronic rhinosinusitis with      27   Kowalski ML, Agache I, Bavbek S, et al. Diagnosis and management
+     nasal polyps impact in severe asthma patients: evidences from the              of NSAID-Exacerbated Respiratory Disease (N-ERD)-a EAACI
+     Severe Asthma Network Italy (SANI) registry. Respir Med 2020;                  position paper. Allergy 2019; 74: 28–39.
+     166: 105947.
+                                                                               28   Bobolea I, Hagemann J, Sanak M, Klimek L, Mullol J. Current goals
+9    Heffler E, Blasi F, Paggiaro P, Canonica GW. Costs of oral                     of NSAID-ERD management: patient-centered approaches
+     corticosteroid use in patients with severe asthma with/without                 involving NSAID desensitization with and without biologics.
+     chronic rhinosinusitis with nasal polyps: data from the Italian SANI           J Allergy Clin Immunol Pract 2024; 12: 2934–44.
+     Registry. Adv Ther 2025; 42: 1196–206.
+                                                                               29   Menzies-Gow AN, Tran TN, Stanley B, et al. Trends in systemic
+10 Bachert C, Bhattacharyya N, Desrosiers M, Khan AH. Burden of                     glucocorticoid utilization in the United Kingdom from 1990 to 2019:
+     disease in chronic rhinosinusitis with nasal polyps. J Asthma Allergy          a population-based, serial cross-sectional analysis. Pragmat Obs Res
+     2021; 14: 127–34.                                                              2024; 15: 53–64.
+11 Gevaert P, Omachi TA, Corren J, et al. Efficacy and safety of               30   Gevaert P, Saenz R, Corren J, et al. Long-term efficacy and safety of
+     omalizumab in nasal polyposis: 2 randomized phase 3 trials.                    omalizumab for nasal polyposis in an open-label extension study.
+     J Allergy Clin Immunol 2020; 146: 595–605.                                     J Allergy Clin Immunol 2022; 149: 957–65.e3.
+12 Han JK, Bachert C, Fokkens W, et al, and the SYNAPSE study
+     investigators. Mepolizumab for chronic rhinosinusitis with nasal
+     polyps (SYNAPSE): a randomised, double-blind, placebo-controlled,
+     phase 3 trial. Lancet Respir Med 2021; 9: 1141–53.
+13 Oykhman P, Paramo FA, Bousquet J, Kennedy DW,
+     Brignardello-Petersen R, Chu DK. Comparative efficacy and safety
+     of monoclonal antibodies and aspirin desensitization for chronic
+     rhinosinusitis with nasal polyposis: a systematic review and
+     network meta-analysis. J Allergy Clin Immunol 2022; 149: 1286–95.
+
+
+
+
+www.thelancet.com/respiratory Vol 13 December 2025                                                                                                                         1077
+                   Descargado para Anonymous User (n/a) en Jimenez Diaz Foundation University Hospital de ClinicalKey.es por Elsevier en abril 21, 2026. Para
+                       uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2026. Elsevier Inc. Todos los derechos reservados.
+

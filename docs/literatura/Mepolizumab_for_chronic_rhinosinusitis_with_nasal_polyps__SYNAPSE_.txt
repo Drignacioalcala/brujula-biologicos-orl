@@ -1,0 +1,1003 @@
+                                                                                                                                               Articles
+
+
+
+Mepolizumab for chronic rhinosinusitis with nasal polyps
+(SYNAPSE): a randomised, double-blind, placebo-controlled,
+phase 3 trial
+Joseph K Han, Claus Bachert, Wytske Fokkens, Martin Desrosiers, Martin Wagenmann, Stella E Lee, Steven G Smith, Neil Martin, Bhabita Mayer,
+Steven W Yancey, Ana R Sousa, Robert Chan, Claire Hopkins, on behalf of the SYNAPSE study investigators*
+
+Summary
+Background Chronic rhinosinusitis with nasal polyps affects approximately 2–4% of the general population, and long-                           Lancet Respir Med 2021
+term use of systemic corticosteroids is associated with adverse effects. The aim of this study was to assess the efficacy                     Published Online
+and safety of mepolizumab in adults with recurrent, refractory severe bilateral chronic rhinosinusitis with nasal polyps.                     April 16, 2021
+                                                                                                                                              https://doi.org/10.1016/
+                                                                                                                                              S2213-2600(21)00097-7
+Methods SYNAPSE was a randomised, double-blind, placebo-controlled, parallel-group, phase 3 trial done at
+                                                                                                                                              See Online/Comment
+93 centres, mainly hospitals, in 11 countries. Eligible patients were aged 18 years or older with recurrent, refractory,                      https://doi.org/10.1016/
+severe, bilateral nasal polyp symptoms (nasal obstruction symptom visual analogue scale [VAS] score of >5), were                              S2213-2600(21)00133-8
+eligible for repeat nasal surgery (overall symptoms VAS score >7 and endoscopic nasal polyps score of ≥5, with a                              Department of Otolaryngology,
+minimum score of 2 in each nasal cavity) despite standard of care treatment, and had to have at least one nasal                               Eastern Virginia Medical
+surgery in the past 10 years. Patients were randomly assigned (1:1), using permuted block design, to receive either                           School, Norfolk, VA, USA
+                                                                                                                                              (J K Han MD); Department of
+100 mg mepolizumab subcutaneously or placebo once every 4 weeks, in addition to standard of care (mometasone                                  Oto-Rhino-Laryngology, Upper
+furoate intranasal spray for at least 8 weeks before screening and during the study, saline nasal irrigations, systemic                       Airways Research Laboratory,
+corticosteroids or antibiotics, or both), as required, for 52 weeks. Site staff, the central study team, and patients were                    Ghent University Hospital,
+                                                                                                                                              Ghent University, Ghent,
+masked to study treatment and absolute blood eosinophil counts. The coprimary endpoints were change from
+                                                                                                                                              Belgium (Prof C Bachert PhD);
+baseline in total endoscopic nasal polyp score at week 52 and in mean nasal obstruction VAS score during weeks 49–52,                         Division of ENT Diseases,
+assessed in the intention-to-treat population (ITT). This study is registered with ClinicalTrials.gov, NCT03085797.                           CLINTEC, Karolinska Institutet,
+                                                                                                                                              University of Stockholm,
+                                                                                                                                              Stockholm, Sweden
+Findings From May 25, 2017, to Dec 12, 2018, 854 patients were screened for eligibility. 414 patients were randomly
+                                                                                                                                              (Prof C Bachert); Department of
+assigned with 407 included in the ITT population; 206 received mepolizumab and 201 received placebo. Total                                    Otolaryngology, Amsterdam
+endoscopic nasal polyp score significantly improved at week 52 from baseline with mepolizumab versus placebo                                  University Medical Center,
+(adjusted difference in medians –0·73, 95% CI –1·11 to –0·34; p<0·0001) and nasal obstruction VAS score during                                Amsterdam, Netherlands
+                                                                                                                                              (Prof W Fokkens PhD); Division
+weeks 49–52 also significantly improved (–3·14, –4·09 to –2·18; p<0·0001). Adverse events considered related to
+                                                                                                                                              of Otolaryngology-Head and
+study treatment were reported in 30 (15%) of 206 patients receiving mepolizumab and 19 (9%) of 201 receiving                                  Neck Surgery, Centre
+placebo. On-treatment serious adverse events occurred in 12 (6%) patients receiving mepolizumab and                                           Hospitalier de l’University de
+13 (6%) receiving placebo; none were considered related to treatment in those receiving mepolizumab. One death was                            Montreal, Montreal, QC,
+                                                                                                                                              Canada (Prof M Desrosiers MD);
+reported in the placebo group (myocardial infarction; death occurred 99 days after the last dose) and was considered
+                                                                                                                                              Department of
+unrelated to the treatment.                                                                                                                   Otorhinolaryngology, HNO-
+                                                                                                                                              Klinik, Universitätsklinikum
+Interpretation Mepolizumab treatment improved nasal polyp size and nasal obstruction compared with placebo, with                              Düsseldorf, Düsseldorf,
+                                                                                                                                              Germany
+no new safety indications, in patients with recurrent, refractory severe chronic rhinosinusitis with nasal polyps. These                      (Prof M Wagenmann MD);
+findings suggest that mepolizumab provides an effective add-on treatment option to standard of care in this                                   Department of
+population.                                                                                                                                   Otolaryngology-Head and Neck
+                                                                                                                                              Surgery, University of
+                                                                                                                                              Pittsburgh Medical Center,
+Funding GlaxoSmithKline.                                                                                                                      Pittsburgh, PA, USA
+                                                                                                                                              (S E Lee MD); Respiratory
+Copyright © 2021 Elsevier Ltd. All rights reserved.                                                                                           Therapeutic Area Unit,
+                                                                                                                                              GlaxoSmithKline, Research
+                                                                                                                                              Triangle Park, NC, USA
+Introduction                                                                Current standard of care includes intranasal                      (S G Smith PhD, S W Yancey MSc);
+Chronic rhinosinusitis with nasal polyps is a subtype of                  corticosteroids, short courses of systemic corticosteroids,         GlaxoSmithKline, London, UK
+chronic rhinosinusitis affecting approximately 2–4% of                    and nasal surgery.2 Although systemic corticosteroids               (N Martin MD, B Mayer MSc,
+the general population.1,2 It is characterised by chronic                 reduce the inflammatory response and might temporarily              A R Sousa PhD, R Chan MD);
+                                                                                                                                              Department of ENT, Guy’s
+local eosinophilic inflammation, often type 2 (T2)                        reduce nasal polyp size and improve symptoms, their long-           Hospital, London, UK
+inflammation, with interleukin (IL)-5 playing a key                       term use is associated with adverse effects.2,10 Furthermore,       (Prof C Hopkins DM); St Thomas’
+pathogenic role.3–6 Symptoms of this disease include                      surgery is associated with high recurrence rates, and               Hospital, King’s College
+nasal blockage, loss of smell, facial pressure, and                       scarring or mucosal damage, or both.11,12 Patients also             London, London, UK
+                                                                                                                                              (Prof C Hopkins)
+rhinorrhoea, which can have a substantial impact on                       express concerns about the risks associated with surgery,
+health-related quality of life.7–9                                        including general anaesthesia and discomfort.13,14 As such,
+
+
+www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7                                                                1
+        Articles
+
+
+
+
+            Correspondence to:
+Dr Joseph K Han, Department of       Research in context
+Otolaryngology, Eastern Virginia
+       Medical School, Norfolk,      Evidence before this study                                            patients. In addition, two phase 3 studies were identified in
+                 VA 23507, USA       Patients with severe chronic rhinosinusitis with nasal polyps         which the anti-IgE antibody omalizumab reduced nasal polyp
+             hanjk@evms.edu          often require nasal surgery, and those with eosinophil-rich           size and improved symptoms in patients with severe chronic
+    *Members listed in appendix      nasal polyps have a higher postoperative recurrence rate.             rhinosinusitis with nasal polyps who had an inadequate
+                                     As such, anti-interleukin (IL)-5 therapies might be an effective      response to intranasal corticosteroids.
+                                     treatment option for these patients. Mepolizumab can reduce
+                                                                                                           Added value of this study
+                                     eosinophilic inflammation in severe eosinophilic asthma,
+                                                                                                           To our knowledge, this is the first large, multinational, phase 3
+                                     eosinophilic granulomatosis with polyangiitis, and
+                                                                                                           study to show the safety and efficacy of an anti-IL-5 biologic in
+                                     hypereosinophilic syndrome. We searched PubMed for studies
+                                                                                                           patients with recurrent, refractory, severe chronic rhinosinusitis
+                                     of mepolizumab in nasal polyps published in English from
+                                                                                                           with nasal polyps, despite continuous medical treatment and
+                                     database inception to Sept 15, 2020. The search identified
+                                                                                                           previous surgical treatment, who were eligible for repeat nasal
+                                     two publications describing the efficacy of 750 mg
+                                                                                                           surgery. We showed that mepolizumab improved nasal polyp
+                                     mepolizumab administered intravenously at 4-week intervals
+                                                                                                           size and nasal obstruction, reduced need for actual nasal
+                                     in two phase 2, randomised, clinical trials. In the first trial,
+                                                                                                           surgery and systemic corticosteroid use, and improved
+                                     mepolizumab treatment reduced nasal polyp size at week 8
+                                                                                                           sinonasal symptoms and health-related quality of life with an
+                                     after two doses, compared with placebo. In the second trial,
+                                                                                                           acceptable safety profile. Our findings are consistent with, and
+                                     patients received six doses of mepolizumab over 24 weeks,
+                                                                                                           build on, those from previous mepolizumab studies, and
+                                     which reduced the need for surgery, and improved nasal polyp
+                                                                                                           further increase understanding of the effect that mepolizumab
+                                     symptoms and health-related quality of life, compared with
+                                                                                                           has on symptoms, surgery, and corticosteroid use in this
+                                     placebo. In both studies, the safety profile of mepolizumab was
+                                                                                                           population with a high symptom burden and refractory disease.
+                                     similar to that of placebo. We did not identify any trials of
+                                     mepolizumab at 100 mg administered subcutaneously                     Implications of all the available evidence
+                                     (approved in severe eosinophilic asthma) for nasal polyps.            Evidence to date suggests that mepolizumab treatment reduces
+                                     An additional search for phase 3 trials of biological therapies in    nasal polyp size and improves associated symptoms and reduces
+                                     patients with severe uncontrolled chronic rhinosinusitis with         the need for actual surgery and systemic corticosteroid use in
+                                     nasal polyps identified two studies in which the IL-4 and IL-13       patients with chronic rhinosinusitis with nasal polyps. Given
+                                     inhibitor dupilumab reduced nasal polyp size, sinus disease           that these are key goals of nasal polyp management,
+                                     burden, and symptom severity; improved sense of smell and             mepolizumab provides an effective add-on treatment option to
+                                     health-related quality of life; and reduced the use of systemic       standard care for patients with chronic rhinosinusitis with nasal
+                                     corticosteroids and the need for nasal polyp surgery in these         polyps.
+
+
+                                   novel therapies targeting cytokines involved in                         Methods
+                                   T2 inflammation associated with chronic rhinosinusitis                  Study design and participants
+                                   with nasal polyps, such as IL-5, are required.                          SYNAPSE was a randomised, double-blind, placebo-
+                                     Mepolizumab is a humanised monoclonal antibody                        controlled, parallel-group, phase 3 trial done at 93 centres,
+                                   that selectively binds to and inactivates IL-5, thereby                 mainly hospitals, in 11 countries (Argentina, Australia,
+                                   inhibiting eosinophilic inflammation.15 Mepolizumab at                  Canada, Germany, the Netherlands, South Korea,
+                                   100 mg administered subcutaneously is approved in                       Romania, Russia, Sweden, the UK, and the USA).
+                                   multiple countries for patients 6 years or older with                     Eligible patients were aged 18 years or older with
+                                   severe eosinophilic asthma, and at a dose of 300 mg for                 recurrent, refractory, severe, bilateral nasal polyp
+                                   adults with eosinophilic granulomatosis with polyangiitis               symptoms (nasal obstruction symptom visual analogue
+                                   or hypereosinophilic syndrome in the USA.16,17                          scale [VAS] score of >5 [maximum 10]) and were eligible
+                                     Previous studies18,19 have shown reductions in polyp                  for repeat nasal surgery (overall symptoms VAS score >7
+                                   size, improved symptoms, and a reduced need for nasal                   and endoscopic nasal polyps score of ≥5 [maximum 8],
+                                   surgery in patients with chronic rhinosinusitis with                    with a minimum score of 2 in each nasal cavity), despite
+                                   nasal polyps receiving 750 mg of intravenous                            standard of care treatment. Patients had to have at least
+                                   mepolizumab. The aim of this phase 3 study was to                       one nasal surgery (defined as any incision [cutting open]
+                                   assess the efficacy and safety of mepolizumab at a dose of              of the paranasal sinuses and removal of polyp tissue
+                                   100 mg administered subcutaneously for 52 weeks,                        from the nasal cavity [polypectomy] and the sinuses) in
+                                   compared with placebo (both treatments were added to                    the past 10 years. In addition, patients required stable
+                                   standard of care, which included use of systemic                        maintenance therapy with intranasal spray medication
+                                   corticosteroids), in adults with recurrent, refractory,                 (mometasone furoate) for at least 8 weeks before
+                                   severe, bilateral chronic rhinosinusitis with nasal polyps              screening, and displayed two or more different
+                                   who were eligible for repeat surgery.                                   symptoms for at least 12 weeks before screening (nasal
+
+
+2                                                                      www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7
+                                                                                                                                        Articles
+
+
+
+
+blockage, obstruction, and congestion, or nasal                             Endoscopic nasal polyp score was assessed at each
+discharge [anterior or posterior nasal drip]), with                       study visit by trained health-care staff and images of
+one or more of the following symptoms: nasal discharge,                   endoscopies were sent to central laboratories for scoring
+facial pain or pressure, and reduction or loss of smell.                  by independent masked reviewers. During the 4-week
+Full inclusion and exclusion criteria are provided in the                 run-in period and the treatment period, patients recorded
+appendix (p 3).                                                           symptoms (nasal obstruction, nasal discharge, throat
+  The trial was done in accordance with ethical principles                mucus, loss of smell, facial pain, and overall symptom
+of the Declaration of Helsinki, Good Clinical Practice                    VAS scores) daily in an eDiary using a VAS scale (0–100);
+guidelines from the International Conference on                           scores were divided by 10 and reported across a range
+Harmonisation, and any applicable country-specific                        from 0·0 (none) to 10·0 (as bad as you can imagine),
+regulatory requirements. All patients provided written                    according to their current state.
+informed consent before study initiation. The study was                     The 22-item Sino-Nasal Outcome Test (SNOT-22), a
+approved by local ethics review boards at the participating               disease-specific measure of health-related quality of life,
+sites. The protocol is available at https://www.gsk-                      was completed by patients at each study visit every
+studyregister.com/.20                                                     4 weeks. Peak nasal inspiratory flow was assessed at each
+                                                                          study visit, with the highest value taken from three
+Randomisation and masking                                                 consecutive readings. University of Pennsylvania Smell
+Patients were randomly assigned (1:1) to receive either                   Identification Test (UPSIT) was assessed at baseline and
+mepolizumab or placebo once every 4 weeks, in addition                    then on alternating visits (every 8 weeks) but was carried
+to standard of care for 52 weeks. Randomisation was done                  out only in three countries (Canada, the UK, and
+using an interactive response system. The randomisation                   the USA). Blood samples for haematology were taken at
+sequence was computer generated by sponsor validated                      each study visit. Safety (review of adverse events and
+software (RandALL NG; version 1.3.3), done separately for                 serious adverse events) and vital signs were assessed at
+each country, using permuted block design of block size 6.                each study visit. A 12-lead ECG, blood samples for
+The allocation sequence was computer generated and                        immunogenicity, and other laboratory assessments
+investigators were informed of patients’ treatment                        (eg, liver chemistries) were carried out at baseline and at
+assignment via an interactive response technology system.                 week 52.
+Mepolizumab and placebo were identical in appearance.
+Site staff, the central study team, and patients were                     Outcomes
+masked to study treatment and absolute blood eosinophil                   The coprimary endpoints were change from baseline in
+counts (including white blood cell differentials); masking                total endoscopic nasal polyp score at week 52 and in
+was maintained for the duration of the trial.                             mean nasal obstruction VAS score during weeks 49–52.
+                                                                          Total endoscopic nasal polyp score was the sum of left
+Procedures                                                                and right nostril scores ranging from 0 (no polyps)
+Following a 4-week run-in period, patients received                       to 4 (large polyps causing complete obstruction of the
+mepolizumab at 100 mg subcutaneously or placebo once                      inferior meatus) for each nostril, giving a total score of
+every 4 weeks (using a safety syringe), in addition to                    up to 8. The VAS score could range from 0·0 to 10·0, as
+standard of care for 52 weeks (appendix p 9). In line with                used in previous studies of nasal polyps.19,21–23 The key
+the European Position Paper on Rhinosinusitis and Nasal                   secondary endpoint was time-to-first nasal surgery until
+Polyps (EPOS) 2020,2 standard of care consisted of daily                  week 52. Other secondary endpoints were the
+mometasone furoate intranasal spray throughout the                        proportion of patients requiring systemic corticosteroids
+study period, in addition to saline nasal irrigations, and                for nasal polyps until week 52 and change from baseline
+courses of systemic corticosteroids or antibiotics, or both,              in: mean overall VAS symptom score during
+as required. Patients were placed on the maximum dose of                  weeks 49–52, SNOT-22 total score at week 52, mean
+mometasone furoate spray (two doses of 50 µg into each                    composite VAS score (combining scores for nasal
+nostril twice a day) or in line with the local standard dose              obstruction, nasal discharge, throat mucus, and loss of
+and frequency at the start of the run-in period. Patients                 smell) during weeks 49–52, and mean VAS score for
+who had nasal surgery or received systemic corticosteroids                loss of smell during weeks 49–52. SNOT-22 scores
+during the study could continue study treatment until the                 ranged from 0 to 110, and have a minimal clinically
+end of the 52-week treatment period. Patients prematurely                 important difference of 8·9 units.24 Primary and
+discontinuing study treatment could still attend study                    secondary efficacy endpoints were assessed in the
+visits for off-treatment assessments. The study was                       intention-to-treat (ITT) population, defined as all
+designed to follow up to the first 200 randomly assigned                  randomly assigned patients who received at least
+patients for 6 months after stopping treatment.                           one dose of the study drug, analysed according to the
+Recruitment of patients was halted so that the follow-up                  allocated treatment.
+period did not extend beyond the projected last visit for the               Other exploratory endpoints included: the proportion
+last randomly assigned patient.                                           of patients with a decrease of 1 or more points from
+
+
+www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7                                        3
+        Articles
+
+
+
+
+                                                    854 patients screened for eligibility
+
+
+
+                                                                              440 excluded (29 pre-screening and 411 during screening for one or more reason)
+                                                                                  233 did not meet inclusion criteria or met exclusion criteria
+                                                                                  183 did not meet continuation criteria
+                                                                                   12 withdrew
+                                                                                    4 were withdrawn by physician
+
+
+
+                                                    414 randomised
+
+
+
+                                                                                 7 did not receive treatment
+
+
+
+                                                    407 included in the ITT population
+
+
+
+
+    201 assigned placebo                                                                                206 assigned mepolizumab
+
+
+
+                            34 withdrew early from study treatment (7 withdrew from study                                       23 withdrew early from study treatment (8 withdrew from study
+                               and 27 continued being assessed)                                                                    and 15 continued being assessed)
+                                4 due to an adverse event                                                                           4 due to an adverse event
+                               11 due to lack of efficacy                                                                           5 due to lack of efficacy
+                                1 due to a protocol deviation                                                                       1 due to pregnancy
+                                1 due to pregnancy                                                                                  1 based on physician decision
+                                2 based on physician decision                                                                      12 based on their own decision†
+                               15 based on own decision*
+
+
+
+                                                                        17 discontinued the study before                                                                   17 discontinued the study before
+                                                                           week 52                                                                                            week 52
+                                                                           16 based on own decision‡                                                                           17 based on own decision§
+                                                                             1 lost to follow-up
+
+
+
+    167 completed study treatment as           17 completed study with                                  183 completed study treatment as            7 completed study with
+        scheduled                                 off-treatment assessments                                 scheduled                                 off-treatment assessments
+
+
+
+                                                                                                                                1 did not complete assessments¶
+
+
+
+    184 completed study assessments                                                                     189 completed study assessments¶
+        until week 52                                                                                       until week 52
+
+
+
+    First 65 patients randomly assigned                                                                 First 69 patients randomly assigned
+    entered follow-up until week 76                                                                     entered follow-up until week 76
+
+
+Figure 1: Trial profile
+Patients could have had more than one reason for being excluded during screening. ITT=intention-to-treat. *Burden of procedures (n=2), patient relocated (n=1), and other (n=13). One patient
+selected two reasons for withdrawal: burden of procedures and other. †Frequency of visits (n=1), patient relocated (n=2), burden of procedures (n=2), and other (n=7). ‡Frequency of visits (n=2),
+patient relocated (n=1), and other (n=13). §Patient relocated (n=2), burden of procedures (n=2), other (n=12), and no reason reported (n=1). ¶This patient completed the study treatment as
+scheduled, but withdrew from the study before week 52.
+
+
+                                   baseline in nasal polyps score at week 52 in the absence of                               and no nasal surgery during the treatment period);
+                                   surgery; number of courses of systemic corticosteroids;                                   change from baseline in UPSIT (maximum score 40);
+                                   antibiotics up to week 52; the proportion of patients with                                and on-treatment blood eosinophil count. Additional
+                                   a decrease of 8·9 points or more from baseline in                                         pre-specified analyses (outside of the original analysis
+                                   SNOT-22 total score in­the absence of surgery;24 the                                      plan) were change from baseline in: loss of
+                                   proportion of patients no longer needing surgery                                          smell VAS score by the number of previous
+                                   (defined as an overall symptom VAS score of ≤7 during                                     surgeries (one, two, or more than two) at week 49–52 and
+                                   weeks 49–52, a total endoscopic score of <5 at week 52,                                   peak nasal inspiratory flow at week 52. Post-hoc analyses
+
+
+4                                                                                www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7
+                                                                                                                                                                    Articles
+
+
+
+
+                                    Placebo              Mepolizumab                                                 Placebo               Mepolizumab
+                                    (n=201)              (n=206)                                                     (n=201)               (n=206)
+  Age, years                         48·9 (12·5)          48·6 (13·6)            (Continued from previous column)
+  Female                             76 (38%)             67 (33%)               Total endoscopic score (scale 0–8)
+  Male                              125 (62%)            139 (67%)                 Median                                6·0 (5·0–6·0)         5·0 (5·0–6·0)
+  Race                                                                             Mean                                  5·6 (1·4)             5·4 (1·2)
+    White and European              183 (91%)            190 (92%)               Nasal obstruction VAS score (scale 0–10)†
+    East Asian                         7 (3%)               6 (3%)                 Median                                9·1 (8·5–9·7)        9·0 (8·3–9·6)
+    Black and African American        4 (2%)                5 (2%)                 Mean                                  9·0 (0·8)            8·9 (0·8)
+    Arabic and North African          4 (2%)                2 (1%)               Overall symptom VAS score (scale 0–10)†
+    Central and South Asian            1 (1%)               2 (1%)                 Median                                9·2 (8·7–9·8)        9·1 (8·4–9·7)
+    South East Asian                   1 (1%)               1 (1%)                 Mean                                  9·1 (0·7)            9·0 (0·8)
+    Multiple                           1 (1%)               0                    Nasal symptom composite‡ score (scale 0–10)†
+  Ethnicity                                                                        Median                                9·2 (8·6–9·6)        9·1 (8·5–9·6)
+    Hispanic or Latino               29 (14%)             24 (12%)                 Mean                                  9·0 (0·8)            9·0 (0·8)
+    Not Hispanic and not Latino     172 (86%)            182 (88%)               Loss of smell VAS score (scale 0–10)†
+  Body-mass index, kg/m2                                                           Median                              10·0 (9·6–10·0)       10·0 (9·6–10·0)
+    Median                           27·2 (24·6–30·5)      27·4 (24·4–30·3)        Mean                                  9·7 (0·6)            9·6 (0·8)
+    Mean                             28·2 (5·5)           28·2 (5·3)             SNOT-22 total score†
+  Duration of nasal polyps, years                                                  Median                              64·0 (51·0–77·0)      64·0 (50·0–77·0)
+    Median                           10·0 (5·3–16·0)        9·0 (5·0–15·3)         Mean                                64·4 (19·0)           63·7 (17·6)
+    Mean                             11·5 (8·3)            11·4 (8·5)            Patients with asthma                 149 (74%)             140 (68%)
+  Previous nasal surgery                                                         Patients with aspirin-                63 (31%)              45 (22%)
+    0                                 0                     0                    exacerbated respiratory disease
+    ≥1                              201 (100%)           206 (100%)              Blood eosinophil count, cells        400 (0·91)            390 (0·88)
+                                                                                 per µL§
+    ≥2                              120 (60%)             98 (48%)
+    ≥3                               73 (36%)              51 (25%)             Data are n (%), mean (SD), or median (IQR). SNOT=Sino-Nasal Outcome Test.
+                                                                                VAS=visual analogue scale. *Includes patients with partial dates for previous
+    ≥4                               38 (19%)             24 (12%)              surgery; if day was missing, assumed as the last day of the month; if month was
+    ≥5                               26 (13%)              11 (5%)              missing, assumed as December. †Higher scores indicate greater disease severity or
+  Time since previous nasal polyp surgery, years*                               worse quality of life. ‡Combining scores for nasal obstruction, nasal discharge,
+                                                                                throat mucus, and loss of smell. §Geometric mean (coefficient of variation).
+    Median                             3·0 (1·7–5·6)        3·8 (1·9–6·2)
+    Mean                               3·8 (2·7)            4·2 (2·7)           Table 1: Baseline demographics and patient characteristics
+  Systemic corticosteroid courses for nasal polyps in the past 12 months        (ITT population)
+    0                               110 (55%)            100 (49%)
+    ≥1                               91 (45%)            106 (51%)
+    ≥2                               44 (22%)             42 (20%)
+                                                                               Statistical analysis
+                                          (Table 1 continues in next column)
+                                                                               The study was designed to continue to collect data for
+                                                                               patients who prematurely discontinued treatment; all
+                                                                               data reported up to week 52 were included in the analysis,
+                                                                               regardless of treatment discontinuation. A sample size
+were the exacerbation rates and Asthma Control                                 of 400 patients was estimated to provide more than
+Questionnaire-5 scores at week 52 in patients with                             90% power to detect a statistical significance (at two-sided
+comorbid asthma.                                                               significance of 0·05) for coprimary endpoints and the
+  Safety assessments included monitoring for adverse                           key secondary endpoint. For coprimary endpoints, the
+events, serious adverse events, local injection site                           true effect size used in the power calculation was based
+reactions, and systemic reactions; clinically significant                      on results observed in the previous 6-month phase 2
+changes in haematological and clinical chemistry; and                          trial19 of mepolizumab in patients with chronic
+12-lead ECG and immunogenicity. Safety was assessed                            rhinosinusitis with nasal polyps, in which 52% patients
+in the safety population, defined as all randomly                              receiving mepolizumab (vs 27% receiving placebo) had
+assigned patients who received at least one dose of the                        an improvement in nasal polyp score of 1-point or more
+study drug, analysed according to the treatment received.                      and 70% (vs 39%) had an improvement in nasal
+Adverse events and serious adverse events were coded                           obstruction VAS score of 1-point or more. In the phase 2
+per the Medical Dictionary for Regulatory Activities                           trial,19 20% of patients receiving placebo had surgery; the
+(V22.1). Mepolizumab plasma concentrations were                                sample size was based on a true reduction in the
+assessed at week 4 and 52 before dosing (data not                              proportion of patients receiving surgery until week 52
+shown).                                                                        from 40% (placebo group) to 25% (mepolizumab group).
+
+
+www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7                                                                    5
+          Articles
+
+
+
+
+                                                                          Placebo (n=201)                                   Mepolizumab (n=206)                                Treatment effect (95% CI); p value
+                                                                          Median      Mean (SD)   Proportion                Median            Mean (SD)   Proportion
+                                                                          change from change from of patients,              change from       change from of patients,
+                                                                          baseline    baseline    n (%)                     baseline          baseline    n (%)
+    Coprimary endpoints
+    Change from baseline in total endoscopic nasal polyp score at            0·00            –0·1 (1·46)      ..              –1·00             –0·9 (1·90)       ..           –0·73 (–1·11 to –0·34)†; p<0·0001‡
+    week 52*
+    Change from baseline in nasal obstruction VAS score during              –0·82            –2·5 (3·15)      ..              –4·41             –4·2 (3·42)       ..           –3·14 (–4·09 to –2·18)†; p<0·0001‡
+    weeks 49–52*
+    Secondary endpoints
+    Proportion of patients having nasal surgery up to week 52                ..               ..           46 (23%)            ..                ..            18 (9%)          0·43 (0·25 to 0·76)§; p=0·0032
+    (time-to-first nasal surgery)
+    Change from baseline in overall symptom VAS score during                –0·90            –2·5 (3·08)      ..              –4·48             –4·3 (3·43)       ..           –3·18 (–4·10 to –2·26)†; p=0·0032‡
+    weeks 49–52*
+    Change from baseline in SNOT-22 total score at week 52*                –14·00          –15·7              ..             –30·00           –29·4               ..           –16·49 (–23·57 to –9·42)†; p=0·0032‡
+                                                                                           (23·93)                                            (24·67)
+    Proportion of patients requiring systemic corticosteroids                ..               ..           74 (37%)            ..                ..            52 (25%)         0·58 (0·36 to 0·92)¶; p=0·020
+    (≥1 course) for nasal polyps until week 52
+    Change from baseline in composite** VAS score during                    –0·89            –2·2 (2·82)      ..              –3·96             –3·8 (3·19)       ..           –2·68 (–3·44 to –1·91)†; p=0·020‡
+    weeks 49–52*
+    Change from baseline in loss of smell VAS symptom score                  0·00            –1·4 (2·65)      ..              –0·53             –2·8 (3·61)       ..           –0·37 (–0·65 to –0·08)†; p=0·020‡
+    during weeks 49–52*
+    Data are median, mean (SD), and n (%), unless stated otherwise. SNOT=Sino-Nasal Outcomes Test. VAS=visual analogue scale. *Patients who required nasal surgery before the visit or time period were assigned
+    their worst observed score recorded before surgery; patients with no nasal surgery who withdrew before the visit or time period were assigned their worst observed score before study withdrawal; patients with
+    missing data were assigned their worst observed score before the missing visit. †Adjusted difference in medians; quantile regression with covariates of treatment group, geographic region, baseline score, and
+    loge baseline blood eosinophil count. ‡p value based on Wilcoxon rank-sum test. Adjusted p values for secondary endpoints, multiplicity controlled using a closed testing procedure according to a predefined
+    hierarchy of testing. §Hazard ratio (95% CI); Cox proportional hazards model with covariates of treatment group, baseline nasal polyp score, baseline nasal obstruction score, loge baseline blood eosinophil count,
+    number of previous surgeries (one, two, or more than two; ordinal), and geographic region. ¶Odds ratio (95% CI); logistic regression model with covariates of treatment group, baseline nasal polyp score,
+    baseline nasal obstruction score, loge baseline blood eosinophil count, number of systemic corticosteroid courses in previous 12 months (0, 1, >1; ordinal), and geographic region. **Combining scores for nasal
+    obstruction, nasal discharge, throat mucus, and loss of smell.
+
+    Table 2: Summary of efficacy outcomes
+
+
+
+                                         Following testing of coprimary endpoints, multiplicity                                     analysis, for patients who underwent nasal surgery
+                                      arising from multiple secondary endpoints was                                                 up to week 52 or withdrew early from the study and were
+                                      controlled using a closed testing procedure according to                                      assigned the worst possible score for all subsequent
+                                      a predefined hierarchy of secondary endpoints: time-to-                                       visits, was also carried out (appendix p 6). Use of
+                                      first nasal surgery, overall symptom VAS score, SNOT-22                                       systemic corticosteroids during the treatment period
+                                      total score, systemic corticosteroids for nasal polyps use,                                   was considered part of standard of care; therefore,
+                                      composite VAS score, and loss of smell VAS score. Both                                        observed scores following systemic corticosteroids use
+                                      coprimary endpoints had to be statistically significant to                                    were included in the analyses.
+                                      continue testing to the secondary endpoints. Statistical                                         For coprimary endpoints, VAS scores, SNOT-22 score,
+                                      significance was only possible for each secondary                                             peak nasal inspiratory flow, and UPSIT, the non-parametric
+                                      endpoint in the hierarchy if the previous endpoint was                                        Wilcoxon rank-sum test was used to assess the difference
+                                      significant.                                                                                  in change from baseline scores between treatment groups;
+                                         Occurrence of nasal surgery at any time following                                          estimates of the treatment effect accounting for covariates
+                                      randomisation was an anticipated intercurrent event                                           of treatment group, geographical region (country for
+                                      (ie, expected to affect evaluation of subsequent scores)                                      UPSIT analysis), baseline score, and loge baseline blood
+                                      for the coprimary and symptom and health-related                                              eosinophil count were presented as a difference in
+                                      quality of life-based secondary endpoints. Patients who                                       medians between treatment groups based on a quantile
+                                      underwent nasal surgery before week 52 were assigned                                          regression model using the bootstrap approach with
+                                      their worst observed score, recorded before the surgery,                                      1 000 000 replicates.25,26
+                                      for all subsequent visits. Further details on estimands                                          Time-to-nasal surgery was analysed using a Cox
+                                      for the coprimary and key secondary endpoints are                                             proportional hazards model with covariates of treatment
+                                      provided in the appendix (p 6). Patients who withdrew                                         group, baseline nasal polyp score (centrally read), baseline
+                                      early from the study without having undergone nasal                                           nasal obstruction VAS score, loge baseline blood
+                                      surgery or who had missing data for any other reason                                          eosinophil count, number of previous surgeries (one,
+                                      were assigned their worst observed score, recorded                                            two, or more than two; ordinal), and geographical
+                                      before study withdrawal or the missing visit. A sensitivity                                   region. The proportion of patients requiring systemic
+
+
+6                                                                                    www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7
+                                                                                                                                                                                                                Articles
+
+
+
+
+corticosteroids for nasal polyps was analysed using a
+                                                                                                                         A
+logistic regression model with covariates of treatment                                                                   50                                                               Placebo (n=201)
+group, baseline nasal polyp score (centrally read), baseline                                                                                                                              Mepolizumab 100 mg subcutaneous (n=206)
+                                                                                                                         40
+nasal obstruction VAS score, loge baseline blood
+
+
+                                                                           Patients with change from baseline in total
+                                                                                                                         30                    27·7%
+eosinophil count, number of systemic corticosteroids                                                                             21·8%
+courses in previous 12 months (none, one, or more than                                                                   20                                   14·6%         14·1%
+                                                                                                                                                                                              11·2%
+one; ordinal), and geographic region. Blood eosinophil                                                                   10                                                                                   7·8%
+                                                                                                                                                                                                                          2·9%
+counts were log transformed and analysed using mixed                                                                      0
+                                                                                                                                                                                                                           <1%
+
+
+
+
+                                                                                endoscopic nasal polyp score (%)
+                                                                                                                                                                                                              2·5%
+model repeated measures with covariates of treatment                                                                     10                                                  4·0%             5·5%
+group, geo­graphical region, visit, and baseline loge blood                                                              20                                      15·4%
+eosinophil count, plus interaction terms for visit by
+                                                                                                                         30
+baseline and visit by treatment group.                                                                                           30·3%
+                                                                                                                         40
+  For the coprimary endpoints, the treatment effect was                                                                                        41·3%
+                                                                                                                         50
+presented as difference in medians to reduce the
+                                                                                                                               Worsening    No change        1-point     2-point     3-point     4-point     ≥5-point
+influence of extremes in the data. A post-hoc analysis was                                                                                                 improvement improvement improvement improvement improvement
+carried out using a mixed model for repeated measures
+with estimates of the treatment effect presented as a                                                                    B
+                                                                                                                         50
+difference in means (appendix p 6). All data were analysed                                                                                                                                                             44·2%
+using SAS (version 9.4). This study is registered with                                                                   40
+
+
+
+
+                                                                           Patients with change from baseline in
+ClinicalTrials.gov, NCT03085797 (GlaxoSmithKline ID:                                                                     30                              27·7%
+
+205687).                                                                                                                 20                                                                          16·0%
+                                                                                                                                                                            10·7%
+                                                                                                                         10
+Role of the funding source                                                                                                0
+                                                                                                                                    1·5%
+
+The funder of the study funded the medical writing and
+
+
+                                                                              nasal obstruction VAS score (%)
+                                                                                                                                    3·0%
+                                                                                                                         10
+editorial support (in the form of writing assistance,                                                                                                                        13·4%                    13·4%
+                                                                                                                         20
+including preparation of the draft manuscript under                                                                                                                                                                     22·9%
+direction and guidance of the authors, collating and                                                                     30
+
+incorporating authors’ comments for each draft,                                                                          40
+assembling tables and figures, grammatical editing and                                                                   50                              47·3%
+referencing). The sponsor did not place any restrictions on                                                                   >1-point worsening        ≤1-point          >1 to 3-point         >3 to 5-point          >5-point
+                                                                                                                                                    improvement to       improvement            improvement          improvement
+access to the data or on the statements made in the                                                                                                ≤1-point worsening
+manuscript.
+                                                                          Figure 2: Change in total endoscopic score and obstruction VAS score in the ITT population
+Results                                                                   (A) Total nasal polyp score (week 52). (B) Nasal obstruction VAS score (weeks 49–52). Patients with nasal surgery,
+                                                                          those with no nasal surgery who withdrew, and those with missing data before the visit or time period were
+From May 25, 2017, to Dec 12, 2018, 854 patients                          assigned their worst observed score before surgery, before study withdrawal, or before the missing visit.
+were screened for eligibility. Overall, 414 patients                      ITT=intention-to-treat. VAS=visual analogue score.
+were randomly assigned with 407 included in the
+ITT population; 206 received mepolizumab and                              base­line with mepolizumab versus placebo (adjusted
+201 received placebo (figure 1). 15 patients (eight [4%]                  differ­ence in median scores based on quantile
+of 206 receiving mepolizumab and seven [3%] of 201                        regression –0·73, 95% CI –1·11 to –0·34; p<0·0001;
+receiving placebo) discontinued treatment and with­drew                   table 2) and nasal obstruction VAS score during weeks
+from the study before week 52; 42 patients                                49–52 also significantly improved (–3·14, –4·09 to
+(15 [7%] receiving mepolizumab and 27 [13%] receiving                     –2·18; p<0·0001). For total endoscopic nasal polyp
+placebo) discontinued treatment and continued being                       score, 104 (50%) of 206 patients receiving mepolizumab
+assessed.                                                                 versus 57 (28%) of 201 receiving placebo had a 1-point
+  Patient demographics and baseline characteristics were                  or higher improvement from baseline at week 52, and
+similar between treatment groups, and most patients                       74 (36%) versus 26 (13%), respectively, had a 2-point or
+were white (373 [92%] of 407) and male (264 [65%]). The                   higher improvement (figure 2; appendix p 10). For nasal
+mean age was 48·8 years (SD 13∙01), and mean body-                        obstruction VAS score, 146 (71%) patients receiving
+mass index was 28·2 kg/m² (5∙4). However, a lower                         mepolizumab versus 100 (50%) receiving placebo had
+proportion of patients in the mepolizumab versus                          an improvement of more than 1-point from baseline
+placebo group had two or more previous nasal surgeries                    during weeks 49–52; 124 (60%) versus 73 (36%) had an
+and aspirin-exacerbated respiratory disease (AERD), and                   improvement of more than 3-points; and 91 (44%)
+patients in the mepolizumab group had lower total                         versus 46 (23%) had an improvement of more than
+endoscopic nasal polyps scores at baseline (table 1).                     5-points (figure 2; appendix p 10).
+  For the coprimary endpoints, total endoscopic nasal                       Post-hoc analysis of the mean change from baseline
+polyp score significantly improved at week 52 from                        over time in coprimary endpoints is shown in the
+
+
+www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7                                                                                                                        7
+        Articles
+
+
+
+
+                                  A Endoscopic NP score             Number of patients                                                                                      Difference (95% CI)
+
+                                                                    Placebo   Mepolizumab
+                                  Region
+                                  Europe                             85        86                                                                                           −1·00 (−1·59 to −0.41)
+                                  USA                                28        28                                                                                           −0·39 (−1·14 to 0·36)
+                                  Rest of the world                  88        92                                                                                           −1·00 (−1·60 to −0·40)
+                                  Age
+                                  18–39 years                        52        64                                                                                           −0·43 (−1·04 to 0·19)
+                                  40–64 years                       122       113                                                                                           −0·65 (−1·10 to −0·20)
+                                  ≥65 years                          27        29                                                                                           −1·00 (−2·17 to 0·17)
+                                  Sex
+                                  Male                              125       139                                                                                            0·00 (−0·38 to 0·38)
+                                  Female                             76        67                                                                                           −1·00 (−1·59 to −0·41)
+                                  Comorbid asthma
+                                  Yes                               149       140                                                                                           −1·00 (−1·40 to −0·60)
+                                  No                                 52        66                                                                                           −0·42 (−0·98 to 0·13)
+                                  Comorbid AERD
+                                  Yes                                63        45                                                                                           −0·89 (−1·73 to −0·05)
+                                  No                                138       161                                                                                           −0·50 (−0·89 to −0·11)
+                                  Baseline blood eosinophil count
+                                  <150 cells per µL                  16        20                                                                                           −0·40 (−1·78 to 0·98)
+                                  ≥150 cells per µL                 185       186                                                                                           −0·75 (−1·21 to −0·29)
+                                  <300 cells per µL                  62        67                                                                                           −0·80 (−1·44 to −0·16)
+                                  ≥300 cells per µL                 139       139                                                                                           −1·00 (−1·50 to −0·50)
+                                  Overall                           201       206                                                                                           −0·73 (−1·11 to −0·34)
+
+                                                                                    −2·5     −2·0         −1·5      −1·0     −0·5       0         0·5       1·0       1·5
+                                                                                                    Difference in medians (mepolizumab vs placebo [95% CI])
+
+                                                                                                                    Favours mepolizumab Favours placebo
+
+                                  B Nasal obstruction VAS score
+                                  Region
+                                  Europe                             85        86                                                                                           −3·44 (−4·92 to −1.97)
+                                  USA                                28        28                                                                                           −1·39 (−3·02 to 0·23)
+                                  Rest of the world                  88        92                                                                                           −4·42 (−6·66 to −2·18)
+                                  Age
+                                  18–39 years                        52        64                                                                                           −1·54 (−3·34 to 0·26)
+                                  40–64 years                       122       113                                                                                           −3·64 (−4·73 to −2·56)
+                                  ≥65 years                          27        29                                                                                           −0·16 (−3·22 to 2·91)
+                                  Sex
+                                  Male                              125       139                                                                                           −2·59 (−3·85 to −1·34)
+                                  Female                             76        67                                                                                           −3·80 (−5·31 to −2·29)
+                                  Comorbid asthma
+                                  Yes                               149       140                                                                                           −2·88 (−3·97 to −1·79)
+                                  No                                 52        66                                                                                           −3·12 (−5·23 to −1·02)
+                                  Comorbid AERD
+                                  Yes                                63        45                                                                                           −4·43 (−5·82 to −3·03)
+                                  No                                138       161                                                                                           −2·42 (−3·67 to −1·18)
+                                  Baseline blood eosinophil count
+                                  <150 cells per µL                  16        20                                                                                           −0·39 (−4·59 to 3·81)
+                                  ≥150 cells per µL                 185       186                                                                                           −3·36 (−4·27 to −2·44)
+  Figure 3: Subgroup analyses
+                                  <300 cells per µL                  62        67                                                                                           −2·10 (−4·12 to −0·07)
+  of the coprimary endpoints
+       Quantile regression with   ≥300 cells per µL                 139       139                                                                                           −3·71 (−4·79 to −2·62)
+covariates of treatment group,    Overall                           201       206                                                                                           −3·14 (−4·09 to −2·18)
+  geographical region, baseline
+  score and loge baseline blood                                                      −8     −7   −6       −5 −4 −3           −2    −1    0      1     2      3    4    5
+              eosinophil count.                                                                       Difference in medians (mepolizumab vs placebo [95% CI])
+    AERD=aspirin-exacerbated
+respiratory disease. VAS=visual                                                                                     Favours mepolizumab Favours placebo
+                analogue score.
+
+
+
+8                                                                         www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7
+                                                                                                                                                                               Articles
+
+
+
+
+                                                    100                                                                      Placebo
+                                                                                                                             Mepolizumab 100 mg
+                                                                                                                             Hazard ratio: 0·43 (95% CI 0·25–0·76), p=0·0032
+                                                    90
+
+
+                                                    80
+
+
+                                                     70
+
+
+
+
+                 Probability of nasal surgery (%)
+                                                    60
+
+
+                                                    50
+
+
+                                                    40
+
+
+                                                    30
+
+
+                                                    20
+
+
+                                                     10
+
+
+                                                     0
+                                                          0     4      8     12     16    20     24        28         32   36        40         44        48         52
+     Number at risk                                                                             Time to event (weeks)
+  (number censored)
+            Placebo                                       201   201   198    196    192   187   179       172       167    162       156       151        146       115
+                                                          (0)   (0)    (1)    (1)   (2)   (3)   (4)        (6)       (6)    (7)       (8)       (9)       (12)      (40)
+       Mepolizumab                                        206   205   204    203    200   194   189       188       182    178       177       175        173       130
+           100 mg                                         (0)   (1)    (1)    (1)   (4)   (7)   (9)       (10)      (12)   (14)      (14)      (15)       (15)      (58)
+
+Figure 4: Kaplan–Meier plot of time-to-first nasal surgery (intention-to-treat population)
+Patients with nasal surgery; placebo 46 (23%) and mepolizumab 18 (9%).
+
+
+appendix (pp 11, 15). Efficacy of mepolizumab versus                                              For secondary endpoints, the change from baseline in
+placebo for the coprimary endpoints stratified by region,                                       overall symptom VAS score, composite VAS score, and
+age, sex, presence of comorbid asthma, presence of                                              loss of smell VAS score during weeks 49–52, and
+comorbid AERD, and baseline blood eosinophil count is                                           SNOT-22 total score at week 52 had significantly
+shown in figure 3 (appendix p 2). Subgroup analyses                                             improved in the mepolizumab group versus the placebo
+favoured mepolizumab over placebo for most subgroups                                            group (table 2; appendix p 13). Improvements in loss of
+analysed.                                                                                       smell were greater in patients with fewer previous
+  During the 52-week treatment period, the risk of nasal                                        surgeries (appendix p 17).
+surgery was significantly lower with mepolizumab versus                                           At week 52, the proportion of patients with a 1-point or
+placebo (18 [9%] vs 46 [23%] patients underwent surgery;                                        higher improvement from baseline in total endoscopic
+hazard ratio [HR] 0·43, 95% CI 0·25–0·76; p=0·0032;                                             nasal polyp score was significantly higher with
+table 2; figure 4; appendix p 16). In terms of systemic                                         mepolizumab versus placebo (104 [50%] vs 57 [28%];
+corticosteroids courses, 52 (25%) patients in the                                               OR 2·74, 95% CI 1·80–4·18; p<0∙0001), and the pro­portion
+mepolizumab group and 74 (37%) in the placebo group had                                         with a 8·9-point or higher improvement in SNOT-22 score
+received one or more courses of systemic corticosteroids for                                    in the absence of surgery was also significantly higher
+nasal polyps by week 52 (odds ratio [OR] 0·58, 95% CI                                           (150 [73%] vs 106 [54%]; 2·44, 1·60–3·73; p<0·0001), as was
+0·36–0·92; p=0·020; table 2; appendix p 16); patients in the                                    the proportion of patients no longer needing surgery
+mepolizumab group received a total of 82 courses (mean                                          (according to VAS symptom score [≤7] during weeks 49–52,
+prednisolone equivalent dose 109 mg per year [SD 257])                                          total endoscopic score [<5] at week 52 or no nasal surgery
+whereas patients in the placebo group received a total of 124                                   during the treatment period, or both; 149 [72%] vs 103 [51%];
+courses (181 mg per year [364]). Overall, 84 (41%) patients                                     2·46, 1·59–3·79; p<0·0001; appendix p 18).
+receiving mepolizumab versus 100 (50%) receiving placebo                                          Improvements from baseline in peak nasal inspiratory
+required a course of antibiotics (appendix p 16).                                               flow were greater with mepolizumab versus placebo
+
+
+www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7                                                                               9
+     Articles
+
+
+
+
+                                                                                                     On-treatment serious adverse events occurred in
+                                                             Placebo            Mepolizumab
+                                                             (n=201)            (n=206)            12 (6%) patients receiving mepolizumab and 13 (6%)
+                                                                                                   receiving placebo; none were considered related to
+                  All adverse events
+                                                                                                   mepolizumab. One death was reported in the placebo
+                  Any on-treatment event                     168 (84%)          169 (82%)
+                                                                                                   group (myocardial infarction occurring 99 days after the
+                  Treatment-related event                      19 (9%)           30 (15%)
+                                                                                                   patient’s last dose of study treatment); this death was not
+                  Leading to treatment discontinuation          4 (2%)             4 (2%)
+                                                                                                   considered related to treatment. Six patients in the
+                  Leading to study withdrawal                   1 (1%)             0
+                                                                                                   mepolizumab group and three in the placebo group were
+                  Serious adverse events
+                                                                                                   positive for anti-drug antibodies up to week 52. Of these
+                  Any on-treatment event                       13 (6%)           12 (6%)
+                                                                                                   patients, one patient in the mepolizumab and two in the
+                  Treatment-related event*                      1 (1%)             0
+                                                                                                   placebo group were positive for anti-drug antibodies at
+                  Resulting in death†                           1 (1%)             0
+                                                                                                   baseline. Titre values were low, and no patients were
+                  Systemic or local injection-site reactions
+                                                                                                   positive for neutralising antibodies.
+                  Systemic reaction                             1 (1%)             2 (1%)
+                  Local injection-site reaction                 2 (1%)             5 (2%)          Discussion
+                  Anaphylaxis                                   0                  0               This phase 3 SYNAPSE study shows the efficacy
+                  Most common adverse events‡                                                      and safety of add-on mepolizumab to standard of care
+                  Nasopharyngitis                             46 (23%)           52 (25%)          in patients with recurrent, refractory, severe, bilateral
+                  Headache                                    44 (22%)           37 (18%)          chronic rhinosinusitis with nasal polyps who were
+                  Epistaxis                                    18 (9%)           17 (8%)           eligible for repeat nasal surgery. Because all patients had
+                  Sinusitis                                    22 (11%)          10 (5%)           one or more nasal surgery before study entry, their
+                  Back pain                                    14 (7%)           15 (7%)           chronic rhinosinusitis with nasal polyps was considered
+                  Acute sinusitis                              13 (6%)           13 (6%)           refractory to medical and surgical treatment. Both
+                  Oropharyngeal pain                           10 (5%)           16 (8%)           coprimary endpoints showed a significant benefit at
+                  Upper respiratory tract infection            14 (7%)           12 (6%)           52 weeks with mepolizumab compared with placebo
+                  Nasal polyps                                 16 (8%)            8 (4%)           in addition to standard of care (including systemic
+                  Bronchitis                                   13 (6%)           10 (5%)           corticosteroids as required); polyp size significantly
+                  Asthma                                       18 (9%)             4 (2%)          reduced, although median nasal polyp scores were lower
+                  Cough                                        13 (6%)             7 (3%)          at baseline in the mepolizumab versus placebo group,
+                  Arthralgia                                    5 (2%)           13 (6%)           and nasal obstruction symptoms significantly improved.
+                  Otitis media                                 10 (5%)             5 (2%)          Additionally, mepolizumab significantly reduced the
+                 *Transient ischaemic attack. †Due to myocardial infarction during the follow-up
+                                                                                                   occurrence of nasal surgeries and the use of systemic
+                 period. ‡Reported in 5% or more patients in any treatment group.                  corticosteroids compared with placebo, and improved
+                                                                                                   nasal symptoms, including loss of smell, which is
+                 Table 3: Summary of adverse events (safety population)
+                                                                                                   one of the most bothersome symptoms for patients.27
+                                                                                                   Treatment benefits were also supported by improvements
+                (adjusted difference in medians 23·1, 95% CI 10·2–36·0;                            in peak nasal inspiratory flow. Health-related quality of
+                p<0·0001; appendix p 18). Changes in UPSIT in a subset                             life also significantly improved with mepolizumab versus
+                of patients (n=54 per treatment group) were not statistically                      placebo with a between-treatment reduction almost twice
+                significant between treatment groups (mean change from                             the 8·9-point or higher minimal clinically important
+                baseline 1·7 [SD 10·8] for mepolizumab vs 0·4                                      difference for SNOT-22 score.24 Treatment effects were
+                [8·6] for placebo; adjusted difference in medians 0·40,                            seen at 4 weeks after the first dose and were sustained
+                95% CI –1·49 to 2·28; p=0·30; appendix p 18). Reductions                           until week 52. The safety profile of mepolizumab was
+                in blood eosinophil counts were significantly greater                              similar to that seen in previous studies, with no new
+                with mepolizumab versus placebo at all timepoints, with                            safety indications.18,19 Although the clinical benefits
+                an 81% reduction with mepolizumab versus placebo by                                observed in SYNAPSE are consistent with previous
+                week 4 (ratio to placebo 0·19, 0·17–0·22; p<0·0001), which                         studies18,19 of intravenous mepolizumab in patients with
+                was maintained to week 52 (appendix p 14).                                         chronic rhinosinusitis with nasal polyps, this study
+                  In terms of safety analysis, the proportion of patients                          builds upon previous work and shows efficacy of the
+                who had on-treatment adverse events was similar                                    100 mg subcutaneous dose in patients with severe
+                between the two groups (169 [82%] in the mepolizumab                               disease who have not responded to standard of care
+                group and 168 [84%] in the placebo group; table 3). The                            treatment and are eligible for repeat surgery.
+                most frequently reported adverse events were naso­                                    The patient population in SYNAPSE reflects a
+                pharyngitis, headache, epistaxis, and sinusitis. Adverse                           population who are candidates for biological treatment.
+                events considered related to study treatment by the                                The 2019 European Forum for Research and Education
+                investigator were reported in 30 (15%) patients receiving                          in Allergy and Airway Diseases expert team proposed
+                mepolizumab and 19 (9%) receiving placebo.                                         that biological treatment should be indicated in patients
+
+
+10                                                          www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7
+                                                                                                                                       Articles
+
+
+
+
+with bilateral nasal polyps who have undergone surgery                    the mepolizumab group. Indeed, improvements in VAS
+in the past and meet at least three of the following                      symptom scores and SNOT-22 score with placebo
+criteria: evidence of T2 inflammation, need for systemic                  suggested a relatively high treatment response in the
+corticosteroids in the past 2 years, substantial quality of               placebo group in SYNAPSE versus the SINUS study.31 As
+life impairment, and a significant loss of smell or                       such, SYNAPSE results represent the efficacy of a
+a diagnosis of comorbid asthma;28 the eligibility                         biological treatment when added to standard of care
+requirement for previous surgery in SYNAPSE is in line                    (including systemic corticosteroids). Finally, there were
+with these recommendations. The reduction in the                          also differ­ences in the way symptoms were measured
+proportion of patients who received nasal surgery during                  across the studies; SYNAPSE used a 100-point VAS scale,
+the study was in line with the EPOS 2020 recom­                           whereas the SINUS and POLYP studies used a categorical
+mendation to reduce surgery.2 Moreover, the low systemic                  4-point scale for each symptom; this difference allowed
+corticosteroid use during the 52-week treatment period                    for greater granularity in the symptom scores in
+in patients who received mepolizumab is in line with                      SYNAPSE. All these differences in patient populations
+EPOS 2020, which recommends minimising systemic                           and analysis methods highlight why caution is required
+corticosteroid courses to fewer than two per year in partly               in any indirect comparisons between the SYNAPSE and
+controlled or uncontrolled nasal polyps.2                                 the SINUS or POLYP studies.
+   Multiple endoscopic nasal surgeries can reduce sense                     SYNAPSE showed significant between-treatment
+of smell.29,30 Therefore, the history of repeated nasal                   differences for coprimary and all secondary endpoints.
+surgery in the SYNAPSE population probably contributed                    When comparing the results of SYNAPSE to previous
+to the modest improvements seen in loss of smell                          phase 2 studies18,19 of mepolizumab, the treatment effect
+VAS scores in the overall patient population. Particularly                size might appear numerically smaller for SYNAPSE.
+those with a history of fewer surgeries showed greater                    However, there are several differences in study design.
+improvements in sense of smell, which has also been                       For example, assessment of nasal polyp size was done by
+observed in a previous study.30 Given that sense of                       investigators during the phase 2 studies whereas the
+smell is an important outcome to patients,27 this finding                 same assessment was done by independent, masked
+emphasises the need for treatments that reduce repeat                     reviewers at a central laboratory in SYNAPSE. Although
+surgeries. Improvements in UPSIT, an objective measure                    two different doses were used between the phase 2
+of sense of smell, were not statistically significant, most               studies and this phase 3 study, data from a previous
+likely because of the small sample size for this endpoint.                study33 in patients with asthma showed that response to
+   Dupilumab, an anti-IL-4 receptor antibody, and                         mepolizumab was independent of administration route.
+omalizumab, an anti-IgE antibody, are also efficacious in                 Additionally, that study33 showed that blood eosinophil
+patients with chronic rhinosinusitis with nasal polyps, as                counts were reduced to a similar amount with the 100 mg
+shown in the SINUS31 and POLYP32 studies. Although,                       subcutaneous dose compared with the 75 mg intravenous
+previous surgery was not a requirement for inclusion in                   dose, indicating that there is substantial pharmacological
+either of these studies, previous surgery was reported                    overlap between the doses. Because the clinical impact of
+in 63% patients in the SINUS study and 60% in the                         mepolizumab in reducing blood eosinophil count was
+POLYP study; 15% had three or more previous surgeries                     consistent across the phase 2 studies and SYNAPSE, the
+in SINUS31 and 30% had two or more previous surgeries                     dose and route of administration are unlikely to have
+in POLYP.32 By comparison, all patients in SYNAPSE                        contributed to the differences observed between the
+had one or more previous surgeries at enrolment,                          phase 2 and phase 3 studies.
+54% of patients had two or more previous surgeries, and                     Subgroup analyses of the coprimary endpoints
+30% had three or more previous surgeries. As such, the                    suggested that the efficacy of mepolizumab is higher
+population in SYNAPSE might be considered to have                         with higher baseline blood eosinophil count, whereas
+more severe and treatment refractory disease than those                   treatment effects for coprimary endpoints were similar
+in the SINUS31 or the POLYP32 studies, on the basis of                    across subgroups stratified by region, age, comorbid
+previous need for surgeries in all patients. Additionally,                asthma, or comorbid AERD. Blood eosinophil count is a
+in the SINUS study,31 patients who received systemic                      biomarker for clinical response in asthma;34,35 however,
+corticosteroids had their worst pre-systemic corticosteroid               unlike previous trials in asthma,36–38 patients with
+endpoint value used for analysis, whereas in SYNAPSE                      chronic rhinosinusitis with nasal polyps in SYNAPSE
+values following systemic corticosteroid use were                         were not selected on the basis of blood eosinophil count.
+included in the analysis because systemic corticosteroid                  Patient numbers in the baseline blood eosinophil
+use was considered a part of standard of care. This                       subgroups were low, and in some cases insufficient to
+difference could have improved endpoint scores for                        accurately determine the effect of eosinophil count on
+patients in the placebo group (thus reducing the                          the response to mepolizumab. Although modelling of
+treatment difference vs mepolizumab) in SYNAPSE,                          predicted median change in nasal obstruction VAS score
+because patients in the placebo group had greater                         at weeks 49–52 suggested that higher baseline blood
+systemic corticosteroid use compared with patients in                     eosinophil counts are predictive of a larger treatment
+
+
+www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7                                       11
+     Articles
+
+
+
+
+                effect, this prediction was not the case for total                  (eg, simple polypectomy vs endoscopic sinus surgery vs
+                nasal polyp score. As such, further research is required            extended surgery) can affect the risk of nasal polyp
+                to investigate blood eosinophil counts as a potential               reoccurrence, imbalances between treatment groups in
+                biomarker for the response to mepolizumab in patients               the types of previous surgery received could have
+                with chronic rhinosinusitis with nasal polyps.                      influenced results;40 however, this factor was largely
+                   In terms of handling surgical events in the analyses,            controlled for because the patients were randomly
+                patients who had a surgery during SYNAPSE were                      assigned to treatment. In conclusion, this phase 3 study
+                assigned their worst observed score before the surgery              showed the efficacy of mepolizumab with an acceptable
+                for coprimary and symptom or health-related quality of              safety profile in adults with severe chronic rhinosinusitis
+                life endpoints. This method probably affected patients in           with nasal polyps.
+                the placebo group disproportionately because they                   Contributors
+                typically had more and earlier nasal surgeries than did             JKH, CB, WF, MD, MW, SEL, and CH contributed to the acquisition of
+                those receiving mepolizumab. The use of worst observed              study data, data analysis, and interpretation. BM, ARS, and RC
+                                                                                    contributed to the conceptualisation, study design, data analysis, and
+                score for those having surgery was prespecified and                 interpretation. SGS, NM, and SWY contributed to the data analysis and
+                reflects the fact that nasal surgery is a poor outcome in           interpretation. All authors developed, revised, and critically reviewed the
+                patients with chronic rhinosinusitis with nasal polyps.             manuscript, and provided final approval of the version submitted for
+                We recognise that alternative strategies for handling               publication. All authors participated in the development of the
+                                                                                    manuscript and had access to the study data. Authors were provided the
+                these important post-randomisation events could have                data at the initial call to discuss the manuscript. All authors are
+                been considered; however, the effect of the analysis                accountable for the accuracy and integrity of the work. BM, RC, and ARS
+                strategy on treatment effect estimates was minimised by             have accessed and verified all the data in the study.
+                using comparisons based on median change from                       Declaration of interests
+                baseline rather than mean change from baseline. Use of              JKH has received consultancy fees from Sanofi Genzyme, Regeneron,
+                medians, rather than means, reduces the influence of                Genentech, AstraZeneca, GlaxoSmithKline, and Gossamer Bio. CB has
+                                                                                    participated in advisory boards and received speaker fees from Sanofi,
+                extremes in the data. However, even with the                        Novartis, AstraZeneca, GlaxoSmithKline, ALK-Abelló, and
+                placebo response, mepolizumab significantly improved                Meda Pharmaceuticals. WF has received clinical trial funding from
+                nasal polyp size and symptoms associated with chronic               Sanofi, Mylan, ALK-Abelló, Allergy Therapeutics, Novartis, and
+                rhinosinusitis with nasal polyps.                                   Chordate; and personal fees from Sanofi. MD has received clinical trial
+                                                                                    funding from AstraZeneca, GlaxoSmithKline, Probionase Therapies,
+                   There are several potential limitations for this study.          and Sanofi; is an advisory board member for Regeneron Pharmaceuticals
+                First, nasal polyp size determination can be subjective in          and Sanofi; and has equity in Probionase Therapies. MW has received
+                routine clinical practice, especially when the assessor             advisory board fees or speaker fees from ALK-Abelló, Allergopharma,
+                                                                                    AstraZeneca, Bencard Allergie, Genzyme, HAL Allergie, InfectoPharm,
+                might be influenced by the knowledge of the patient’s
+                                                                                    LETIPharma, Meda Pharmaceuticals, Novartis, Sanofi,
+                symptom during an endoscopic examination. Therefore,                Stallergenes Greer, and Teva. SEL has participated in advisory boards
+                to counteract this potential bias, SYNAPSE used inde­               and received clinical trial funding from Sanofi Genzyme, Regeneron,
+                pendent centrally masked reviewers to score the                     Genentech, AstraZeneca, and GlaxoSmithKline. SGS, NM, BM, SWY,
+                                                                                    ARS, and RC are employees of GlaxoSmithKline and own company
+                nasal polyp size and minimise any subjectivity and
+                                                                                    stocks and shares. CH has received advisory board fees from Sanofi,
+                variability of this assessment. Second, if a patient met the        AstraZeneca, Olympus, and Smith and Nephew.
+                criteria for surgery during the study, the decision to
+                                                                                    Data sharing
+                prescribe another course of systemic corticosteroids or             Anonymised individual participant data and study documents can be
+                proceed to surgery was decided by the physician, who                requested for further research from http://www.clinicalstudydatarequest.
+                would have been influenced by many subjective factors               com The trial protocol and statistical analysis plan are available at
+                                                                                    https://www.gsk-studyregister.com/.
+                beyond treatment failure, including surgeon preference,
+                patient desire, and comorbidities. Third, nasal polyp size          Acknowledgments
+                                                                                    We thank the patients who took part in the study. This study was funded
+                was not assessed using CT and would have been of                    by GlaxoSmithKline (GSK ID: 205687; NCT03085797). Editorial support
+                interest. We believe CT scans are unlikely to take priority         (in the form of writing assistance, including preparation of the draft
+                over nasal endoscopy in the assessment of response to               manuscript under direction and guidance of the authors, collating and
+                systemic therapy, such as a biological treatment, or for            incorporating authors’ comments for each draft, assembling tables and
+                                                                                    figures, grammatical editing and referencing) was provided by
+                the evaluation of polyp recurrence after surgeries, due to          Elizabeth Hutchinson (Fishawack Indicia, Knutsford, UK, part of
+                the limitations of CT scans, including the inability to             Fishawack Health) and funded by GlaxoSmithKline.
+                delineate polyp and nasal turbinate tissue. As a less               References
+                invasive and less burdensome procedure, nasal                       1    Hedman J, Kaprio J, Poussa T, Nieminen MM. Prevalence of
+                endoscopy is probably used more often given the                          asthma, aspirin intolerance, nasal polyposis and chronic obstructive
+                                                                                         pulmonary disease in a population-based study. Int J Epidemiol
+                suggested better correlation of its findings than those of               1999; 28: 717–22.
+                CT scans in a postoperative population similar to that in           2    Fokkens WJ, Lund VJ, Hopkins C, et al. European position paper on
+                this study.39 Moreover, CT scans are not mandated for the                rhinosinusitis and nasal polyps 2020. Rhinology 2020;
+                                                                                         58 (suppl S29): 1–464.
+                initiation or assess­ment of the response to treatment              3    Bachert C, Wagenmann M, Hauser U, Rudack C. IL-5 synthesis is
+                with a biological therapy according to recent                            upregulated in human nasal polyp tissue. J Allergy Clin Immunol
+                publications.2,28 Finally, because the type of nasal surgery             1997; 99: 837–42.
+
+
+
+12                                              www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7
+                                                                                                                                                       Articles
+
+
+
+
+4    Bachert C, Zhang N, Cavaliere C, Weiping W, Gevaert E, Krysko O.        24   Chowdhury NI, Mace JC, Bodner TE, et al. Investigating the
+     Biologics for chronic rhinosinusitis with nasal polyps.                      minimal clinically important difference for SNOT-22 symptom
+     J Allergy Clin Immunol 2020; 145: 725–39.                                    domains in surgically managed chronic rhinosinusitis.
+5    Bachert C, Zhang N, Holtappels G, et al. Presence of IL-5 protein            Int Forum Allergy Rhinol 2017; 7: 1149–55.
+     and IgE antibodies to staphylococcal enterotoxins in nasal polyps is    25   Keene ON. Strategies for composite estimands in confirmatory
+     associated with comorbid asthma. J Allergy Clin Immunol 2010;                clinical trials: examples from trials in nasal polyps and steroid
+     126: 962–68.                                                                 reduction. Pharm Stat 2019; 18: 78–84.
+6    Hamilos DL, Leung DY, Huston DP, Kamil A, Wood R, Hamid Q.              26   Mehrotra DV, Liu F, Permutt T. Missing data in clinical trials:
+     GM-CSF, IL-5 and RANTES immunoreactivity and mRNA                            control-based mean imputation and sensitivity analysis. Pharm Stat
+     expression in chronic hyperplastic sinusitis with nasal polyposis            2017; 16: 378–92.
+     (NP). Clin Exp Allergy 1998; 28: 1145–52.                               27   Chung JH, Lee YJ, Kang TW, et al. Altered quality of life and
+7    Kohli P, Naik AN, Harruff EE, Nguyen SA, Schlosser RJ, Soler ZM.             psychological health (SCL-90-R) in patients with chronic
+     The prevalence of olfactory dysfunction in chronic rhinosinusitis.           rhinosinusitis with nasal polyps. Ann Otol Rhinol Laryngol 2015;
+     Laryngoscope 2017; 127: 309–20.                                              124: 663–70.
+8    Alobid I, Bernal-Sprekelsen M, Mullol J. Chronic rhinosinusitis and     28   Bachert C, Han JK, Wagenmann M, et al. EUFOREA expert board
+     nasal polyps: the role of generic and specific questionnaires on             meeting on uncontrolled severe chronic rhinosinusitis with nasal
+     assessing its impact on patient’s quality of life. Allergy 2008;             polyps (CRSwNP) and biologics: definitions and management.
+     63: 1267–79.                                                                 J Allergy Clin Immunol 2021; 147: 29–36.
+9    Alobid I, Cardelus S, Benítez P, et al. Persistent asthma has an        29   Nguyen DT, Bey A, Arous F, Nguyen-Thi PL, Felix-Ravelo M,
+     accumulative impact on the loss of smell in patients with                    Jankowski R. Can surgeons predict the olfactory outcomes after
+     nasal polyposis. Rhinology 2011; 49: 519–24.                                 endoscopic surgery for nasal polyposis? Laryngoscope 2015;
+10   Hox V, Lourijsen E, Jordens A, et al. Benefits and harm of systemic          125: 1535–40.
+     steroids for short- and long-term use in rhinitis and rhinosinusitis:   30   Seys SF, De Bont S, Fokkens WJ, et al. Real-life assessment of
+     an EAACI position paper. Clin Transl Allergy 2020; 10: 1.                    chronic rhinosinusitis patients using mobile technology:
+11   DeConde AS, Mace JC, Levy JM, Rudmik L, Alt JA, Smith TL.                    the mySinusitisCoach project by EUFOREA. Allergy 2020;
+     Prevalence of polyp recurrence after endoscopic sinus surgery for            75: 2867–78.
+     chronic rhinosinusitis with nasal polyposis. Laryngoscope 2017;         31   Bachert C, Han JK, Desrosiers M, et al. Efficacy and safety of
+     127: 550–55.                                                                 dupilumab in patients with severe chronic rhinosinusitis with
+12   Hosemann W. Surgical treatment of nasal polyposis in patients with           nasal polyps (LIBERTY NP SINUS-24 and LIBERTY NP
+     aspirin intolerance. Thorax 2000; 55 (suppl 2): S87–90.                      SINUS-52): results from two multicentre, randomised, double-
+13   Alanin MC, Laidlaw T, Society TS, Hopkins C. The burden of non-              blind, placebo-controlled, parallel-group phase 3 trials. Lancet
+     steroidal anti-inflammatory exacerbated respiratory disease from             2019; 394: 1638–50.
+     the patient’s perspective - a qualitative analysis of posts from the    32   Gevaert P, Omachi TA, Corren J, et al. Efficacy and safety of
+     Samter’s Society. Rhinology 2020; 58: 333–40.                                omalizumab in nasal polyposis: 2 randomized phase 3 trials.
+14   Vennik J, Eyles C, Thomas M, et al. Management strategies for                J Allergy Clin Immunol 2020; 146: 595–605.
+     chronic rhinosinusitis: a qualitative study of GP and ENT specialist    33   Pouliquen IJ, Kornmann O, Barton SV, Price JA, Ortega HG.
+     views of current practice in the UK. BMJ Open 2018; 8: e022643.              Characterization of the relationship between dose and blood
+15   Flood-Page P, Menzies-Gow A, Phipps S, et al. Anti-IL-5 treatment            eosinophil response following subcutaneous administration of
+     reduces deposition of ECM proteins in the bronchial subepithelial            mepolizumab. Int J Clin Pharmacol Ther 2015; 53: 1015–27.
+     basement membrane of mild atopic asthmatics. J Clin Invest 2003;        34   Ortega HG, Yancey SW, Mayer B, et al. Severe eosinophilic asthma
+     112: 1029–36.                                                                treated with mepolizumab stratified by baseline eosinophil
+16   European Medicines Agency. Mepolizumab summary of product                    thresholds: a secondary analysis of the DREAM and MENSA
+     characteristics. March, 2021. https://www.ema.europa.eu/en/                  studies. Lancet Respir Med 2016; 4: 549–56.
+     documents/product-information/nucala-epar-product-information_          35   Yancey SW, Keene ON, Albers FC, et al. Biomarkers for severe
+     en.pdf (accessed March 30, 2021).                                            eosinophilic asthma. J Allergy Clin Immunol 2017; 140: 1509–18.
+17   GlaxoSmithKline. Mepolizumab prescribing information.                   36   Bel EH, Wenzel SE, Thompson PJ, et al. Oral glucocorticoid-sparing
+     September, 2020. https://www.gsksource.com/pharma/content/                   effect of mepolizumab in eosinophilic asthma. N Engl J Med 2014;
+     dam/GlaxoSmithKline/US/en/Prescribing_Information/Nucala/                    371: 1189–97.
+     pdf/NUCALA-PI-PIL-IFU-COMBINED.PDF (accessed                            37   Ortega HG, Liu MC, Pavord ID, et al. Mepolizumab treatment in
+     March 30, 2021).                                                             patients with severe eosinophilic asthma. N Engl J Med 2014;
+18   Gevaert P, Van Bruaene N, Cattaert T, et al. Mepolizumab,                    371: 1198–207.
+     a humanized anti-IL-5 mAb, as a treatment option for severe             38   Chupp GL, Bradford ES, Albers FC, et al. Efficacy of mepolizumab
+     nasal polyposis. J Allergy Clin Immunol 2011; 128: 989–95.                   add-on therapy on health-related quality of life and markers of
+19   Bachert C, Sousa AR, Lund VJ, et al. Reduced need for surgery in             asthma control in severe eosinophilic asthma (MUSCA):
+     severe nasal polyposis with mepolizumab: randomized trial.                   a randomised, double-blind, placebo-controlled, parallel-group,
+     J Allergy Clin Immunol 2017; 140: 1024–31.e14.                               multicentre, phase 3b trial. Lancet Respir Med 2017; 5: 390–400.
+20   GlaxoSmithKline. Effect of mepolizumab in severe bilateral              39   Ryan WR, Ramachandra T, Hwang PH. Correlations between
+     nasal polyps. https://www.gsk-studyregister.com/en/trial-                    symptoms, nasal endoscopy, and in-office computed tomography in
+     details/?id=205687 (accessed Dec 1, 2020).                                   post-surgical chronic rhinosinusitis patients. Laryngoscope 2011;
+21   Hopkins C. Chronic rhinosinusitis with nasal polyps. N Engl J Med            121: 674–78.
+     2019; 381: 55–63.                                                       40   Noon E, Hopkins C. Review article: outcomes in endoscopic sinus
+22   van der Veen J, Seys SF, Timmermans M, et al. Real-life study                surgery. BMC Ear Nose Throat Disord 2016; 16: 9.
+     showing uncontrolled rhinosinusitis after sinus surgery in a tertiary
+     referral centre. Allergy 2017; 72: 282–90.
+23   Xu Z, Luo X, Xu L, et al. Effect of short-course glucocorticoid
+     application on patients with chronic rhinosinusitis with
+     nasal polyps. World Allergy Organ J 2020; 13: 100131.
+
+
+
+
+www.thelancet.com/respiratory Published online April 16, 2021 https://doi.org/10.1016/S2213-2600(21)00097-7                                                       13
+

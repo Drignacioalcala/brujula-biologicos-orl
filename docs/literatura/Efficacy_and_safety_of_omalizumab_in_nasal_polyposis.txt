@@ -1,0 +1,792 @@
+Efficacy and safety of omalizumab in nasal
+polyposis: 2 randomized phase 3 trials
+Philippe Gevaert, MD, PhD,a Theodore A. Omachi, MD,b Jonathan Corren, MD,c Joaquim Mullol, MD, PhD,d
+Joseph Han, MD,e Stella E. Lee, MD,f Derrick Kaufman, PhD,b Monica Ligueros-Saylan, MD,g Monet Howard, MSc,b
+Rui Zhu, PhD,b Ryan Owen, PhD,b Kit Wong, PhD,b Lutaf Islam, DVM, MSc,h and Claus Bachert, MD, PhDa,i                             Ghent,
+Belgium; South San Francisco and Los Angeles, Calif; Catalonia, Spain; Norfolk, Va; Pittsburgh, Pa; East Hanover, NJ; Welwyn Garden City,
+United Kingdom; and Stockholm, Sweden
+
+
+GRAPHICAL ABSTRACT
+
+
+
+
+From athe Upper Airway Research Laboratory, Department of Otorhinolaryngology,                  J. Han is an advisory board member for Genentech, Inc, and Sanofi-Regeneron, and an
+  Ghent University Hospital; bGenentech, Inc, South San Francisco; cthe Departments             investigator for Amgen, AstraZeneca, GlaxoSmithKline, Novartis, and Sanofi-
+  of Medicine and Pediatrics, David Geffen School of Medicine at UCLA, Los Angeles;             Regeneron. S.E. Lee has been an investigator for AstraZeneca, Genentech, Inc,
+  d
+   the Hospital Clinic, IDIBAPS, Universitat de Barcelona, CIBERES, Barcelona, Cat-             GlaxoSmithKline, Regeneron, and Sanofi, and an advisory board member for
+  alonia; eEastern Virginia Medical School, Norfolk; fthe Department of Otolaryn-               AstraZeneca, Genentech, Inc, GlaxoSmithKline, Sanofi, and Regeneron. M.
+  gology-Head and Neck Surgery, University of Pittsburgh; and gNovartis                         Ligueros-Saylan is an employee of Novartis Pharmaceuticals Corporation. L. Islam
+  Pharmaceuticals Corporation, East Hanover; hRoche, Welwyn Garden City; and iDivi-             is an employee of Roche. C. Bachert is a speaker and advisory board member for ALK,
+  sion of ENT Diseases, CLINTEC, Karolinska Institute, Stockholm.                               ASIT Biotech, AstraZeneca, GlaxoSmithKline, Mylan, Novartis, Sanofi, and
+This study was funded by Genentech, Inc, a member of the Roche Group, and Novartis              Stallergenes.
+  Pharma AG. Third-party writing assistance was provided by Mark Snape, MBBS,                Received for publication December 31, 2019; revised May 4, 2020; accepted for publi-
+  CMPP, and Nicole Tom, PhD, of Envision Pharma Inc, and funded by Genentech,                   cation May 22, 2020.
+  Inc, a member of the Roche Group, and Novartis Pharmaceuticals Corporation.                Available online June 7, 2020.
+Disclosure of potential conflict of interest: P. Gevaert is a speaker and advisory board     Corresponding author: Theodore A. Omachi, MD, Genentech, Inc, 1 DNA Way, South
+  member for Ablynx, ALK, Argenx, Genentech, Inc, Hal Allergy, Novartis, Regeneron,             San Francisco, CA 94080. E-mail: omachi.theodore@gene.com.
+  Roche, Sanofi, and Stallergenes. T. A. Omachi, D. Kaufman, M. Howard, R. Zhu, R.                 The CrossMark symbol notifies online readers when updates have been made to the
+  Owen, and K. Wong are employees of Genentech, Inc, a member of the Roche Group.                  article such as errata or minor corrections
+  J. Corren is a consultant for AstraZeneca, Genentech, Inc, Novartis, Regeneron, and        0091-6749
+  Sanofi and a speaker bureau member for AstraZeneca and Genentech, Inc, and he has          Ó 2020 The Authors. Published by Elsevier Inc. on behalf of the American Academy of
+  received grants to his institution from Genentech, Inc, Regeneron, and Sanofi. J. Mullol      Allergy, Asthma & Immunology. This is an open access article under the CC BY-NC-
+  is a speaker, advisory board member, and recipient of research grants from                    ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+  ALK-Abell  o, AstraZeneca, Genentech, Inc, GlaxoSmithKline, Menarini,                     https://doi.org/10.1016/j.jaci.2020.05.032
+  Mitsubishi-Tanabe, MSD, Mylan, Novartis, Sanofi-Regeneron, and the Uriach Group.
+
+
+                                                                                                                                                                              595
+596 GEVAERT ET AL                                                                                                            J ALLERGY CLIN IMMUNOL
+                                                                                                                                     SEPTEMBER 2020
+
+
+
+
+Background: Chronic rhinosinusitis with nasal polyps
+(CRSwNP) is characterized by IgE hyperproduction and                      Abbreviations used
+eosinophilic inflammation. The anti-IgE antibody, omalizumab,                  AE: Adverse event
+has demonstrated efficacy in patients with CRSwNP and                       AQLQ: Asthma Quality of Life Questionnaire
+comorbid asthma previously.                                                   CRS: Chronic rhinosinusitis
+Objective: Our aim was to determine omalizumab safety and                 CRSwNP: Chronic rhinosinusitis with nasal polyps
+efficacy in CRSwNP in phase 3 trials (POLYP 1 and POLYP 2).                   FAS: Full analysis set
+Methods: Adults with CRSwNP with inadequate response to                      FESS: Functional endoscopic sinus surgery
+intranasal corticosteroids were randomized (1:1) to omalizumab             HRQoL: Health-related quality of life
+                                                                             INCS: Intranasal corticosteroid
+or placebo and intranasal mometasone for 24 weeks. Coprimary
+                                                                              LSM: Least-squares mean
+end points included change from baseline to week 24 in Nasal
+                                                                            MCID: Minimal clinically important difference
+Polyp Score (NPS) and Nasal Congestion Score. Secondary end                   NCS: Nasal Congestion Score
+points included change from baseline to week 24 in Sino-Nasal                 NPS: Nasal Polyp Score
+Outcome Test-22 (SNOT-22) score, University of Pennsylvania                NSAID: Nonsteroidal anti-inflammatory drug
+Smell Identification Test, sense of smell, postnasal drip, runny               OR: Odds ratio
+nose, and adverse events.                                                     QoL: Quality of life
+Results: Patients in POLYP 1 (n 5 138) and POLYP 2 (n 5 127)                  SCS: Systemic corticosteroid
+exhibited severe CRSwNP and substantial quality of life                   SNOT-22: Sino-Nasal Outcome Test-22
+impairment evidenced by a mean NPS higher than 6 and SNOT-                   TNSS: Total Nasal Symptom Score
+                                                                            UPSIT: University of Pennsylvania Smell Identification Test
+22 score of approximately 60. Both studies met both the
+coprimary end points. SNOT-22 score, University of
+Pennsylvania Smell Identification Test score, sense of smell,
+postnasal drip, and runny nose were also significantly improved
+                                                                       B cells and IgE production is well documented in tissue from pa-
+for omalizumab versus placebo. In POLYP 1 and POLYP 2, the
+                                                                       tients with CRSwNP.17-19 Within the sinonasal mucosa, Staphylo-
+mean changes from baseline at week 24 for omalizumab versus
+                                                                       coccal enterotoxin–specific IgE and polyclonal IgE for inhalant
+placebo were as follows: NPS, –1.08 versus 0.06 (P < .0001) and
+                                                                       allergens, as well as colonization by microbial agents including
+–0.90 versus –0.31 (P 5 .0140); Nasal Congestion Score, –0.89
+                                                                       Staphylococcus aureus, are associated with CRSwNP irrespective
+versus –0.35 (P 5 .0004) and –0.70 versus –0.20 (P 5 .0017); and
+                                                                       of atopic status.20 Locally produced IgE appears to be functional
+SNOT-22 score, –24.7 versus –8.6 (P < .0001) and –21.6 versus
+                                                                       and involved in regulating chronic inflammation.21
+–6.6 (P < .0001). Adverse events were similar between groups.
+                                                                          In real-world and randomized clinical studies, patients treated
+Conclusion: Omalizumab significantly improved endoscopic,
+                                                                       with the anti-IgE mAb, omalizumab, demonstrated reductions in
+clinical, and patient-reported outcomes in severe CRSwNP with
+                                                                       CRS-related symptoms, endoscopic Nasal Polyp Score (NPS),
+inadequate response to intranasal corticosteroids, and it was
+                                                                       and need for INCS use.22-24 Improvements were observed by
+well tolerated. (J Allergy Clin Immunol 2020;146:595-605.)
+                                                                       week 4 and were similar to those observed in patients receiving
+Key words: Nasal polyps, rhinosinusitis, omalizumab, quality of        FESS.23 In a randomized controlled trial of 24 patients with
+life, nasal obstruction, IgE, allergy, asthma                          CRSwNP with comorbid asthma, omalizumab significantly
+                                                                       improved endoscopic NPS, Lund-Mackay score (a validated mea-
+                                                                       sure of paranasal sinus occupation severity), and patient-reported
+   Chronic rhinosinusitis (CRS) with nasal polyps (CRSwNP),            outcomes irrespective of atopic status.24
+also referred to as nasal polyposis, is a severe form of CRS. CRS is      On the basis of these proof-of-concept studies,22-24 2 phase 3
+common and is estimated to affect up to 15% of the population          studies (POLYP 1 and POLYP 2) were conducted to evaluate
+based on a symptomatic definition1 and 3% to 6.7% of the popu-         the efficacy and safety of omalizumab versus placebo in adult pa-
+lation based on symptoms combined with endoscopic evaluation.2         tients with CRSwNP with inadequate response to INCS therapy.
+A recent large single-center study from the United States reported
+that approximately 18% of patients with CRS have CRSwNP.3
+                                                                       METHODS
+CRSwNP is associated with adult-onset asthma, significant
+morbidity, decreased health-related quality of life (HRQoL),4-8        Study design and patient population
+                                                                          POLYP 1 (NCT03280550) and POLYP 2 (NCT03280537) were replicate
+and substantial economic burden (amounting to more than $22            (identical), phase 3, randomized, multicenter, double-blind, placebo-
+billion for CRS in the United States in 2014).9,10 Quality of life     controlled studies evaluating the efficacy and safety of omalizumab in patients
+(QoL) impairment is comparable with that experienced by pa-            with inadequately controlled CRSwNP despite daily INCS therapy. They were
+tients with chronic lower back pain.11 Many patients with              conducted across 82 centers in North America and Europe between November
+CRSwNP have uncontrolled symptoms despite use of intranasal            15, 2017, and March 11, 2019 (POLYP 1) and November 21, 2017, and March
+corticosteroids (INCS) or systemic corticosteroids (SCS), use of       7, 2019 (POLYP 2).
+doxycycline to reduce inflammation or infection, or functional            Patients aged 18-75 years with persistent bilateral nasal polyps, nasal
+endoscopic sinus surgery (FESS).4,12 Furthermore, disease con-         congestion, impaired HRQoL, and weight and serum IgE level permitting
+trol is poor, with 20% to 80% of patients experiencing recurrence      omalizumab dosing per Table E1 (in this article’s Online Repository at www.
+                                                                       jacionline.org) (ie, weight of 30-50 kg and serum IgE level of 30-1500 IU/mL)
+depending on follow-up duration.13-15
+                                                                       were eligible. Patients were required to have received at least 4 weeks of INCS
+   IgE is thought to play a central role in CRSwNP pathogenesis        therapy before screening visit 1 and have a total NPS of 5 or higher (NPS _>2 for
+by activating type 2 inflammatory cells such as mast cells,            each nostril) at screening visit 1 (day –35). Patients were further required to
+basophils, and eosinophils (Fig 1).16 Local IgE class switching by     have an NPS of 5 or higher at screening visit 2 (day –7), after 4 weeks of
+J ALLERGY CLIN IMMUNOL                                                                                                                    GEVAERT ET AL 597
+VOLUME 146, NUMBER 3
+
+
+
+
+                         FIG 1. Role of IgE and proposed mechanism of action in chronic rhinosinusitis with nasal polyps. DC, Den-
+                         dritic cell; FcεRI, high-affinity IgE receptor; ILC2, type 2 innate lymphoid cell; PGD2, prostaglandin D2; TSLP,
+                         thymic stroma–derived lymphopoietin.
+
+
+
+intranasal mometasone during run-in (200 mg twice daily or 200 mg daily if          Assessments
+unable to tolerate 200 mg twice daily). A Nasal Congestion Score (NCS) of              Demographic data and medical history were collected during screening
+2 or higher (with additional symptoms of postnasal drip, runny nose, and/or         visit 1. Blood samples were collected at screening and at weeks 16, 24, and 28
+loss of sense of smell) at day –35 (1-week recall) and a weekly mean NCS            for routine analyses. Serum IgE levels were determined at baseline. NPS
+higher than 1 at randomization (assessed every morning via an eDiary) were          (point range, 0-8 [see Table E2 in this article’s Online Repository at www.
+required (see the section Methods E1 in this article’s Online Repository at         jacionline.org]) was determined for each nasal passage at screening and at
+www.jacionline.org). Patients were required to have a Sino-Nasal Outcome            weeks 4, 8, 16, and 24. Endoscopic videos were scored at a central reading
+Test-22 (SNOT-22) score of 20 or higher at day –35 and randomization.               center by 2 blinded independent trained otolaryngologists. Discrepancies
+   Patients were excluded if they had other sinonasal or pulmonary disorders        were adjudicated by a third blinded otolaryngologist. Nasal symptoms were
+(except asthma), including the following: current upper respiratory tract           recorded daily with the use of an eDiary (with nasal congestion, sense of smell,
+infection, cystic fibrosis, or other dyskinetic ciliary syndrome; past or current   postnasal drip, and runny nose each assigned a score ranging from 0 [not at all]
+malignancy; a cardiac condition; hepatitis; liver cirrhosis; recent or current      to 3 [severe]); each component was analyzed separately and in a combined
+infection requiring hospitalization (<   _4 weeks), antibiotic (< _2 weeks) or      summed Total Nasal Symptom Score (TNSS) (point range, 0-12 [see Table
+antifungal treatment, or parasitic infection (<   _6 months); recent use of an      E3 in this article’s Online Repository at www.jacionline.org]). The nasal
+SCS (< _2 months), immunosuppressant, biologic, or leukotriene antagonist or        congestion question forms the NCS. The University of Pennsylvania Smell
+modifier; recent nasal surgery (< _6 months); known allergy to omalizumab; or       Identification Test (UPSIT) was performed at day 1 and at weeks 8, 16, and
+those who were immunocompromised.                                                   24 (point range, 0-40, with higher scores indicating better smell). SNOT-22
+   Patients were randomized (1:1) to omalizumab or placebo and background           score was measured at screening; on day 1; and at weeks 4, 8, 16, and 24 (point
+intranasal mometasone for 24 weeks (Fig 2). The protocol specified study            range, 0-110, with lower scores indicating better disease control and QoL). In
+dosing of 75 to 600 mg by subcutaneous injection every 2 or 4 weeks, depend-        patients with comorbid asthma, the Asthma Quality of Life Questionnaire
+ing on the pretreatment serum total IgE level and body weight (see Table E1).       (AQLQ) was administered at day 1 and at weeks 16 and 24 (point range,
+Permuted block randomization (block size 4) was performed by using an inter-        1-7, with higher scores indicating better QoL). Adverse events (AEs) and
+active web-based response system within strata defined by comorbid asthma/          concomitant medications were monitored throughout treatment and safety
+aspirin sensitivity and geographic region. The investigator, investigational site   follow-up.
+staff, central image readers, sponsor and sponsor’s representatives, and               An open-label extension study will assess patients who received 24 weeks
+patients were blinded to treatment allocation.                                      of open-label omalizumab followed by a 24-week off-drug observation period
+   Saline nasal lavages were permitted during the study. However, because           (see the section Methods E1).
+antibiotics are often used to treat CRSwNP, systemic antibiotic therapy for
+more than 14 days was not permitted during the study. A complete list of
+prohibited medications and procedures are in the section Methods E1.                Outcomes
+   The protocol was approved by the studies’ respective institutional review            The coprimary end points were change from baseline to week 24 in
+boards or ethics committees. All patients provided written informed consent.        endoscopic NPS24 and mean daily NCS. Secondary end points included
+The study was conducted in accordance with the International Conference on          change from baseline at week 24 in SNOT-22 score, UPSIT (a widely used
+Harmonisation Good Clinical Practice,25 the Declaration of Helsinki,26 and all      measure recommended by British Medical Journal Best Practice Guidelines
+applicable laws and regulations.                                                    to assess olfactory function in nasal polyps27) score, mean daily sense of smell,
+598 GEVAERT ET AL                                                                                                                        J ALLERGY CLIN IMMUNOL
+                                                                                                                                                 SEPTEMBER 2020
+
+
+
+
+                                                                                    24-week treatment period
+
+                                                    5-week                     Omalizumab (mg/kg) Q2W or Q4W
+                                                    run-in                                                                       SFU
+
+                                                                                     Placebo Q2W or Q4W
+
+                                                                                                                  Coprimary
+                                                                                                                  end points
+                                     Screening visit                 Randomization (1:1)                          at week 24
+                                                            Intranasal corticosteroids, background treatment*
+                                  Week       –5        –1        0        4          8         12        16        20          24          28
+                                   Day      –35        –7        1        28         56        84        112       140         168        196
+
+                      Assessment schedule:
+                                    NPS
+                              SNOT-22
+                                 UPSIT
+                                 AQLQ
+
+                         FIG 2. Study design for POLYP 1 and POLYP 2. *All patients received intranasal corticosteroids (mometa-
+                         sone nasal spray) as background therapy. Q2W, Every 2 weeks; Q4W, every 4 weeks; SFU, safety follow-up.
+
+
+postnasal drip, runny nose, and TNSS; change from baseline at week 16 in             analysis adjusted for the aforementioned baseline covariates, baseline NPS,
+NPS and NCS; and percentage of patients requiring rescue therapy (an SCS             and SNOT-22 score. The between-group difference in the proportion of
+for _
+    >3 consecutive days and/or nasal polypectomy) by week 24. Reduction              patients requiring rescue treatment by week 24 was estimated by using a
+in need for surgery through week 24 was predefined as achievement of an              logistic regression model analysis for oral corticosteroid use for 3 or more
+NPS of 4 or lower (<_2 for each nostril) and an improvement of at least the min-     consecutive days and/or sinus surgery adjusted for baseline covariates (see
+imal clinically important difference (MCID28;>     _8.9 points) in SNOT-22 score.    earlier). The between-group differences in the proportion of patients with
+The percentage of patients with comorbid asthma demonstrating an MCID in             comorbid asthma by week 24 was estimated by using a logistic regression
+improvement (>  _0.5 points) in AQLQ score through week 24 was also assessed.        model analysis adjusted for baseline covariates (see earlier) and baseline
+Exploratory end points included percentage of patients in the pooled popula-         AQLQ score. P values for between-group differences in proportions were
+tion achieving at least a 2-point or at least a 1-point improvement in NPS and at    derived from a Wald chi-square test of the treatment effect coefficient in the
+least a 1-point improvement in NCS.                                                  logistic regression model.
+   AEs were assessed for severity and potential causal relationship to the study
+drug. Patients were monitored to week 28 as a safety follow-up. AEs were
+reported for the pooled POLYP 1 and POLYP 2 population.                              RESULTS
+                                                                                     Study disposition, baseline demographics, and
+Statistical analyses                                                                 clinical characteristics of patients
+    A sample size of 120 patients was calculated to provide at least 85% power          In POLYP 1, 138 of 355 screened patients were randomized. In
+to detect a 0.56-point between2treatment group difference in change from             POLYP 2, 127 of 329 screened patients were randomized (Fig 3).
+baseline to week 24 in mean daily NCS and a 1.50-point between2treatment             In POLYP 1, 95.8% of patients treated with omalizumab (69 of
+group difference in mean change from baseline to week 24 in NPS. The                 72) and 97.0% of patients in the placebo group (64 of 66)
+corresponding assumed SDs were 0.83 and 2.2.24,29,30                                 completed the study. In POLYP 2, 93.5% of patients treated
+    The full analysis set (FAS) included all randomized patients who received        with omalizumab (58 of 62) and 96.9% of those in the placebo
+at least 1 dose of study drug according to assigned treatment group. The safety      group (63 of 65) completed the study. Five patients (3 who
+analysis set included all patients who received at least 1 dose of study drug
+                                                                                     received omalizumab and 2 who received placebo) in POLYP 1
+according to treatment received. Randomized patients were treated with the
+study drug; both analysis sets were identical in POLYP 1 and differed by 1           and 6 patients (4 who received omalizumab and 2 who received
+patient in POLYP 2. Safety and tolerability results were described for the FAS       placebo) in POLYP 2 discontinued the study. Reasons for discon-
+by using summary statistics. Patient demographic and clinical characteristics        tinuation included patient decision (2 patients in POLYP 1 and 4
+and efficacy end points were evaluated by using the FAS. Sequential testing          in POLYP 2) and investigator decision (1 patient in POLYP 1) for
+type 1 error control procedures are described in the section Methods E1. All         the omalizumab groups and patient decision for the placebo
+95% CIs are unadjusted for multiplicity. The within-group means and                  groups (2 patients in POLYP 1 and 2 in POLYP 2).
+between-group differences in absolute change from baseline to week 24                   Demographics and clinical characteristics were similar be-
+were the estimated least squares means (LSMs) obtained by using a mixed-             tween treatment groups and across the studies (Table I). Patients
+effect model with repeated measures with unstructured covariance matrix,
+                                                                                     had severe nasal polyps and/or symptoms at baseline (mean NPS
+adjusted for comorbid asthma/aspirin sensitivity, geographic region, time
+                                                                                     >6), significant loss of smell (mean UPSIT score, 12.8-13.9
+point per schedule of assessments, baseline outcome score, treatment by
+time point interaction, and baseline outcome score by time point interaction         [81.5% of patients had anosmia]), and substantial CRSwNP-
+for NCS, UPSIT score, SNOT-22 score, and TNSS. P values were derived                 related HRQoL impairment (mean SNOT-22 score, 59.2-60.5).
+from a t test of difference in LSMs.                                                 Across the studies, 48.5% to 61.3% of patients had
+    The between-group difference in the proportion of patients at week 24 with       comorbid asthma; most had mild (35.1%) or moderate
+reduced need for surgery was estimated by using a logistic regression model          (58.3%) physician-assessed asthma severity. Nonsteroidal
+J ALLERGY CLIN IMMUNOL                                                                                                             GEVAERT ET AL 599
+VOLUME 146, NUMBER 3
+
+
+
+
+                                        POLYP 1                                                     POLYP 2
+                                    Screened, n = 355                                           Screened, n = 329
+
+
+
+                                                   Excluded, n = 217                                            Excluded, n = 202
+
+
+                                  Randomized, n = 138                                         Randomized, n = 127
+
+
+
+
+                     Placebo, n = 66              Omalizumab, n = 72              Placebo, n = 65              Omalizumab, n = 62
+
+
+                   Discontinued       2        Discontinued            3        Discontinued       2          Discontinued          4
+                     Patient decision 2          Patient decision      2          Patient decision 2            Patient decision    4
+                                                 Investigator decision 1
+
+
+                    Completed, n = 64              Completed, n = 69             Completed, n = 63              Completed, n = 58
+
+                                FIG 3. Patient disposition (Consolidated Standards of Reporting Trials flow diagram).
+
+
+
+anti-inflammatory drug (NSAID)-exacerbated respiratory disease              improvements in NPS were observed in 56.3% (72 of 128) and
+(or aspirin-exacerbated respiratory disease) was present in 27.2%           31.3% (40 of 128) of omalizumab-treated patients and 28.7% (37
+of patients.                                                                of 129) and 11.6% (15 of 129) of placebo-treated patients,
+   Across the studies, 12.1% to 29.0% of patients used an SCS in            respectively. A 1-point or greater improvement in NCS was
+the prior year and 59.6% of patients had undergone prior sinonasal          observed in 56 of 126 omalizumab-treated patients (44.4%) and in
+surgery. Most patients (92.3%-96.8%) received the maximum                   27 of 126 placebo-treated patients (21.4%) (Fig 5).
+allowed mometasone dosag during run-in and treatment. Most                     Patients with comorbid asthma and NSAID-exacerbated res-
+patients (90.4% in the pooled omalizumab arms and 86.9% in the              piratory disease in the pooled population had similar mean
+pooled placebo arms) were assigned to receive omalizumab or                 improvements in NPS and NCS at week 24 compared with
+placebo every 4 weeks, with similar dose and dosing frequency               patients without NSAID-exacerbated respiratory disease (see Fig
+across the studies and between treatment groups (Table I).                  E1 in this article’s Online Repository at www.jacionline.org).
+
+
+Changes in NPS and NCS                                                      Secondary efficacy end points
+   Both studies met their coprimary end points, with omalizumab-               Statistically significant improvements favoring omalizumab
+treated patients achieving statistically significant improvements           were observed in both studies for SNOT-22 score, UPSIT score,
+in mean NPS and daily NCS at week 24 versus placebo. The mean               TNSS, and individual nasal symptoms (sense of smell, postnasal
+changes in NPS for omalizumab versus placebo from baseline at               drip, runny nose) from baseline at week 24 (Table II and Fig 6, A-
+week 24 were –1.08 versus 10.06 (treatment arm difference,                  C). In an exploratory analysis of prior time points, effects were
+–1.14 [95% CI 5 –1.59 to –0.69; P < .0001]) in POLYP 1 and                  observed as early as the first time point assessed (week 4 for
+–0.90 versus –0.31 (treatment arm difference, –0.59 [95% CI 5               most end points, week 8 for UPSIT score). The LSM difference
+–1.05 to –0.12; P 5 .0140]) in POLYP 2. The mean changes for                in change from baseline at week 4 in SNOT-22 score with omali-
+omalizumab versus placebo in NCS from baseline to week 24                   zumab versus placebo was –10.43 (95% CI 5 –15.08 to –5.79) in
+were –0.89 versus –0.35 (treatment arm difference, –0.55 [95%               POLYP 1 and –8.84 (95% CI 5 –13.84 to –3.84) in POLYP 2. The
+CI 5 –0.84 to –0.25; P 5 .0004]) in POLYP 1 and –0.70 versus                LSM difference in change from baseline at week 8 in UPSIT score
+–0.20 (treatment arm difference, –0.50 [95% CI 5 –0.80 to                   for omalizumab versus placebo was 3.78 (95% CI 5 1.56-6.00) in
+–0.19; P 5 .0017]) in POLYP 2, respectively (Table II). The                 POLYP 1 and 3.44 (95% CI 5 1.03-5.85) in POLYP 2.
+between-treatment group differences at week 16 were similar to                 The odds of achieving at least a 0.5-point improvement in
+those at week 24 for NPS and NCS (Table II). Greater improve-               AQLQ score (MCID) were approximately 4 times higher for
+ments in NPS and NCS for omalizumab versus placebo were                     omalizumab- versus placebo-treated patients with comorbid
+observed as early as week 4 (first assessment) in both studies              asthma (for POLYP 1, odds ratio [OR] 5 3.7 [95% CI 5
+(Fig 4, A and B). The mean changes from baseline at week 4 in               1.0-13.7; P 5 .0492]; for POLYP 2, OR 5 4.0 [95% CI 5
+NPS for omalizumab versus placebo were –0.92 (95% CI 5                      1.1-15.3; P 5 .0396]) (Table III).
+–1.37 to –0.48) in POLYP 1 and –0.52 (95% CI 5 –0.94 to                        Rescue SCS therapy was required in 8 of 129 placebo-treated
+–0.11) in POLYP 2. The mean changes from baseline at week 4                 patients (6.2%) and 3 of 129 omalizumab-treated patients (2.3%)
+in NCS for omalizumab versus placebo were –0.25 (95% CI 5                   from the pooled population during the study, favoring omalizu-
+–0.46 to –0.04) in POLYP 1 and –0.26 (95% CI 5 –0.45 to                     mab with a 62.5% relative reduction (a 3.9% absolute difference)
+–0.07) in POLYP 2.                                                          in rescue steroid use (P 5 .16). No sinus surgeries or polypecto-
+   A greater percentage of omalizumab-treated patients had                  mies were recorded. A reduced need for surgery by week 24
+improved NPS and NCS at week 24 versus placebo in the pooled                was observed in 2 of 65 placebo-treated patients (3.1%) and 13
+population. One-point or greater and 2-point or greater                     of 69 omalizumab-treated patients (18.8%) from POLYP 1
+600 GEVAERT ET AL                                                                                                                        J ALLERGY CLIN IMMUNOL
+                                                                                                                                                 SEPTEMBER 2020
+
+
+
+
+TABLE I. Baseline characteristics of randomized patients
+                                                                                    POLYP 1                                            POLYP 2
+Characteristic                                                 Placebo (n 5 66)            Omalizumab (n 5 72)      Placebo (n 5 65)       Omalizumab (n 5 62)
+
+Age (y), mean (SD)*                                               52.2 (11.6)                    50.0 (14.5)           51.0 (12.0)                49.0 (11.9)
+Male, no. (%)*                                                     41 (62.1)                      47 (65.3)             44 (67.7)                  39 (62.9)
+BMI (mg/kg2), mean (SD)                                           27.7 (5.3)                     27.4 (4.8)            28.1 (5.0)                 26.9 (4.1)
+Geographic region, no. (%)
+  North America                                                      19 (28.8)                     23 (31.9)            14 (21.5)                  12 (19.4)
+  Europe                                                             47 (71.2)                     49 (68.1)            51 (78.5)                  50 (80.6)
+Tobacco use, no. (%)
+  Current smoker                                                     6 (9.1)                        6 (8.3)               8 (12.3)                   7 (11.3)
+  Former smoker                                                    13 (19.7)                      11 (15.3)             18 (27.7)                  15 (24.2)
+NPS (range, 0-8), mean (SD)                                        6.3 (0.9)                      6.2 (1.0)             6.1 (0.9)                  6.4 (0.9)
+NCS (range, 0-3), mean (SD)                                        2.5 (0.6)                      2.4 (0.7)             2.3 (0.6)                  2.3 (0.7)
+Sense of smell score (range, 0-3), mean (SD)                       2.8 (0.4)                      2.5 (0.8)             2.8 (0.6)                  2.6 (0.8)
+Postnasal drip score (range, 0-3), mean (SD)                       2.0 (0.9)                      1.7 (0.9)             1.8 (0.9)                  1.6 (0.9)
+Runny nose score (range, 0-3), mean (SD)                           2.1 (0.8)                      1.9 (0.8)             1.9 (0.8)                  1.9 (0.9)
+TNSS (range, 0-12), mean (SD)                                      9.3 (1.9)                      8.6 (2.5)             8.7 (2.3)                  8.4 (2.6)
+UPSIT score (range, 0-40), mean (SD)à                             13.9 (7.4)                     12.8 (7.9)            13.1 (7.3)                 12.8 (7.6)
+SNOT-22 score (range, 0-110), mean (SD)                           60.5 (15.3)                    59.8 (19.7)           59.8 (18.2)                59.2 (20.5)
+Comorbid asthma, no. (%)                                           32 (48.5)                      42 (58.3)             39 (60.0)                  38 (61.3)
+Physician-assessed asthma severity, no. (%)
+  Mild                                                              15 (46.9)                     13 (31.0)             13 (33.3)                  12 (31.6)
+  Moderate                                                          16 (50.0)                     27 (64.3)             25 (64.1)                  20 (52.6)
+  Severe                                                              1 (3.1)                       2 (4.8)               1 (2.6)                    6 (15.8)
+AQLQ score, mean (SD)*                                              4.8 (1.3)                     4.5 (1.5)             5.2 (1.3)                  4.9 (1.2)
+NSAID-exacerbated respiratory disease                               11 (16.7)                     16 (22.2)             21 (32.3)                  24 (38.7)
+  (AERD), no. (%)
+Serum total IgE (IU/mL), mean (SD)                               162.0 (141.2)                 159.9 (139.0)          196.1 (200.6)              184.1 (201.9)
+Blood eosinophils (cells/mL), mean (SD)                          358.6 (305.2)                 334.4 (264.7)          357.4 (196.2)              310.8 (176.6)
+SCS use in past year, no. (%)                                        8 (12.1)                     18 (25.0)             15 (23.1)                   18 (29.0)
+Courses of SCS, no. (%)
+  1                                                                   5 (62.5)                      9 (50.0)             6 (40.0)                  11 (61.6)
+  >2
+  _                                                                   2 (25.0)                      7 (38.9)             9 (60.0)                   5 (27.8)
+  Unknown                                                             1 (12.5)                      2 (11.1)             0 (0.0)                    2 (11.1)
+Previous NP surgery, no. (%)                                         40 (60.6)                     39 (54.2)            40 (61.5)                  39 (62.9)
+  No. of previous NP surgeries, no. (%)
+     1                                                               24 (36.4)                     23 (31.9)            15 (23.1)                  22 (35.5)
+     >2
+     _                                                               16 (24.2)                     16 (22.2)            25 (38.5)                  17 (27.4)
+Time since last NP surgery, no. (%)
+  >12 mo to 5 y                                                      13 (32.5)                      9 (23.1)            12 (30.0)                   9 (24.3)
+  >5 y                                                               27 (67.5)                     30 (76.9)            28 (70.0)                  28 (75.7)
+  Missing                                                             0 (0.0)                       0 (0.0)              0 (0.0)                    2 (5.1)
+Mometasone dose prescribed, no. (%)
+  200 mg daily                                                        4 (6.1)                       4 (5.6)              5 (7.7)                    2 (3.2)
+  200 mg twice daily                                                 62 (93.9)                     68 (94.4)            60 (92.3)                  60 (96.8)
+Planned dosing schedule for study drug, no. (%)
+  Every 4 weeks                                                      61 (92.4)                     67 (93.1)            52 (81.3)                  55 (87.3)
+  Every 2 weeks                                                       5 (7.6)                       5 (6.9)             12 (18.8)                   8 (12.7)
+
+AERD, Aspirin-exacerbated respiratory disease; BMI, body mass index; NP, nasal polyp.
+*In POLYP 2: placebo, n 5 64.
+ Higher scores indicate worse health status.
+àHigher scores indicate better sense of smell; UPSIT score of 0 to 18 indicates a total loss of smell/anosmia.
+
+
+(OR 5 6.3 [95% CI 5 1.3-29.6; P 5 .0209]) and in 2 of 63                                   was greater in placebo-treated patients than in omalizumab-
+placebo-treated patients (3.2%) and 10 of 59 omalizumab-                                   treated patients. Most events across both studies were of mild to
+treated patients (16.9%) from POLYP 2 (OR 5 6.2 [95% CI 5                                  moderate intensity. Two serious AEs were reported in placebo-
+1.2-60.2; P 5 .0139]) (Table III).                                                         treated patients (1.5% [1 case of myocardial infarction and 1 case
+                                                                                           of pneumonia]) and 3 were reported in omalizumab-treated
+                                                                                           patients (2.2% [1 case of snake bite, 1 hand fracture, and 1 case
+Safety and tolerability                                                                    of asthma exacerbation/worsening]). The proportion of patients
+   The proportions of patients who experienced at least 1                                  experiencing at least 1 AE suspected by the investigator to be
+treatment-emergent AE were 58.5% in placebo-treated patients                               omalizumab related was 3.8% in placebo-treated patients versus
+and 50.4% in omalizumab-treated patients. The number of AEs                                6.7% in omalizumab-treated patients. These AEs were mild to
+J ALLERGY CLIN IMMUNOL                                                                                                                                                                                                                                                     GEVAERT ET AL 601
+VOLUME 146, NUMBER 3
+
+
+
+
+TABLE II. Primary and secondary efficacy end points
+                                                                                                                 POLYP 1                                                                                                                                 POLYP 2
+                                                                           Placebo              Omalizumab                   Treatment                                                                               Placebo            Omalizumab                  Treatment
+End point                                                                 (n 5 66)*              (n 5 72)*                arm differencesy                                       P value                            (n 5 65)*            (n 5 62)*               arm differencesy     P value
+
+Primary end point at week 24
+  NPS (range, 0-8)      0.06 (0.16) –1.08 (0.16) –1.14 (–1.59 to –0.69)                                                                                                                    <.0001 –0.31 (0.16)                          –0.90 (0.17)         –0.59 (–1.05 to –0.12)    .0140
+  NCS (range, 0-3)     –0.35 (0.11) –0.89 (0.10) –0.55 (–0.84 to –0.25)                                                                                                                     .0004 –0.20 (0.11)                          –0.70 (0.11)         –0.50 (–0.80 to –0.19)    .0017
+Secondary end point at week 16
+  NPS (range, 0-8)      0.03 (0.15) –0.98 (0.14) –1.01 (–1.43 to –0.60)                                                                                                                    <.0001 –0.29 (0.16)                          –1.20 (0.17)         –0.91 (–1.39 to –0.44)    .0002
+  NCS (range, 0-3)     –0.32 (0.10) –0.89 (0.09) –0.57 (–0.83 to –0.31)                                                                                                                    <.0001 –0.21 (0.10)                          –0.80 (0.10)         –0.59 (–0.87 to –0.30)   <.0001
+Secondary end point at week 24
+  SNOT-22 score        –8.58 (2.08) –24.70 (2.01) –16.12 (–21.86 to –10.38)                                                                                                                <.0001 –6.55 (2.19) –21.59 (2.25) –15.04 (–21.26 to –8.82) <.0001
+    (range, 0-110)
+  UPSIT score           0.63 (0.90)   4.44 (0.84)   3.81 (1.38-6.24)                                                                                                                                      .0024     0.44 (0.81)          4.31 (0.83)           3.86 (1.57-6.15)        .0011
+    (range, 0-40)
+  TNSS (range, 0-12) –1.06 (0.34) –2.97 (0.33) –1.91 (–2.85 to –0.96)                                                                                                                                     .0001 –0.44 (0.32)            –2.53 (0.33)         –2.09 (–3.00 to –1.18)   <.0001
+  Loss of smell score –0.23 (0.10) –0.56 (0.09) –0.33 (–0.60 to –0.06)                                                                                                                                    .0161 –0.13 (0.10)            –0.58 (0.10)         –0.45 (–0.73 to –0.16)    .0024
+    (range, 0-3)
+  Postnasal drip score –0.16 (0.10) –0.72 (0.10) –0.56 (–0.84 to –0.28)                                                                                                                                   .0001 –0.00 (0.10)            –0.55 (0.10)         –0.54 (–0.81 to –0.27)    .0001
+    (range, 0-3)
+  Runny nose score     –0.34 (0.10) –0.77 (0.10) –0.43 (–0.70 to –0.16)                                                                                                                                   .0023 –0.08 (0.10)            –0.70 (0.10)         –0.63 (–0.90 to –0.35)   <.0001
+    (range, 0-3)
+
+Pooled analysis of data from POLYP 1 and POLYP 2.
+*Data expressed as adjusted means (SEs), with P values unadjusted for multiplicity.
+ Data expressed as treatment arm differences (95% CIs), with P values unadjusted for multiplicity.
+
+
+
+                      A                                                         POLYP 1/placebo (n = 66)             POLYP 2/placebo (n = 65)
+                                                                                                                                                    B                                                        POLYP 1/placebo (n = 66)             POLYP 2/placebo (n = 65)
+                                                                                POLYP 1/omalizumab (n = 72)          POLYP 2/omalizumab (n = 62)                                                             POLYP 1/omalizumab (n = 72)          POLYP 2/omalizumab (n = 62)
+
+                                                                         0.25                                                                                                                              0.25
+
+
+
+
+                                                                                                                                                    Mean change from baseline in Nasal Congestion Score
+                       Mean change from baseline in Nasal Polyp Score
+                                                                         0.00                                                                                                                              0.00
+
+
+                                                                        –0.25                                                                                                                             –0.25
+
+
+                                                                        –0.50                                                                                                                             –0.50
+
+
+                                                                        –0.75                                                                                                                             –0.75
+
+
+                                                                        –1.00                                                                                                                             –1.00
+
+
+                                                                        –1.25                                 Secondary efficacy Primary efficacy                                                         –1.25                             Secondary efficacy Primary efficacy
+                                                                                                                   analysis          analysis                                                                                                    analysis          analysis
+
+                                                                                   0        4       8       12       16       20       24                                                                          0       4       8       12       16      20       24
+                                                                                                           Week                                                                                                                            Week
+
+                                                                                       FIG 4. Mean change from baseline in NPS (A) and NCS (B) in POLYP 1 and POLYP 2.
+
+
+
+moderate in intensity, and most occurred within 24 hours of                                                                                         disease).12,31,32 Many patients fail to achieve sufficient benefit
+administration of the study drug. An episode of anaphylaxis, later                                                                                  from INCS therapy and require repeated courses of an SCS and/
+adjudicated as not meeting the Sampson criteria by an indepen-                                                                                      or sinus surgeries.12,13 Although sinus surgeries may be successful
+dent anaphylaxis adjudication committee, led to discontinuation                                                                                     initially, relapse occurs in approximately 20% of patients after 12
+in the placebo-treated patients. No AEs were reported as                                                                                            months,14 in 40% after 18 months,13 and in 80% after 12 years15
+omalizumab-associated risks (Table IV).                                                                                                             despite ongoing INCS therapy.15 Novel treatments for CRSwNP
+                                                                                                                                                    are therefore needed. In these replicate, randomized, pivotal,
+                                                                                                                                                    phase 3 studies of omalizumab in patients with CRSwNP, both co-
+DISCUSSION                                                                                                                                          primary end points were met, with statistically significant im-
+  CRSwNP is a chronic, debilitating condition associated with                                                                                       provements from baseline to week 24 in mean daily NCS and NPS.
+high symptom burden and substantial impact on QoL, as well as                                                                                          Improvements in NPS and NCS were accompanied by
+with allergic comorbidities, including asthma and NSAID-                                                                                            significant improvements in patient-reported symptoms and
+exacerbated respiratory disease (aspirin-exacerbated respiratory                                                                                    disease-related QoL (TNSS, SNOT-22 score, sense of smell,
+602 GEVAERT ET AL                                                                                                              J ALLERGY CLIN IMMUNOL
+                                                                                                                                       SEPTEMBER 2020
+
+
+
+
+                                                                                                Placebo (n = 131)
+                                                     70                                         Omalizumab (n = 134)
+                                                                           P < .0001
+                                                     60
+                                                                                                        P ≤ .0001
+
+
+
+
+                        Proportion of patients (%)
+                                                     50
+
+                                                     40     P = .0003
+
+
+                                                     30
+
+                                                     20
+
+                                                     10
+
+                                                      0
+                                                          NPS ≥2-point   NPS ≥1-point                NCS ≥1-point
+                                                          improvement    improvement                 improvement
+
+                    FIG 5. Proportion of patients reporting at least a 1-point improvement in NPS and NCS and at least a 2-point
+                    improvement in NPS in POLYP 1 and POLYP 2 (pooled data).
+
+
+
+
+postnasal drip, runny nose) and smell test (UPSIT score). These              improvements in AQLQ score were similar to a previous study
+results may be more intuitively appreciated through the responder            in a population with more severe asthma.24 In these studies,
+analyses, which demonstrated a greater proportion of omalizu-                omalizumab-treated patients were 4 times more likely than
+mab- versus placebo-treated patients achieving at least a 1-point            placebo-treated patients to achieve an MCID (by _    >0.5 points) in
+(56.3% vs 28.7%) and at least a 2-point (31.3% vs 11.6%)                     improvement in AQLQ score. Omalizumab may therefore offer
+improvement in NPS and at least a 1-point improvement in NCS                 a viable treatment to simultaneously control asthma and
+(44.4% vs 21.4%). Asthma-related QoL was also significantly                  CRSwNP symptoms.
+improved, as was demonstrated by the percentage of patients with                Omalizumab numerically reduced rescue medication use by
+comorbid asthma achieving at least a 0.5-point improvement in                approximately two-thirds versus placebo, but the number of
+AQLQ score. Improvements above placebo were evident as early                 events related to rescue medication was low, making it difficult to
+as week 4 for most metrics (week 8 for UPSIT) and were                       draw conclusions. These steroid-sparing results are similar to
+maintained over the 24-week treatment period, suggesting a rapid             those previously reported in omalizumab studies in patients with
+and sustained effect of omalizumab. These data support the                   asthma.36,37
+findings of previous studies showing significant improvements in                Omalizumab was well tolerated, with no new or unexpected
+CRSwNP with omalizumab when similar outcome measures                         safety concerns identified in the pooled data. The most common
+were used.23                                                                 AEs observed (headache, injection site reactions, arthralgia,
+   In addition to significant improvements in nasal polyp and                dizziness, and upper abdominal pain) have been previously
+nasal symptom scores, omalizumab led to significant and sub-                 reported with omalizumab.38-40 The safety profile of omalizumab
+stantial improvements in nasal polyp2related QoL in both                     is well established in patients with allergic asthma and chronic
+studies. In the pooled analysis, omalizumab treatment resulted               idiopathic urticaria,41 with a cumulative exposure of more than
+in a 23.1-point improvement in SNOT-22 score versus a 7.7-point              16,000 patient-years in clinical trials and an estimated cumulative
+improvement in the placebo-treated arm. Placebo-corrected                    patient exposure of more than 1.3 million patient-years to date in
+improvements exceeded the commonly accepted MCID of 8.9                      the postmarketing setting (omalizumab periodic safety update
+points.28,33 Interestingly, the improvements observed here with              report, unpublished data, Novartis). Rare events such as anaphy-
+omalizumab were similar to those reported for FESS in a recent               laxis (occurring in 0.1%-0.2% of patients with asthma according
+systematic review and meta-analysis of 15 studies (mean change,              to clinical and postmarketing data)42,43 were not observed in these
+23.0 [95% CI 5 20.2-25.8]), which included 3048 patients.34                  trials.
+These findings thus support those by Bidder et al,23 who demon-                 These results are strengthened by the study design with
+strated similar improvements in SNOT-22 score in omalizumab-                 sufficient power to meet the coprimary end points. The baseline
+and surgically treated patients with CRSwNP.                                 patient characteristics were well balanced between studies and
+   Patients with asthma are more likely to develop CRSwNP than               within treatment arms.
+are those without asthma, and they are more likely to have severe               However, the limitations of the present analysis include the
+disease, receive more oral corticosteroid courses, and experience            number of patients requiring rescue medication and sinonasal
+relapse requiring multiple endoscopic surgeries.3,35 In the pooled           surgery, which was too low in the pooled population to draw
+population, most patients with comorbid asthma had physician-                meaningful conclusions about the benefit of omalizumab in
+assessed mild to moderate disease (93.4%). Nonetheless,                      these areas. Additionally, most patients in the studies had mild
+J ALLERGY CLIN IMMUNOL                                                                                                                                                                                                                                                                                                                    GEVAERT ET AL 603
+VOLUME 146, NUMBER 3
+
+
+
+
+                    A                                                                POLYP 1/placebo (n = 66)                                                               POLYP 2/placebo (n = 65)
+                                                                                                                                                                                                               B                                                               POLYP 1/placebo (n = 66)           POLYP 2/placebo (n = 65)
+                                                                                     POLYP 1/omalizumab (n = 72)                                                            POLYP 2/omalizumab (n = 62)                                                                        POLYP 1/omalizumab (n = 72)        POLYP 2/omalizumab (n = 62)
+
+
+
+
+                     Adjusted mean (95% CI) change from baseline in SNOT-22
+                                                                                10                                                                                                                                                                                      10
+
+
+
+
+                                                                                                                                                                                                                 Adjusted mean (95% CI) change from baseline in UPSIT
+                                                                                                                                                                                                                                                                         8
+                                                                                 0
+
+                                                                                                                                                                                                                                                                         6
+
+
+                                                                               –10                                                                                                                                                                                       4
+
+
+                                                                                                                                                                                                                                                                         2
+                                                                               –20
+
+                                                                                                                                                                                                                                                                         0
+
+
+                                                                               –30                                                                                                                                                                                      –2
+                                                                                       0        4       8        12                                                         16       20        24                                                                                 0        4        8       12      16       20      24
+                                                                                                                Week                                                                                                                                                                                       Week
+
+
+                                                                                                                C                                                                  POLYP 1/placebo (n = 66)
+                                                                                                                                                                                   POLYP 1/omalizumab (n = 72)
+                                                                                                                                                                                                                                                                             POLYP 2/placebo (n = 65)
+                                                                                                                                                                                                                                                                             POLYP 2/omalizumab (n = 62)
+
+                                                                                                                                                                       1
+
+
+
+
+                                                                                                                 Adjusted mean (95% CI) change from baseline in TNSS
+                                                                                                                                                                       0
+
+
+
+                                                                                                                                                                       –1
+
+
+
+                                                                                                                                                                       –2
+
+
+
+                                                                                                                                                                       –3
+
+
+
+                                                                                                                                                                       –4
+                                                                                                                                                                                 0         4           8    12                                                           16           20       24
+                                                                                                                                                                                                           Week
+
+                                                                              FIG 6. Change from baseline in SNOT-22 score (A), UPSIT score (B), and TNSS (C) in POLYP 1 and POLYP 2.
+
+
+
+
+TABLE III. Secondary efficacy end points
+                                                                                                                                                                                                                                                                        POLYP 1                                                              POLYP 2
+End point                                                                                                                                                                                           OR (95% CI)                                                                                P value                     OR (95% CI)                 P value
+
+AQLQ score, OR of MCID (>   _0.5-point improvement)                                                                                                                                             3.71 (1.00-13.71)                                                                               .0492                    4.04 (1.07-15.25)             .0396
+Reduction in need for surgery, NPS _
+                                   <4 (unilateral score _
+                                                        <2                                                                                                                                       6.3 (1.3-29.6)                                                                                 .0209                     6.2 (1.2-60.2)               .0139
+  on each side) and SNOT-22 score improvement _   >8.9
+
+
+
+
+to moderate asthma, in contrast to patients in the proof-of-                                                                                                                                                  symptoms in response to omalizumab versus placebo, on a
+concept study,17 all of whom had severe asthma meeting the                                                                                                                                                    background of intranasal mometasone, at week 24. Multiple
+criteria for omalizumab treatment. Although the relative effi-                                                                                                                                                secondary outcomes were also met. The improvements in SNOT-
+cacy in more severe asthma cannot be established, asthma co-                                                                                                                                                  22 score illustrate the impact on patient QoL and place the results
+morbidity did not appear to be a significant predictor of                                                                                                                                                     into an important context relative to other therapies such as SCS
+response.                                                                                                                                                                                                     and surgery. Omalizumab was well tolerated, and AEs were
+   In conclusion, the global, replicate, phase 3 studies, POLYP 1                                                                                                                                             consistent with those previously reported. Omalizumab repre-
+and POLYP 2, met both coprimary end points, demonstrating                                                                                                                                                     sents a promising new treatment option for patients with
+statistically significant improvements in NPS and mean daily                                                                                                                                                  refractory CRSwNP, for whom there is a substantial unmet need
+NCS as well as patient-reported assessments of severity of                                                                                                                                                    for effective therapies.
+604 GEVAERT ET AL                                                                                                                                      J ALLERGY CLIN IMMUNOL
+                                                                                                                                                               SEPTEMBER 2020
+
+
+
+
+TABLE IV. AEs (safety population)
+                                                                                                                                     Pooled data
+Event                                                                                                Placebo (n 5 130)                                  Omalizumab (n 5 135)
+
+Total no. of AEs                                                                                              210                                                   178
+Total no. of SAEs*                                                                                             2                                                     3
+Patients with
+  >1 AE, no. (%)
+  _                                                                                                        76 (58.5)                                             68 (50.4)
+  >1 SAE, no. (%)
+  _                                                                                                         2 (1.5)                                               3 (2.2)
+  Treatment-related AE, no. (%)                                                                             5 (3.8)                                               9 (6.7)
+  >1 AE leading to discontinuation of study drug, no. (%)
+  _                                                                                                         1 (0.8)                                               0 (0.0)
+AEs occurring in _ >3% of patients
+  Headache                                                                                                  7 (5.4)                                              11 (8.1)
+  Nasopharyngitis                                                                                          11 (8.5)                                               8 (5.9)
+  Injection site terms                                                                                      2 (1.5)                                               7 (5.2)à
+  Asthma exacerbation/worsening                                                                            15 (11.5)                                              5 (3.7)
+  Upper abdominal pain                                                                                      1 (0.8)                                               4 (3.0)
+  Arthralgia                                                                                                2 (1.5)                                               4 (3.0)
+  Back pain                                                                                                 5 (3.8)                                               4 (3.0)
+  Dizziness                                                                                                 1 (0.8)                                               4 (3.0)
+  Epistaxis                                                                                                 4 (3.1)                                               4 (3.0)
+  Rhinitis                                                                                                  4 (3.1)                                               4 (3.0)
+  Sinusitis                                                                                                 3 (2.3)                                               4 (3.0)
+  Nasal polyps                                                                                              4 (3.1)                                               3 (2.2)
+  Nasal congestion                                                                                          4 (3.1)                                               0 (0.0)
+AEs identified as risks associated with omalizumab
+  Serum sickness syndrome/serum sickness–like disease                                                       0 (0.0)                                               0 (0.0)
+  Anti-omalizumab antibodies                                                                                0 (0.0)                                               0 (0.0)
+  Eosinophilic granulomatosis with polyangiitis/Churg-Strauss                                               0 (0.0)                                               0 (0.0)
+     syndrome/hypereosinophilic syndrome
+  Thrombocytopenia                                                                                          0 (0.0)                                               0 (0.0)
+  Arterial thrombotic events                                                                                1 (0.8)                                               0 (0.0)
+  Malignant neoplasms                                                                                       1 (0.8)                                               0 (0.0)
+  Parasitic infections                                                                                      0 (0.0)                                               0 (0.0)
+
+SAE, Serious adverse event.
+*The SAEs in the omalizumab arm were hand fracture, snake bite, and asthma.
+ Includes injection site reaction, injection-related reaction, and injection site pain.
+àOne patient experienced 1 event of injection site reaction and 1 event of injection site pain.
+
+
+
+   We thank Mark Snape, MBBS, CMPP, and Nicole Tom, PhD, of Envision                            on sinus radiology and symptomatology. J Allergy Clin Immunol 2019;143:
+Pharma Inc, for providing third-party writing assistance, which was funded by                   1207-14.
+Genentech, Inc, a member of the Roche Group, and Novartis Pharmaceuticals                    3. Benjamin MR, Stevens WW, Li N, Bose S, Grammer LC, Kern RC, et al. Clinical
+                                                                                                characteristics of patients with chronic rhinosinusitis without nasal polyps in an
+Corporation. Qualified researchers may request access to individual patient
+                                                                                                academic setting. J Allergy Clin Immunol Pract 2019;7:1010-6.
+level data through the clinical study data request platform (https://vivli.org/).
+                                                                                             4. Bachert C, Zhang L, Gevaert P. Current and future treatment options for adult
+Further details on Roche’s criteria for eligible studies are available here                     chronic rhinosinusitis: focus on nasal polyposis. J Allergy Clin Immunol 2015;
+(https://vivli.org/members/ourmembers/). For further details on Roche’s                         136:1431-40.
+Global Policy on the Sharing of Clinical Information and how to request ac-                  5. Erskine S, Hopkins C, Kumar N, Wilson J, Clark A, Robertson A, et al. A cross
+cess to related clinical study documents, see here (https://www.roche.com/                      sectional analysis of a case-control study about quality of life in CRS in the
+research_and_development/who_we_are_how_we_work/clinical_trials/                                UK; a comparison between CRS subtypes. Rhinology 2016;54:311-5.
+our_commitment_to_data_sharing.htm).                                                         6. Hoehle LP, Phillips KM, Bergmark RW, Caradonna DS, Gray ST, Sedaghat AR.
+                                                                                                Symptoms of chronic rhinosinusitis differentially impact general health-related
+                                                                                                quality of life. Rhinology 2016;54:316-22.
+Clinical implications: The results from the POLYP 1 and                                      7. Khan A, Huynh TMT, Vandeplas G, Joish VN, Mannent LP, Tomassen P, et al. The
+POLYP 2 trials reinforce the findings of previous trials showing                                GALEN rhinosinusitis cohort: chronic rhinosinusitis with nasal polyps affects
+that omalizumab is a viable alternative treatment for patients                                  health-related quality of life. Rhinology 2019;57:343-51.
+                                                                                             8. Naclerio R, Baroody F, Bachert C, Bleier B, Borish L, Brittain E, et al. Clinical
+with CRSwNP with inadequate response to intranasal
+                                                                                                research needs for the management of chronic rhinosinusitis with nasal polyps
+corticosteroids.                                                                                in the new era of biologics. A National Institute of Allergy and Infectious Diseases
+                                                                                                workshop. J Allergy Clin Immunol Pract 2020;8:1532-49.e1.
+                                                                                             9. Rudmik L. Economics of chronic rhinosinusitis. Curr Allergy Asthma Rep 2017;
+                                                                                                17:20.
+REFERENCES                                                                                  10. Smith KA, Orlandi RR, Rudmik L. Cost of adult chronic rhinosinusitis: a system-
+ 1. Fokkens WJ, Lund VJ, Mullol J, Bachert C, Alobid I, Baroody F, et al. European              atic review. Laryngoscope 2015;125:1547-56.
+    position paper on rhinosinusitis and nasal polyps 2012. Rhinol Suppl 2012;23:           11. Ye Z, Sun L, Wang Q. A head-to-head comparison of EQ-5D-5 L and SF-6D in
+    1-298.                                                                                      Chinese patients with low back pain. Health Qual Life Outcomes 2019;17:57.
+ 2. Dietz de Loos D, Lourijsen ES, Wildeman MAM, Freling NJM, Wolvers MDJ, Re-              12. Stevens WW, Schleimer RP, Kern RC. Chronic rhinosinusitis with nasal polyps.
+    itsma S, et al. Prevalence of chronic rhinosinusitis in the general population based        J Allergy Clin Immunol Pract 2016;4:565-72.
+J ALLERGY CLIN IMMUNOL                                                                                                                                GEVAERT ET AL 605
+VOLUME 146, NUMBER 3
+
+
+
+
+13. DeConde AS, Mace JC, Levy JM, Rudmik L, Alt JA, Smith TL. Prevalence of                    domains in surgically managed chronic rhinosinusitis. Int Forum Allergy Rhinol
+    polyp recurrence after endoscopic sinus surgery for chronic rhinosinusitis with            2017;7:1149-55.
+    nasal polyposis. Laryngoscope 2017;127:550-5.                                          29. Bachert C, Mannent L, Naclerio RM, Mullol J, Ferguson BJ, Gevaert P, et al.
+14. Tokunaga T, Sakashita M, Haruna T, Asaka D, Takeno S, Ikeda H, et al. Novel                Effect of subcutaneous dupilumab on nasal polyp burden in patients with
+    scoring system and algorithm for classifying chronic rhinosinusitis: the JESREC            chronic sinusitis and nasal polyposis: a randomized clinical trial. JAMA 2016;
+    study. Allergy 2015;70:995-1003.                                                           315:469-79.
+15. Calus L, Van Bruaene N, Bosteels C, Dejonckheere S, Van Zele T, Holtappels G,          30. Gevaert P, Van Bruaene N, Cattaert T, Van Steen K, Van Zele T, Acke F, et al.
+    et al. Twelve-year follow-up study after endoscopic sinus surgery in patients with         Mepolizumab, a humanized anti–IL-5 mAb, as a treatment option for severe nasal
+    chronic rhinosinusitis with nasal polyposis. Clin Transl Allergy 2019;9:30.                polyposis. J Allergy Clin Immunol 2011;128:989-95.e1-8.
+16. De Schryver E, Devuyst L, Derycke L, Dullaers M, Van Zele T, Bachert C, et al.         31. Koennecke M, Klimek L, Mullol J, Gevaert P, Wollenberg B. Subtyping of
+    Local immunoglobulin E in the nasal mucosa: clinical implications. Allergy                 polyposis nasi: phenotypes, endotypes and comorbidities. Allergo J Int 2018;27:
+    Asthma Immunol Res 2015;7:321-31.                                                          56-65.
+17. Gevaert P, Nouri-Aria KT, Wu H, Harper CE, Takhar P, Fear DJ, et al. Local recep-      32. Kowalski ML, Agache I, Bavbek S, Bakirtas A, Blanca M, Bochenek G, et al.
+    tor revision and class switching to IgE in chronic rhinosinusitis with nasal polyps.       Diagnosis and management of NSAID-exacerbated respiratory disease (N-ERD)—
+    Allergy 2013;68:55-63.                                                                     a EAACI position paper. Allergy 2019;74:28-39.
+18. Scheerens H, Smith A, Li O, Honigberg L, Harris JM, Holtappels G, et al. Elevated      33. Hopkins C, Gillett S, Slack R, Lund VJ, Browne JP. Psychometric validity of the
+    IgE M1 prime transcripts in nasal tissues in patients with nasal polyps and asthma.        22-item Sinonasal Outcome Test. Clin Otolaryngol 2009;34:447-54.
+    J Allergy Clin Immunol 2019;143:805-7.                                                 34. Le PT, Soler ZM, Jones R, Mattos JL, Nguyen SA, Schlosser RJ. Systematic
+19. Takeda K, Sakakibara S, Yamashita K, Motooka D, Nakamura S, El Hussien MA,                 review and meta-analysis of SNOT-22 outcomes after surgery for chronic
+    et al. Allergic conversion of protective mucosal immunity against nasal bacteria in        rhinosinusitis with nasal polyposis. Otolaryngol Head Neck Surg 2018;159:
+    patients with chronic rhinosinusitis with nasal polyposis. J Allergy Clin Immunol          414-23.
+    2019;143:1163-75.e15.                                                                  35. Staniorski CJ, Price CPE, Weibman AR, Welch KC, Conley DB, Shintani-Smith S,
+20. Vickery TW, Ramakrishnan VR, Suh JD. The role of Staphylococcus aureus in pa-              et al. Asthma onset pattern and patient outcomes in a chronic rhinosinusitis
+    tients with chronic sinusitis and nasal polyposis. Curr Allergy Asthma Rep 2019;           population. Int Forum Allergy Rhinol 2018;8:495-503.
+    19:21.                                                                                 36. Bhutani M, Yang WH, Hebert J, de Takacsy F, Stril JL. The real world effect of
+21. Zhang N, Holtappels G, Gevaert P, Patou J, Dhaliwal B, Gould H, et al. Mucosal             omalizumab add on therapy for patients with moderate to severe allergic asthma:
+    tissue polyclonal IgE is functional in response to allergen and SEB. Allergy 2011;         the ASTERIX observational study. PLoS One 2017;12:e0183869.
+    66:141-8.                                                                                                
+                                                                                           37. Siergiejko Z, Swiebocka  E, Smith N, Peckitt C, Leo J, Peachey G, et al. Oral corti-
+22. Vennera Mdel C, Picado C, Mullol J, Alobid I, Bernal-Sprekelsen M. Efficacy of             costeroid sparing with omalizumab in severe allergic (IgE-mediated) asthma
+    omalizumab in the treatment of nasal polyps. Thorax 2011;66:824-5.                         patients. Curr Med Res Opin 2011;27:2223-8.
+23. Bidder T, Sahota J, Rennie C, Lund VJ, Robinson DS, Kariyawasam HH. Omali-             38. Maurer M, Kaplan A, Rosen K, Holden M, Iqbal A, Trzaskoma BL, et al. The
+    zumab treats chronic rhinosinusitis with nasal polyps and asthma together-a real           XTEND-CIU study: long-term use of omalizumab in chronic idiopathic urticaria.
+    life study. Rhinology 2018;56:42-5.                                                        J Allergy Clin Immunol 2018;141:1138-9.e7.
+24. Gevaert P, Calus L, Van Zele T, Blomme K, De Ruyck N, Bauters W, et al. Oma-           39. Hanania NA, Alpan O, Hamilos Dl, Condemi JJ, Reyes-Rivera I, Zhu J, et al. Oma-
+    lizumab is effective in allergic and nonallergic patients with nasal polyps and            lizumab in severe allergic asthma inadequately controlled with standard therapy: a
+    asthma. J Allergy Clin Immunol 2013;131:110-6.e1.                                          randomized trial. Ann Intern Med 2011;154:573-82.
+25. Guideline for good clinical practice E6. International Council for Harmonisation.      40. Deschildre A, Marguet C, Langlois C, Pin I, Rittie JL, Derelle J, et al. Real-life
+    Available     at: http://www.ich.org/products/guidelines/efficacy/efficacy-single/         long-term omalizumab therapy in children with severe allergic asthma. Eur Respir
+    article/good-clinical-practice.html. Accessed November 19, 2019.                           J 2015;46:856-9.
+26. World Medical Association Declaration of Helsinki—ethical principles for medical       41. Lai T, Wang S, Xu Z, Zhang C, Zhao Y, Hu Y, et al. Long-term efficacy and safety
+    research involving human subjects. World Medical Association. Available at:                of omalizumab in patients with persistent uncontrolled allergic asthma: a system-
+    https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-          atic review and meta-analysis. Sci Rep 2015;5:8191.
+    for-medical-research-involving-human-subjects/. Accessed November 21, 2019.            42. Lieberman PL, Jones I, Rajwanshi R, Rosen K, Umetsu DT. Anaphylaxis associ-
+27. BMJ Best Practice Guidelines. BMJ Best Practice. Available at: https://                    ated with omalizumab administration: risk factors and patient characteristics.
+    bestpractice.bmj.com/info/. Accessed November 21, 2019.                                    J Allergy Clin Immunol 2017;140:1734-6.e4.
+28. Chowdhury NI, Mace JC, Bodner TE, Alt JA, Deconde AS, Levy JM, et al. Inves-           43. Xolair [prescribing information]. South San Francisco, Calif: Genentech, Inc;
+    tigating the minimal clinically important difference for SNOT-22 symptom                   2019.
+

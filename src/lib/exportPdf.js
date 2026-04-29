@@ -9,7 +9,7 @@ const C = {
   muted:[139, 144, 153],
 };
 
-export function exportPdf({ patient, ranking, criteria }) {
+export function exportPdf({ patient, ranking, evaluation, guideId }) {
   const doc = new jsPDF({ unit: 'pt', format: 'a4' });
   const W = doc.internal.pageSize.getWidth();
   const H = doc.internal.pageSize.getHeight();
@@ -34,7 +34,7 @@ export function exportPdf({ patient, ranking, criteria }) {
   doc.setFontSize(9);
   doc.setTextColor(220);
   doc.text(
-    `Apoyo a la decisión clínica · ${new Date().toLocaleDateString('es-ES')}`,
+    `Apoyo a la decisión clínica · Guía: ${guideId === 'POLINA' ? 'POLINA (España)' : 'EPOS / EUFOREA 2023'} · ${new Date().toLocaleDateString('es-ES')}`,
     margin,
     62,
   );
@@ -47,13 +47,23 @@ export function exportPdf({ patient, ranking, criteria }) {
   doc.setFont('helvetica', 'normal');
   doc.setFontSize(10);
   doc.setTextColor(...C.ink);
+  const olfatoLabel =
+    patient.smellVAS === 0 ? 'normal'
+      : patient.smellVAS <= 3 ? `pérdida leve (VAS ${patient.smellVAS})`
+      : patient.smellVAS <= 6 ? `hiposmia (VAS ${patient.smellVAS})`
+      : `anosmia (VAS ${patient.smellVAS})`;
   const phen = [
     `Edad: ${patient.age} años`,
     `Eosinófilos: ${patient.eosinophils} cel/µL  ·  IgE: ${patient.ige} UI/mL`,
-    `SNOT-22: ${patient.snot22}  ·  NPS: ${patient.nps}/8  ·  Olfato: ${
-      ['Normal', 'Hiposmia', 'Anosmia'][patient.anosmia]
-    }`,
-    `Asma: ${yn(patient.asthma)}  ·  Alergia: ${yn(patient.allergic)}  ·  EREA: ${yn(patient.nerd)}  ·  Dermatitis atópica: ${yn(patient.atopicDermatitis)}`,
+    `SNOT-22: ${patient.snot22}  ·  NPS: ${patient.nps}/8  ·  Olfato: ${olfatoLabel}`,
+    `Asma: ${yn(patient.asthma)}  ·  Alergia: ${yn(patient.allergic)}  ·  EREA: ${yn(patient.nerd)}`,
+    `Indicaciones cruzadas: ${[
+      patient.atopicDermatitis && 'Dermatitis atópica',
+      patient.eosinophilicEsophagitis && 'EoE',
+      patient.prurigoNodular && 'Prurigo nodular',
+      patient.chronicUrticaria && 'Urticaria crónica',
+      patient.copdEosinophilic && 'EPOC eosinofílica',
+    ].filter(Boolean).join(', ') || 'ninguna'}`,
     `Cirugías previas: ${patient.priorSurgeries}  ·  Ciclos corticoides sistémicos/año: ${patient.scsCourses}  ·  Contraindicación SCS: ${yn(patient.scsContraindication)}`,
   ];
   phen.forEach((line) => {
@@ -62,15 +72,14 @@ export function exportPdf({ patient, ranking, criteria }) {
   });
   y += 8;
 
-  // ── Criterios EUFOREA ─────────────────────────────────────
-  section(doc, 'Criterios EPOS / EUFOREA 2023', margin, y);
+  // ── Criterios de la guía aplicada ─────────────────────────
+  section(doc, evaluation.guide.name, margin, y);
   y += 18;
-  const met = criteria.filter((c) => c.met).length;
   doc.setFont('helvetica', 'bold');
   doc.setFontSize(11);
-  doc.setTextColor(...(met >= 3 ? C.blue : C.muted));
+  doc.setTextColor(...(evaluation.indicated ? C.blue : C.muted));
   doc.text(
-    `Cumple ${met} de 5 — ${met >= 3 ? 'INDICACIÓN CUMPLIDA' : 'No cumple indicación'}`,
+    `${evaluation.indicated ? 'CUMPLE INDICACIÓN' : 'No cumple indicación'} · ${evaluation.metCount}/5 criterios + cirugía previa: ${evaluation.surgeryReq.met ? 'sí' : 'no'}`,
     margin,
     y,
   );
@@ -78,8 +87,11 @@ export function exportPdf({ patient, ranking, criteria }) {
   doc.setFont('helvetica', 'normal');
   doc.setFontSize(10);
   doc.setTextColor(...C.ink);
-  criteria.forEach((c) => {
-    doc.text(`${c.met ? '☑' : '☐'} ${c.label} — ${c.detail}`, margin, y);
+  doc.text(`${evaluation.surgeryReq.met ? '☑' : '☐'} ${evaluation.surgeryReq.label}`, margin, y);
+  y += 13;
+  evaluation.criteria.forEach((c) => {
+    const star = c.mandatory ? ' *' : '';
+    doc.text(`${c.met ? '☑' : '☐'} ${c.label}${star} — ${c.detail}`, margin, y);
     y += 13;
   });
   y += 10;

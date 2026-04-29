@@ -2,22 +2,20 @@ import { useEffect, useRef, useState } from 'react';
 import { Loader2, Trophy, FileDown, MessageCircleQuestion } from 'lucide-react';
 import { BIOLOGICS } from '../data/biologics';
 
-export default function Recommendation({ ranking, patient, criteria, onExport }) {
+export default function Recommendation({ ranking, patient, evaluation, guideId, onExport }) {
   const [narrative, setNarrative] = useState('');
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
   const [stale, setStale] = useState(false);
 
-  // Marca el resultado como obsoleto cuando cambia el fenotipo,
-  // sin disparar la llamada a la API (solo se dispara con el botón).
   const lastSnapshot = useRef('');
   useEffect(() => {
-    const snap = JSON.stringify({ patient, criteria });
+    const snap = JSON.stringify({ patient, guideId });
     if (lastSnapshot.current && lastSnapshot.current !== snap && narrative) {
       setStale(true);
     }
     lastSnapshot.current = snap;
-  }, [patient, criteria, narrative]);
+  }, [patient, guideId, narrative]);
 
   const askGroog = async () => {
     setLoading(true);
@@ -27,7 +25,7 @@ export default function Recommendation({ ranking, patient, criteria, onExport })
       const res = await fetch('/.netlify/functions/clinical-narrative', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ patient, ranking, criteria }),
+        body: JSON.stringify({ patient, ranking, evaluation, guideId }),
       });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();

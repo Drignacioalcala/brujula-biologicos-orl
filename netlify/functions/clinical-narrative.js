@@ -1,5 +1,5 @@
 // Netlify Function — proxy a Gemini 2.5 Flash.
-// Recibe { patient, ranking, criteria } y devuelve { text }.
+// Recibe { patient, ranking, evaluation, guideId } y devuelve { text }.
 // La API key se guarda en GEMINI_API_KEY (variable de entorno de Netlify),
 // nunca se expone al cliente.
 
@@ -13,29 +13,64 @@ const NAMES = {
   mepolizumab: 'Mepolizumab',
 };
 
-function buildPrompt(patient, ranking, criteria) {
-  const metCount = criteria.filter((c) => c.met).length;
-  const notMet = criteria.filter((c) => !c.met).map((c) => c.label).join(', ') || 'ninguno';
+const DOMAIN_LABEL = {
+  nps: 'reducción del pólipo',
+  snot22: 'calidad de vida',
+  smell: 'recuperación del olfato',
+  congestion: 'descongestión',
+  comorbidity: 'beneficio sistémico',
+};
 
-  // Rasgos fenotípicos en lenguaje natural, solo los relevantes.
+function smellLabel(vas) {
+  if (vas === 0) return 'olfato normal';
+  if (vas <= 3) return `pérdida olfato leve (VAS ${vas})`;
+  if (vas <= 6) return `hiposmia moderada (VAS ${vas})`;
+  return `anosmia o pérdida grave (VAS ${vas})`;
+}
+
+function buildPrompt(patient, ranking, evaluation, guideId) {
   const traits = [];
-  if (patient.eosinophils >= 300) traits.push(`eosinofilia marcada (${patient.eosinophils}/µL)`);
-  else if (patient.eosinophils < 150) traits.push(`eosinofilia baja (${patient.eosinophils}/µL, perfil T2-low)`);
-  else traits.push(`eosinófilos ${patient.eosinophils}/µL`);
 
-  if (patient.allergic && patient.ige >= 100) traits.push(`alergia documentada con IgE elevada (${patient.ige} UI/mL)`);
-  else if (patient.ige < 30) traits.push(`IgE baja (${patient.ige} UI/mL)`);
-  else traits.push(`IgE ${patient.ige} UI/mL`);
+  // Eosinofilia con interpretación clínica
+  if (patient.eosinophils >= 1500) {
+    traits.push(`hipereosinofilia (${patient.eosinophils}/µL — descartar EGPA y síndrome hipereosinofílico)`);
+  } else if (patient.eosinophils >= 500) {
+    traits.push(`eosinofilia alta (${patient.eosinophils}/µL)`);
+  } else if (patient.eosinophils >= 300) {
+    traits.push(`eosinofilia moderada (${patient.eosinophils}/µL)`);
+  } else if (patient.eosinophils > 0 && patient.eosinophils < 150) {
+    traits.push(`eosinofilia baja (${patient.eosinophils}/µL — perfil T2-low)`);
+  } else if (patient.eosinophils > 0) {
+    traits.push(`eosinófilos ${patient.eosinophils}/µL`);
+  }
 
+  // IgE
+  if (patient.allergic && patient.ige >= 100) {
+    traits.push(`alergia documentada con IgE elevada (${patient.ige} UI/mL)`);
+  } else if (patient.ige > 0 && patient.ige < 30) {
+    traits.push(`IgE baja (${patient.ige} UI/mL)`);
+  } else if (patient.ige > 0) {
+    traits.push(`IgE ${patient.ige} UI/mL`);
+  }
+
+  // Comorbilidades respiratorias
   if (patient.asthma) traits.push('asma comórbida');
-  if (patient.nerd) traits.push('EREA / enfermedad respiratoria exacerbada por AINE');
-  if (patient.atopicDermatitis) traits.push('dermatitis atópica concomitante');
-  if (patient.anosmia === 2) traits.push('anosmia');
-  else if (patient.anosmia === 1) traits.push('hiposmia');
+  if (patient.nerd) traits.push('EREA / N-ERD');
 
+  // Indicaciones cruzadas
+  if (patient.atopicDermatitis) traits.push('dermatitis atópica concomitante');
+  if (patient.eosinophilicEsophagitis) traits.push('esofagitis eosinofílica concomitante');
+  if (patient.prurigoNodular) traits.push('prurigo nodular concomitante');
+  if (patient.chronicUrticaria) traits.push('urticaria crónica espontánea concomitante');
+  if (patient.copdEosinophilic) traits.push('EPOC eosinofílica concomitante');
+
+  // Olfato y QoL
+  traits.push(smellLabel(patient.smellVAS));
   traits.push(`SNOT-22 ${patient.snot22}`);
   traits.push(`NPS ${patient.nps}/8`);
-  if (patient.priorSurgeries >= 2) traits.push(`${patient.priorSurgeries} cirugías endoscópicas previas`);
+
+  // Tratamientos previos
+  if (patient.priorSurgeries > 0) traits.push(`${patient.priorSurgeries} cirugías endoscópicas previas`);
   if (patient.scsCourses >= 2) traits.push(`${patient.scsCourses} ciclos/año de corticoides sistémicos`);
   if (patient.scsContraindication) traits.push('contraindicación a corticoides sistémicos');
 
@@ -50,39 +85,42 @@ function buildPrompt(patient, ranking, criteria) {
     })
     .join('\n');
 
-  return `Eres un otorrinolaringólogo experto en rinología y biológicos para poliposis nasal grave (CRSwNP), comentando un caso a un colega.
+  const notMet = evaluation.criteria.filter((c) => !c.met).map((c) => c.label).join(', ') || 'ninguno';
+  const surgeryMet = evaluation.surgeryReq.met ? 'sí' : 'no';
+  const guideName = guideId === 'POLINA' ? 'POLINA (España)' : 'EPOS / EUFOREA 2023 (internacional)';
+
+  return `Eres un otorrinolaringólogo experto en rinología y biológicos para poliposis nasal grave (CRSwNP), comentando un caso a un colega de la SEORL.
 
 PERFIL DEL PACIENTE
 ${traits.join('; ')}.
 
-CRITERIOS EPOS/EUFOREA 2023
-Cumple ${metCount}/5. Criterios NO cumplidos: ${notMet}.
+GUÍA APLICADA: ${guideName}
+Cumple ${evaluation.metCount}/5 criterios. Criterios NO cumplidos: ${notMet}.
+Requisito de cirugía previa cumplido: ${surgeryMet} (${evaluation.surgeryReq.label}).
+Indicación de biológico según esta guía: ${evaluation.indicated ? 'SÍ' : 'NO'}.
 
 RANKING DEL ALGORITMO (SUCRA de meta-análisis en red ajustado al fenotipo)
 ${rankingDetail}
 
 TAREA
-Redacta UN SOLO PÁRRAFO de 110-140 palabras en español de España, dirigido a otro ORL. En ese párrafo:
-1. Justifica la primera elección anclando explícitamente en 1-2 rasgos del fenotipo (eosinofilia, IgE, dermatitis atópica, EREA, T2-low, etc.) y, cuando proceda, en su mecanismo de acción.
+Redacta UN SOLO PÁRRAFO COMPLETO de 130-170 palabras en español de España, dirigido a otro ORL.
+En ese párrafo:
+1. Justifica la primera elección anclando explícitamente en 1-2 rasgos del fenotipo (eosinofilia, IgE, dermatitis atópica, EREA, T2-low, hipereosinofilia, etc.) y, cuando proceda, en su mecanismo de acción o en su indicación cruzada por otra patología que tenga el paciente.
 2. Razona por qué el segundo biológico es alternativa válida (qué situación lo elegiría).
 3. Explica brevemente por qué los otros dos quedan por detrás en este caso concreto, sin descalificarlos.
-4. Si hay una alerta clínica relevante (criterios EUFOREA no cumplidos, perfil T2-low que limita anti-IL-5, dermatitis atópica que decanta dupilumab, EREA, IgE muy baja para omalizumab, eosinófilos muy bajos para mepolizumab), inclúyela al final del párrafo.
+4. Si hay alguna alerta clínica relevante, MENCIÓNALA AL FINAL del párrafo:
+   - Eosinofilia >1500: descartar EGPA / síndrome hipereosinofílico antes de iniciar; cautela con dupilumab por eosinofilia paradójica.
+   - Criterios de la guía no cumplidos (especialmente cirugía previa o T2 obligatorio en POLINA).
+   - Comorbilidad cruzada que decanta otro biológico.
 
-REGLAS
-- Un único párrafo, fluido, sin listas ni viñetas.
-- No repitas literalmente el ranking ni cifras del SUCRA.
-- No añadas disclaimers ni recomiendes "consultar guías".
-- Tono profesional y directo, registro SEORL.
-- Si el caso NO cumple criterios EUFOREA (≥3/5), dilo con claridad.`;
+REGLAS ESTRICTAS
+- Un único párrafo, fluido, sin listas ni viñetas, sin saltos de línea internos.
+- TERMINA TODAS LAS FRASES — no dejes ninguna a medias.
+- No repitas literalmente cifras del SUCRA ni el ranking.
+- No añadas disclaimers genéricos ni "consultar guías" ni "valoración individualizada".
+- Tono profesional y directo, registro SEORL, sin marketing.
+- Si el caso NO cumple indicación según la guía aplicada, dilo con claridad al inicio.`;
 }
-
-const DOMAIN_LABEL = {
-  nps: 'reducción del pólipo',
-  snot22: 'calidad de vida',
-  smell: 'recuperación del olfato',
-  congestion: 'descongestión',
-  comorbidity: 'beneficio sistémico',
-};
 
 export default async (req) => {
   if (req.method !== 'POST') {
@@ -97,15 +135,15 @@ export default async (req) => {
   }
 
   const body = await req.json();
-  const { patient, ranking, criteria } = body || {};
-  if (!patient || !ranking || !criteria) {
+  const { patient, ranking, evaluation, guideId } = body || {};
+  if (!patient || !ranking || !evaluation) {
     return new Response(JSON.stringify({ error: 'Payload incompleto' }), {
       status: 400,
       headers: { 'Content-Type': 'application/json' },
     });
   }
 
-  const prompt = buildPrompt(patient, ranking, criteria);
+  const prompt = buildPrompt(patient, ranking, evaluation, guideId || 'POLINA');
 
   const res = await fetch(`${ENDPOINT}?key=${apiKey}`, {
     method: 'POST',

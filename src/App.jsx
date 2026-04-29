@@ -1,12 +1,14 @@
 import { useMemo, useState } from 'react';
 import { BookOpen, MousePointerClick } from 'lucide-react';
 import PatientInput from './components/PatientInput';
-import EuforeaCheck from './components/EuforeaCheck';
+import GuideCheck from './components/GuideCheck';
 import BiologicRadar from './components/BiologicRadar';
 import Recommendation from './components/Recommendation';
+import BiologicMatrix from './components/BiologicMatrix';
+import Bibliography from './components/Bibliography';
 import {
   EMPTY_PATIENT,
-  euforeaCriteria,
+  evaluatePatient,
   rankBiologics,
   BIOLOGIC_ORDER,
   BIOLOGICS,
@@ -16,43 +18,54 @@ import { exportPdf } from './lib/exportPdf';
 const PRESETS = {
   alergica: {
     eosinophils: 220, ige: 480, asthma: true, allergic: true,
-    nerd: false, atopicDermatitis: false, anosmia: 1, snot22: 48,
-    nps: 5, priorSurgeries: 1, scsCourses: 2, scsContraindication: false, age: 38,
+    nerd: false, atopicDermatitis: false, smellVAS: 4, snot22: 52,
+    nps: 5, priorSurgeries: 2, scsCourses: 2, scsContraindication: false, age: 38,
   },
   eosinofilica: {
     eosinophils: 720, ige: 95, asthma: true, allergic: false,
-    nerd: false, atopicDermatitis: false, anosmia: 2, snot22: 62,
+    nerd: false, atopicDermatitis: false, smellVAS: 8, snot22: 62,
     nps: 7, priorSurgeries: 2, scsCourses: 3, scsContraindication: false, age: 52,
   },
   t2low: {
     eosinophils: 110, ige: 45, asthma: true, allergic: false,
-    nerd: false, atopicDermatitis: false, anosmia: 2, snot22: 58,
+    nerd: false, atopicDermatitis: false, smellVAS: 7, snot22: 58,
     nps: 6, priorSurgeries: 2, scsCourses: 2, scsContraindication: false, age: 60,
   },
   erea: {
     eosinophils: 540, ige: 180, asthma: true, allergic: false,
-    nerd: true, atopicDermatitis: false, anosmia: 2, snot22: 72,
+    nerd: true, atopicDermatitis: false, smellVAS: 9, snot22: 72,
     nps: 8, priorSurgeries: 3, scsCourses: 4, scsContraindication: false, age: 47,
+  },
+  hipereos: {
+    eosinophils: 1900, ige: 220, asthma: true, allergic: false,
+    nerd: false, atopicDermatitis: false, smellVAS: 8, snot22: 70,
+    nps: 7, priorSurgeries: 2, scsCourses: 3, scsContraindication: false, age: 55,
+  },
+  atopica: {
+    eosinophils: 380, ige: 850, asthma: false, allergic: true,
+    nerd: false, atopicDermatitis: true, smellVAS: 6, snot22: 56,
+    nps: 6, priorSurgeries: 2, scsCourses: 2, scsContraindication: false, age: 34,
   },
 };
 
 export default function App() {
   const [patient, setPatientRaw] = useState(EMPTY_PATIENT);
   const [hasInteracted, setHasInteracted] = useState(false);
+  const [guideId, setGuideId] = useState('POLINA');
   const [visible, setVisible] = useState(
     Object.fromEntries(BIOLOGIC_ORDER.map((id) => [id, true])),
   );
 
-  // Wrapper: cualquier cambio del fenotipo marca la sesión como iniciada.
   const setPatient = (next) => {
     setHasInteracted(true);
     setPatientRaw(next);
   };
 
   const ranking = useMemo(() => rankBiologics(patient), [patient]);
-  const criteria = useMemo(() => euforeaCriteria(patient), [patient]);
+  const evaluation = useMemo(() => evaluatePatient(patient, guideId), [patient, guideId]);
 
-  const handleExport = () => exportPdf({ patient, ranking, criteria });
+  const handleExport = () =>
+    exportPdf({ patient, ranking, evaluation, guideId });
 
   const handleReset = () => {
     setPatientRaw(EMPTY_PATIENT);
@@ -77,7 +90,11 @@ export default function App() {
           <section className="space-y-6">
             {hasInteracted ? (
               <>
-                <EuforeaCheck criteria={criteria} />
+                <GuideCheck
+                  evaluation={evaluation}
+                  guideId={guideId}
+                  onChangeGuide={setGuideId}
+                />
                 <BiologicRadar
                   ranking={ranking}
                   visible={visible}
@@ -86,14 +103,16 @@ export default function App() {
                 <Recommendation
                   ranking={ranking}
                   patient={patient}
-                  criteria={criteria}
+                  evaluation={evaluation}
+                  guideId={guideId}
                   onExport={handleExport}
                 />
               </>
             ) : (
               <EmptyState />
             )}
-            <BiologicReference />
+            <BiologicMatrix />
+            <Bibliography />
           </section>
         </div>
       </main>
@@ -116,8 +135,8 @@ function EmptyState() {
       </h3>
       <p className="mt-2 max-w-md text-sm text-rsMuted">
         Mueve los sliders, activa las comorbilidades o usa un caso rápido del panel izquierdo.
-        Cuando haya datos, aparecerá la verificación EUFOREA, el radar comparativo y el ranking
-        adaptado a su fenotipo.
+        Cuando haya datos, aparecerá la verificación POLINA/EUFOREA, el radar comparativo y el
+        ranking adaptado a su fenotipo.
       </p>
       <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-rsBlueSoft px-3 py-1.5 text-xs font-semibold text-rsBlue">
         <MousePointerClick className="h-3.5 w-3.5" />
@@ -142,7 +161,7 @@ function Header() {
         </div>
         <div className="hidden items-center gap-2 text-[11px] font-medium text-white/90 sm:flex">
           <BookOpen className="h-3.5 w-3.5" />
-          EPOS / EUFOREA 2023 · Meta-análisis Xu 2025, Safia 2025, Cai 2022
+          POLINA · EPOS / EUFOREA 2023
         </div>
       </div>
     </header>
@@ -156,8 +175,10 @@ function Hero() {
         <div className="max-w-2xl">
           <p className="text-sm leading-relaxed text-white/95">
             Apoyo a la decisión para la elección de biológico en poliposis nasal grave.
-            Fenotipa al paciente, comprueba criterios EPOS/EUFOREA y compara los{' '}
-            <span className="font-semibold text-rsBlue">4 biológicos aprobados</span> sobre evidencia real.
+            Fenotipa al paciente, comprueba criterios{' '}
+            <span className="font-semibold text-rsBlue">POLINA</span> (España) o{' '}
+            <span className="font-semibold text-rsBlue">EPOS/EUFOREA 2023</span> (internacional)
+            y compara los 4 biológicos aprobados sobre evidencia real.
           </p>
           <p className="mt-3 text-base font-bold text-white">
             App para médicos{' '}
@@ -212,36 +233,5 @@ function Footer() {
         </div>
       </div>
     </footer>
-  );
-}
-
-function BiologicReference() {
-  return (
-    <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-soft">
-      <div className="text-xs font-semibold uppercase tracking-wider text-rsMuted">
-        Ficha rápida de los 4 biológicos
-      </div>
-      <div className="mt-3 grid gap-3 sm:grid-cols-2">
-        {BIOLOGIC_ORDER.map((id) => {
-          const b = BIOLOGICS[id];
-          return (
-            <div key={id} className="rounded-lg border border-slate-200 p-3">
-              <div className="flex items-center gap-2">
-                <span className="h-2.5 w-2.5 rounded-full" style={{ backgroundColor: b.color }} />
-                <span className="font-semibold text-rsInk">{b.name}</span>
-                <span className="text-[11px] text-rsMuted">{b.target}</span>
-              </div>
-              <div className="mt-1.5 text-[11px] text-rsMuted">
-                <span className="font-semibold text-rsInk">Pauta:</span> {b.dosing}
-              </div>
-              <div className="mt-1 text-[11px] text-rsMuted">
-                <span className="font-semibold text-rsInk">Ensayos:</span> {b.trials.join(', ')}
-              </div>
-              <div className="mt-1 text-[11px] italic text-rsMuted">{b.notes}</div>
-            </div>
-          );
-        })}
-      </div>
-    </div>
   );
 }

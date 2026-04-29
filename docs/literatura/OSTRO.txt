@@ -1,0 +1,1261 @@
+Efficacy and safety of benralizumab in chronic
+rhinosinusitis with nasal polyps: A randomized,
+placebo-controlled trial
+Claus Bachert, MD, PhD,a Joseph K. Han, MD,b Martin Y. Desrosiers, MD,c Philippe Gevaert, MD, PhD,a
+Enrico Heffler, MD, PhD,d,e Claire Hopkins, DM,f Jody R. Tversky, MD,g Peter Barker, PhD,h David Cohen, PhD,h
+Claire Emson, PhD,i Ubaldo J. Martin, MD,h Vivian H. Shih, DrPH,h Sofia Necander, MD,j James L. Kreindler, MD,h
+Maria Jison, MD,h and Viktoria Werkstro    € m, MD, PhDj       Ghent, Belgium; Norfolk, Va; Montr
+                                                                                                 eal, Qu
+                                                                                                        ebec, Canada; Rozzano and
+Pieve Emanuele, Italy; London, United Kingdom; Baltimore and Gaithersburg, Md; and Gothenburg, Sweden
+
+
+GRAPHICAL ABSTRACT
+
+
+                                                                         Phase III OSTRO Trial
+          Efficacy and Safety of Benralizumab for the Treatment of Chronic Rhinosinusitis with Nasal Polyps
+
+                           Patients                       • Adults with chronic                     • History of systemic                     • Symptomatic despite
+                                                            rhinosinusitis with nasal polyps          corticosteroid use and/or                 stable intranasal
+                                                                                                      nasal polyp (NP) surgery                  corticosteroids (INCS)
+
+
+
+
+                     Treatment                                                                                                                Benralizumab 30 mg
+                                                             Placebo + INCS
+                                                                                                                                                 Q8W1 + INCS
+                 INCS initiated 30 days
+                                                                  N = 206                                                                              N = 207
+                 prior to treatment
+
+                                                                 40 weeks                                                                             40 weeks
+
+
+
+
+                         Results
+              Compared with placebo at 40 weeks:                               • No statistically significant between-group
+                                                                                 differences were observed in time to first
+              • Benralizumab decreased Nasal                                     NP surgery or Sinonasal Outcome Test-22
+                Polyp Score by 0.570 (P < .001)
+                                                                               • Subgroup analyses suggested greater
+              • Benralizumab decreased Nasal                                     treatment response in certain patients,
+                Blockage Score by 0.270 (P < .005)                               including those with comorbid asthma
+                                                                                                                                                ClinicalTrials.gov NCT03401229
+          1Patients received 30 mg benralizumab subcutaneously every 4 weeks for the first 3 doses then every 8 weeks (Q8W) thereafter.
+
+
+
+
+From athe Upper Airways Research Laboratory, Ghent University, Ghent, bthe Eastern                    AstraZeneca, Genentech, Hall Allergy, Novartis, Regeneron, Roche, Sanofi Genzyme,
+  Virginia Medical School, Norfolk, cthe Centre de recherche du Centre hospitalier de                 Stallergenes Greer, and Teva. E. Heffler received consulting fees, honoraria for lec-
+  l’Universite de Montreal (CRCHUM), Montreal, dthe Humanitas Clinical and                         tures, and/or research funding from AstraZeneca, Sanofi, Novartis, GSK, Stallergenes
+  Research Center, IRCCS, Rozzano, eHumanitas University, Pieve Emanuele, fGuy’s                      Greer, Circassia, and Nestle Purina. C. Hopkins received consulting fees, honoraria for
+  and St Thomas’ NHS Trust, London, gJohns Hopkins University, Baltimore, hAstraZe-                   lectures from AstraZeneca, GSK, Intersect, Meda, Olympus, Regeneron, Sanofi Gen-
+  neca, Gaithersburg, iTranslational Science and Experimental Medicine, Research and                  zyme, and Smith and Nephew. J. Tversky received research funding and/or consulting
+  Early Development, Respiratory and Immunology, BioPharmaceuticals R&D, Astra-                       fees from Regeneron, AstraZeneca, and Flare Diagnostics. P. Barker, D. Cohen, C.
+  Zeneca, Gaithersburg, and jAstraZeneca, Gothenburg.                                                 Emson, U. J. Martin, V. H. Shih, S. Necander, J. L. Kreindler, M. Jison, and V.
+This work was supported by AstraZeneca. AstraZeneca was involved in the study design;                 Werkstr€om are employees of AstraZeneca and may have stock options.
+  collection, analysis, and interpretation of data; and in the development and review of           Received for publication May 24, 2021; revised July 21, 2021; accepted for publication
+  the report. The decision to submit the report for publication was made by the authors.              August 18, 2021.
+Disclosure of potential conflict of interest: C. Bachert received research funding and/or          Available online September 29, 2021.
+  consulting fees from Sanofi, AstraZeneca, GSK, Novartis, Viatris, and ALK. J. K. Han             Corresponding author: Claus Bachert, MD, PhD, Upper Airways Research Laboratory,
+  received consulting fees from AstraZeneca, Sanofi Genzyme, Genentech, Roche,                        Ghent University, B-9000 Ghent, Belgium. E-mail: Claus.Bachert@UGent.be.
+  GSK, Medtronic, and Gossamer Bio. M. Desrosiers received consulting fees,                             The CrossMark symbol notifies online readers when updates have been made to the
+  honoraria for lectures, and/or research funding from AstraZeneca, GSK, MEDA                           article such as errata or minor corrections
+  Pharmaceuticals, and Sanofi; owns stock in Probionase Therapies Inc; and is CPD                  0091-6749/$36.00
+  designate, ORL-CCF Program, Universite de Montreal. P. Gevaert received consulting             Ó 2021 American Academy of Allergy, Asthma & Immunology
+  fees, honoraria for lectures, and/or research funding from 3NT, ALK, Argenx,                     https://doi.org/10.1016/j.jaci.2021.08.030
+
+                                                                                                                                                                                       1309
+1310 BACHERT ET AL                                                                                                       J ALLERGY CLIN IMMUNOL
+                                                                                                                                       APRIL 2022
+
+
+
+
+Background: Eosinophilic inflammation has been implicated in
+the pathogenesis, severity, and treatment responsiveness of              Abbreviations used
+chronic rhinosinusitis with nasal polyps (CRSwNP).                          ACQ-6: Asthma Control Questionnaire 6
+Objective: We sought to assess the efficacy and safety of                     ADA: Antidrug antibody
+benralizumab-mediated eosinophil depletion for treating CRSwNP.                 AE: Adverse event
+                                                                          ANCOVA: Analysis of covariance
+Methods: The phase 3 OSTRO study enrolled patients with
+                                                                               BMI: Body mass index
+severe CRSwNP who were symptomatic despite treatment with                        CI: Confidence interval
+intranasal corticosteroids and who had a history of systemic             COVID-19: Coronavirus disease 2019
+corticosteroid (SCS) use and/or surgery for nasal polyps (NP).                 CRS: Chronic rhinosinusitis
+Patients were randomized 1:1 to treatment with benralizumab               CRSwNP: CRS with NPs
+30 mg or placebo every 4 weeks for the first 3 doses and every                  CT: Computed tomography
+8 weeks thereafter. Coprimary end points were change from                      DSS: Difficulty with sense of smell
+baseline to week 40 in NP score (NPS) and patient-reported mean             IL-5Ra: Alpha subunit of the IL-5 receptor
+nasal blockage score reported once every 2 weeks.                             INCS: Intranasal corticosteroid
+Results: The study population comprised 413 randomized                         LMS: Lund-MacKay score
+                                                                               NBS: Nasal blockage score
+patients (207 in the benralizumab group and 206 in the placebo
+                                                                                NP: Nasal polyp
+group). Benralizumab significantly improved NPS and nasal                      NPS: Nasal polyp score
+blockage score compared to placebo at week 40 (P _     < .005).                SCS: Systemic corticosteroid
+Improvements in Sinonasal Outcome Test 22 score at week 40,               SNOT-22: Sinonasal Outcome Test 22
+time to first NP surgery and/or SCS use for NP, and time to first            UPSIT: University of Pennsylvania Smell Identification Test
+NP surgery were not statistically significant between treatment
+groups. Nominal significance was obtained for improvement in
+difficulty in sense of smell score at week 40 (P 5 .003). Subgroup
+analyses suggested influences of comorbid asthma, number of           inflammation within polyp tissue and elevations in blood eosinophil
+NP surgeries, sex, body mass index, and baseline blood                counts correlate with greater disease severity, risk of recurrence,
+eosinophil count on treatment effects. Benralizumab was safe          and likelihood for refractory disease.12-15 Nonetheless, a clear defi-
+and well tolerated.                                                   nition for the role of eosinophils in type 2 inflammation has yet to be
+Conclusion: Benralizumab, when added to standard-of-care              elucidated. Moreover, there is currently no biomarker, demographic
+therapy, reduced NPS, decreased nasal blockage, and reduced           parameter, or clinical finding that predicts patient-specific
+difficulty with sense of smell compared to placebo in patients        treatment response to biologic therapies,16 each of which
+with CRSwNP. Trial registration: ClinicalTrials.gov                   suppresses inflammation through targeting distinct aspects of the
+NCT03401229 (J Allergy Clin Immunol 2022;149:1309-17.)                immunologic pathways implicated in CRSwNP.
+                                                                         Benralizumab is a humanized afucosylated monoclonal
+Key words: Eosinophils, eosinophilia, type 2 inflammation, nasal      antibody that is produced in Chinese hamster ovary cells.17 The
+polyposis, biologic, IL-5 receptor, sinonasal polyposis, systemic     antibody is directed against the alpha subunit of the IL-5 receptor
+corticosteroids, intranasal corticosteroids, nasal blockage           (IL-5Ra), which is primarily expressed by human eosinophils and
+                                                                      basophils.18,19 Benralizumab binds to IL-5Ra–expressing cells,
+                                                                      blocking IL-5 signaling and targeting them for enhanced
+   Chronic rhinosinusitis with nasal polyps (CRSwNP) is an            antibody-dependent cellular cytotoxicity, resulting in rapid,
+inflammatory condition associated with symptoms that may be           near-complete depletion of blood eosinophils and a reduction in
+severe, including rhinorrhea, nasal blockage/congestion,              basophil counts.18,19 Profound depletion of eosinophils by
+hyposmia or anosmia, and facial pressure or pain.1,2 Symptoms         benralizumab provides a unique opportunity to explore the role
+of CRSwNP are often insufficiently managed by currently               of eosinophils in CRSwNP. Previous clinical trials, observational
+available pharmacologic therapies (eg, intranasal corticosteroids     studies, and case series have shown improvements with benralizu-
+[INCS] and systemic corticosteroids [SCS]), resulting in              mab in nasal polyp score (NPS), symptoms, and health-related
+significantly impaired health-related quality of life and             quality of life in patients with severe asthma and comorbid
+considerable health care resource utilization.3,4 Furthermore,        CRSwNP.20-22 In a small proof-of-concept study, benralizumab
+patients with CRSwNP often require surgery and frequently             reduced NPS from baseline and improved symptoms and sense
+experience postsurgical disease recurrence.5,6                        of smell in patients with severe CRSwNP.23 The phase 3 OSTRO
+   The etiology of CRSwNP remains incompletely understood,            study expands on these data and contributes to our understanding
+although several immunologic mechanisms—type 1, type 2, and           of CRSwNP pathophysiology by evaluating the efficacy and safety
+type 3 immune reactions marked by the involvement of T helper         of benralizumab versus placebo and identifying demographic,
+cells and corresponding innate lymphocytes—have been                  laboratory, and clinical characteristics that predict response to
+implicated in disease pathogenesis.7 The diversity of cytokine pro-   benralizumab therapy in a population of patients with severe,
+files8-10 that present with a common symptomology indicates het-      symptomatic CRSwNP despite standard-of-care therapy.
+erogeneous pathways lead to a shared clinical expression.
+CRSwNP associated with type 2 inflammation, the most common
+endotype in Western populations,8,9 has a strong connection with      METHODS
+tissue eosinophilia,11 suggesting that eosinophils may play a mech-   Patients
+anistic role in the pathogenesis of CRSwNP. Supporting this puta-       Eligible patients were 18 to 75 years of age with bilateral NP and a total
+tive etiologic link are the observations that marked eosinophilic     NPS of _
+                                                                             >5 (with unilateral scores of _
+                                                                                                           >2) despite maintenance treatment with
+J ALLERGY CLIN IMMUNOL                                                                                                                    BACHERT ET AL 1311
+VOLUME 149, NUMBER 4
+
+
+
+
+                                                                                                                     INCS only
+                                 Screening/         Benralizumab 30 mg + background INCS (n = 207)
+                                                                                                                    (EFU subset)
+                                   INCS
+                                   run-in                                                                            INCS only
+                                                    Placebo + background INCS (n = 206)                             (EFU subset)
+
+                                                * * *             *        *       *       *        *
+                                                                                                                     Extended follow-up
+                      Week –5                   0    4    8      16        24      32      40      48       56 60                      80
+                                                                                        Primary              Last visit             Last visit
+                                                                                        endpoint             (general)               (EFU)
+
+                                     Benralizumab 30 mg          Placebo
+
+                         FIG 1. Study design. Asterisks indicate study drug dose administration visits. EFU, Extended follow-up
+                         population. Study-provided mometasone furoate nasal spray was maintained throughout the study.
+
+
+
+INCS for at least 4 weeks before enrollment and a history of SCS use and/or            Key secondary efficacy end points included change from baseline in NPS
+surgery for NP. In addition, patients were required to have ongoing NP              and biweekly mean NBS at week 56, change from baseline in SNOT-22 total
+symptoms for _>12 weeks, moderate to severe nasal blockage (nasal blockage          score at weeks 40 and 56, time to first NP surgery and/or SCS use for NP, time
+score [NBS] _ >2, captured electronically in the Nasal Polyposis Symptom            to first NP surgery, change from baseline in biweekly mean difficulty with
+Diary), and Sinonasal Outcome Test 22 (SNOT-22) total score _           >30 at      sense of smell (DSS) score at weeks 40 and 56, and change from baseline in
+enrollment. Patients were excluded if they had nasal/sinus surgery in the           sinus opacification as measured by computed tomography (CT)-derived
+previous 3 months, had an asthma exacerbation within 4 weeks of enrollment,         Lund-Mackay score (LMS) at end of treatment. SNOT-22 quantified chronic
+or were deemed ineligible because of clinically significant concurrent disease.     rhinosinusitis (CRS)-specific quality-of-life impairments on a scale from
+Full inclusion and exclusion criteria are included in this article’s Online         0 (no problem) to 5 (problem as bad as can be), for a maximum score of 110.24
+Repository at www.jacionline.org.                                                   The DSS score was derived from daily Nasal Polyposis Symptom Diary
+                                                                                    entries in which patients rated their worst difficulty in sense of smell over
+                                                                                    the past 24 hours on a scale of 0 (none) to 3 (severe). LMS was scored by a
+Study design                                                                        central reader, with higher scores indicating a greater degree of sinus
+    This phase 3, randomized, double-blind, placebo-controlled study                opacification (range, 0-24).25
+(ClinicalTrials.gov NCT03401229) was conducted at 102 sites in Europe                  Additional efficacy measures included SCS use, University of
+and the United States from January 2018 to July 2020. To ensure consistency         Pennsylvania Smell Identification Test (UPSIT) score, sinus severity score,
+of background INCS, during the 5-week screening/run-in period, patients tran-       and asthma-specific measures. UPSIT, a quantitative test of olfactory function,
+sitioned from their existing INCS regimen to a stable dose of study-provided        was used to gauge the ability of patients to correctly identify odors using a
+mometasone furoate nasal spray (total daily dose, 400 mg), which was                40-sample testing panel with forced choice among 4 options for each
+maintained throughout the study (Fig 1). Patients who continued to meet             sample.26 UPSIT total scores range from 0 to 40, with anosmia defined for
+eligibility criteria were randomized 1:1 to treatment with benralizumab             this study as a score of 0 to 18. Sinus severity score was measured in the
+30 mg or placebo administered subcutaneously every 4 weeks for the first 3          CT subset and was defined as the percentage of sinus volume occupied by
+doses and every 8 weeks thereafter. Randomization was stratified by region          the mucosa. For patients with comorbid asthma, asthma control was evaluated
+and comorbid asthma status. SCS use was only permitted in the short term            through the occurrence of exacerbations and change in Asthma Control Ques-
+ _14 days) for treatment of NP worsening or asthma exacerbations.
+(<                                                                                  tionnaire 6 (ACQ-6) score. An exacerbation was defined as use of SCS for the
+    The last study drug dose was administered at week 48, and the end-of-           treatment of asthma or hospitalization due to asthma. ACQ-6 measures asthma
+treatment visit occurred at week 56. The first 185 patients who completed the       symptom control on the basis of 5 symptom questions and 1 bronchodilator
+56-week treatment period entered a 24-week extended follow-up period,               use question, each rated on a scale from 0 (no impairment) to 6 (maximum
+during which background INCS usage continued. The study protocol was                impairment).27 Mean ACQ-6 score is the average of the 6 individual question
+amended in August 2020 to change the primary assessment time point from             scores, and a score of _
+                                                                                                           >1.5 indicates poor asthma control.
+week 56 to week 40 due to the coronavirus disease 2019 (COVID-19) global               Safety assessments included treatment-emergent adverse events (AEs),
+pandemic. Week 40 was the latest study visit not substantially affected by          laboratory variables, and antidrug antibody (ADA) assays. The final safety
+COVID-19–related missing data or missed doses (see Table E1 in the Online           assessment occurred at week 80 for patients in the extended follow-up
+Repository available at www.jacionline.org).                                        population and week 60 for all others.
+    The study protocol received independent ethics committee approval at each
+study site, and the clinical trial was conducted in accordance with the
+principles of good clinical practice. All patients provided written informed        Statistical analysis
+consent.                                                                               A sample size of 400 randomized patients (200 assigned to benralizumab
+                                                                                    and 200 to placebo) was calculated to provide _     >95% power to detect a
+                                                                                    treatment difference of 1.2 units in total NPS and 0.6 units in biweekly mean
+Assessments and end points                                                          NBS at a 2-sided alpha level of 0.01, assuming population standard deviations
+   The coprimary end points were change from baseline to week 40 in total           of 2 for NPS and 1 for NBS.
+NPS and in biweekly mean NBS. Total NPS was determined from bilateral                  Efficacy analyses included all randomized patients who received _>1 dose of
+nasal endoscopy and rated on a scale of 0 (no polyps) to 4 (large polyps            study drug, except where limited by evaluation (CT subset) or presence of
+completely obstructing the inferior nasal cavity) for each nostril (total score     comorbidity (asthma subset). For NPS, NBS, SNOT-22, and DSS, treatment
+range, 0-8). NPS was scored centrally by 2 expert physicians unrelated to the       effects were measured using a primary estimand method with a hybrid of worst
+study sites using video image data captured during endoscopy; a third               possible score (for patients who underwent NP surgery)/worst observation
+physician adjudicated discrepancies (Parexel, Newton, Mass). All reviewers          carried forward (for patients receiving SCS for NP worsening) and multiple
+were unaware of the study treatment assignment. Patients rated NBS daily on         imputation followed by analysis of covariance (ANCOVA). Treatment group,
+the basis of their perceived nasal blockage severity over the past 24 hours on a    baseline scores, region, and baseline comorbid asthma status were covariates.
+scale of 0 (none) to 3 (severe).                                                    Between-group comparisons are reported as point estimates and 95%
+1312 BACHERT ET AL                                                                                                                     J ALLERGY CLIN IMMUNOL
+                                                                                                                                                     APRIL 2022
+
+
+
+
+                                                                            Screened
+                                                                            (N = 969)
+
+
+                                                                                             Excluded (n = 556)
+                                                                                             • Did not meet study entry criteria
+                                                                                               (n = 555)
+                                                                                             • Withdrawal by patient (n = 1)
+
+
+
+                                                                          Randomized
+                                                                           (N = 413)
+
+
+                         Allocated to benralizumab (n = 207)                            Allocated to placebo (n = 206)
+                         • Received treatment (n = 207; 100%)                           • Received treatment (n = 203; 98.5%)ª
+
+
+                         Discontinued study treatment (n = 40; 19.3%)                   Discontinued study treatment (n = 37; 18.0%)
+                         • Withdrawal by patient (n = 29; 14.0%)                        • Withdrawal by patient (n = 26; 12.6%)
+                         • Adverse event (n = 8; 3.9%)                                  • Adverse event (n = 6; 2.9%)
+                         • Lost to follow-up (n = 2; 1.0%)                              • Lost to follow-up (n = 1; 0.5%)
+                         • Other (n = 1; 0.5%)                                          • COVID-19 (n = 1; 0.5%)
+                                                                                        • Other (n = 3; 1.5%)
+
+
+                         Completed main study period                                    Completed main study period
+                         (n = 174; 84.1%)                                               (n = 169; 82.0%)
+                         • Discontinued treatment but completed                         • Discontinued treatment but completed
+                           study (n = 10; 4.8%)                                           study (n = 11; 5.3%)
+
+
+                         Entered extended follow-up (n = 93)                            Entered extended follow-up (n = 92)
+                         • Completed extended follow-up (n = 91)                        • Completed extended follow-up (n = 91)
+
+
+                         Analysis sets                                                  Analysis sets
+                         • Full analysis set (n = 207)                                  • Full analysis set (n = 203)
+                         • Safety analysis set (n = 207)                                • Safety analysis set (n = 203)
+                         • Computed tomography subset (n = 92)                          • Computed tomography subset (n = 90)
+                         • Comorbid asthma subset (n = 142)                             • Comorbid asthma subset (n = 136)
+
+                         FIG 2. Patient disposition. aThree patients in the placebo group were randomized in error and did not
+                         receive any dose of the study drug.
+
+
+confidence intervals (CIs). Time to first NP surgery and/or SCS use for NP and     RESULTS
+time to first NP surgery were analyzed using a Cox proportional hazard model,         A total of 413 patients were randomized, 207 to benralizumab
+with treatment group, region, and baseline comorbid asthma status as
+                                                                                   and 206 to placebo (Fig 2). Three patients in the placebo group
+covariates. Mean biweekly values for variables derived from the Nasal
+                                                                                   were randomized in error and did not receive any dose of study
+Polyposis Symptom Diary (NBS and DSS) were calculated by summing daily
+entries at 2-week intervals and dividing by the number of nonmissing days, if      drug. The majority of randomized patients (80.6%) completed
+at least 8 days in the interval had evaluable data.                                the study treatment, and 83.1% completed the main study period.
+    To account for multiplicity in testing, both coprimary end points were         Rates of discontinuation were similar between treatment groups
+tested at the .01 level (2 sided), and the key secondary end points were tested    (benralizumab, 19.3%; placebo, 18.0%), with patient withdrawal
+hierarchically at the .05 level (2 sided). Coprimary end points were required to   (14.0% and 12.6%) and AEs (3.9% and 2.9%) as the predominant
+obtain significance at the .01 level with treatment effects in favor of            reasons for discontinuation. A subset of 185 patients
+benralizumab before testing the 9 key secondary end points in a                    (benralizumab, 93; placebo, 92) continued into the extended
+fixed-sequence testing approach.                                                   follow-up period.
+    Additional prespecified analyses included treatment effects by baseline
+                                                                                      Demographics were generally balanced between treatment
+demographic and clinical characteristic subgroups for NPS and NBS at weeks
+                                                                                   groups, although a greater proportion of men were randomized to
+40 and 56 and responder analyses for NPS at weeks 24, 40, and 56. Safety
+analyses included all randomized patients who received _  >1 dose of study drug    benralizumab versus placebo (Table I). There were also fewer
+and were reported using descriptive statistics. All analyses were performed by     patients with a body mass index (BMI) of >30 kg/m2 in the
+SAS 9.4 software (SAS Institute, Cary, NC). Additional details of the              benralizumab group compared with the placebo group. In the
+analysis’s methodology are provided in the Online Repository available at          overall population, female predominance was observed in pa-
+www.jacionline.org.                                                                tients with comorbid asthma (see Table E2 in the Online
+J ALLERGY CLIN IMMUNOL                                                                                                                                                           BACHERT ET AL 1313
+VOLUME 149, NUMBER 4
+
+
+
+
+TABLE I. Demographics and baseline characteristics, full                                                                  0.50                             Nasal Polyp Score
+analysis set                                                                                                                             Benralizumab 30 mg
+                                                                                                                          0.25
+                                              Benralizumab                                                                               Placebo
+
+
+
+
+                                                                                                  Change from baseline
+                                                  30 mg                Placebo
+                                                                                                                          0.00
+Parameter                                       (n 5 207)             (n 5 203)
+
+Age (years), mean 6 SD                50.1 6 12.4      50.2 6 13.9                                                       –0.25
+                                                                                                                                                                *
+                                                                                                                                                                                         **                     *
+Male sex                              142 (68.6)       121 (59.6)
+Race                                                                                                                     –0.50
+
+  White                               197 (95.2)       190 (93.6)                                                                                                         Week 40 between-group difference:
+                                                                                                                         –0.75
+  Black                                 4 (1.9)          8 (3.9)                                                                                                          –0.570 (95% CI: –0.852 to –0.289);
+                                                                                                                                                                                      P < .001
+  Asian                                 3 (1.4)          1 (0.5)
+                                                                                                                         –1.00
+  Other                                 3 (1.4)          4 (2.0)                                                                 0        8         16         24                      40                      56
+BMI (kg/m2), mean 6 SD                 27.4 6 5.1       28.5 6 6.4                                                                                              Study week
+                                                                                       Benralizumab                          204         202        193        199                     187                     161
+BMI category
+                                                                                       Placebo                               198         193        194        190                     187                     171
+  Normal (< _25 kg/m2)                 73 (35.3)        59 (29.1)
+  Overweight (>25 to _ <30 kg/m2)      87 (42.0)        77 (37.9)
+                                                                                                                                                          Nasal Blockage Score
+  Obese (>30 to _<35 kg/m2)            29 (14.0)        45 (22.2)
+                                                                                                                           0.0
+  Morbidly obese (>35 kg/m2)           18 (8.7)         22 (10.8)
+                                                                                                                                                     Benralizumab 30 mg
+Comorbid asthma                       142 (68.6)       136 (67.0)                                                         –0.2                       Placebo
+  ACQ-6 score, mean 6 SD              1.92 6 1.27      2.05 6 1.20
+
+
+
+
+                                                                                                 Change from baseline
+  >1 exacerbation in past 12 months
+  _                                    26 (18.3)        23 (16.9)                                                         –0.4
+Anosmia*                              147 (82.6)       152 (84.4)
+AERD                                   62 (30.0)        59 (29.1)                                                         –0.6
+                                                                                                                                                                                 * * * * *
+Prior NP surgery                      151 (72.9)       149 (73.4)                                                                                                                              * ** * * * * *
+                                                                                                                          –0.8
+  No. of surgeries, median (range)      2 (1, 40)        2 (1, 15)
+  Years since surgery                 6.93 6 6.45      6.95 6 5.46                                                                                                        Week 40 between-group difference:
+                                                                                                                          –1.0
+History of SCS use for NP             161 (77.8)       146 (71.9)                                                                                                         –0.270 (95% CI: –0.458 to –0.083);
+                                                                                                                                                                                      P = .005
+  No. of courses in past 12 months,     1 (0, 10)        1 (0, 7)                                                         –1.2
+                                                                                                                                 0   4    8    12   16    20   24    28     32    36   40     44   48    52    56
+     median (range)
+                                                                                                                                                               Study week
+NPS, mean 6 SD                        6.15 6 1.19      6.13 6 1.13                     Benralizumab                          207         200        200        196         192         191         186         179
+NBS, mean 6 SD                        2.62 6 0.46      2.59 6 0.46                     Placebo                               203         195        194        191         186         181         184         175
+SNOT-22 total score, mean 6 SD       69.3 6 19.77     69.0 6 19.03
+Baseline IgE (IU/mL), mean 6 SD        214 6 344        251 6 549                      FIG 3. Changes from baseline in NPS and NBS during the main study
+Baseline blood eosinophil count                                                        period. Data are least-squares means 6 95% CIs for the full analysis set.
+     (cells/mL)                                                                        NPS range, 0-8. NBS range, 0-3. *P < .05; **P < .001 for the comparison of
+                                                                                       benralizumab and placebo.
+  Mean 6 SD                          448.3 6 364.6    445.7 6 245.1
+  Median (range)                    375.0 (40, 3670) 400.0 (80, 1710)
+Atopic by Phadiatop                   111 (55.8)       102 (52.8)
+Region                                                                                 biweekly mean NBS (between-group difference, 20.270 [95%
+  United States                        39 (18.8)        39 (19.2)                      CI, 20.458 to 20.083]; P 5 .005) at week 40 (Fig 3). Reductions
+  Rest of world                       168 (81.2)       164 (80.8)                      in NPS and NBS with benralizumab were maintained through
+Data are presented as no. (%) unless otherwise indicated.                              week 56.
+AERD, Aspirin-exacerbated respiratory disease.                                            At week 40, a greater proportion of patients who received
+*Anosmia was defined as an UPSIT score of _    <18.
+                                                                                       benralizumab (35.3%) versus placebo (19.2%) experienced at
+ Baseline data were available for in the benralizumab and placebo groups for 140 and
+135 patients (ACQ-6), 178 and 180 patients (anosmia), 204 and 198 patients (NPS),      least a 1-point improvement in NPS from baseline (odds ratio,
+205 and 199 patients (SNOT-22), 204 and 201 patients (IgE), 206 and 202 patients       2.30 [95% CI, 1.46 to 3.64]; P < .001). Nominally significant
+(eosinophil count), and 199 and 193 patients (atopic status).                          differences between groups were also observed at week 24
+                                                                                       (odds ratio, 1.67 [95% CI, 1.07 to 2.60]; P 5 .02) and week 56
+Repository available at www.jacionline.org). Baseline character-                       (odds ratio, 1.93 [95% CI, 1.18 to 3.18]; P 5 .009]). Notably,
+istics were reflective of a population with severe CRSwNP, with a                      patients with missing data at a given time point were
+high mean NPS (6.1) and SNOT-22 total score (69), and large pro-                       conservatively considered non-responders, and fewer
+portions of patients with anosmia (83.5%) and a history of NP sur-                     patients had NPS data at week 56 (332 patients) compared to
+gery (73.2%). Comorbid asthma was present in 67.8% of patients                         week 40 (374 patients).
+(mean baseline ACQ-6 score, 1.98), and 54.3% of patients were
+atopic by Phadiatop test. Mean blood eosinophil counts were
+elevated and were similar in the benralizumab and placebo groups
+(448.3 6 364.6 and 445.7 6 245.1 cells/mL, respectively).                              Secondary end points
+                                                                                          Change from baseline in SNOT-22 total score at week 40, the
+                                                                                       first key secondary end point, was numerically greater with
+NPS and NBS                                                                            benralizumab versus placebo (least-squares mean changes,
+   Benralizumab treatment resulted in significantly greater                            216.23 vs 211.02); however, the between-group difference did
+improvements compared with placebo in the coprimary end                                not achieve statistical significance (Table II). Therefore,
+points of change from baseline in total mean NPS (between-group                        statistical significance cannot be claimed for subsequent end
+difference, 20.570 [95% CI, 20.852 to 20.289]; P < .001) and                           points in the hierarchy. Results for secondary end points are
+1314 BACHERT ET AL                                                                                                                                  J ALLERGY CLIN IMMUNOL
+                                                                                                                                                                  APRIL 2022
+
+
+TABLE II. Primary and key secondary efficacy parameters, full analysis set*
+                                                                   Benralizumab 30 mg                  Placebo
+                                                                                LS mean                    LS mean        Between-group
+Characteristic                                                     No.           change          No.        change         comparisony                95% CI            P value
+
+NPS at week 40 (scale, 0-8)                                        187           20.418          187          0.153            20.570            20.852, 20.289         < .001
+Biweekly mean NBS at week 40 (scale, 0-3)                          191           20.711          181        20.441             20.270            20.458, 20.083           .005
+SNOT-22 total score at week 40 (scale, 0-110)                      193          216.23           190       211.02              25.21              211.09, 0.66            .08
+Time to first NP surgery and/or SCS use for NP                     207         72 (34.8)à        203      91 (44.8)à            0.75               0.55, 1.02             .07
+Time to first NP surgery                                           207         33 (15.9)§        203      37 (18.2)§            0.85               0.53, 1.36             .50
+Biweekly mean DSS score at week 40 (scale, 0-3)                    191           20.383          181        20.165             20.218            20.361, 20.074           .003
+NPS at week 56 (scale, 0-8)                                        161           20.361          171          0.114            20.475            20.810, 20.141           .005
+Biweekly mean NBS at week 56 (scale, 0-3)                          179           20.703          175        20.416             20.287            20.477, 20.096           .003
+SNOT-22 total score at week 56 (scale, 0-110)                      190          216.25           184        28.75              27.49             213.74, 21.24            .02
+Biweekly mean DSS score at week 56 (scale, 0-3)                    179           20.423          175        20.187             20.237            20.389, 20.084           .002
+LMS at end of treatment/discontinuation (scale, 0-24)               81           20.993           84        20.138             20.856             22.281, 0.570           .24
+
+End points are shown in hierarchical analysis order. The number of patients in each category reflects those with evaluable data at the time point, which includes patients with
+imputed values for worst possible value/worst observation carried forward after NP surgery and/or use of SCS for NP.
+LS, Least-squares.
+*LMS data are for the CT subset.
+  Data are LS mean differences, except for time to event analyses, which are shown as hazard ratios.
+àNo. (%) of patients with _
+                          >1 NP surgery and/or SCS use for NP.
+§
+ No. (%) of patients with _
+                          >1 NP surgery.
+
+
+presented with unadjusted P values; differences with P < .05 are                          Subgroup analyses
+referred to as nominally significant.                                                        In prespecified subgroup analyses, NPS treatment effect at
+   Surgery for NP and/or use of SCS for NP was reported for                               week 40 differed by asthma status (P 5 .01) and number of prior
+34.8% and 44.8% of patients in the benralizumab and placebo                               NP surgeries (P 5 .02) (Fig 4). There was some evidence of
+groups, respectively. A trend was observed toward a longer time                           differential effects on NPS and NBS based on sex, BMI, and
+to first NP surgery and/or first SCS use for NP with benralizumab                         baseline blood eosinophil counts, but the interaction tests did
+versus placebo (Table II; see Fig E1 in the Online Repository                             not reach nominal significance. Similar trends continued at
+available at www.jacionline.org). The apparent divergence was                             week 56 (data not shown). Subgroup analyses for SNOT-22 total
+primarily driven by differences in SCS use, as time to first NP sur-                      score and DSS were generally directionally consistent with NPS
+gery was similar between treatment groups. During the study,                              and NBS findings (data not shown).
+25.1% and 32.5% of patients in the benralizumab and placebo
+groups were prescribed SCS for NP, respectively (odds ratio,
+0.69 [95% CI, 0.44 to 1.06]; P 5 .09). Kaplan-Meier curves of                             Asthma control in patients with comorbid asthma
+time to first SCS use for NP began to diverge at week 24, with                               At week 40, a decrease from baseline in ACQ-6 score was
+greater utilization in the placebo group continuing through                               observed in patients with comorbid asthma who received
+week 56 (Fig E1).                                                                         benralizumab (20.195) that was not observed in the placebo
+   Nominal significance was obtained for improvements in the                              group (0.135). Improvements in ACQ-6 score favored
+key secondary end points of change from baseline in NPS and                               benralizumab versus placebo at week 40 (between-group
+biweekly mean NBS at week 56 (P 5 .005 and P 5 .003), DSS at                              difference, 20.330 [95% CI, 20.748 to 0.089]; P 5 .12) and
+weeks 40 and 56 (P 5 .003 and P 5 .002), and SNOT-22 total                                week 56 (20.331 [95% CI, 20.795 to 0.133]; P 5 .16). The
+score at week 56 (P 5 .02) (Table II; see Figs E2 and E3 in the                           annualized exacerbation rate was 47% lower with benralizumab
+Online Repository available at www.jacionline.org). Change in                             than placebo (0.06 and 0.12 events per year, respectively; rate
+the ability to identify odors, as measured by UPSIT, was not                              ratio, 0.53 [95% CI, 0.17 to 1.63]).
+appreciably different between treatment groups at weeks 40 or 56.
+   In the subset of patients who underwent sinus evaluation by CT,
+reduction in LMS at end of treatment/discontinuation was                                  Safety and tolerability
+numerically greater with benralizumab (20.993) versus placebo                                During the main study period, 77.3% and 78.8% of patients in
+(20.138), but the difference between groups did not achieve                               the benralizumab and placebo groups, respectively, experienced
+nominal significance. Improvement from baseline in aeration of                            >1 AE (Table III). AEs were predominantly mild to moderate in
+                                                                                          _
+nasal sinuses, as assessed by sinus severity score, similarly                             intensity. The most commonly reported AEs were
+favored benralizumab versus placebo (between-group difference,                            nasopharyngitis, asthma, headache, and viral upper respiratory
+25.057 [95% CI, 211.129 to 1.015]; P 5 .10).                                              tract infection, none of which occurred more frequently in the
+   Results of sensitivity analyses for NPS, NBS, SNOT-22, and                             benralizumab group compared with placebo. Serious AEs
+DSS were broadly consistent with primary analyses across                                  occurred at a similar frequency between treatment groups. Only
+multiple imputation methods (see Fig E4 in the Online Repository                          2 serious AEs occurred in more than 1 patient: pericarditis and
+available at www.jacionline.org). Although the shape of the                               gastritis were reported for 2 patients each in the benralizumab
+curves over time was affected by the analysis method, the                                 group; no events were considered related to the study treatment
+magnitude of difference between benralizumab and placebo and                              by the investigator.
+the qualitative conclusions from the different estimand                                      Injection site reactions were transient, mild to moderate in
+approaches were consistent.                                                               intensity, and occurred at a low rate in both treatment groups
+J ALLERGY CLIN IMMUNOL                                                                                                              BACHERT ET AL 1315
+VOLUME 149, NUMBER 4
+
+
+
+
+                     FIG 4. Between-group differences in NPS and NBS improvement at week 40 by subgroup. Data are point
+                     estimates and 95% CIs. Number of patients shown as benralizumab versus placebo. Quartiles of baseline
+                     IgE (IU/mL): Q1, _<38.7; Q2, >38.7 to _<93.4; Q3, >93.4 to _ <294.1; Q4, >294.1. Quartiles of blood eosinophil
+                     counts (cells/mL): Q1, _
+                                            <260; Q2, >260 to _                 <560; Q4, >560. P values for tests of interaction were
+                                                              <385; Q3, >385 to _
+                     <.05 for number of NP surgeries and comorbid asthma (NPS), <.1 for sex (NPS and NBS), and <.2 for BMI _       <30
+                     versus >30 kg/m2 (NPS), eosinophil quartiles (NPS), comorbid asthma (NBS), and IgE quartiles (NBS). AERD,
+                     Aspirin-exacerbated respiratory disease.
+
+
+
+
+(benralizumab, 1.9%; placebo, 2.0%). The prevalence of                         DISCUSSION
+neutralizing antibodies was 10.0% in the benralizumab group                       Persistent symptoms despite standard-of-care therapy3 and
+and were not associated with AEs. No placebo patients were                     high rates of postsurgical recurrence5,6 underscore the need for
+neutralizing antibody positive. Additional information is pro-                 additional treatment options for patients with CRSwNP. In the
+vided in the Online Repository available at www.jacionline.org.                OSTRO study, which enrolled a nonhomogeneous population of
+  As expected on the basis of the mechanism of action of                       patients with severe, uncontrolled CRSwNP, addition of
+benralizumab, blood eosinophils were nearly completely                         benralizumab to standard-of-care treatment reduced NPS as
+depleted and basophil counts were reduced in the benralizumab                  well as the severity of patient-reported nasal blockage compared
+group. No other clinically meaningful changes in laboratory                    with placebo. Improvements with benralizumab at the primary
+parameters or vital signs were observed.                                       assessment time point (week 40) were maintained through the
+                                                                               end of treatment (week 56). Among the key secondary end points,
+                                                                               data were suggestive of positive benralizumab treatment effects
+Extended follow-up population                                                  on patient-reported DSS. Benralizumab was well tolerated, with
+   For the subset of 185 patients who entered the extended                     a safety profile consistent with clinical data for the approved
+follow-up period (up to 32 weeks after last dose administration),              indication of severe asthma.
+there was no clear loss of efficacy in patient-reported outcome                   Benralizumab exerts its therapeutic effects primarily via
+measures (NBS, SNOT-22, DSS) for benralizumab compared                         eosinophil depletion; it also causes basophil depletion and
+with placebo from week 56 through week 80. Mean NPS in                         blockade of IL-5 signaling.19 In patients with CRSwNP, tissue
+patients who had formerly received benralizumab increased                      eosinophilia is associated with greater disease severity, impaired
+slowly from week 56 (20.49 [SD, 1.74]) to week 80 (20.17                       sense of smell, refractory disease, and poor outcomes, including
+[SD, 1.71]), indicating loss of efficacy after treatment discontin-            NP recurrence and use of SCS after surgery for NP.12-15
+uation. Notably, fewer patients had evaluable NPS at week 80                   Peripheral eosinophil counts are also linked to outcomes in
+(n 5 148) compared to week 56 (n 5 181) due to COVID-19 dis-                   CRSwNP, with higher counts predicting increased risk for
+ruptions. Blood eosinophil counts approached baseline levels at                refractory and recurrent disease.14 However, the precise etiologic
+week 80. No new safety concerns arose during the extended                      role for and degree of involvement of eosinophils in CRSwNP
+follow-up period.                                                              remains to be determined. The value of targeting eosinophils
+1316 BACHERT ET AL                                                                                                          J ALLERGY CLIN IMMUNOL
+                                                                                                                                          APRIL 2022
+
+
+
+
+TABLE III. Safety summary, safety analysis set                                CRSwNP,11,30 the identification of BMI as a potential modifier
+                                                  Benralizumab                of phenotype in CRSwNP is a new concept. Because obesity
+                                                     30 mg        Placebo     can modulate systemic inflammation and is associated with a
+                                                   (n 5 207),    (n 5 203),   more severe asthma phenotype,31,32 the influence of BMI on
+Characteristic                                       no. (%)       no. (%)
+                                                                              treatment response in CRSwNP is an intriguing area for further
+Patients with _
+              >1 AE                                 160 (77.3)   160 (78.8)   study.
+Serious AEs                                          23 (11.1)    17 (8.4)       A greater benralizumab treatment response in patients with
+AEs with an outcome of death                            0            0        comorbid asthma or higher baseline blood eosinophil counts is
+Treatment discontinuation due to an AE                8 (3.9)      6 (3.0)    consistent with the mechanism of benralizumab (eosinophil
+AE severity
+                                                                              depletion) and the associations of these factors with an
+  Mild                                               64 (30.9)    69 (34.0)
+                                                                              eosinophilic CRSwNP endotype. Peripheral eosinophil count is
+  Moderate                                           70 (33.8)    75 (36.9)
+  Severe                                             26 (12.6)    16 (7.9)    associated with tissue eosinophilia in CRSwNP and has been
+Common AEs*                                                                   proposed as a surrogate marker thereof.33 Reductions in NPS with
+  Nasopharyngitis                                    36 (17.4)    41 (20.2)   benralizumab have previously been linked to baseline blood
+  Asthma                                             19 (9.2)     29 (14.3)   eosinophil count in patients with CRSwNP,23,34 and eosinophils
+  Headache                                            7 (3.4)     15 (7.4)    in sinonasal mucosa and peripheral blood are elevated to a greater
+  Viral upper respiratory tract infection             5 (2.4)     14 (6.9)    degree in patients with CRS and asthma than in patients with CRS
+                                                                              alone.35-37 In OSTRO, patients with comorbid asthma had higher
+*Reported by _
+             >5% of patients in either treatment group.
+                                                                              mean baseline blood eosinophil counts than patients without the
+                                                                              disease (Table E1). Preliminary evidence suggests that treatment
+was challenged in 2019 by a small study in which treatment with               response may be enhanced in patients with both comorbid asthma
+dexpramipexole, whose depletive effects on eosinophil counts                  and elevated eosinophils; in a case series of patients with severe
+vary by patient, did not result in NP size reduction.28 Interpreta-           asthma and comorbid CRSwNP, benralizumab reduced NPS to
+tion of these results, however, is limited by the lack of a placebo           a greater extent in patients with higher versus lower baseline
+control group, the small sample size, and the proportion of pa-               eosinophil counts.20 Given the frequent occurrence of asthma
+tients who had a limited eosinophil response. In contrast, in the             and CRSwNP,30 determining whether asthma influences
+placebo-controlled, phase 3 study of mepolizumab, whose mech-                 treatment response has considerable clinical relevance.
+anism also involves targeting eosinophils, total endoscopic NPS                  There are limitations that influence the interpretation of results
+was significantly reduced from baseline in patients who received              from this study. First, there was a high degree of SCS use in both
+mepolizumab versus placebo, thus supporting an eosinophil-                    treatment groups, with greater utilization in the placebo group.
+targeted strategy for CRSwNP.29                                               Consistent with patient management recommendations,38 SCS
+   Results from OSTRO suggest that CRSwNP is a heterogeneous                  use was permitted as rescue therapy at the investigator’s discre-
+disease that includes subsets of patients for whom eosinophils                tion. For the primary and several key secondary end points, data
+may be a more significant contributor to disease pathogenesis as              were set to missing from the point of SCS use for NP, with the
+well as patients for whom other inflammatory mediators or                     worst value observed between baseline and time of SCS use re-
+alternative pathways are driving the formation and persistence of             placing the missing value and carried forward through the
+NPs. This finding highlights the incomplete understanding of the              remainder of the study. This approach is conservative, as its effect
+role of eosinophils in the pathogenesis of CRSwNP and reveals an              on downstream efficacy results may outlast any effect that would
+avenue for future research. The OSTRO population had an                       result from short-term SCS treatment for patients who infre-
+a priori high likelihood of eosinophil-driven etiology by virtue              quently require SCS therapy. Second, decreases in NPS were
+of the requirement for prior surgery for NP and/or use of                     observed in the placebo group during the early weeks of the study.
+SCS.11,30 Among enrolled patients, there was also a considerable              It is likely that improvement in the placebo group was related to
+proportion with comorbid asthma (67.8%) and the mean baseline                 uniformity of and compliance with the background INCS
+blood eosinophil count was high (;450 cells/mL)—additional                    regimen. As the study progressed and more patients in the placebo
+clinical factors associated with eosinophilic CRSwNP. Within                  group received SCS or underwent surgery and were, therefore,
+this cohort of patients, subgroup analyses trended toward greater             subject to imputation with the worst observation carried forward
+NPS and NBS treatment effects in patients with factors such as                or worst possible value, NPS in the placebo group reverted to
+comorbid asthma, a history of 2 prior NP surgeries, female sex,               baseline. Last, although the predefined subgroup findings present
+lower BMI, and higher baseline blood eosinophil count. From                   intriguing avenues for further exploration, the study was not de-
+among these parameters, greater treatment response in women                   signed or powered to detect differences in treatment effects within
+may be explained by the greater prevalence of women in the                    subgroups.
+comorbid asthma subgroup relative to the overall study                           In conclusion, this study supports the hypothesis that adding
+population. Notably, although treatment response was greater in               benralizumab to standard-of-care therapy to primarily target
+patients with a history of 2 prior NP surgeries compared to those             eosinophils, and to a lesser extent basophils and IL-5 signaling,
+who had 1 or no prior NP surgeries, the trend toward increasing               is beneficial in CRSwNP. Benralizumab significantly reduced
+treatment response with number of prior surgeries did not                     NPS and nasal blockage compared with placebo. Enhanced
+continue for patients with more than 2 prior surgeries. Moreover,             treatment effects in subgroups including patients with comorbid
+when categorized as a binary measure (presence vs absence of NP               asthma and/or higher baseline blood eosinophil counts highlight
+surgery history), no statistically significant difference in                  the varying degree to which eosinophils are associated with
+treatment effect was observed. Whereas factors such as comorbid               ongoing disease manifestations in CRSwNP, even among patients
+asthma and prior surgery are recognized as influential in                     with features traditionally associated with eosinophilic disease.
+J ALLERGY CLIN IMMUNOL                                                                                                                              BACHERT ET AL 1317
+VOLUME 149, NUMBER 4
+
+
+
+
+This finding warrants further study. Moreover, exploration of                               17. Fasenra (benralizumab) [prescribing information]. Wilmington (Del): AstraZeneca
+parameters that influence treatment response will assist in                                     Pharmaceuticals LP; 2021.
+                                                                                            18. Kolbeck R, Kozhich A, Koike M, Peng L, Andersson CK, Damschroder MM, et al.
+identifying patients who may derive the greatest clinical benefit                               MEDI-563, a humanized anti–IL-5 receptor alpha mAb with enhanced
+from benralizumab.                                                                              antibody-dependent cell-mediated cytotoxicity function. J Allergy Clin Immunol
+                                                                                                2010;125:1344-53.e2.
+                                                                                            19. Pham TH, Damera G, Newbold P, Ranade K. Reductions in eosinophil biomarkers
+  We thank the investigators, research staff, and patients who participated in                  by benralizumab in patients with asthma. Respir Med 2016;111:21-9.
+the OSTRO study as well as those who contributed to the conduct of the study                20. Chitguppi C, Patel P, Gandler A, Murphy K, Khoury Md T, Monostra P, et al.
+and analysis, including Anna Wiktorko-Sarkan, Jorge Ferreira, Lars Haug                         Effect of benralizumab in patients with severe eosinophilic asthma and chronic
+Nordenmark, Sean O’Quinn, Joseph Neubauer, Thomas White, and Dougan                             rhinosinusitis with nasal polyps: a case series. Am J Rhinol Allergy 2020:
+McKellar of AstraZeneca. Writing and editing support, including preparation                     1945892420978351.
+of the draft report under the direction and guidance of the authors,                        21. Lombardo N, Pelaia C, Ciriolo M, Della Corte M, Piazzetta G, Lobello N, et al.
+incorporating author feedback, and manuscript submission, was provided by                       Real-life effects of benralizumab on allergic chronic rhinosinusitis and nasal
+Crystal Murcia, PhD (CiTRUS Healthcare Communications Group). This                              polyposis associated with severe asthma. Int J Immunopathol Pharmacol 2020;
+                                                                                                34:2058738420950851.
+support was funded by AstraZeneca (Gaithersburg, Md).
+                                                                                            22. Harrison TW, Chanez P, Menzella F, Canonica GW, Louis R, Cosio BG, et al.
+                                                                                                Onset of effect and impact on health-related quality of life, exacerbation rate,
+Clinical implications: In patients with CRSwNP, benralizumab                                    lung function, and nasal polyposis symptoms for patients with severe eosinophilic
+offers a potential adjunct to standard-of-care therapy to reduce                                asthma treated with benralizumab (ANDHI): a randomised, controlled, phase 3b
+                                                                                                trial. Lancet Respir Med 2021;9:260-74.
+NPS and improve symptoms, including nasal blockage and                                      23. Tversky J, Lane AP, Azar A. Benralizumab effect on severe chronic rhinosinusitis
+impaired sense of smell.                                                                        with nasal polyps (CRSwNP): a randomized double-blind placebo-controlled trial.
+                                                                                                Clin Exp Allergy 2021;51:836-44.
+REFERENCES                                                                                  24. Hopkins C, Gillett S, Slack R, Lund VJ, Browne JP. Psychometric validity of the
+ 1. Stevens WW, Schleimer RP, Kern RC. Chronic rhinosinusitis with nasal polyps.                22-item Sinonasal Outcome Test. Clin Otolaryngol 2009;34:447-54.
+    J Allergy Clin Immunol Pract 2016;4:565-72.                                             25. Hopkins C, Browne JP, Slack R, Lund V, Brown P. The Lund-Mackay staging
+ 2. Schleimer RP. Immunopathogenesis of chronic rhinosinusitis and nasal polyposis.             system for chronic rhinosinusitis: how is it used and what does it predict?
+    Annu Rev Pathol 2017;12:331-57.                                                             Otolaryngol Head Neck Surg 2007;137:555-61.
+ 3. Chen S, Zhou A, Emmanuel B, Thomas K, Guiang H. Systematic literature review            26. Doty RL, Shaman P, Dann M. Development of the University of Pennsylvania
+    of the epidemiology and clinical burden of chronic rhinosinusitis with nasal                Smell Identification Test: a standardized microencapsulated test of olfactory
+    polyposis. Curr Med Res Opin 2020;36:1897-911.                                              function. Physiol Behav 1984;32:489-502.
+ 4. Orlandi RR, Kingdom TT, Smith TL, Bleier B, DeConde A, Luong AU, et al.                 27. Juniper EF, Svensson K, Mork AC, Stahl E. Measurement properties and
+    International consensus statement on allergy and rhinology: rhinosinusitis 2021.            interpretation of three shortened versions of the Asthma Control Questionnaire.
+    Int Forum Allergy Rhinol 2021;11:213-739.                                                   Respir Med 2005;99:553-8.
+ 5. van der Veen J, Seys SF, Timmermans M, Levie P, Jorissen M, Fokkens WJ, et al.          28. Laidlaw TM, Prussin C, Panettieri RA, Lee S, Ferguson BJ, Adappa ND, et al.
+    Real-life study showing uncontrolled rhinosinusitis after sinus surgery in a tertiary       Dexpramipexole depletes blood and tissue eosinophils in nasal polyps with no
+    referral centre. Allergy 2017;72:282-90.                                                    change in polyp size. Laryngoscope 2019;129:E61-6.
+ 6. Calus L, Van Bruaene N, Bosteels C, Dejonckheere S, Van Zele T, Holtappels G,           29. Han JK, Bachert C, Fokkens W, Desrosiers M, Wagenmann M, Lee SE, et al.
+    et al. Twelve-year follow-up study after endoscopic sinus surgery in patients with          Mepolizumab for chronic rhinosinusitis with nasal polyps (SYNAPSE):
+    chronic rhinosinusitis with nasal polyposis. Clin Transl Allergy 2019;9:30.                 a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Respir
+ 7. Bachert C, Marple B, Schlosser RJ, Hopkins C, Schleimer RP, Lambrecht BN,                   Med 2021;9:1141-53.
+    et al. Adult chronic rhinosinusitis. Nat Rev Dis Primers 2020;6:86.                     30. Bachert C, Han JK, Wagenmann M, Hosemann W, Lee SE, Backer V, et al.
+ 8. Wang X, Zhang N, Bo M, Holtappels G, Zheng M, Lou H, et al. Diversity of                    EUFOREA expert board meeting on uncontrolled severe chronic rhinosinusitis
+    TH cytokine profiles in patients with chronic rhinosinusitis: a multicenter study           with nasal polyps (CRSwNP) and biologics: definitions and management.
+    in Europe, Asia, and Oceania. J Allergy Clin Immunol 2016;138:1344-53.                      J Allergy Clin Immunol 2021;147:29-36.
+ 9. Stevens WW, Peters AT, Tan BK, Klingler AI, Poposki JA, Hulse KE, et al.                31. Sutherland ER, Goleva E, King TS, Lehman E, Stevens AD, Jackson LP, et al.
+    Associations between inflammatory endotypes and clinical presentations in chronic           Cluster analysis of obesity and asthma phenotypes. PLoS One 2012;7:e36631.
+    rhinosinusitis. J Allergy Clin Immunol Pract 2019;7:2812-20.e3.                         32. Barros R, Moreira P, Padrao P, Teixeira VH, Carvalho P, Delgado L, et al. Obesity
+10. Baba S, Kagoya R, Kondo K, Suzukawa M, Ohta K, Yamasoba T. T-cell                           increases the prevalence and the incidence of asthma and worsens asthma severity.
+    phenotypes in chronic rhinosinusitis with nasal polyps in Japanese patients. Allergy        Clin Nutr 2017;36:1068-74.
+    Asthma Clin Immunol 2015;11:33.                                                         33. Zuo K, Guo J, Chen F, Xu R, Xu G, Shi J, et al. Clinical characteristics and
+11. Bachert C, Marple B, Hosemann W, Cavaliere C, Wen W, Zhang N. Endotypes of                  surrogate markers of eosinophilic chronic rhinosinusitis in Southern China. Eur
+    chronic rhinosinusitis with nasal polyps: pathology and possible therapeutic                Arch Otorhinolaryngol 2014;271:2461-8.
+    implications. J Allergy Clin Immunol Pract 2020;8:1514-9.                               34. Takabayashi T, Asaka D, Okamoto Y, Himi T, Haruna S, Yoshida N, et al. A phase
+12. Kountakis SE, Arango P, Bradley D, Wade ZK, Borish L. Molecular and cellular                II, multicenter, randomized, placebo-controlled study of benralizumab, a human-
+    staging for the severity of chronic rhinosinusitis. Laryngoscope 2004;114:                  ized anti–IL-5R alpha monoclonal antibody, in patients with eosinophilic chronic
+    1895-905.                                                                                   rhinosinusitis. Am J Rhinol Allergy 2021:19458924211009428.
+13. Vlaminck S, Vauterin T, Hellings PW, Jorissen M, Acke F, Van Cauwenberge P,             35. Radabaugh JP, Han JK, Moebus RG, Somers E, Lam K. Analysis of
+    et al. The importance of local eosinophilia in the surgical outcome of chronic              histopathological endotyping for chronic rhinosinusitis phenotypes based on
+    rhinosinusitis: a 3-year prospective observational study. Am J Rhinol Allergy               comorbid asthma and allergic rhinitis. Am J Rhinol Allergy 2019;33:507-12.
+    2014;28:260-4.                                                                          36. Wang M, Bu X, Luan G, Lin L, Wang Y, Jin J, et al. Distinct type 2-high
+14. Tokunaga T, Sakashita M, Haruna T, Asaka D, Takeno S, Ikeda H, et al. Novel                 inflammation associated molecular signatures of chronic rhinosinusitis with nasal
+    scoring system and algorithm for classifying chronic rhinosinusitis: the JESREC             polyps with comorbid asthma. Clin Transl Allergy 2020;10:26.
+    study. Allergy 2015;70:995-1003.                                                        37. Staikuniene J, Vaitkus S, Japertiene LM, Ryskiene S. Association of chronic
+15. Tajudeen BA, Ganti A, Kuhar HN, Mahdavinia M, Heilingoetter A, Gattuso P, et al.            rhinosinusitis with nasal polyps and asthma: clinical and radiological features,
+    The presence of eosinophil aggregates correlates with increased postoperative               allergy and inflammation markers. Medicina (Kaunas) 2008;44:257-65.
+    prednisone requirement. Laryngoscope 2019;129:794-9.                                    38. Fokkens WJ, Lund VJ, Hopkins C, Hellings PW, Kern R, Reitsma S, et al.
+16. Cardell LO, Stjarne P, Jonstam K, Bachert C. Endotypes of chronic rhinosinusitis:           European position paper on rhinosinusitis and nasal polyps 2020. Rhinology
+    impact on management. J Allergy Clin Immunol 2020;145:752-6.                                2020;58(suppl S29):1-464.
+1317.e1 BACHERT ET AL                                                                                                                    J ALLERGY CLIN IMMUNOL
+                                                                                                                                                       APRIL 2022
+
+
+
+
+METHODS                                                                                   from the first dose of investigational product until 16 weeks after their
+                                                                                          last dose. Men with a partner (or partners) who was not of
+Inclusion criteria
+                                                                                          childbearing potential were exempt of these requirements.
+   Patients were eligible to be included in the study only if all of the following
+inclusion criteria were met:
+   1. Capable of giving signed informed consent, which included
+      compliance with the requirements and restrictions, listed in the               Exclusion criteria
+      informed consent form (ICF) and in the clinical study protocol.
+   2. Provision of signed and dated, written ICF before any mandatory                  1. Patients who underwent any nasal and/or sinus surgery within 3
+      study specific procedures, sampling, and analyses and according to                  months before V1.
+      international guidelines and/or applicable European Union guidelines.            2. Patients with conditions or concomitant disease that made them
+   3. Provision of signed and dated written genetic informed consent in                   nonevaluable for the coprimary efficacy end point, such as:
+                                                                                             d Unilateral antrochoanal polyps.
+      patients that agreed to participate in the genetic sampling before
+                                                                                             d Nasal septal deviation that occluded at least 1 nostril.
+      collection of a sample for genetic analysis.
+                                                                                             d Acute sinusitis, nasal infection, or upper respiratory infection at
+   4. Female or male patients aged 18 to 75 years inclusive, at the time of
+      signing the ICF.                                                                          screening or in the 2 weeks before screening.
+                                                                                             d Current rhinitis medicamentosa.
+   5. Patients with bilateral sinonasal polyposis that, despite treatment with
+                                                                                             d Allergic fungal rhinosinusitis or allergic fungal sinusitis.
+      a stable dose of INCS for at least 4 weeks before visit 1 (V1), in
+                                                                                             d Nasal cavity tumors.
+      addition to a history of treatment with SCS (oral, parenteral) or prior
+      surgery for NPs, had severity consistent with a need for surgery as              3. Clinically important comorbidities that could confound interpretation
+      described by:                                                                       of clinical efficacy results including but not limited to: active upper or
+         d A minimum total NPS of 5 out of a maximum score of 8 (with a
+                                                                                          lower respiratory tract infection, cystic fibrosis, primary ciliary
+            unilateral score of at least 2 for each nostril) at V1, and                   dyskinesia, eosinophilic diseases other than asthma (eg, allergic
+            continuously maintained at V2 to meet the randomization                       bronchopulmonary aspergillosis/mycosis, eosinophilic granulomato-
+            criterion, as determined by the study Imaging Core Lab.                       sis with polyangiitis [Churg-Strauss syndrome], hypereosinophilic
+         d Ongoing symptoms for at least 12 weeks before V1.
+                                                                                          syndromes), granulomatosis with polyangiitis (Wegener granulomato-
+         d Patient-reported moderate to severe nasal blockage (score 2 or 3)
+                                                                                          sis), Young syndrome.
+            over the 2 weeks before V1 (2-week recall assessment of                    4. Any disorder including but not limited to cardiovascular, gastrointes-
+            symptoms, scores 0 [none] to 3 [severe]).                                     tinal, hepatic, renal, neurologic, musculoskeletal, infectious,
+   6. SNOT-22 total score _   >30 at enrollment (V1).                                     endocrine, metabolic, hematologic, psychiatric, or major physical
+   7. At least 8 days of evaluable daily diary data in the 14-day period                  impairment that was not stable in the opinion of the investigator or
+      before randomization (baseline biweekly mean score collected from                   AstraZeneca and could:
+                                                                                             d Affect the safety of the patient throughout the study.
+      study day 213 to study day 1).
+                                                                                             d Influence the findings of the studies or their interpretations.
+   8. At randomization, a biweekly mean NBS of _      >1.5.
+                                                                                             d Impede the patient’s ability to complete the entire duration of
+   9. SNOT-22 total score _   >30 at randomization (V3).
+  10. At least 70% compliance with INCS during the run-in period based                          study.
+      on daily diary.                                                                  5. Patients who experienced an asthma exacerbation requiring systemic
+  11. Patients with a minimum weight of 40 kg.                                            (oral and/or parenteral) corticosteroids treatment or hospitalization
+  12. Negative serum pregnancy test result at V1 and a negative urine                     (>24 hours) for treatment of asthma within 4 weeks before V1.
+      pregnancy test at randomization for female patients of childbearing              6. History of anaphylaxis to any biologic therapy or vaccine.
+      potential.                                                                       7. Known history of allergy or reaction to any component of the study
+  13. Women of childbearing potential used an effective form of birth                     drug formulation.
+      control (confirmed by the investigator), such as total sexual                    8. History of Guillain-Barre syndrome.
+      abstinence, a vasectomized sexual partner, or Implanon. Female                   9. A helminth parasitic infection diagnosed within 24 weeks before V1
+      sterilization was effected by tubal occlusion, any effective intrauterine           that had not been treated with or failed to respond to standard-of-care
+      device/intrauterine system, Depo-Provera injections, oral contracep-                therapy.
+      tive, Evra Patch, or Nuvaring. Women of childbearing potential                  10. Current malignancy, or history of malignancy, except for:
+                                                                                             d Patients who had basal cell carcinoma, localized squamous cell
+      agreed to use a highly effective method of birth control, as defined
+      above, from enrollment, throughout the study duration and for 16                          carcinoma of the skin, or carcinoma-in-situ of the cervix were
+      weeks after the last dose of investigational product.                                     eligible, provided that the patient’s disease was in remission
+  14. Women not of childbearing potential were defined as women who                             and curative therapy was completed at least 12 months
+      were either permanently sterilized (hysterectomy, bilateral                               before V1.
+                                                                                             d Patients who had other malignancies were eligible provided that
+      oophorectomy, or bilateral salpingectomy) or postmenopausal.
+      Women were considered postmenopausal if they had been                                     the patient’s disease was in remission and curative therapy was
+      amenorrheic for 12 months before the planned date of the                                  completed at least 5 years before V1.
+      randomization without alternative medical cause. The following                      Note that hormone therapy was allowed. As long as the cancer was in
+      age-specific requirements applied:                                                  remission for 5 years, the patient was eligible.
+         d Women <50 years old were considered postmenopausal if they
+                                                                                      11. Any clinically significant abnormal findings in physical exami-
+            had been amenorrheic for _      >12 months after cessation of                 nation, vital signs, hematology, clinical chemistry, or urinalysis
+            exogenous hormone treatment and if follicle-stimulating                       during screening/run-in period, which in the opinion of the
+            hormone levels were in the postmenopausal range.                              investigator put the patient at risk because of his or her
+         d Women _   >50 years old were considered postmenopausal if they                 participation in the study, or influenced the results of the
+            had been amenorrheic for _    >12 months after cessation of all               study, or the patient’s ability to complete the entire duration
+            exogenous hormone treatment.                                                  of the study.
+  15. Male subjects who were sexually active were surgically sterile at least         12. Any clinically significant cardiac disease or any electrocardiogram
+      1 year before V1 or used an adequate method of contraception                        abnormality obtained during the screening/run-in period that put the
+      (condom or condom with spermicide, depending on local regulations)                  patient at risk or interfered with study assessments.
+J ALLERGY CLIN IMMUNOL                                                                                                                 BACHERT ET AL 1317.e2
+VOLUME 149, NUMBER 4
+
+
+
+
+  13. Positive hepatitis B surface antigen, or hepatitis C virus antibody                 Because patients receiving active benralizumab treatment were expected to
+      serology (confirmed by additional testing, such as hepatitis C RNA              have lower blood eosinophil counts than patients receiving placebo, all
+      test, if indicated), or a positive medical history for hepatitis B or C.        hematology laboratory analyses were conducted by a central laboratory. For
+      (Note: Patients with history of hepatitis B vaccination without a               any measurements performed after randomization, eosinophil, basophil, and
+      history of hepatitis B were allowed to enroll.)                                 monocyte counts were redacted from any central laboratory reports sent to
+  14. History of known immunodeficiency disorder, including a positive                investigative sites. For laboratory assessments conducted for purposes not
+      HIV test.                                                                       related to the clinical trial, each investigational site designated an individual
+  15. Infection requiring systemic antibiotics within 14 days before V1.              not directly involved in patient management to receive and blind any
+  16. Use of immunosuppressive medication (including but not limited to               eosinophil, basophil, or monocyte results before the report was handed over
+      methotrexate, troleandomycin, cyclosporine, azathioprine, or any                to the site staff involved in the patient’s management.
+      experimental anti-inflammatory therapy) within 3 months before V1
+      and during the study period.
+  17. Receipt of any marketed or investigational biologic products                    Nasal polyp score
+      (monoclonal or polyclonal antibody) within 6 months or 5                           Total NPS represents the sum of the right and left nostril scores, as
+      half-lives, whichever was longer, before V1 and during the study                evaluated by nasal endoscopy. NPs were graded by polyp size, as shown in
+      period. This also applied to patients who previously participated in            Table E3.
+      clinical studies and were treated with monoclonal antibodies
+      (eg, mepolizumab, reslizumab, dupilumab, omalizumab). Note that
+      this restriction did not apply to patients who were confirmed to                Statistical analyses
+      have only received treatment with placebo.                                         The hierarchical order of analysis for key secondary end points is as
+  18. Previous receipt of benralizumab.                                               follows:
+  19. Receipt of immunoglobulin or blood products within 30 days before                 1. Change from baseline in SNOT-22 total score at week 40.
+      V1.                                                                               2. Time to the first NP surgery and/or SCS use for NP up to week 56.
+  20. Receipt of live attenuated vaccines 30 days before the date of                    3. Time to the first NP surgery up to week 56.
+      randomization.                                                                    4. Change from baseline in biweekly mean DSS score at week 40.
+  21. Receipt of any investigational drug within 30 days or 5 half-lives,               5. Change from baseline in total NPS at week 56.
+      whichever was longer, before randomization.                                       6. Change from baseline in biweekly mean NBS at week 56.
+  22. Receipt of SCS 4 weeks before V1, or a scheduled SCS treatment                    7. Change from baseline in SNOT-22 total score at week 56.
+      during the study period. Note: Sustained release steroids                         8. Change from baseline in biweekly mean DSS score at week 56.
+      (eg, triamcinolone acetonide [Kenalog]) or depot injections required              9. Change from baseline in LMS at end of treatment/discontinuation.
+      minimum 6 weeks’ washout before V1.
+  23. Receipt of leukotriene antagonist/modifiers for patients who were not
+      receiving a continuous stable dose for _  >30 days before V1.                       Analytic methods. The primary estimand was used for the primary
+  24. Concurrent enrollment in another clinical drug interventional trial.            analysis and quantified the difference in outcomes for patients randomized to
+  25. Alanine aminotransferase or aspartate aminotransferase level _        >3        the benralizumab and placebo arms at the planned time points of the study,
+      times the upper limit of normal confirmed during screening period.              regardless of the treatments that patients actually received, where rescue by
+  26. Involvement in the planning and/or conduct of the study (applied to             NP surgery and/or SCS use for NP indicated failure (see Table E4).
+      both AstraZeneca staff and/or staff at the study site or immediate              A composite strategy was used for patients who underwent NP surgery or
+      family members of such individuals).                                            received SCS for NP. Data collected after use of SCS for NP were set to
+  27. Judgment by the investigator that the patient should not participate in         missing, and the patient’s worst observed postbaseline value on or before
+      the study if the patient was unlikely to comply with study procedures,          the time of SCS use for NP was imputed from that point through week 56.
+      restrictions, and requirements.                                                 Similarly, data collected after NP surgery were set to missing, and the worst
+  28. Previous randomization in the present study.                                    possible value was imputed from that point through week 56. For patients
+  29. Planned major surgical procedures or scheduled NP surgery at the                who discontinued the study without surgery or SCS use for NP, missing
+      time of the study enrollment and randomization.                                 data were imputed using multiple imputation with all patients who did not
+  30. Initiated or was receiving maintenance therapy with an aspirin                  have surgery or receive SCS for NP.
+      desensitization regimen for the management of aspirin-exacerbated                   Coprimary end points. The primary estimand was applied to the
+      respiratory disease at the time of study enrollment or during the               coprimary end points using a hybrid method of the worst possible/worst
+      run-in period.                                                                  observation carried forward and multiple imputation followed by ANCOVA,
+  31. History of alcohol or drug abuse within 12 months before V1, based              with treatment group, baseline scores (baseline total NPS for NPS model and
+      on the investigator’s assessment.                                               baseline NBS for NBS model), region (United States vs the rest of world), and
+  32. For women only—currently pregnant (or intend to become pregnant),               baseline comorbid asthma status (yes vs no) as covariates. The estimates of the
+      breast-feeding, or lactating.                                                   treatment effects at week 40 and week 56 were based on contrasts from this
+                                                                                      ANCOVA at the respective time points. The analyses used the data collected
+                                                                                      up to the week 56 visit, regardless of whether patients continued the treatment
+                                                                                      regimen or not, except for data collected after NP surgery and/or SCS use for
+                                                                                      NP.
+Randomization                                                                             A composite strategy was used for NP surgery and SCS use for NP. If a
+   All patients were centrally assigned to randomized study treatment using an        patient had received SCS therapy for NP before week 56, the data were
+Interactive Web Response System/Interactive Voice Response System.                    censored after the time of having the first course of SCS use for NP, and the
+Randomization codes were assigned strictly sequentially in each stratum as            patient’s worst observed value was imputed in their place. For patients rescued
+patients became eligible for randomization. Clinical trial staff involved in the      by SCS use for NP whose postbaseline values were all missing, or for whom
+study, the patients, and the investigators involved in the treatment of patients or   every postbaseline value was after rescue, the baseline was used to impute. If a
+in their clinical evaluation were not aware of treatment allocation until after       patient had NP surgery before week 56, the data were censored after the time
+the study was completed. The placebo solution was visually matched with               of the first NP surgery, and the worst possible value was imputed in their place.
+benralizumab solution. Both benralizumab and placebo were provided in                 If there were sufficient evaluable NBS data before rescue in the biweekly
+accessorized prefilled syringes.                                                      period in which rescue occurred, the biweekly mean for that period was based
+1317.e3 BACHERT ET AL                                                                                                                  J ALLERGY CLIN IMMUNOL
+                                                                                                                                                     APRIL 2022
+
+
+
+
+on the data collected before rescue. Otherwise, the worst possible/worst               Subgroup analyses. To explore uniformity of the overall
+observation carried forward was imputed for that period as well. For NBS,           treatment effect, subgroup analyses were performed for NPS and NBS at
+mean biweekly values were calculated by summing daily entries at 2-week             weeks 40 and 56 using ANCOVA with patients stratified by standard
+intervals and dividing by the number of nonmissing days if at least 8 days in       baseline demographic and clinical parameters (ie, sex, age, geographic
+the interval had evaluable data. If there were fewer than 8 days with evaluable     region, BMI) and by clinical characteristics with relevance to CRSwNP
+data, then the mean biweekly value was set to missing for that interval.            disease severity, treatment response, and/or association with eosinophilic
+    Analyses included all patients with baseline and at least 1 evaluable           disease (ie, NP surgery history, prior use of SCS for NP, comorbid disease,
+postbaseline assessment, and all patients with baseline assessment who were         atopic status, baseline IgE concentration, and baseline blood eosinophil
+rescued by NP surgery and/or SCS use for NP by week 56.                             count). The category designations were as follows: sex (male vs female),
+    Key secondary end points. Change from baseline in SNOT-22                       age (<65 vs _ >65 years), geographic region (United States vs the rest of
+total score and change from baseline in DSS were analyzed using a similar           world), BMI (< _30 vs >30 kg/m2; _ <35 vs >35 kg/m2), prior NP surgery his-
+ANCOVA analysis as the coprimary end points. For DSS, mean biweekly                 tory (yes vs no), number of prior NP surgeries (0, 1, 2, >2), prior SCS use
+values were calculated by summing daily entries at 2-week intervals and             for NP (yes vs no), baseline comorbid asthma status (yes vs no), baseline
+dividing by the number of nonmissing days, if at least 8 days in the interval had   aspirin-exacerbated respiratory disease status (yes vs no), atopic status
+evaluable data. If there were fewer than 8 days with evaluable data, the mean       (positive vs negative), quartiles of baseline IgE, and quartiles of baseline
+biweekly value was set to missing for that interval.                                blood eosinophil count.
+    Change from baseline in LMS score was analyzed using a similar                     Responder analyses. Responder analyses were performed for NPS
+ANCOVA strategy, but with a different intercurrent event strategy. The              at weeks 24, 40, and 56. A responder was defined as a patient who experienced
+analyses used the data collected up to the week 56 visit, regardless of whether     a 1-point decrease from baseline in NPS score. The NPS responder analyses
+or not patients continued the study treatment, except for data collected after      used a logistic regression model with covariates of treatment group, baseline
+the NP surgery. Because there was only a single CT scan after baseline that         total NPS scores, region, and baseline comorbid asthma status. Patients with
+occurred at least 6 months after baseline, the composite (worst observation         missing data were counted as non-responders for that time point.
+carried forward) strategy used after SCS use for NP in the primary estimand
+was not as appropriate as for the main analysis. Instead, the analysis used data
+collected after SCS use for NP. A composite strategy was used for NP surgery.       Efficacy estimates
+If a patient had NP surgery before the end-of-treatment/investigational drug’s        Efficacy estimands are listed in Table E4.
+discontinuation CT scan, the data were censored after the time of the first NP
+surgery, and the worst possible value was imputed in its place.
+    Other secondary efficacy end points. The NP surgery and                         ADA data
+the SCS use for NP were summarized up to the week 56 visit for all patients             For benralizumab-treated patients, ADA prevalence was 16.9% and ADA
+and up to the end of study for those patients in the extended follow-up period.     incidence was 13.7%; ADA prevalence in placebo-treated patients was 4.9%.
+The proportions of patients who underwent NP surgery and/or received SCS            The prevalence of neutralizing antibodies was 10.0% in the benralizumab
+for NP were analyzed using the Cochran-Mantel-Haenszel test stratified by           group; no placebo patients were neutralizing antibody positive. Blood
+region (United States vs the rest of world) and baseline comorbid asthma status     eosinophil counts at baseline and week 40 by ADA subgroup are listed in
+(yes vs no). The proportion of patients without each event type through 56          Table E5.
+weeks was also estimated by treatment group using the Kaplan-Meier method.              The incidence of AEs in treatment-emergent ADA-positive patients was
+    The Cox proportional hazard model described above for the key secondary         generally similar to that of ADA-negative patients (71.4% vs 78.4%,
+efficacy variables was used to analyze time to the first SCS use for NP.            respectively). Although there was a numerically higher incidence of
+    The change from baseline in UPSIT score was analyzed using a similar            hypersensitivity AEs observed in treatment-emergent ADA-positive patients
+ANCOVA to that used for coprimary end points.                                       in the benralizumab group (7/28, 25.0%) relative to ADA-negative patients in
+    The sinus severity score and change from baseline was summarized using          the benralizumab group (11/172, 6.4%), none of the events in
+descriptive statistics. The change from baseline in sinus severity score was        treatment-emergent ADA-positive patients was considered causally related
+analyzed using a similar ANCOVA as described for the LMS score.                     to benralizumab by the investigator.
+J ALLERGY CLIN IMMUNOL                                                                                                                                                                                                                                         BACHERT ET AL 1317.e4
+VOLUME 149, NUMBER 4
+
+
+
+
+                                                                                                            0.6
+                   A                                                                                                          Benralizumab 30 mg                   Placebo
+
+
+
+
+                                                              Probablility of having NP surgery
+                                                                                                            0.5
+
+                                                                                                            0.4
+
+                                                                                                            0.3
+
+
+
+
+                                                                  and/or SCS use for NP
+                                                                                                            0.2
+
+                                                                                                                                                                                                                                                   Hazard ratio:
+                                                                                                            0.1
+                                                                                                                                                                                                                                            0.75 (95% CI: 0.55 to 1.02);
+                                                                                                                                                                                                                                                     P = .07
+                                                                                                            0.0
+                                                                                                                        0            4           8          12          16          20        24      28      32          36    40     44          48        52        56
+                                                                                                                                                                  Time to the first NP surgery and/or SCS use for NP (Weeks)
+                   At risk
+                   Benralizumab 30 mg                                                                                   207         196         185         172        166      155        152       148     147         142   139    132         128       123       122
+                   Placebo                                                                                              203         199         188         174        165      156        149       134     126         119   114    106         104       100        94
+
+
+
+                   B                                                               0.4
+                                                                                                                        Benralizumab 30 mg                   Placebo
+
+
+
+
+                     Probability of having first NP surgery
+                                                                                   0.3
+
+
+
+                                                                                   0.2
+
+
+
+                                                                                   0.1
+                                                                                                                                                                                                                                                  Hazard ratio:
+                                                                                                                                                                                                                                           0.85 (95% CI: 0.53 to 1.36);
+                                                                                                                                                                                                                                                    P = .50
+                                                                                   0.0
+                                                                                                                  0            4          8           12          16          20         24         28      32           36    40     44          48         52        56
+
+                   At risk                                                                                                                                              Time to the first surgery NP surgery (Weeks)
+                   Benralizumab 30 mg                                                                             207         205         203         200         198         192        186        182     180      174       171    164         159       156        154
+                   Placebo                                                                                        203         203         199         194         191         187        182        171     167      163       158    156         155       149        140
+
+
+                   C
+                                                                                                            0.6
+                                                                                                                              Benralizumab 30 mg                   Placebo
+
+
+
+
+                                                                    Probablility of having SCS use for NP
+                                                                                                            0.5
+
+                                                                                                            0.4
+
+                                                                                                            0.3
+
+                                                                                                            0.2
+
+                                                                                                                                                                                                                                                   Hazard ratio:
+                                                                                                            0.1
+                                                                                                                                                                                                                                            0.77 (95% CI: 0.53 to 1.10);
+                                                                                                                                                                                                                                                     P = .15
+                                                                                                            0.0
+                                                                                                                         0           4           8          12          16          20         24     28      32          36    40     44          48        52        56
+                                                                                                                                                                              Time to the first SCS use for NP (Weeks)
+                   At risk
+                   Benralizumab 30 mg                                                                                   207         197         187         176         172        161     160        157    156         154    152   148         145       139       122
+                   Placebo                                                                                              203         199         190         180         172        164     158        146    139         134    133   125         124       121        94
+
+
+                             FIG E1. Time to event analyses, Kaplan-Meier cumulative incidence curves. A, Time to first NP surgery
+                             and/or SCS use for NPs. B, Time to first NP surgery. C, Time to first SCS use for NPs.
+1317.e5 BACHERT ET AL                                                                              J ALLERGY CLIN IMMUNOL
+                                                                                                                 APRIL 2022
+
+
+
+
+                                  0
+                                                  Benralizumab 30 mg         Placebo
+
+                                  –5
+
+
+
+
+          Change from baseline
+                                 –10
+
+
+                                 –15
+                                                                                               *
+
+                                 –20
+
+
+                                 –25
+                                       0    8    16        24          32       40      48    56
+                                                           Study week
+Benralizumab                      205      200   199      198     198          193     190   190
+Placebo                           199      198   195      193          198     190     183   184
+
+FIG E2. Change from baseline in SNOT-22 total score during the main study
+period. Data are least-squares means 6 95% CIs for the full analysis set.
+SNOT-22 total score range, 0-110. *P < .05 for the comparison of
+benralizumab and placebo.
+J ALLERGY CLIN IMMUNOL                                                                                                    BACHERT ET AL 1317.e6
+VOLUME 149, NUMBER 4
+
+
+
+
+                                  0.0
+                                                           Benralizumab 30 mg            Placebo
+
+                                 –0.1
+
+
+
+
+          Change from baseline
+                                 –0.2
+
+
+                                 –0.3
+                                                                            * * * *
+                                                                                        * * * * * * * *
+                                 –0.4                                                                          * * * *
+
+                                 –0.5
+
+
+                                 –0.6
+                                        0   4    8    12   16    20   24     28   32     36   40    44   48    52   56
+                                                                       Study week
+Benralizumab                        207         200        200        196      192            191        186        179
+Placebo                             203         195        194        191         186         181        184        175
+
+FIG E3. Change from baseline in biweekly mean DSS score during the main
+study period. Data are least-squares means 6 95% CIs for the full analysis
+set. DSS range, 0-3. *P < .05 for the comparison of benralizumab and
+placebo.
+1317.e7 BACHERT ET AL                                                                                                        J ALLERGY CLIN IMMUNOL
+                                                                                                                                           APRIL 2022
+
+
+
+
+        NPS - Primary                     NPS - WP for surgery                      NPS - Effectiveness                   NPS - Treatment Policy
+
+
+
+
+        NBS - Primary                     NBS - WP for surgery                     NBS - Effectiveness                    NBS - Treatment Policy
+
+
+
+
+       SNOT - Primary                    SNOT - WP for surgery                    SNOT - Effectiveness                   SNOT - Treatment Policy
+
+
+
+
+        DSS - Primary                     DSS - WP for surgery                      DSS - Effectiveness                   DSS - Treatment Policy
+
+
+
+
+                  FIG E4. Change from baseline in total NPS, biweekly mean NBS, SNOT-22 total score, and biweekly DSS
+                  score by time point using various estimand methods. Table E4 provides descriptions of the analyses. Data
+                  are least-squares means. Baseline is defined as the last valid value on or before the date of randomization.
+                  The x-axis shows time in weeks; y-axis, change from baseline. Green lines represent benralizumab 30
+                  mg; gray lines, placebo. WP, Worst possible.
+J ALLERGY CLIN IMMUNOL                                                                                                                      BACHERT ET AL 1317.e8
+VOLUME 149, NUMBER 4
+
+
+
+
+TABLE E1. Study disruptions due to COVID-19
+                                                                                                    Benralizumab 30 mg                   Placebo                  Total
+Parameter                                                                                                (n 5 207)                      (n 5 203)               (n 5 410)
+
+Patients randomized before the pandemic, no. (%)*                                                        207 (100.0)                   203 (100.0)             410 (100.0)
+Patients ongoing during COVID-19 pandemic, no. (%)*                                                      124 (59.9)                    122 (60.1)              246 (60.0)
+Patients with _
+              >1 COVID-19 disruption/important protocol deviation, no. (%)                               130 (62.8)                    134 (66.0)              264 (64.4)
+Total duration of observed follow-up (years)                                                               263.4                          254.2                  517.6
+  Total duration of follow-up during COVID-19 pandemic (years)*                                             25.8                          24.3                    50.1
+     Follow-up relative to overall follow-up (%)                                                             9.8                           9.6                     9.7
+  Total duration of observed COVID-19 disruptions (years)                                                    9.1                           8.9                    18.0
+     Observed disruption relative to overall follow-up (%)                                                   3.5                           3.5                     3.5
+Study week of first observed disruption, no. (%)                                                          99 (47.8)                     95 (46.8)              194 (47.3)
+  Weeks 0 to 40                                                                                               0                          1 (0.5)                 1 (0.2)
+  Weeks 41 to 56                                                                                          28 (13.5)                     30 (14.8)               58 (14.1)
+  Weeks 57 to 80                                                                                          71 (34.3)                     64 (31.5)              135 (32.9)
+Patients missing _>1 dose of study drug due to COVID-19, no. (%)                                           7 (3.4)                      12 (5.9)                19 (4.6)
+  Patients with 1 missed dose                                                                              7 (3.4)                      12 (5.9)                19 (4.6)
+Patients missing _>2 consecutive doses of study drug due to COVID-19, no. (%)                                 0                             0                       0
+Patients with changed scheduled study assessment due to COVID-19, no. (%)                                 99 (47.8)                     95 (46.8)              194 (47.3)
+  Patients who missed _  >1 study visit                                                                    3 (1.4)                       3 (1.5)                 6 (1.5)
+  Changed format of _   >1 scheduled visit                                                                98 (47.3)                     95 (46.8)              193 (47.1)
+  On-site visit, partial                                                                                  46 (22.2)                     44 (21.7)               90 (22.0)
+  Remote visit                                                                                            52 (25.1)                     55 (27.1)              107 (26.1)
+     Phone                                                                                                51 (24.6)                     53 (26.1)              104 (25.4)
+     Video                                                                                                 1 (0.5)                       3 (1.5)                 4 (1.0)
+  Other                                                                                                    1 (0.5)                       1 (0.5)                 2 (0.5)
+  Scheduled visits missed or changed, no. (%)
+     1 visit                                                                                              75 (36.2)                     66 (32.5)              141 (34.4)
+     2 visits                                                                                             20 (9.7)                      27 (13.3)               47 (11.5)
+     3 visits                                                                                              4 (1.9)                       2 (1.0)                 6 (1.5)
+Patients with any COVID-19 disruption to other medications, no. (%)                                        3 (1.4)                       2 (1.0)                 5 (1.2)
+  Rescue                                                                                                      0                             0                       0
+  Maintenance medications for disease under study                                                          3 (1.4)                       2 (1.0)                 5 (1.2)
+  SCS                                                                                                         0                             0                       0
+  Other                                                                                                       0                             0                       0
+*Any date before March 11, 2020, was considered before the pandemic. Any date on or after this time was considered during the pandemic.
+ Total durations of observed disruptions were calculated on the basis of visit dates where any COVID-19 disruption was observed. The end date of a disruption was the next
+available visit where no disruption was observed or a patient’s final study visit, whichever was earlier.
+1317.e9 BACHERT ET AL                                                                                                                              J ALLERGY CLIN IMMUNOL
+                                                                                                                                                                 APRIL 2022
+
+
+
+
+TABLE E2. Demographics and baseline characteristics, comorbid asthma set
+                                                                         Patients with comorbid asthma                           Patients without comorbid asthma
+                                                                  Benralizumab 30 mg                  Placebo                Benralizumab 30 mg                  Placebo
+Parameter                                                             (n 5 142)*                     (n 5 136)*                   (n 5 65)y                     (n 5 67)y
+
+Age (years), mean 6 SD                                                 51.1 6 12.4                   50.2 6 14.0                  47.8 6 12.2                  50.4 6 13.9
+Male sex, no. (%)                                                       84 (59.2)                     70 (51.5)                   58 (89.2)                   51 (76.1)
+Race, no. (%)
+  White                                                                136 (95.8)                   127 (93.4)                    61 (93.8)                   63 (94.0)
+  Black                                                                  2 (1.4)                      4 (2.9)                      2 (3.1)                     4 (6.0)
+  Asian                                                                  2 (1.4)                      1 (0.7)                      1 (1.5)                          0
+  Other                                                                  2 (1.4)                      4 (2.9)                      1 (1.5)                          0
+BMI (kg/m2), mean 6 SD                                                  27.3 6 5.3                   28.3 6 5.8                    27.3 6 4.8                  28.9 6 7.4
+BMI category, no. (%)
+  Normal (<_25 kg/m2)                                                   55 (38.7)                    41 (30.1)                    18 (27.7)                   18 (26.9)
+  Overweight (>25 to _ <30 kg/m2)                                       54 (38.0)                    48 (35.3)                    33 (50.8)                   29 (43.3)
+  Obese (>30 to _<35 kg/m2)                                             23 (16.2)                    33 (24.3)                     6 (9.2)                    12 (17.9)
+  Morbidly obese (>35 kg/m2)                                            10 (7.0)                     14 (10.3)                     8 (12.3)                    8 (11.9)
+Anosmia, no. (%)à                                                      109 (86.5)                   110 (89.4)                    38 (73.1)                   42 (73.7)
+AERD, no. (%)                                                           60 (42.3)                    53 (39.0)                     2 (3.1)                     6 (9.0)
+Prior NP surgery, no. (%)                                              112 (78.9)                   110 (89.4)                    39 (60.0)                   39 (58.2)
+  No. of surgeries, median (range)                                       2 (1, 40)                    2 (1, 15)                    2 (1, 10)                   2 (1, 5)
+  Years since surgery, mean 6 SD                                       7.46 6 6.72                  7.11 6 5.47                   5.42 6 5.38                  6.50 6 5.48
+History of SCS use for NP, no. (%)                                     109 (76.8)                    93 (68.4)                    52 (80.0)                   53 (79.1)
+  No. of courses in past 12 months, median (range)                       1 (0, 10)                    1 (0, 7)                     1 (0, 3)                    1 (0, 6)
+Baseline IgE (IU/mL), mean 6 SD                                         249 6 399                    243 6 530                     137 6 136                   270 6 591
+Baseline blood eosinophil count (cells/mL)
+  Mean 6 SD                                                           495.4 6 406.2                465.6 6 251.0                343.8 6 217.2                 405.7 6 229.4
+  Median (range)                                                     415.0 (60, 3670)             420.0 (80, 1710)              280 (40, 1110)               360 (110, 1300)
+Atopic by Phadiatop, no. (%)                                            78 (56.9)                    75 (56.4)                   33 (53.2)                    27 (45.0)
+Region, no. (%)
+  United States                                                         27 (19.0)                    27 (19.9)                    12 (18.5)                   12 (17.9)
+  Rest of world                                                        115 (81.0)                   109 (80.1)                    53 (81.5)                   55 (82.1)
+AERD, Aspirin-exacerbated respiratory disease.
+*Baseline data were available in the benralizumab and placebo groups for, respectively, 126 and 123 patients (anosmia), 141 and 136 patients (IgE), 142 and 135 patients
+(eosinophil count), and 137 and 133 patients (atopic status).
+ Baseline data were available in the benralizumab and placebo groups for, respectively, 52 and 57 patients (anosmia), 63 and 65 patients (IgE), 64 and 67 patients (eosinophil
+count), and 62 and 60 patients (atopic status).
+àAnosmia was defined as an UPSIT score of _    <18.
+J ALLERGY CLIN IMMUNOL                                                                                                         BACHERT ET AL 1317.e10
+VOLUME 149, NUMBER 4
+
+
+
+
+TABLE E3. Grading of nasal polyps
+Polyp score                    Polyp size
+
+0                              No polyps.
+1                              Small polyps in the middle meatus not reaching below the inferior border of the middle turbinate.
+2                              Polyps reaching below the lower border of the middle turbinate.
+3                              Large polyps reaching the lower border of the inferior turbinate or large polyps of score 2 with additional large polyps medial
+                                 to the middle turbinate.
+4                              Large polyps causing complete or near-complete obstruction of the inferior nasal cavity (ie, touching the floor of the nose).
+
+NPS total scores range from 0 to 8.
+                                                                                                                                                                                                                                                   1317.e11 BACHERT ET AL
+TABLE E4. Efficacy estimands
+                                                                                                                                                           Intercurrent event strategy
+                                                                                                                 Primary analysis                                           Sensitivity analysis
+                                                                                                                                                Primary estimand
+                                                          Population-level                 Intercurrent               Primary                 (Alternate imputation)               Effectiveness            Treatment policy
+Analysis set                End point                        summary                          event                  estimand            NP surgery only            DRMI             estimand                   estimand
+
+FAS*               CFB in NPS, NBS,                  LSMD from CFB                      NP surgery               Worst                   Worst                   Worst             MMRM                 MMRM without
+                     SNOT-22, DSS                      ANCOVA after                                               possible                possible                possible          excluding            imputation where
+                                                       hybrid WP/WOCF,                                                                                                              data after           all data as observed
+                                                       MI. Week 40 is the                                                                                                           intercurrent         through week 56 are
+                                                       primary time point                                                                                                           event                included regardless
+                                                                                                                                                                                                         of intercurrent event
+                                                                                        SCS_NP                   WOCF                    Treatment               WOCF
+                                                                                                                                           policy§
+                                                                                        Treatment                Treatment               Treatment               Treatment
+                                                                                          discontinuation          policy§                 policy§                 policyk
+CT analysis        CFB in LMS                        LSMD from CFB                      NP surgery               Worst                   Worst                      NA                  NA                          NA
+  subset                                               ANCOVA after                                                possible                possible
+  of FAS                                               WP imputation.
+                                                       EOT/IPD
+                                                                                        SCS_NP                   Treatment               WOCF                        NA
+                                                                                                                   policy
+                                                                                        Treatment                Treatment               Treatment                   NA
+                                                                                          discontinuation          policy                  policy
+FASà               Time to first NP                  Hazard ratio from                  Treatment                Treatment                               NA                             NA                          NA
+                     surgery and/or                    Cox proportional                   discontinuation          policy
+                     SCS_NP                            hazards model.
+                                                       Events beyond
+                                                       week 56 were
+                                                       not included
+                   Time to first NP                                                     SCS_NP                   Treatment                               NA                             NA                          NA
+                     surgery                                                                                       policy (for
+                                                                                                                   time to
+                                                                                                                   first NP
+                                                                                                                   surgery
+                                                                                                                   only)
+
+CFB, Change from baseline; DRMI, dropout reason-based multiple imputation; EOT, end of treatment; FAS, full analysis set; IPD, investigational product discontinuation; LSMD, least-squares mean difference; MAR, missing at random;
+
+
+                                                                                                                                                                                                                                       J ALLERGY CLIN IMMUNOL
+MI, multiple imputation; MMRM, mixed-effects model for repeated measures; NA, not applicable; SCS_NP, SCS for NP; WOCF, worst observed carried forward; WP, worst possible.
+*Treatment of CRSwNP with benralizumab versus placebo, regardless of compliance; rescue indicates treatment failure.
+  Treatment of CRSwNP with benralizumab versus placebo, regardless of compliance; rescue with NP surgery indicates treatment failure.
+àTreatment of CRSwNP with benralizumab versus placebo, regardless of compliance.
+§
+ MI (MAR) for missingness after study discontinuation.
+kMI (DRMI) for missingness after study discontinuation.
+
+                                                                                                                                                                                                                                                     APRIL 2022
+J ALLERGY CLIN IMMUNOL                                                                                                 BACHERT ET AL 1317.e12
+VOLUME 149, NUMBER 4
+
+
+
+
+TABLE E5. Blood eosinophil counts at baseline and week 40 by ADA subgroup
+                          ADA positive               Treatment-emergent ADA positive             ADA negative        Neutralizing antibody positive
+Characteristic      No.            BEC                 No.                     BEC         No.           BEC         No.                BEC
+
+Benralizumab
+  Baseline           35      380 (260, 600)             28              370 (245, 595)     171      370 (240, 540)    20           430 (285, 570)
+  Week 40            32       40 (20, 160)              26               50 (20, 180)      139       30 (10, 40)      18           125 (30, 360)
+Placebo
+  Baseline           10      600 (280, 890)              4              835 (480, 1350)    192      400 (270, 550)     0                 NA
+  Week 40             8      475 (310, 685)              3              760 (590, 800)     158      340 (220, 510)     0                 NA
+Blood eosinophil count (BEC) data are presented as medians (Q1, Q3). NA, Not applicable.
+

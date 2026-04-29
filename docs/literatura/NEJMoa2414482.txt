@@ -1,0 +1,737 @@
+                                                                    T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+                                                                                 Original Article
+
+
+                                                   Tezepelumab in Adults with Severe Chronic
+                                                        Rhinosinusitis with Nasal Polyps
+                                                      B.J. Lipworth,1 J.K. Han,2 M. Desrosiers,3 C. Hopkins,4 S.E. Lee,5 J. Mullol,6
+                                                        O. Pfaar,7 T. Li,8 C. Chen,9 G. Almqvist,10 M.K. Margolis,11 J. McLaren,12
+                                                        S. Jagadeesh,13 J. MacKay,14 A. Megally,13 Å. Hellqvist,15 V.S. Mankad,8
+                                                   L. Bahadori,13 and S.S. Ponnarambil,16 for the WAYPOINT Study Investigators*​​
+
+                                                                                         A BS T R AC T
+
+                                                  BACKGROUND
+The authors’ full names, academic de-             Treatment with tezepelumab has been effective for sinonasal symptoms in patients
+grees, and affiliations are listed at the         with severe, uncontrolled asthma and a history of chronic rhinosinusitis with nasal
+end of the article. Dr. Han can be con-
+tacted at ­mdjosephhan@​­gmail​.­com or at        polyps, but its efficacy and safety in adults with severe, uncontrolled chronic rhino-
+the Department of Otolaryngology, Head            sinusitis with nasal polyps is unknown.
+and Neck Surgery, 600 Gresham Dr., Ste.
+                                                  METHODS
+1100, Eastern Virginia Medical School,
+Norfolk, VA 23507.                                We randomly assigned adults with physician-diagnosed, symptomatic, severe chron-
+*A complete list of the WAYPOINT study
+                                                  ic rhinosinusitis with nasal polyps to receive standard care and either tezepelumab
+ investigators is provided in the Supple-         (at a dose of 210 mg) or placebo subcutaneously every 4 weeks for 52 weeks. The
+ mentary Appendix, available at NEJM.org.         coprimary end points were the changes from baseline in the total nasal-polyp score
+Drs. Lipworth and Han contributed equally         (range, 0 to 4 [for each nostril]; higher scores indicate greater severity) and the mean
+to this article.                                  nasal-congestion score (range, 0 to 3; higher scores indicate greater severity) at week
+This article was published on March 1,            52. Key secondary end points assessed in the overall population were the loss-of-
+2025, and last updated on August 21, 2025,        smell score, the total score on the Sinonasal Outcome Test (SNOT-22; range, 0 to
+at NEJM.org.
+                                                  110; higher scores indicate greater severity), the Lund–Mackay score (range, 0 to 24;
+N Engl J Med 2025;392:1178-88.                    higher scores indicate greater severity), the total symptom score (range, 0 to 24;
+DOI: 10.1056/NEJMoa2414482
+Copyright © 2025 Massachusetts Medical Society.
+                                                  higher scores indicate greater severity), and the first decision to treat with nasal-
+                                                  polyp surgery or use of systemic glucocorticoid therapy, or both, assessed in time-
+                                                  to-event analyses (individual and composite).
+                                                  RESULTS
+                                                  In total, 203 patients were assigned to receive tezepelumab and 205 to receive placebo.
+                                                  At week 52, the patients who received tezepelumab had significant improvements in
+                                                  the total nasal-polyp score (mean difference vs. placebo, −2.08; 95% confidence in-
+                                                  terval [CI], −2.40 to −1.76) and the mean nasal-congestion score (−1.04; 95% CI,
+                                                  −1.21 to −0.87) (P<0.001 for both scores). Tezepelumab significantly improved the
+                                                  loss-of-smell score (mean difference vs. placebo, −1.01; 95% CI, −1.18 to −0.83),
+                                                  SNOT-22 total score (−27.44; 95% CI, −32.51 to −22.37), Lund–Mackay score (−5.70;
+                                                  95% CI, −6.37 to −5.03), and total symptom score (−6.96; 95% CI, −8.09 to −5.83)
+                                                  (P<0.001 for all scores). Surgery for nasal polyps was indicated in significantly
+                                                  fewer patients in the tezepelumab group (0.5%) than in the placebo group (22.0%)
+                                                  (hazard ratio, 0.02; 95% CI, 0.00 to 0.09); there was significantly less use of sys-
+                                                  temic glucocorticoids with tezepelumab (5.2%) than with placebo (19.3%) (hazard
+                                                  ratio, 0.11; 95% CI, 0.04 to 0.25) (P<0.001 for both time-to-event analyses).
+                                                  CONCLUSIONS
+                                                  Tezepelumab therapy led to significantly greater reductions in the size of nasal polyps,
+                                                  the severity of nasal congestion and sinonasal symptoms, and the use of nasal-polyp
+                                                  surgery and systemic glucocorticoids than placebo in adults with severe, uncon-
+                                                  trolled chronic rhinosinusitis with nasal polyps. (Funded by AstraZeneca and Amgen;
+                                                  WAYPOINT ClinicalTrials.gov number, NCT04851964.)
+
+1178                                                           n engl j med 392;12   nejm.org   March 27, 2025
+
+                        The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+                               Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+                       Tezepelumab for Rhinosinusitis with Nasal Polyps
+
+
+
+
+C
+        hronic rhinosinusitis with nasal                   NAVIGATOR trial showed that tezepelumab treat-
+        polyps is a heterogeneous inflammatory             ment resulted in clinically meaningful reductions
+        disease of the upper airway.1,2 Chronic            in sinonasal symptoms in patients with severe,
+rhinosinusitis with nasal polyps is characterized          uncontrolled asthma and a history of chronic
+by epithelial barrier dysfunction3,4 and type 2            rhinosinusitis with nasal polyps (of any severity)
+inflammatory mechanisms involving upstream                 in the 2 years before randomization.26 We con-                 A Quick Take
+epithelial cytokines, including thymic stromal             ducted the phase 3 WAYPOINT trial to assess the                is available at
+                                                                                                                          NEJM.org
+lymphopoietin (TSLP) and interleukin-33.5-8 This           efficacy and safety of tezepelumab in patients
+condition has been associated with type 1 and              with severe, uncontrolled chronic rhinosinusitis
+type 3 inflammatory signatures.5 Patients with             with nasal polyps.
+the condition have symptoms such as nasal con-
+gestion, facial pain, loss of smell, impaired sleep,                            Me thods
+and fatigue, which can affect their health-related
+quality of life.9 Despite the recalcitrant nature of       Patients
+the disease and associated high symptom burden,            Patients were eligible if they were at least 18
+the clinical and economic burden of chronic rhino­         years of age and had physician-diagnosed chron-
+sinusitis with nasal polyps remains underrecog-            ic rhino­sinusitis with nasal polyps for at least
+nized.9-11                                                 12 months before they underwent screening that
+   Treatment includes intranasal glucocorticoids,          were of a severity level that was consistent with
+which have limited effect on nasal polyp size and          a need for surgery — a total endoscopic nasal-
+symptoms.12 Patients with severe recurring chron-          polyp score of at least 5 (range, 0 to 8, with
+ic rhinosinusitis with nasal polyps may undergo            higher scores indicating greater severity), with a
+repeated sinonasal surgery or rescue treatment             minimum score of at least 2 for each nostril.
+with systemic glucocorticoid agents.9,10 Biologic          Patients were required to have ongoing docu-
+treatments have emerged as a new treatment op-             mented symptoms of chronic rhinosinusitis with
+tion for chronic rhinosinusitis with nasal polyps.1,13     nasal polyps for more than 8 weeks, a nasal-
+Currently available biologic treatments that tar-          congestion score of at least 2 (range, 0 to 3, with
+get type 2 inflammatory pathways (interleukin-5,           higher scores indicating greater severity), and a
+interleukin-4, interleukin-13, and IgE) have shown         total score on the 22-item Sinonasal Outcome
+various degrees of efficacy in patients with se-           Test (SNOT-22) of at least 30 (range, 0 to 110,
+vere disease.14-17 There remains an unmet need             with higher scores indicating greater severity) at
+for patients who have an inadequate response to            screening. Patients must have been receiving sta-
+these biologic agents.14-17                                ble standard-care treatment for at least 30 days
+   As an upstream key driver of multiple inflam-           before starting the trial and have had documented
+matory cascades,18 TSLP may represent a thera-             treatment with systemic glucocorticoids in the
+peutic target for patients with chronic rhinosi-           previous 12 months or have had previous nasal-
+nusitis with nasal polyps. Elevated levels of TSLP         polyp surgery of any type. Patients with any clini-
+have been found in nasal-polyp tissue samples              cally important coexisting conditions other than
+from patients with the condition as compared               asthma that could confound interpretation of
+with sinus-tissue samples obtained from healthy            the efficacy results were excluded. Patients who
+persons or from patients with chronic rhinosi-             had undergone sinus surgery in the 6 months
+nusitis without nasal polyps.19,20                         before starting the trial or any previous sinus
+   Tezepelumab is a human monoclonal anti-                 surgery that prevented determination of a total
+body that specifically blocks TSLP from interact-          nasal-polyp score were also excluded. The key
+ing with its heterodimeric receptor.21,22 Tezepelu­        eligibility criteria are shown in Table S1 in the
+mab administered subcutaneously at a dose of               Supplementary Appendix, available with the full
+210 mg every 4 weeks has shown efficacy and                text of this article at NEJM.org.
+safety in the treatment of severe, uncontrolled
+asthma21,23,24 and is indicated for the add-on             Trial Design
+maintenance treatment of patients 12 years of              In this phase 3, multicenter, parallel-group,
+age or older with severe asthma, with no biomark-          double-blind, randomized, controlled trial, we re-
+er or phenotypic restrictions.25 Results of a pre-         cruited patients between April 22, 2021, and
+specified exploratory analysis of the phase 3              August 23, 2023, across 112 sites in 10 countries
+
+                                  n engl j med 392;12   nejm.org   March 27, 2025                                                      1179
+        The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+               Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+                                       T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+        (Canada, China, Denmark, Germany, Hungary,                   nasal polyps causing complete or near-complete
+        Japan, Poland, Spain, the United Kingdom, and                obstruction of the inferior nasal cavity). Endo-
+        the United States). All the patients received stan-          scopic assessments were performed by central
+        dard-care treatment with intranasal glucocorti-              readers who were unaware of the trial-group
+        coid therapy (Fig. S1A). Patients were randomly              assignments. The mean nasal-congestion score
+        assigned in a 1:1 ratio to receive tezepelumab (at           (range, 0 [no congestion] to 3 [severe congestion])
+        a dose of 210 mg) or placebo subcutaneously at               was evaluated with the use of the nasal-conges-
+        week 0 and every 4 weeks thereafter, with the                tion assessment item on the patient-reported
+        final dose given at week 48. An end-of-treatment             daily Nasal Polyposis Symptom Diary (hereafter,
+        visit was conducted at week 52. Patients who                 the symptom diary). Additional details regard-
+        completed the 52-week treatment period entered               ing the symptom diary are provided in the Sup-
+        a post-treatment 12-week or 24-week follow-up                plementary Appendix. The mean nasal-conges-
+        period to assess the durability of effect and                tion score was the mean of all daily scores over
+        safety. Patients were stratified according to geo-           a period of 14 days and was calculated if at least
+        graphic region, status regarding previous nasal-             8 of the 14 daily scores were available.
+        polyp surgery, and status regarding coexisting                  The key secondary end points evaluated in the
+        asthma or nonsteroidal antiinflammatory drug                 overall trial population were the change from
+        (NSAID)–exacerbated respiratory disease. Ran-                baseline at week 52 in the mean loss-of-smell
+        domization was monitored to ensure that 50 to                score (calculated every 2 weeks from the symp-
+        70% of the trial population had coexisting asth-             tom diary entry regarding difficulty with sense
+        ma or NSAID-exacerbated respiratory disease                  of smell; see the Supplementary Appendix); the
+        (both conditions hereafter referred to as coexist-           SNOT-22 total score; the Lund–Mackay score,
+        ing asthma) and that at least 50% had a history              which evaluates sinus opacification on computed
+        of nasal-polyp surgery. Patients were allowed                tomographic scans (range, 0 to 24; higher scores
+        rescue treatment with systemic glucocorticoids               indicate greater severity); the first decision to
+        or nasal-polyp surgery for worsening chronic                 treat with nasal-polyp surgery or the use of sys-
+        rhinosinusitis with nasal polyps. Tezepelumab                temic glucocorticoids (or both) for chronic rhi-
+        treatment was permanently discontinued in                    nosinusitis with nasal polyps, assessed in time-
+        patients at the time they underwent nasal-polyp              to-event analyses (individual and composite) over
+        surgery.                                                     a 52-week period; and the total symptom score
+                                                                     (range, 0 to 24; higher scores indicate greater
+        Trial Oversight                                              severity). An additional key secondary end point
+        The trial was conducted in accordance with the               was the change from baseline at week 52 in pr-
+        Good Clinical Practice guidelines of the Interna-            ebronchodilator forced expiratory volume in 1
+        tional Council for Harmonisation, the principles             second (FEV1), which was assessed in the sub-
+        of the Declaration of Helsinki, and applicable               group of patients with coexisting asthma.
+        regulatory requirements. The trial design was                   Changes from baseline at week 52 in the
+        approved by the appropriate national and insti-              smell-test score on the University of Pennsylvania
+        tutional regulatory authorities and independent              Smell Identification Test (UPSIT) and the score
+        ethics committees. The trial protocol and statis-            on the Asthma Control Questionnaire-6 (ACQ-6)
+        tical analysis plan are available at NEJM.org. All           in patients with coexisting asthma were assessed
+        the patients provided written informed consent               as secondary end points. Safety assessments in-
+        before entering the trial.                                   cluded adverse events, serious adverse events, and
+                                                                     adverse events of special interest.
+        End Points
+        The coprimary end points were the changes from               Statistical Analysis
+        baseline in endoscopic total nasal polyp score and           We estimated that a sample size of 200 patients
+        patient-reported mean nasal-congestion score                 per trial group would give the trial a greater than
+        (calculated every 2 weeks) at week 52. The total             95% power to detect a significant difference at a
+        nasal-polyp score was the sum of the right and               two-sided 1% level for both coprimary end points
+        left nostril scores, with the score for each nostril         if the true effect of tezepelumab was −1.8 (SD,
+        ranging from 0 (no nasal polyps) to 4 (large                 2.25) for the change from baseline in total nasal-
+
+
+1180                                        n engl j med 392;12   nejm.org   March 27, 2025
+
+       The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+              Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+                       Tezepelumab for Rhinosinusitis with Nasal Polyps
+
+
+polyp score and −0.87 (SD, 1.22) for the change            tion of tezepelumab or placebo was nasal-polyp
+from baseline in mean nasal-congestion score               surgery (Table S2). The demographic and base-
+calculated every 2 weeks. This sample size pro-            line clinical characteristics of the patients were
+vided more than 80% power to detect a differ-              generally balanced between the groups; were
+ence in the time to the decision to treat with             consistent with the protocol-intended trial popu-
+nasal-polyp surgery, under the assumptions of a            lation of patients with severe, uncontrolled chron-
+true hazard ratio of 0.33 and 11% of the patients          ic rhinosinusitis with nasal polyps (Table 1); and
+in the placebo group with events, at a two-sided           were representative of the global population with
+5% significance level.                                     severe disease (Table S3). Additional baseline
+   The primary analysis was performed with the             characteristics are shown in Table S4.
+use of all data available as of September 23,
+2024, which was after the last patient had com-            Coprimary End Points
+pleted week 52 of the trial. Efficacy analyses were        The change from baseline in total nasal-polyp
+performed on data from all the patients who had            score at week 52 was significantly greater with
+received at least one dose of tezepelumab or pla-          tezepelumab than with placebo (least-squares
+cebo. The type I error for the coprimary and key           mean difference, −2.08; 95% confidence interval
+secondary end points was controlled by a multi-            [CI], −2.40 to −1.76; P<0.001). The change from
+plicity testing procedure (Fig. S1B). Both copri-          baseline in the nasal-congestion score at week 52
+mary efficacy end points were analyzed with the            was also significantly greater with tezepelumab
+use of a covariance model with the baseline value          than with placebo (least-squares mean differ-
+as a covariate and trial group, baseline coexisting        ence, −1.04; 95% CI, −1.21 to −0.87; P<0.001).
+asthma status, status regarding previous nasal-            Imputed patient data for the coprimary end
+polyp surgery, and geographic region as factors.           points are summarized in Table S5. The results
+The same model was used to analyze other con-              were consistent regardless of how the missing
+tinuous end points. Data obtained after nasal-             data were handled. Similar results were obtained
+polyp surgery were replaced with the worst pos-            with control-based imputation of missing data
+sible score. Data after treatment with systemic            on the basis of the reason for discontinuation
+glucocorticoids were replaced with the worst               (Table S6). Results indicating clinically mean-
+observation before the rescue treatment. Data              ingful improvements are supported by analyses
+after treatment discontinuation without rescue             of data from patients who had a change from
+treatment were included in the analysis. For the           baseline that exceeded the end-point threshold
+change from baseline in prebronchodilator FEV1             (Table S7). Improvements in the nasal-polyp score
+and ACQ-6 score in patients with coexisting                and nasal-congestion score in the tezepelumab
+asthma, all observed data were included in the             group were observed from the first post-treatment
+analysis. Multiple imputation was used to han-             assessment (week 4 and week 2, respectively),
+dle data that were assumed to be missing at                and were sustained through week 52 (Fig. 1 and
+random.                                                    Table 2). Treatment with tezepelumab resulted
+   The time to the first decision to treat with            in consistent improvements in nasal-polyp scores
+nasal-polyp surgery, use of systemic glucocorti-           and nasal-congestion scores as compared with
+coids, or both, was analyzed in time-to-event              placebo in all prespecified subgroups that were
+analyses (individual and composite) with the use           assessed, including in patients with a blood
+of the Cox proportional-hazards model. Kaplan–             eosinophil count of less than 150 cells per micro­
+Meier estimates and plots were generated.                  liter at baseline (Figs. S3 and S4).
+
+                                                           Key Secondary End Points
+                     R e sult s
+                                                           At week 52, significant improvements in the
+Patients                                                   loss-of-smell score (as calculated from the symp-
+Overall, 410 patients underwent randomization              tom diary) were observed with tezepelumab as
+and 408 were included in the efficacy and safety           compared with placebo (least-squares mean dif-
+end-point analyses — 203 patients who received             ference, −1.01; 95% CI, −1.18 to −0.83; P<0.001).
+tezepelumab and 205 who received placebo (Fig.             Significant improvements in the SNOT-22 total
+S2). The most common reason for discontinua-               score were also observed with tezepelumab as
+
+
+                                  n engl j med 392;12   nejm.org   March 27, 2025                                         1181
+        The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+               Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+                                        T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+          Table 1. Demographic and Clinical Characteristics of the Patients at Baseline.*
+
+                                                                               Tezepelumab         Placebo          Overall
+          Characteristic                                                         (N = 203)        (N = 205)        (N = 408)
+          Age — yr                                                              50.1±13.6         49.4±13.7        49.7±13.6
+          Male sex — no. (%)                                                    126 (62.1)       140 (68.3)       266 (65.2)
+          Time since diagnosis of CRS with nasal polyps — yr                   12.71±10.43       12.80±10.34     12.75±10.37
+          Previous nasal-polyp surgery — no. (%)                                144 (70.9)       147 (71.7)       291 (71.3)
+          Time since last nasal-polyp surgery — yr†                             7.71±6.54         7.68±6.24        7.70±6.38
+          Previous systemic glucocorticoid treatment for CRS with nasal         130 (64.0)       137 (66.8)       267 (65.4)
+                     polyps — no. (%)
+          Coexisting asthma — no. (%)‡                                          122 (60.1)       126 (61.5)       248 (60.8)
+          Coexisting NSAID-exacerbated respiratory disease — no. (%)             34 (16.7)         37 (18.0)        71 (17.4)
+          Blood eosinophil count
+              Mean — cells/μl                                                   357±229           359±248          358±238
+              Distribution — no. (%)§
+                 <150 cells/μl                                                   26 (12.8)         25 (12.2)        51 (12.5)
+                 150 to <300 cells/μl                                            63 (31.0)         72 (35.1)      135 (33.1)
+                 ≥300 cells/μl                                                  112 (55.2)       106 (51.7)       218 (53.4)
+          Total serum IgE level — IU/ml                                        171.2±259.3       181.2±308.5     176.2±284.7
+          Endoscopic nasal-polyp score¶                                          6.1±1.2           6.1±1.3          6.1±1.2
+          Nasal-congestion score‖                                               2.59±0.47         2.55±0.54        2.57±0.51
+          Loss-of-smell score‖                                                   2.9±0.4           2.8±0.4          2.9±0.4
+          SNOT-22 total score**                                                 68.2±18.4         69.2±18.4        68.7±18.4
+          Lund–Mackay score††                                                   18.9±3.7          18.5±3.9         18.7±3.8
+          NPSD total symptom score‡‡                                            16.3±4.1          16.4±4.5         16.3±4.3
+          Prebronchodilator FEV1 — liters§§                                     2.87±0.93         2.92±0.85        2.89±0.89
+          Prebronchodilator FEV1 — % of predicted normal value§§                87.2±16.7         84.4±16.1        85.8±16.4
+          UPSIT score¶¶                                                         13.1±7.3          11.9±5.9         12.5±6.6
+          ACQ-6 score§§‖‖                                                       1.85±1.23         1.80±1.10        1.82±1.16
+
+        *	Plus–minus values are means ±SD. CRS denotes chronic rhinosinusitis, FEV1 forced expiratory volume in 1 second,
+             and NSAID nonsteroidal antiinflammatory drug.
+        †	Numbers shown are for patients with any previous nasal-polyp surgery.
+        ‡	Numbers shown are patients with a history of diagnosis of asthma or NSAID-exacerbated respiratory disease. Three
+            patients with NSAID-exacerbated respiratory disease had not received a diagnosis of asthma (two in the tezepelumab
+            group and one in the placebo group).
+        §	Data are missing for four patients (two in the tezepelumab group and two in the placebo group).
+        ¶	Total scores for both nostrils range from 0 to 8, with higher scores indicating greater severity.
+        ‖	Scores (obtained from the patient-reported Nasal Polyposis Symptom Diary [NPSD]) range from 0 to 3, with higher
+            scores indicating greater severity.
+        **	Total scores on the 22-item Sinonasal Outcome Test (SNOT-22) range from 0 to 110, with higher scores indicating
+            greater severity.
+        ††	Scores on the Lund–Mackay scale are based on results of computed tomographic scans of the sinuses and range
+            from 0 to 24, with higher scores indicating greater severity.
+        ‡‡	Data for NPSD total symptom score (range, 0 to 24, with higher scores indicating greater severity) from two patients
+            were excluded owing to a critical data-quality issue.
+        §§	FEV1 was assessed in the subgroup of patients with coexisting asthma: 122 patients in the tezepelumab group and
+            126 patients in the placebo group.
+        ¶¶	Scores on the University of Pennsylvania Smell Identification Test (UPSIT) range from 0 to 40, with higher scores in-
+            dicating less severity.
+        ‖‖	Scores on the Asthma Control Questionnaire (ACQ-6) range from 0 to 6, with a score greater than or equal to 1.5
+            indicating poorly controlled asthma.
+
+
+
+
+1182                                          n engl j med 392;12   nejm.org    March 27, 2025
+
+       The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+              Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+                         Tezepelumab for Rhinosinusitis with Nasal Polyps
+
+
+compared with placebo (least-squares mean
+                                                     A Change in Total Nasal-Polyp Score
+difference, −27.44; 95% CI, −32.51 to −22.37),              1
+Lund–Mackay score (−5.70; 95% CI, −6.37 to
+
+
+
+
+                                                               Change from Baseline
+−5.03), and total symptom score (−6.96; 95% CI,             0                                                          Placebo (N=205)
+−8.09 to −5.83) (P<0.001 for all scores) (Table 2).
+In the tezepelumab group, improvements from                −1
+the first post-treatment assessment were ob-
+                                                                                                                 Tezepelumab (N=203)
+served in loss-of-smell score (week 2), SNOT-22            −2
+
+total score (week 4), and total symptom score
+                                                           −3
+(week 2) (Figs. S5, S6, and S8).                               0     4        12              24                36                      52
+    Tezepelumab therapy was associated with                                                   Weeks
+significantly less nasal-polyp surgery and use of
+systemic glucocorticoids for chronic rhinosinus- B Change in Mean Nasal-Congestion Score
+itis with nasal polyps than placebo over a 52-week          1
+period. A decision to treat with nasal-polyp sur-
+
+
+
+                                                               Change from Baseline
+gery or to use systemic glucocorticoids was                 0
+reported in significantly fewer patients in the                                                                        Placebo (N=205)
+
+tezepelumab group (5.7%) than in the placebo               −1
+group (31.4%) (hazard ratio, 0.08; 95% CI, 0.03                                                                  Tezepelumab (N=203)
+
+to 0.16; P<0.001) (Fig. S7). Surgery for nasal pol-        −2
+yps was indicated in significantly fewer patients              0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52
+
+in the tezepelumab group (0.5%) than in the                                                   Weeks
+placebo group (22.0%) (hazard ratio, 0.02; 95%
+                                                      Figure 1. Change from Baseline in Total Nasal-Polyp Score and Mean
+CI, 0.00 to 0.09), and there was significantly less   Nasal-Congestion Score.
+use of systemic glucocorticoids with tezepelumab      Panel A shows the change in the total nasal-polyp score (range, 0 to 8, with
+(5.2%) than with placebo (19.3%) (hazard ratio,       lower scores indicating less severity). Panel B shows the change in the
+0.11; 95% CI, 0.04 to 0.25) (P<0.001 for both         mean nasal-congestion score (range, 0 to 3, with lower scores indicating
+time-to-event analyses) over a 52-week period         less severity) calculated every 2 weeks. Changes are shown as least-squares
+(Fig. 2A and 2B). Among patients with coexisting      means. I bars indicate 95% confidence intervals.
+asthma, there was no apparent difference be-
+tween the tezepelumab and placebo groups in the
+change from baseline in prebronchodilator FEV1 cebo group (158 of 205 patients) (Table 3). The
+at week 52 (least-squares mean difference, −0.01 most frequently reported adverse events were
+liter; 95% CI, −0.12 to 0.11) (Table 2).            coronavirus disease 2019, nasopharyngitis, upper
+                                                    respiratory tract infection, headache, epistaxis,
+Other Secondary End Points                          and worsening of chronic rhinosinusitis with
+A greater increase in the UPSIT score from base- nasal polyps (which was observed more frequent-
+line to week 52 was observed with tezepelumab ly in the placebo group than the tezepelumab
+than with placebo (least-squares mean difference, group [22.9% vs. 5.4%]). Asthma exacerbations
+9.50; 95% CI, 7.84 to 11.16) (Table S8). Among were reported more frequently with placebo than
+patients with coexisting asthma, a greater decrease with tezepelumab (5.9% vs. 0.5%). There were
+in the ACQ-6 score from baseline to week 52 was no anaphylactic reactions to tezepelumab; an
+observed with tezepelumab than with placebo anaphylactic reaction to placebo was reported in
+(least-squares mean difference, −0.39; 95% CI, 1 patient. Serious adverse events occurred in 10
+−0.59 to −0.19).                                    patients (4.9%) in the tezepelumab group and 12
+                                                    patients (5.9%) in the placebo group (Table 3).
+Safety                                              One death from bacterial sepsis was reported in
+Adverse events that occurred while patients were the placebo group (see the Supplementary Appen-
+receiving tezepelumab or placebo occurred in dix). Additional information on adverse events,
+78.3% of patients in the tezepelumab group (159 serious adverse events, and adverse events of spe-
+of 203 patients) and 77.1% of those in the pla- cial interest are shown in Tables S9, S10, and
+
+
+
+                                   n engl j med 392;12   nejm.org                     March 27, 2025                                 1183
+         The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+                Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+                                                      T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+ Table 2. Summary of Coprimary and Key Secondary Efficacy End Points.*
+
+                                                                     Tezepelumab                Placebo           Difference vs. Placebo
+  End Point                                                            (N = 203)               (N = 205)                (95% CI)†          P Value‡
+  Coprimary end points
+  Total nasal-polyp score
+     Mean at wk 52                                                       3.6±1.86               5.1±1.79
+     Least-squares mean change from baseline                          −2.46±0.11            −0.38±0.12            −2.08 (−2.40 to −1.76)    <0.001
+  Nasal-congestion score
+     Mean at wk 52                                                     0.78±0.73               1.38±0.91
+     Least-squares mean change from baseline                          −1.74±0.06            −0.70±0.07            −1.04 (−1.21 to −0.87)    <0.001
+  Key secondary end points
+  Loss-of-smell score
+     Mean at wk 52                                                     1.55±1.07               2.43±0.83
+     Least-squares mean change from baseline                          −1.26±0.06            −0.26±0.06            −1.01 (−1.18 to −0.83)    <0.001
+  SNOT-22 total score
+     Mean at wk 52                                                     22.2±18.86              36.7±22.21
+     Least-squares mean change from baseline                         −45.02±1.81           −17.58±1.84        −27.44 (−32.51 to −22.37)     <0.001
+ Lund–Mackay score
+     Mean at wk 52                                                    12.47±3.72            17.69±4.20
+     Least-squares mean change from baseline                          −6.27±0.24            −0.57±0.24            −5.70 (−6.37 to −5.03)    <0.001
+ Time-to-event end points, through wk 52
+     First decision to treat with nasal-polyp surgery, use of       5.7 (1.3 to 15.0)   31.4 (25.0 to 38.0)        0.08 (0.03 to 0.16)¶     <0.001
+         systemic glucocorticoids, or both — % (95% CI)§
+     First decision to treat with nasal-polyp surgery — %           0.5 (0.0 to 2.5)    22.0 (16.4 to 28.2)        0.02 (0.00 to 0.09)¶     <0.001
+         (95% CI)§
+     Use of systemic glucocorticoids — % (95% CI)§                  5.2 (1.1 to 14.7)   19.3 (14.1 to 25.1)        0.11 (0.04 to 0.25)¶     <0.001
+ NPSD total symptom score
+     Mean at wk 52                                                     5.66±4.44               9.60±5.18
+     Least-squares mean change from baseline                         −10.39±0.40            −3.43±0.41            −6.96 (−8.09 to −5.83)    <0.001
+ Prebronchodilator FEV1 — liters‖
+     Mean at wk 52                                                     2.89±0.93               2.93±0.76
+     Least-squares mean change from baseline                           0.02±0.04               0.03±0.04          −0.01 (−0.12 to 0.11)
+
+*	Plus–minus values are means ±SD for the mean at week 52 and means ±SE for the least-squares mean change from baseline. All means at
+   week 52 are based on observed values. CI denotes confidence interval.
+†	Differences for all end points, with the exception of prebronchodilator FEV1, are significant at the 0.01 level after adjustment for multiplicity.
+‡	P values are not adjusted for multiplicity.
+§	Percentages and confidence intervals are Kaplan–Meier estimates for the proportion of patients with events.
+¶	Shown are the hazard ratio and confidence intervals. Hazard ratios are based on the Cox proportional-hazards model with adjustment for
+   treatment, baseline coexisting asthma status, status regarding previous nasal-polyp surgery, and geographic region.
+‖	FEV1 was assessed in the subgroup of patients with coexisting asthma: 122 patients in the tezepelumab group and 126 patients in the pla-
+   cebo group.
+
+
+
+                     S11, respectively. Discontinuation of treatment                    a low incidence of neutralizing antidrug antibod-
+                     owing to adverse events occurred in 0.5% of the                    ies, which were detected in 3 patients receiving
+                     patients in the tezepelumab group and 1.5% of                      tezepelumab and 2 patients receiving placebo
+                     those in the placebo group (Table 3). There was                    (Table S12).
+
+
+
+
+1184                                                        n engl j med 392;12     nejm.org     March 27, 2025
+
+                   The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+                          Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+                         Tezepelumab for Rhinosinusitis with Nasal Polyps
+
+
+
+                   Discussion                                 A First Decision to Treat with Nasal-Polyp Surgery
+                                                                                              100   30
+This phase 3 trial assessed the effects of an epi-                                 Hazard ratio, 0.02 (95% CI, 0.00–0.09)
+                                                                     90            P<0.001                                           Placebo
+thelial cytokine blocker, the anti-TSLP monoclo-                            25
+                                                                                                                 (no. of events, 42 [22.0%])
+                                                                     80
+nal antibody tezepelumab, in patients with severe,                          20
+
+
+
+
+                                                                     Percentage of Patients
+                                                                     70
+uncontrolled chronic rhinosinusitis with nasal                              15
+polyps. Treatment with tezepelumab led to reduc-                     60
+                                                                            10
+tions in both coprimary end-point criteria (nasal-                   50
+                                                                              5                                               Tezepelumab
+polyp size and nasal congestion) that were                           40                                            (no. of events, 1 [0.5%])
+sustained through week 52 and resulted in sig-                       30       0
+                                                                                0 4 8 12 16 20 24 28 32 36 40 44 48 52
+nificantly less nasal-polyp surgery and use of                       20
+systemic glucocorticoids than placebo. Significant                   10
+improvements were observed across all key sec-
+                                                                      0
+ondary end points assessed in the overall trial                         0   4    8 12 16 20 24 28 32 36 40 44 48 52
+population. No new safety concerns were identi-                                            Weeks to First Decision
+fied in this trial with the use of the licensed tez-     No. at Risk
+epelumab dose of 210 mg for severe asthma, for           Placebo      205 205 202 197 194 189 183 176 172 166 161 159 157 130
+                                                         Tezepelumab 203 203 203 203 203 203 203 203 203 202 202 202 201 170
+which the safety and side-effect profiles are well
+documented.21,23,24
+                                                       B Use of Systemic Glucocorticoids
+   Significant improvements with tezepelumab                        100     30
+therapy were observed across all patient-reported                                  Hazard ratio, 0.11 (95% CI, 0.04–0.25)
+                                                                     90            P<0.001
+end points assessed in the overall population,                              25
+                                                                                                                                     Placebo
+                                                                     80
+including nasal-congestion score, loss-of-smell                             20                                   (no. of events, 38 [19.3%])
+
+
+
+
+                                                                     Percentage of Patients
+                                                                     70
+score, SNOT-22 total score, and total symptom                               15
+score; these results show that the patients had                      60
+                                                                            10
+clinically meaningful reductions in their symp-                      50                                                       Tezepelumab
+toms and improvements in health-related quality                      40       5                                    (no. of events, 5 [5.2%])
+of life. These findings build on the reported                        30       0
+                                                                                0 4 8 12 16 20 24 28 32 36 40 44 48 52
+efficacy of tezepelumab in patients with severe,                     20
+uncontrolled asthma and coexisting chronic rhi-                      10
+nosinusitis with nasal polyps and suggest that
+                                                                      0
+the reduction in multiple downstream inflam-                            0   4    8 12 16 20 24 28 32 36 40 44 48 52
+matory signaling may modify disease severity in                                                Weeks to First Use
+the patients who participated in the present trial.      No. at Risk
+   In patients with coexisting asthma, prebron-          Placebo      205 205 201 197 190 186 176 169 168 161 158 156 154 127
+                                                         Tezepelumab 203 203 203 203 202 202 201 201 201 200 199 198 197 167
+chodilator FEV1 was unchanged from baseline at
+week 52 in both trial groups. The eligibility criteria  Figure 2. Time to First Decision to Treat with Nasal-Polyp Surgery or Use
+for the present trial were not designed to character-   of Systemic Glucocorticoids for Chronic Rhinosinusitis with Nasal Polyps.
+ize asthma severity. Additional lung-function mea-      Shown is the time to the first decision to treat with nasal-polyp surgery
+surements, such as airway reversibility, were not       (Panel A) or the use of systemic glucocorticoids (Panel B), shown as Kaplan–
+evaluated. The subgroup of patients with coexist-       Meier estimates over a period of 52 weeks. The number of events and cor-
+                                                        responding Kaplan–Meier estimates are provided for the week-52 visit. The
+ing asthma had relatively well-preserved lung func-     time to the first event is shown in days calculated as the date of the first
+tion at baseline as compared with patients in typi-     event minus the date of randomization plus 1. In patients who did not have
+cal studies involving patients with severe asthma.      the event, data were censored at the week-52 visit or the date of withdrawal
+The mean percent predicted prebronchodilator            from the trial (whichever was earlier); tick marks indicate censored data.
+FEV1 was 87.3% in the tezepelumab group and             The inset shows the same data on an expanded y axis.
+84.4% in the placebo group, which potentially lim-
+ited improvement in prebronchodilator FEV1. Tez-
+epelumab therapy was associated with better asth- score, and there were fewer asthma exacerbations
+ma control than placebo, as assessed by the ACQ-6 with tezepelumab than with placebo.
+
+
+
+
+                                    n engl j med 392;12   nejm.org   March 27, 2025                                                    1185
+         The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+                Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+                                         T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+          Table 3. Summary of Adverse Events.*
+
+                                                                                                Tezepelumab                Placebo
+          Adverse Event                                                                           (N = 203)               (N = 205)
+
+                                                                                                   number of patients (percent)
+          Any adverse event                                                                       159 (78.3)             158 (77.1)
+          Any serious adverse event, including death†                                              10 (4.9)               12 (5.9)
+          Any adverse event resulting in death‡                                                       0                    1 (0.5)
+          Any adverse event leading to discontinuation of tezepelumab or placebo                    1 (0.5)                3 (1.5)
+          Adverse events occurring in ≥5% of patients in either trial group§
+              Coronavirus disease 2019                                                             47 (23.2)              40 (19.5)
+              Nasopharyngitis                                                                      36 (17.7)              20 (9.8)
+              Upper respiratory tract infection                                                    19 (9.4)               11 (5.4)
+              Headache                                                                             17 (8.4)               15 (7.3)
+              Epistaxis                                                                            12 (5.9)                7 (3.4)
+              Chronic rhinosinusitis with nasal polyps¶                                            11 (5.4)               47 (22.9)
+              Asthma‖                                                                               1 (0.5)               12 (5.9)
+
+        *	Shown are adverse events with an onset date on or after the date of the first dose of tezepelumab or placebo, up to
+           and including the date of the last dose + 33 days, date of death, or date of withdrawal from the trial.
+        †	Serious adverse events were those that resulted in death, were life-threatening, led to hospitalization or prolongation
+           of hospitalization, caused persistent or clinically significant disability or incapacity, or were deemed to be an important
+           medical event.
+        ‡	One patient in the placebo group died from bacterial sepsis.
+        §	Adverse events were coded according to the preferred terms of the Medical Dictionary for Regulatory Activities, version
+           27.0.
+        ¶	Shown are patients with events of exacerbation of chronic rhinosinusitis with nasal polyps, defined in the protocol as
+           worsening of symptoms that led to the use of systemic glucocorticoids or systemic antibiotics for at least 3 consecutive
+           days or resulted in hospitalization; no events resulted in hospitalization of patients in either trial group.
+        ‖	Shown are patients with asthma exacerbations defined in the protocol as a worsening of asthma that led to any of the
+           following: a temporary burst of systemic glucocorticoids for at least 3 consecutive days, an emergency department or
+           urgent care visit due to asthma that resulted in systemic glucocorticoid therapy for at least 3 consecutive days, or an
+           inpatient hospitalization (for ≥24 hours) due to asthma.
+
+
+
+           Treatment with systemic glucocorticoids and                  rhinosinusitis with nasal polyps, treatment with
+        nasal-polyp surgery does not address the under-                 tezepelumab resulted in significantly greater re-
+        lying inflammatory processes in patients with                   ductions in nasal-polyp size, nasal-congestion se-
+        severe chronic rhinosinusitis with nasal polyps.                verity, patient-reported sinonasal symptoms, and
+        Furthermore, long-term glucocorticoid use is as-                treatment with nasal-polyp surgery or systemic
+        sociated with adverse side effects.27 However,                  glucocorticoids than placebo.
+        biologic therapies have transformed approaches                     Supported by AstraZeneca and Amgen.
+        to treatment by directly addressing the underly-                   Disclosure forms provided by the authors are available with
+        ing inflammatory mechanisms associated with                     the full text of this article at NEJM.org.
+                                                                           A data sharing statement provided by the authors is available
+        severe chronic rhinosinusitis with nasal polyps.                with the full text of this article at NEJM.org.
+        Further studies are needed to investigate the po-                  We thank the patients involved in this trial and their fami-
+        tential for the use of biologic therapies for dis-              lies, the investigators, the site staff, and the trial team; Karin
+                                                                        Bowen, M.Sc., for contributions to the trial design and analy-
+        ease modification and remission28 in patients with              ses; and Lisa Simpson, Ph.D., of PharmaGenesis London, for
+        severe chronic rhinosinusitis with nasal polyps, as             medical writing assistance with earlier versions of the manu-
+        has been shown for other inflammatory diseases                  script.
+
+        including severe asthma, inflammatory bowel dis-
+                                                                        Author Information
+        ease, and rheumatoid arthritis.29-32                            Brian J. Lipworth, M.D.,1 Joseph K. Han, M.D.,2 Martin Desro-
+           In adults with severe, uncontrolled chronic                  siers, M.D.,3 Claire Hopkins, M.D., Ph.D.,4 Stella E. Lee, M.D.,5
+
+
+
+
+1186                                          n engl j med 392;12    nejm.org    March 27, 2025
+
+       The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+              Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+                              Tezepelumab for Rhinosinusitis with Nasal Polyps
+
+
+Joaquim Mullol, M.D., Ph.D.,6 Oliver Pfaar, M.D.,7 Ting Li,            of Barcelona, Barcelona; 7 Department of Otorhinolaryngology,
+Ph.D.,8 Claudia Chen, M.Sc., M.P.H.,9 Gun Almqvist, M.Sc.,10           Head and Neck Surgery, Section of Rhinology and Allergy, Uni-
+Mary Kay Margolis, M.P.H., M.H.A.,11 Julie McLaren, M.D.,12            versity Hospital Marburg, Philipps-Universität Marburg, Mar-
+Shankar Jagadeesh, Ph.D.,13 Jamie MacKay, M.D., Ph.D.,14               burg, Germany; 8 Late-Stage Development, Respiratory and Im-
+Ayman Megally, M.D., M.P.H.,13 Åsa Hellqvist, M.Sc.,15 Vaisha-         munology, BioPharmaceuticals Research and Development
+li S. Mankad, M.D.,8 Lila Bahadori, M.D.,13 and Sandhia S. Pon-        (R&D), AstraZeneca, Durham, NC; 9 Biometrics, Late-Stage
+narambil, M.B., B.S.16                                                 Development, Respiratory and Immunology, BioPharmaceuti-
+                                                                       cals Medical, AstraZeneca, Gaithersburg, MD; 10 Late-Stage De-
+1
+ Scottish Centre for Respiratory Research, and ENT Rhinology           velopment, Respiratory and Immunology, BioPharmaceuticals
+Clinic, Ninewells Hospital and Medical School, University of           R&D, AstraZeneca, Gothenburg, Sweden; 11 Patient-Centered
+Dundee, Dundee, United Kingdom; 2 Department of Otolaryn-              Science, Respiratory and Immunology, BioPharmaceuticals
+gology, Head and Neck Surgery, Eastern Virginia Medical                Medical, AstraZeneca, Gaithersburg, MD; 12 Global Clinical De-
+School, Norfolk; 3 Division of Otolaryngology, Head and Neck           velopment–Medical, Amgen, Thousand Oaks, CA; 13 Late-Stage
+Surgery, Centre Hospitalier de l’Université de Montréal, Univer-       Development, Respiratory and Immunology, BioPharmaceuti-
+sity of Montreal, Montreal; 4 Department of Otolaryngology–            cals Medical, AstraZeneca, Gaithersburg, MD; 14 Early-Stage
+Head and Neck Surgery, Guy’s and St. Thomas’ Hospital, Lon-            Development, Respiratory and Immunology, BioPharmaceuti-
+don; 5 Division of Otolaryngology, Head and Neck Surgery,              cals R&D, AstraZeneca, Cambridge, United Kingdom; 15 Bio-
+Brigham and Women’s Hospital, Harvard Medical School, Bos-             metrics, Late-Stage Development, Respiratory and Immunolo-
+ton; 6 Rhinology Unit and Smell Clinic, Department of Otorhi-          gy, BioPharmaceuticals R&D, AstraZeneca, Gothenburg,
+nolaryngology, Hospital Clinic Barcelona, Instituto de Investig-       Sweden; 16 Late-Stage Development, Respiratory and Immunol-
+aciones Biomédicas August Pi i Sunyer, Centro de Investigación         ogy, BioPharmaceuticals R&D, AstraZeneca, Cambridge, Unit-
+Biomédica en Red de Enfermedades Respiratorias, University             ed Kingdom.
+
+
+
+References
+1. Fokkens WJ, Viskens A-S, Backer V, et         10. Bhattacharyya N, Villeneuve S, Joish       biologicals for severe chronic rhinosinus-
+al. EPOS/EUFOREA update on indication            VN, et al. Cost burden and resource utili-     itis with nasal polyps: a systematic review
+and evaluation of biologics in chronic rhi-      zation in patients with chronic rhinosi-       for the EAACI guidelines. Allergy 2021;​
+nosinusitis with nasal polyps 2023. Rhi-         nusitis and nasal polyps. Laryngoscope         76:​2337-53.
+nology 2023;​61:​194-202.                        2019;​129:​1969-75.                            18. Gauvreau GM, O’Byrne PM, Boulet
+2. Fokkens WJ, Lund VJ, Hopkins C, et            11. Laidlaw TM, Mullol J, Woessner KM,         L-P, et al. Effects of an anti-TSLP antibody
+al. European position paper on rhinosi-          Amin N, Mannent LP. Chronic rhino-             on allergen-induced asthmatic responses.
+nusitis and nasal polyps 2020. Rhinology         sinusitis with nasal polyps and asthma.        N Engl J Med 2014;​370:​2102-10.
+2020;​58:​Suppl S29:​1-464.                      J Allergy Clin Immunol Pract 2021;​9:​1133-    19. Nagarkar DR, Poposki JA, Tan BK, et
+3. Wynne M, Atkinson C, Schlosser RJ,            41.                                            al. Thymic stromal lymphopoietin activity
+Mulligan JK. Contribution of epithelial          12. Orlandi RR, Kingdom TT, Hwang PH,          is increased in nasal polyps of patients
+cell dysfunction to the pathogenesis of          et al. International consensus statement       with chronic rhinosinusitis. J Allergy Clin
+chronic rhinosinusitis with nasal polyps.        on allergy and rhinology: rhinosinusitis.      Immunol 2013;​132(3):​593-600.e12.
+Am J Rhinol Allergy 2019;​33:​782-90.            Int Forum Allergy Rhinol 2016;​6:​Suppl 1:​    20. Kimura S, Pawankar R, Mori S, et al.
+4. Kato A, Schleimer RP, Bleier BS.              S22-S209.                                      Increased expression and role of thymic
+Mechanisms and pathogenesis of chronic           13. Rank MA, Chu DK, Bognanni A, et al.        stromal lymphopoietin in nasal polypo-
+rhinosinusitis. J Allergy Clin Immunol           The Joint Task Force on Practice Parame-       sis. Allergy Asthma Immunol Res 2011;​3:​
+2022;​149:​1491-503.                             ters GRADE guidelines for the medical          186-93.
+5. Stevens WW, Peters AT, Tan BK, et al.         management of chronic rhinosinusitis           21. Menzies-Gow A, Corren J, Bourdin A,
+Associations between inflammatory endo-          with nasal polyposis. J Allergy Clin Im-       et al. Tezepelumab in adults and adoles-
+types and clinical presentations in chronic      munol 2023;​151:​386-98.                       cents with severe, uncontrolled asthma.
+rhinosinusitis. J Allergy Clin Immunol Pract     14. Gevaert P, Omachi TA, Corren J, et al.     N Engl J Med 2021;​384:​1800-9.
+2019;​7(8):​2812-2820.e3.                        Efficacy and safety of omalizumab in na-       22. Gauvreau GM, Sehmi R, Ambrose CS,
+6. Stevens WW, Ocampo CJ, Berdnikovs             sal polyposis: 2 randomized phase 3 trials.    Griffiths JM. Thymic stromal lymphopoi-
+S, et al. Cytokines in chronic rhinosinusitis:   J Allergy Clin Immunol 2020;​146:​595-605.     etin: its role and potential as a therapeutic
+role in eosinophilia and aspirin-exacerbated     15. Han JK, Bachert C, Fokkens W, et al.       target in asthma. Expert Opin Ther Targets
+respiratory disease. Am J Respir Crit Care       Mepolizumab for chronic rhinosinusitis         2020;​24:​777-92.
+Med 2015;​192:​682-94.                           with nasal polyps (SYNAPSE): a ran-            23. Corren J, Parnes JR, Wang L, et al.
+7. Vanderhaegen T, Gengler I, Den-               domised, double-blind, placebo-controlled,     Tezepelumab in adults with uncontrolled
+dooven A, Chenivesse C, Lefèvre G, Mor-          phase 3 trial. Lancet Respir Med 2021;​9:​     asthma. N Engl J Med 2017;​377:​936-46.
+tuaire G. Eosinophils in the field of nasal      1141-53.                                       24. Menzies-Gow A, Wechsler ME, Bright-
+polyposis: towards a better understand-          16. Bachert C, Han JK, Desrosiers M, et        ling CE, et al. Long-term safety and effi-
+ing of biologic therapies. Clin Rev Allergy      al. Efficacy and safety of dupilumab in        cacy of tezepelumab in people with severe,
+Immunol 2022;​62:​90-102.                        patients with severe chronic rhinosinus-       uncontrolled asthma (DESTINATION):
+8. Laidlaw TM, Buchheit KM. Biologics            itis with nasal polyps (LIBERTY NP             a randomised, placebo-controlled exten-
+in chronic rhinosinusitis with nasal pol-        SINUS-24 and LIBERTY NP SINUS-52):             sion study. Lancet Respir Med 2023;​11:​
+yposis. Ann Allergy Asthma Immunol               results from two multicentre, randomised,      425-38.
+2020;​124:​326-32.                               double-blind, placebo-controlled, parallel-    25. AstraZeneca. Tezspire (tezepelumab-
+9. Bachert C, Bhattacharyya N, Desro-            group phase 3 trials. Lancet 2019;​394:​       ekko):​highlights of prescribing informa-
+siers M, Khan AH. Burden of disease in           1638-50.                                       tion. 2021 (https://www​.­accessdata​.­fda​
+chronic rhinosinusitis with nasal polyps.        17. Agache I, Song Y, Alonso-Coello P, et      .­gov/​­drugsatfda​_­docs/​­label/​­2023/​
+J Asthma Allergy 2021;​14:​127-34.               al. Efficacy and safety of treatment with     ­761224s003lbl​.­pdf).
+
+
+
+
+                                           n engl j med 392;12     nejm.org    March 27, 2025                                                   1187
+           The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+                  Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+                                    Tezepelumab for Rhinosinusitis with Nasal Polyps
+
+
+        26. Laidlaw TM, Menzies-Gow A, Caveney       and suggestions for defining remission in     31. Schlager L, Loiskandl M, Aletaha D,
+        S, et al. Tezepelumab efficacy in patients   chronic rhinosinusitis with nasal polyps.     Radner H. Predictors of successful dis-
+        with severe, uncontrolled asthma with co-    Curr Allergy Asthma Rep 2024;​24:​11-23.      continuation of biologic and targeted
+        morbid nasal polyps in NAVIGATOR. J          29. Wechsler ME, Brusselle G, Virchow JC,     synthetic DMARDs in patients with rheu-
+        Asthma Allergy 2023;​16:​915-32.             et al. Clinical response and on-treatment     matoid arthritis in remission or low
+        27. Hox V, Lourijsen E, Jordens A, et al.    clinical remission with tezepelumab in a      disease activity: a systematic literature
+        Benefits and harm of systemic steroids       broad population of patients with severe,     review. Rheumatology (Oxford) 2020;​59:​
+        for short- and long-term use in rhinitis     uncontrolled asthma: results over 2 years     324-34.
+        and rhinosinusitis: an EAACI position pa-    from the NAVIGATOR and DESTINATION            32. Nakase H, Uchino M, Shinzaki S, et
+        per. Clin Transl Allergy 2020;​10:​1.        studies. Eur Respir J 2024;​64:​2400316.      al. Evidence-based clinical practice guide-
+        28. Caminati M, De Corso E, Ottaviano G,     30. Lommatzsch M, Brusselle GG, Ca-           lines for inf lammatory bowel disease
+        et al. Remission in type 2 inflammatory      nonica GW, et al. Disease-modifying anti-     2020. J Gastroenterol 2021;​56:​489-526.
+        diseases: current evidence, unmet needs,     asthmatic drugs. Lancet 2022;​399:​1664-8.    Copyright © 2025 Massachusetts Medical Society.
+
+
+
+
+                                                            images in clinical medicine
+                                   The Journal welcomes consideration of new submissions for Images in Clinical
+                                  Medicine. Instructions for authors and procedures for submissions can be found
+                                  on the Journal’s website at NEJM.org. At the discretion of the editor, images that
+                                     are accepted for publication may appear in the print version of the Journal,
+                                                            the electronic version, or both.
+
+
+
+
+1188                                            n engl j med 392;12     nejm.org     March 27, 2025
+
+       The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+              Downloaded from nejm.org at Hospital Fundacion Jimenez Diaz - red 4h Madrid on April 21, 2026.
+

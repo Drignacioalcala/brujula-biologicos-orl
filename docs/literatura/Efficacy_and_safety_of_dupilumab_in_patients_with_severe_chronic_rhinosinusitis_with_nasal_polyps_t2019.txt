@@ -1,0 +1,974 @@
+                                                                                                                                            Articles
+
+
+
+Efficacy and safety of dupilumab in patients with severe
+chronic rhinosinusitis with nasal polyps (LIBERTY NP
+SINUS-24 and LIBERTY NP SINUS-52): results from
+two multicentre, randomised, double-blind,
+placebo-controlled, parallel-group phase 3 trials
+Claus Bachert, Joseph K Han, Martin Desrosiers, Peter W Hellings, Nikhil Amin, Stella E Lee, Joaquim Mullol, Leon S Greos, John V Bosso,
+Tanya M Laidlaw, Anders U Cervin, Jorge F Maspero, Claire Hopkins, Heidi Olze, G Walter Canonica, Pierluigi Paggiaro, Seong H Cho,
+Wytske J Fokkens, Shigeharu Fujieda, Mei Zhang, Xin Lu, Chunpeng Fan, Steven Draikiwicz, Siddhesh A Kamat, Asif Khan, Gianluca Pirozzi,
+Naimish Patel, Neil M H Graham, Marcella Ruddy, Heribert Staudinger, David Weinreich, Neil Stahl, George D Yancopoulos, Leda P Mannent
+
+Summary
+Background Patients with chronic rhinosinusitis with nasal polyps (CRSwNP) generally have a high symptom burden                            Published Online
+and poor health-related quality of life, often requiring recurring systemic corticosteroid use and repeated sinus surgery.                 September 19, 2019
+                                                                                                                                           https://doi.org/10.1016/
+Dupilumab is a fully human monoclonal antibody that inhibits signalling of interleukin (IL)-4 and IL-13, key drivers of                    S0140-6736(19)31881-1
+type 2 inflammation, and has been approved for use in atopic dermatitis and asthma. In these two studies, we aimed
+                                                                                                                                           See Online/Comment
+to assess efficacy and safety of dupilumab in patients with CRSwNP despite previous treatment with systemic                                https://doi.org/10.1016/
+corticosteroids, surgery, or both.                                                                                                         S0140-6736(19)32133-6
+                                                                                                                                           Faculty of Medicine, Upper
+Methods LIBERTY NP SINUS-24 and LIBERTY NP SINUS-52 were two multinational, multicentre, randomised,                                       Airways Research Laboratory,
+                                                                                                                                           Ghent University, Ghent,
+double-blind, placebo-controlled, parallel-group studies assessing dupilumab added to standard of care in adults with
+                                                                                                                                           Belgium (Prof C Bachert MD);
+severe CRSwNP. SINUS-24 was done in 67 centres in 13 countries, and SINUS-52 was done in 117 centres in                                    CLINTEC, Karolinska Institutet,
+14 countries. Eligible patients were 18 years or older with bilateral CRSwNP and symptoms despite intranasal                               Stockholm, Sweden
+corticosteroid use, receiving systemic corticosteroids in the preceding 2 years, or having had sinonasal surgery.                          (Prof C Bachert); Division of
+                                                                                                                                           Allergy, Eastern Virginia
+Patients in SINUS-24 were randomly assigned (1:1) to subcutaneous dupilumab 300 mg or placebo every 2 weeks for
+                                                                                                                                           Medical School, Norfolk, VA,
+24 weeks. Patients in SINUS-52 were randomly assigned (1:1:1) to dupilumab 300 mg every 2 weeks for 52 weeks,                              USA (Prof J K Han MD);
+dupilumab every 2 weeks for 24 weeks and then every 4 weeks for the remaining 28 weeks, or placebo every 2 weeks                           Centre de recherche du Centre
+for 52 weeks. All patients were randomly assigned centrally with a permuted block randomisation schedule.                                  hospitalier de l’Université de
+                                                                                                                                           Montréal, Montreal, QC,
+Randomisation was stratified by asthma or non-steroidal anti-inflammatory drug-exacerbated respiratory disease
+                                                                                                                                           Canada (Prof M Desrosiers MD);
+status at screening, previous surgery at screening, and country. Patients with or without comorbid asthma were                             Laboratory of Experimental
+included. Coprimary endpoints were changes from baseline to week 24 in nasal polyp score (NPS), nasal congestion                           Immunology, Department of
+or obstruction, and sinus Lund-Mackay CT scores (a coprimary endpoint in Japan), done in an intention-to-treat                             Otorhinolaryngology—
+                                                                                                                                           Head and Neck Surgery,
+population. Safety was assessed in a pooled population of both dupilumab groups in SINUS-52 up to week 24 and the
+                                                                                                                                           University Hospitals Leuven,
+dupilumab group in SINUS-24 and the placebo groups in both studies until week 24. The trials are complete and                              Leuven, Belgium
+registered at ClinicalTrials.gov, NCT02912468 and NCT02898454.                                                                             (Prof P W Hellings MD);
+                                                                                                                                           Regeneron Pharmaceuticals,
+                                                                                                                                           Tarrytown, NY, USA
+Findings Between Dec 5, 2016, and Aug 3, 2017, 276 patients were enrolled in SINUS-24, with 143 in the dupilumab                           (N Amin MD, S A Kamat MBA,
+group and 133 in the placebo group receiving at least one study drug dose. Between Nov 28, 2016, and Aug 28, 2017,                         N M H Graham MD, M Ruddy MD,
+448 patients were enrolled in SINUS-52, with 150 receiving at least one dose of dupilumab every 2 weeks,                                   D Weinreich MD, N Stahl PhD,
+145 receiving at least one dose of dupilumab every 2 weeks for 24 weeks and every 4 weeks until week 52, and                               G D Yancopoulos MD);
+                                                                                                                                           Department of
+153 receiving at least one dose of placebo. Dupilumab significantly improved the coprimary endpoints in both studies.                      Otolaryngology—Head and
+At 24 weeks, least squares mean difference in NPS of dupilumab treatment versus placebo was –2·06 (95% CI                                  Neck Surgery, Division of
+–2·43 to –1·69; p<0·0001) in SINUS-24 and –1·80 (–2·10 to –1·51; p<0·0001) in SINUS-52; difference in nasal                                Sinonasal Disorders and
+congestion or obstruction score was −0·89 (–1·07 to –0·71; p<0·0001) in SINUS-24 and −0·87 (–1·03 to –0·71;                                Allergy, University of
+                                                                                                                                           Pittsburgh Medical Center,
+p<0·0001) in SINUS-52; and difference in Lund-Mackay CT scores was –7·44 (–8·35 to –6·53; p<0·0001) in SINUS-24                            Pittsburgh, PA, USA
+and –5·13 (–5·80 to –4·46; p<0·0001) in SINUS-52. The most common adverse events (nasopharyngitis, worsening                               (S E Lee MD); Hospital Clínic,
+of nasal polyps and asthma, headache, epistaxis, and injection-site erythema) were more frequent with placebo.                             IDIBAPS, Universitat de
+                                                                                                                                           Barcelona, CIBERES,
+                                                                                                                                           Barcelona, Spain
+Interpretation In adult patients with severe CRSwNP, dupilumab reduced polyp size, sinus opacification, and                                (Prof J Mullol MD); Colorado
+severity of symptoms and was well tolerated. These results support the benefits of adding dupilumab to daily                               Allergy and Asthma Centers,
+standard of care for patients with severe CRSwNP who otherwise have few therapeutic options.                                               Centennial, CO, USA
+                                                                                                                                           (L S Greos MD); Department of
+                                                                                                                                           Otorhinolaryngology—Head
+Funding Sanofi and Regeneron Pharmaceuticals.
+
+
+www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1                                                                    1
+          Articles
+
+
+
+
+      and Neck Surgery, Division        Copyright © 2019 Elsevier Ltd. All rights reserved.
+      of Rhinology, University of
+Pennsylvania, Perelman School
+  of Medicine, Philadelphia, PA,
+                                        Introduction                                                          asthma (with and without NSAID-exacerbated respira­
+USA (J V Bosso MD); Division of         Chronic rhinosinusitis with nasal polyps (CRSwNP),                    tory disease) have more severe disease, charac­terised by
+   Rheumatology, Immunology             an important phenotype of chronic rhinosinusitis,1,2                  high nasal polyp scores, recurrence of nasal polyps after
+        and Allergy, Brigham and        has an estimated prevalence of 4·2% in the USA and                    surgery, frequent systemic corticosteroid dependence,
+               Women’s Hospital,
+                  Boston, MA, USA
+                                        4·3% in Europe.3,4 The clinical, economic, and human                  poor asthma control, and higher costs and use of health-
+    (T M Laidlaw MD); Faculty of        burden of this condition is poorly recognised despite the             care resources.15
+          Medicine, University of       high symptom burden, troublesome and difficult-to-                      Novel therapies to improve disease control are needed to
+Queensland and Royal Brisbane           treat loss of smell,5–7 high rates of recurrence or relapse           spare patients from systemic corticosteroids and repeated
+           and Women’s Hospital,
+         Brisbane, QLD, Australia
+                                        of nasal polyps after surgery, frequent comorbid late-                sinus surgery. Current standard-of-care options for
+    (Prof A U Cervin MD); Allergy       onset asthma, and poor health-related quality of life.8               CRSwNP1,2 have limitations. Intranasal corticosteroids are
+and Respiratory Research Unit,          CRSwNP predominantly displays type 2 inflam­matory                    the first line of therapy but have small effects on polyp
+                 Fundación CIDEA,       signatures including interleukin (IL)-4, IL-5, and IL-13,             size and symptoms. When symptoms worsen, systemic
+         Buenos Aires, Argentina
+ (J F Maspero MD); Department
+                                        and infiltration of nasal polyps by eosinophils, basophils,           corticosteroids provide short-term efficacy,16 but adverse
+ of Ear, Nose, and Throat, Guy’s        and mast cells.9,10 Non-steroidal anti-inflam­matory drug             effects prevent long-term use. When pharmacological
+       and St Thomas’ Hospitals,        (NSAID)-exacerbated respiratory disease (also termed                  therapy is unsuccessful, surgery can be effective but,
+                        London, UK
+                                        Samter’s triad, aspirin-exacerbated respi­ratory disease in           without control of the underlying inflammation disease,
+              (Prof C Hopkins DM);
+                    Department of       the USA, or N-exacerbated respiratory disease in                      recurrence is common,17 resulting in repeated courses of
+    Otorhinolaryngology, Head           Europe) is a disease phenotype described as aspirin or                systemic corticosteroids and surgery in a subgroup of
+                and Neck Surgery,       NSAID hypersensitivity, asthma, and CRSwNP and is                     patients with nasal polyps. A therapy that directly targets
+   Charité-Universitätsmedizin
+                                        associated with a type 2 inflammatory reaction. Asthma                the fundamental type 2 inflammation driving this disease
+           Berlin, Berlin, Germany
+ (Prof H Olze MD); Personalized         and NSAID-exacerbated respiratory disease are frequent                might provide the opportunity to offer an effective and well
+     Medicine Asthma & Allergy,         type 2 inflammatory comorbidities, with asthma occur­                 tolerated option that also addresses common comorbid,
+ Humanitas University, Clinical         ring in up to 65% and NSAID-exacerbated respiratory                   substantial type 2 inflammatory diseases such as asthma.
+             and Research Center,
+                                        disease occurring in up to 16% of patients with                         Dupilumab is a fully human VelocImmune-derived
+                IRCCS, Milan, Italy
+          (Prof G W Canonica MD);       CRSwNP.11–14 Patients with CRSwNP and comorbid                        monoclonal antibody18,19 that inhibits signalling by IL-4 and
+         Department of Surgery,
+    Medicine, Molecular Biology
+     and Critical Care, University        Research in context
+                 of Pisa, Pisa, Italy
+  (Prof P Paggiaro MD); Division          Evidence before this study                                          Added value of this study
+         of Allergy–Immunology,           Chronic rhinosinusitis with nasal polyps (CRSwNP) is a              To our knowledge, LIBERTY NP SINUS-24 and LIBERTY NP
+    University of South Florida,
+  Tampa, FL, USA (S H Cho MD);
+                                          predominantly type 2 inflammation-mediated disease with             SINUS-52 are the first and largest phase 3 trials to date assessing
+       Academic Medical Center,           high disease burden and poor quality of life. In a subgroup         a monoclonal antibody targeting this type 2 inflammatory
+       Amsterdam, Netherlands             of patients with CRSwNP and severe type 2 inflammation,             condition, investigating dupilumab efficacy as an add-on
+            (Prof W J Fokkens MD);        typically associated with comorbid late-onset asthma and            treatment to standard intranasal corticosteroids in patients
+                    Department of
+   Otorhinolaryngology—Head
+                                          disease recurrence after surgical therapy, disease control          with severe uncontrolled CRSwNP. In both studies,
+   and Neck Surgery, Faculty of           cannot be achieved by existing standard of care. We searched        dupilumab reduced nasal polyp size and sinus disease burden,
+Medical Sciences, University of           MEDLINE (via PubMed) and Embase for articles from database          reduced severity of symptoms, improved sense of smell, improved
+               Fukui, Fukui, Japan
+                                          inception up to Aug 4, 2016, using search terms including           health-related quality of life, and reduced the use of systemic
+      (Prof S Fujieda MD); Sanofi,
+             Bridgewater, NJ, USA         “nasal polyposis”, “chronic rhinosinusitis”, “chronic               corticosteroids and the need for nasal polyp surgery. In patients
+         (M Zhang PhD, X Lu PhD,          rhinosinusitis with nasal polyps”, “AERD”, “NSAID-ERD”,             with comorbid asthma, dupilumab also improved lung function
+      C Fan PhD, S Draikiwicz MD,         “Samter’s”. Additionally, we used the Cochrane Library to           and asthma control. Dupilumab was shown to be well tolerated.
+G Pirozzi MD, H Staudinger MD);
+                                          search other databases, including the Cochrane Central Library
+  Sanofi, Chilly-Mazarin, France                                                                              Implications of all the available evidence
+                    (A Khan MBBS,         of Controlled Trials. Grey literature and other resources were
+                                                                                                              Existing therapies for CRSwNP have limitations and do not
+  L P Mannent MD); and Sanofi,            hand-searched to identify any other relevant data. We did a
+                                                                                                              address the underlying type 2 inflammatory processes that
+             Cambridge, MA, USA           claims-database analysis to ascertain the treatment patterns
+                       (N Patel MD)                                                                           drive this disease with frequent recurrence. Blocking
+                                          and cost burden of CRSwNP in the USA. We did extensive
+             Correspondence to:                                                                               interleukin (IL)-4 and IL-13 signalling with dupilumab,
+                                          analyses on the disease using the GALEN sinusitis cohort of
+              Prof Claus Bachert,                                                                             in addition to the use of intranasal corticosteroids,
+         Upper Airways Research
+                                          patients with chronic rhinosinusitis in Europe. Dupilumab has
+                                                                                                              could improve the lives of patients with severe uncontrolled
+    Laboratory, Ghent University,         been shown to have significant efficacy in diseases driven by
+                                                                                                              CRSwNP compared with standard of care. Dupilumab
+         B-9000 Ghent, Belgium            type 2 inflammation, such as moderate-to-severe atopic
+       claus.bachert@ugent.be                                                                                 treatment also showed efficacy in treating patients with
+                                          dermatitis and moderate-to-severe asthma in patients aged
+                                                                                                              comorbid asthma, a patient population with an increased
+                                          12 years or older. In a previous phase 2, proof-of-concept study
+                                                                                                              disease burden that is difficult to treat.
+                                          in patients with CRSwNP, dupilumab showed significant
+                                          efficacy in reducing nasal polyp burden and was well tolerated.
+
+
+
+2                                                                              www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1
+                                                                                                                                               Articles
+
+
+
+
+IL-13, cytokines that are key drivers of type 2 inflammation.20         or older with bilateral nasal polyps and symptoms of
+This antibody has been approved by the US Food and                      chronic rhinosinusitis despite intranasal corticosteroid
+Drug Administration as an add-on maintenance treatment                  therapy before randomisation and had received systemic
+in adult patients with inadequately controlled CRSwNP.                  corticosteroids in the preceding 2 years (or had a medical
+Dupilumab has also been approved for the treatment of                   contraindication or intolerance to systemic cortico­
+other type 2 inflammatory disorders, including in patients              steroids) or previous sinonasal surgery. At screening,
+aged 12 years or older in the USA with moderate-to-severe               patients were required to have a bilateral endoscopic
+atopic dermatitis inadequately controlled with topical                  nasal polyp score (NPS) of at least 5 (maximum 8), with
+prescription therapies, or for whom those therapies are not             a minimum score of 2 for each nostril, and exhibit at
+advisable; in adults with inadequately controlled moderate-             least two of the following symptoms: nasal congestion or
+to-severe atopic derma­titis who are candidates for systemic            obstruction (patient-assessed symptom severity score of
+therapy in the EU and other countries;21–23 in patients aged            at least 2 of 3, and a weekly average score of at least 1 at
+12 years or older in Japan as add-on maintenance treat­                 randomisation; 0=no symptoms, 1=mild, 2=moderate,
+ment for moderate-to-severe asthma with an eosinophilic                 and 3=severe) and either loss of smell or nasal discharge
+phenotype, or oral corticosteroid-dependent asthma, and                 (anterior or posterior). These criteria resulted in a study
+for severe or refractory asthma with symptoms that are                  population with severe disease. A prespecified enrolment
+inadequately controlled with existing therapy; and in                   goal of 50% of patients with asthma, NSAID-exacerbated
+patients with type 2 severe asthma characterised by                     respiratory disease, or both on the basis of patient-
+increased blood eosinophils, raised fractional exhaled                  reported history and 50% of patients having had previous
+nitric oxide, or both, who are inadequately controlled with             surgery was met without the need to cap enrolment.
+high-dose inhaled cortico­steroids plus another medicinal               Patients who had a forced expiratory volume in 1 second
+product for maintenance treatment in the EU.24–26                       (FEV₁) of 50% or lower than the predicted normal or
+  In these two phase 3 trials, LIBERTY NP SINUS-24                      participated in other dupilumab studies were excluded.
+and LIBERTY NP SINUS-52, we aimed to assess the                         Other key exclusion criteria are detailed in the appendix
+efficacy and safety of dupilumab when added to standard                 (p 8).
+therapy (intranasal corticosteroids) in adults with severe                Saline nasal lavage, systemic antibiotics, short-course
+CRSwNP uncontrolled by standard of care, including                      systemic corticosteroids, or sinonasal surgery were per­
+patients with a history of comorbid asthma, NSAID-                      mitted as needed during the treatment and follow-up
+exacerbated respiratory disease, or both.                               periods. All patients provided written informed consent
+                                                                        before participating in the trials.
+Methods
+Study design                                                            Randomisation and masking
+LIBERTY NP SINUS-24 and LIBERTY NP SINUS-52                             In SINUS-24, patients were randomly assigned (1:1) to
+were two multinational, multicentre, randomised, double-                dupilumab 300 mg every 2 weeks or to matching
+blind, placebo-controlled, parallel-group studies assessing             placebo. In SINUS-52, patients were randomly assigned
+the efficacy and safety of dupilumab in patients with severe            (1:1:1) to dupilumab 300 mg every 2 weeks for 52 weeks
+uncontrolled CRSwNP. SINUS-24 was done in 67 hospitals                  (group A), the same schedule for the first 24 weeks
+or clinical centres in 13 countries (Bulgaria, Czechia,                 followed by dupilumab 300 mg every 4 weeks (group B),
+France, Germany, Hungary, Italy, the Netherlands, Poland,               or placebo (group C).
+Romania, Ukraine, Russia, the UK, and the USA).                           Patients were randomly assigned centrally with a
+SINUS-52 was done in 117 hos­pitals or clinical centres in              permuted block randomisation schedule by Interactive
+14 countries (Argentina, Australia, Belgium, Canada,                    Voice Response System or Interactive Web Response
+Chile, Israel, Mexico, Portugal, Russia, Spain, Sweden,                 System. Randomisations and allocations were done with
+Turkey, Japan, and the USA). Details of the study designs               use of ClinPhone from Parexel (Waltham, MA, USA),
+and multiplicity-controlled testing hierarchy are presented             which generated the patient randomisation list and
+in the appendix (pp 11–12). The trials consisted of a 4-week            treatment assignment. Site personnel had access to the         See Online for appendix
+run-in period, a treatment period (24 weeks in SINUS-24                 portal, did interactive response technology calls, and
+and 52 weeks in SINUS-52), and a follow-up period                       received corresponding notifications from ClinPhone.
+(24 weeks in SINUS-24 and 12 weeks in SINUS-52). The                    The randomisation block size was four for SINUS-24 and
+protocols were developed by the sponsors in collaboration               six for SINUS-52. Randomisation was stratified by
+with the principal investigators. The local institutional               asthma or NSAID-exacerbated respiratory disease status
+review board or ethics committee at each study centre                   at screening (visit 1), previous surgery at screening,
+oversaw trial conduct and documentation.                                and country. The sponsor provided the randomisation
+                                                                        scheme to the centralised treatment allocation system
+Patients                                                                and treatments were allocated to the patients accordingly.
+Eligibility criteria were the same for both studies                     Both patients and investigators were masked to the
+(appendix pp 7–8). Eligible patients were aged 18 years                 assigned drug, with active drug or matching placebo
+
+
+www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1                                                              3
+    Articles
+
+
+
+
+               used in identical prefilled syringes labelled with a              were transferred to the SAS environment for statistical
+               treatment kit number. Treatment group information was             analysis.
+               masked in data transfers from Parexel to the sponsor
+               until database lock.                                              Outcomes
+                                                                                 The coprimary endpoints in both studies were change
+               Procedures                                                        from baseline in both endoscopic NPS and nasal
+               During the 4-week run-in period and throughout the trial,         congestion severity (based on monthly average of daily
+               patients received 100 mg of mometasone furoate nasal              score recorded by patients) at week 24. Preplanned sub­
+               spray (MFNS) in each nostril twice daily. Afterwards,             groups for assessing consistency in treatment effects are
+               patients in SINUS-24 received either 300 mg of sub­               listed in the appendix (pp 9–10).
+               cutaneous dupilumab every 2 weeks or placebo for                     Key secondary endpoints were change from baseline at
+               24 weeks. Patients in SINUS-52 received dupilumab                 week 24 in sinus opacification, assessed by Lund-Mackay
+               300 mg every 2 weeks for 52 weeks, received dupilumab             CT score (third coprimary endpoint in Japan); patient-
+               300 mg every 2 weeks for the first 24 weeks followed by           reported total symptom score (a composite severity
+               extending the treatment schedule to dupilumab every               score consisting of the sum of daily symptoms of nasal
+               4 weeks until reaching a total of 52 weeks, or received           congestion, loss of smell, and anterior or posterior
+               placebo throughout. Patients in SINUS-24 were followed            rhinorrhoea); daily loss of smell or smell impairment;
+               up during an additional 24 weeks, and patients in                 SNOT-22 score; and UPSIT smell test. Multiplicity-tested
+               SINUS-52 were followed up for an additional 12 weeks. In          key secondary endpoints for SINUS-52 were change
+               SINUS-24, visits were scheduled every 2 weeks from                from baseline at week 52 in NPS, nasal congestion, and
+               randomisation to week 8 and at weeks 16 and 24, with              SNOT-22 score (group A alone). NPS and Lund-Mackay
+               follow-up visits at week 36 and 48. From week 10,                 CT scan scoring was done centrally by masked review of
+               home administration of the study drug by patients or              the video recordings of standardised endoscopies (for
+               caregivers occurred every 2 weeks, with optional visits for       NPS) and sinus images (for Lund-Mackay CT).
+               administration scheduled at weeks 10–14 and 18–22. CT                Data from the two studies were pooled to assess the
+               scans were done at baseline, week 24, and week 48. Nasal          proportion of patients requiring systemic corticosteroids
+               endoscopy, University of Pennsylvania Smell Identi­               or sinonasal surgery (done or planned) during the
+               fication Test (UPSIT), 22-item Sino-Nasal Outcome Test            treatment period. Changes from baseline at week 24
+               (SNOT-22), visual analog scale for rhinosinusitis, and            in FEV₁ and ACQ-6 scores were assessed in the pooled
+               spirometry and six-item Asthma Control Questionnaire              subset with comorbid asthma.
+               (ACQ-6) in patients with asthma were administered at                 The proportion of patients with at least a 1-point or
+               weeks 0, 8, 16, 24, and 48. Laboratory tests for biomarkers       2-point improvement in NPS score was also reported,
+               were done at weeks 0 and 24. In SINUS-52, visits were             along with change from baseline in rhinosinusitis
+               scheduled every 2 weeks from randomisation to week 8,             disease severity assessed by a visual analog scale (score
+               and at weeks 16, 24, 40, and 52, with a follow-up visit at        0–10 cm, >7 cm indicating severe disease) and peak
+               week 64. From week 10, home administration of study               nasal inspiratory flow.
+               drug by patients or caregivers occurred every 2 weeks,               Safety assessments included vital signs, physical exa­
+               with optional visits for administration scheduled at weeks        mination, clinical laboratory assessment, 12-lead electro­
+               10–14, 18–22, 26–38, and 42–50. CT scans were done at             cardiogram findings, and incidence of adverse events
+               baseline, week 24, and week 52. Nasal endoscopy, UPSIT            and serious adverse events. For SINUS-52, we also
+               smell test, SNOT-22, and visual analog scale for                  assessed changes in blood eosinophil count; serum total
+               rhinosinusitis were administered at weeks 0, 4, 8, 16, 24,        IgE; thymus and activation-regulated chemokine (TARC;
+               40, and 52. Spirometry and ACQ-6 in patients with                 also known as C-C motif chemokine 17), peri­ostin, and
+               asthma were administered at weeks 0, 4, 16, 24, 40, and           plasma eotaxin-3 (also known as C-C motif chemokine 26)
+               52. Laboratory tests for blood biomarkers were done at            concentrations; and eosinophil cationic protein (ECP)
+               weeks 0, 24, and 52 and for nasal secretion biomarkers            and eotaxin-3 concentrations and total IgE in nasal
+               were done at weeks 0 and 24.                                      secretions.
+                 Both studies used the Medidata Rave system as the data
+               repository for site and patient data. Cognizant Technology        Statistical analysis
+               Solutions did database setup, data reconciliation, and            On the basis of a previous phase 2 study,27 we estimated
+               data review and cleaning. Data were recorded in source            that a sample size of approximately 120 patients per
+               documents at the sites for data from electronic case              treatment group would give the SINUS-24 study
+               report forms or directly in the systems for some external         98% power (two-tailed test at an α level of 0·05) to detect
+               data. Investigators approved all electronic case report           an effect size of 0·588 in NPS (on the basis of assumed
+               form data by applying electronic signatures directly to           mean difference of 1·24 and common SD of 2·11), and
+               the system. Once all data were clean and approved by              95% power to detect an effect size of 0·534 in nasal
+               the site, the database was extracted and locked, and data         congestion (on the basis of assumed mean difference
+
+
+4                                                 www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1
+                                                                                                                                                                               Articles
+
+
+
+
+  LIBERTY NP SINUS–24                                                          LIBERTY NP SINUS–52
+
+             506 patients screened                                                                            806 patients screened
+
+
+
+                                 230 ineligible                                                                                  358 ineligible
+
+
+
+             276 randomly assigned                                                                            448 randomly assigned
+
+
+
+
+    133 assigned to placebo                143 assigned to dupilumab              153 assigned to placebo               145 assigned to dupilumab             150 assigned to dupilumab
+        every 2 weeks                          every 2 weeks                          every 2 weeks                         every 2 weeks until week 24           every 2 weeks
+                                                                                                                            and every 4 weeks from
+                                                                                                                            weeks 24 to 52
+
+
+
+             7 discontinued treatment               5 discontinued treatment              19 discontinued treatment               3 discontinued treatment              7 discontinued treatment
+               before week 24                         before week 24                         before week 24                         before week 24                        before week 24
+               3 adverse event                        5 adverse event                        10 adverse event                       1 no treatment efficacy               4 adverse event
+               1 no treatment efficacy                                                        3 no treatment efficacy               2 other reasons                       3 other reasons
+               0 poor compliance                                                              1 poor compliance
+               3 other reasons                                                                5 other reasons
+
+
+
+            25 had SCS or surgery                  10 had SCS or surgery                  44 had SCS or surgery                  10 had SCS or surgery                 16 had SCS or surgery
+               before week 24                         before week 24                        before week 24                          before week 24                        before week 24
+
+
+
+    130 completed 24-week study            141 completed 24-week study            148 completed 24-week study           144 completed 24-week study           147 completed 24-week study
+        period                                 period                                 period                                period                                period
+
+
+
+             9 discontinued study                    4 discontinued study                 31 discontinued treatment               5 discontinued treatment             13 discontinued treatment
+               before week 48                          before week 48                        before week 52                         before week 52                        before week 52
+               3 adverse event                         2 adverse event                       16 adverse event                       1 adverse event                       6 adverse event
+               6 other reasons                         2 other reasons                        8 no treatment efficacy               2 no treatment efficacy               1 no treatment efficacy
+                                                                                              1 poor compliance                     2 other reasons                       6 other reasons
+                                                                                              6 other reasons
+
+
+
+                                                                                          66 had SCS or surgery                  17 had SCS or surgery                 22 had SCS or surgery
+                                                                                            before week 52                          before week 52                        before week 52
+
+
+
+    124 completed study period             138 completed study period             140 completed 52-week study           142 completed 52-week study           146 completed 52-week study
+                                                                                      period                                period                                period
+
+
+
+    133 included in                        143 included in                        153 included in                       145 included in                       150 included in
+        intention-to-treat                     intention-to-treat                     intention-to-treat                    intention-to-treat                    intention-to-treat
+        population                             population                             population                            population                            population
+
+
+Figure 1: Patient disposition and trial profile
+Some patients who discontinued treatment before week 24 continued to participate in the study, follow-up, or both. SCS=systemic corticosteroid.
+
+
+of 0·55 and common SD of 1·03) at week 24 in the                                   98% combined power. All sample size calculations were
+dupilumab group, with 93% combined power for both                                  done with nQuery Advisor 7.
+endpoints, assuming no negative correlation between                                  We did efficacy analyses in the intention-to-treat
+endpoints. SINUS-24 had an equal allocation ratio.                                 population, defined as all patients who were randomly
+SINUS-52 had three arms, randomised 1:1:1. The pooling                             assigned; data were analysed according to assigned
+of groups A and B for the primary analyses resulted in the                         intervention, whether received or not. Primary and
+use of an allocation ratio of 2:1 to assess the sample size.                       key secondary endpoints were prospectively defined,
+The pooling of groups A and B at week 24 (approximately                            multiplicity-adjusted, and analysed with a hybrid of the
+240 patients) would give 99% power to detect the same                              worst observation carried forward (WOCF) and multiple
+effect size as previously described for NPS and nasal                              imputation methods, followed by an ANCOVA model
+congestion in patients treated with dupilumab, with                                with the baseline value of the corresponding endpoint,
+
+
+www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1                                                                                                 5
+           Articles
+
+
+
+
+                                                                LIBERTY NP SINUS-24                               LIBERTY NP SINUS-52                                                       Overall population
+                                                                                                                                                                                            (n=724)
+                                                                Placebo                   Dupilumab               Placebo                 Dupilumab,                 Dupilumab,
+                                                                (n=133)                   q2w (n=143)             (n=153)                 q2w–q4w (n=145)            q2w (n=150)
+     Age (years)                                                  50 (41–60)                52 (39–61)              53 (44–61)              53 (42–63)                51 (42–61)              52 (42–61)
+     Sex
+       Men                                                        70 (53%)                  88 (62%)               95 (62%)                 87 (60%)                  97 (65%)               437 (60%)
+       Women                                                      63 (47%)                  55 (38%)               58 (38%)                 58 (40%)                  53 (35%)               287 (40%)
+     Body-mass index (kg/m²)                                      28·36 (5·76)              27·49 (5·11)            27·91 (5·50)            27·96 (5·51)              27·96 (5·53)            27·93 (5·47)
+     Nasal polyp duration (years)                                 10·77 (8·57)              11·42 (9·69)           10·88 (9·40)             10·67 (9·12)               11·28 (10·38)          11·01 (9·45)
+     Nasal polyp surgery
+       ≥1 previous surgery                                        99 (74%)                  99 (69%)               88 (58%)                 85 (59%)                  88 (59%)               459 (63%)
+       ≥3 previous surgeries                                      29 (22%)                  33 (23%)               18 (12%)                  9 (6%)                   22 (15%)               111 (15%)
+     Time since most recent nasal polyp surgery (years)            5·54 (5·07)               5·93 (5·57)             8·77 (7·15)             8·41 (6·83)                7·54 (7·02)             7·16 (6·44)
+     Systemic corticosteroid use in the preceding 2 years         87 (65%)                  92 (64%)              122 (80%)                116 (80%)                 121 (81%)               538 (74%)
+     Bilateral endoscopic nasal polyp score* (scale 0–8)           5·86 (1·31)               5·64 (1·23)             5·96 (1·21)             6·29 (1·20)                6·07 (1·22)             5·97 (1·25)
+     Nasal congestion or obstruction score* (scale 0–3)            2·45 (0·55)               2·26 (0·57)             2·38 (0·54)             2·44 (0·59)                2·48 (0·62)             2·40 (0·58)
+     SNOT-22 total score* (scale 0–110)                           50·87 (20·22)             48·00 (20·16)           53·48 (21·85)           51·89 (21·05)             50·16 (19·72)           50·94 (20·66)
+     Smell test (UPSIT) score* (scale 0–40)                       14·44 (8·31)              14·68 (8·66)            13·78 (8·31)            13·60 (7·57)               13·46 (8·20)           13·98 (8·21)
+     Loss-of-smell score* (scale 0–3)                              2·73 (0·51)               2·70 (0·57)             2·72 (0·52)             2·73 (0·59)                2·81 (0·46)             2·74 (0·53)
+     Lund-Mackay CT total score* (scale 0–24)                     19·55 (4·26)              18·55 (4·55)            17·65 (3·76)            17·81 (3·89)              18·42 (3·61)            18·37 (4·06)
+     Rhinosinusitis disease severity* (visual analog               7·96 (2·06)               7·42 (2·01)             7·98 (2·22)              7·78 (2·20)               8·24 (1·77)             7·88 (2·07)
+     scale 0–10 cm)
+     Baseline peak nasal inspiratory flow* (L/min)                83·52 (56·30)             98·59 (56·70)          87·47 (56·14)            84·86 (59·98)             80·96 (50·15)           87·07 (56·08)
+     Baseline blood eosinophils (× 10⁹ cells per L)                0·44 (0·31)               0·44 (0·35)             0·45 (0·36)             0·40 (0·30)                0·45 (0·39)             0·43 (0·34)
+     Baseline total IgE (IU/mL)                                  222·55 (269·11)           202·06 (282·37)        227·80 (267·13)          282·28 (463·72)           210·82 (256·78)         229·21 (318·13)
+     Baseline eotaxin-3 (pg/mL)                                   67·36 (73·53)             74·94 (63·36)          90·84 (111·25)           83·36 (164·07)            70·61 (45·16)           77·72 (101·81)
+     Any type 2 medical history, including asthma or              99 (74%)                 109 (76%)              127 (83%)                120 (83%)                 122 (81%)               577 (80%)
+     NSAID-exacerbated respiratory disease
+     Asthma                                                       79 (59%)                  82 (57%)               91 (59%)                 91 (63%)                  85 (57%)               428 (59%)
+     NSAID-exacerbated respiratory disease                        38 (29%)                  46 (32%)               44 (29%)                 41 (28%)                  35 (23%)               204 (28%)
+     Any type 2 medical history, excluding asthma or              75 (56%)                  81 (57%)               98 (64%)                 99 (68%)                  96 (64%)               449 (62%)
+     NSAID-exacerbated respiratory disease
+     Age of onset of asthma in patients with comorbid             33·42 (15·42)             38·28 (13·96)           33·29 (16·14)           33·57 (18·18)             35·54 (15·57)           34·78 (16·01)
+     asthma (years)
+    Data are n (%) or mean (SD), unless otherwise specified. Region was a covariate in these studies and is not reported in this table. Direct statistical comparisons between the groups for demographics and
+    characteristics were not prespecified, and therefore were not done. q2w=every 2 weeks. q4w=every 4 weeks. SNOT-22=22-item Sino-Nasal Outcome Test. UPSIT=University of Pennsylvania Smell
+    Identification Test. NSAID=non-steroidal anti-inflammatory drug. *Higher scores indicate greater disease severity except for UPSIT and peak nasal inspiratory flow, for which higher scores indicate lower
+    disease severity.
+
+    Table 1: Patient baseline demographics and clinical characteristics (intention-to-treat population)
+
+
+
+                                     treatment, asthma or NSAID-exacerbated respiratory                                         without rescue by surgery or systemic corticosteroids, we
+                                     disease status, surgery history, and study region as                                       used a multiple imputation approach to impute missing
+                                     covariates. Statistical inference, including the least                                     values, using all patients who had not been rescued by
+                                     squares means obtained from all 40 imputed data, were                                      surgery or were not receiving systemic corticosteroids.
+                                     combined by use of Rubin’s rule.                                                             We implemented a hierarchical multiplicity procedure
+                                       For patients who underwent nasal polyps surgery or                                       to control the overall type 1 error rate for testing the
+                                     received systemic corticosteroids for any reason, data                                     coprimary and selected key secondary endpoints.
+                                     collected post-surgery (actual date) or post-systemic                                      The overall α was 0·05. We tested comparisons with
+                                     corticosteroid treatment were set to missing in the WOCF-                                  placebo on the basis of a hierarchical order (appendix p 12),
+                                     multiple imputation approach, and the worst post-baseline                                  with two-sided α=0·05. In SINUS-52, groups A and B
+                                     value on or before the time of surgery or systemic                                         were pooled at week 24 for analysis. At week 52, each
+                                     corticosteroid treatment was used to impute missing week                                   of the active treatment groups were compared only
+                                     24 or 52 values (depending on the study; baseline values                                   with placebo.
+                                     were used for patients whose post-baseline values were                                       We preplanned a pooled integrated assessment of the
+                                     all missing). For patients who discontinued treatment                                      efficacy data from SINUS-24 and SINUS-52 before the
+
+
+6                                                                                       www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1
+                                                                                                                                                                                                      Articles
+
+
+
+
+database lock. In this single-stage, fixed-effect individual            interpretation, and development of the report, and gave
+data meta-analysis, we did two multiplicity-adjusted                    approval to submit for publication. The corresponding
+analyses: change from baseline at week 24 in FEV₁ and                   author had full access to all the data in the study and
+proportion of patients requiring systemic corticosteroids               had final responsibility for the decision to submit for
+or nasal polyp surgery (actual or planned) during the                   publication.
+entire treatment period (dupilumab every 2 weeks and
+placebo) of both studies.                                               Results
+  For the pooled analysis of the change from baseline at                Between Dec 5, 2016, and Aug 3, 2017, patients were
+week 24 in FEV₁, all dupilumab groups and placebo                       enrolled in SINUS-24, with 276 patients randomly
+groups in both studies were pooled at week 24. We                       assigned to dupilumab every 2 weeks (n=143) or placebo
+used the same method of WOCF-multiple imputation                        (n=133; figure 1). The final patient treatment was done
+followed by an ANCOVA model for statistical analysis,                   on July 5, 2018. Between Nov 28, 2016, and Aug 28, 2017,
+with an additional covariate of the study indicator in the              patients were enrolled in SINUS-52, with 448 patients
+ANCOVA model.                                                           randomly assigned to placebo (n=153), dupilumab every
+  For the proportion of patients requiring systemic                     2 weeks (n=150), or dupilumab every 2 weeks until
+corticosteroids or nasal polyp surgery (actual or planned)              week 24 and every 4 weeks until week 52 (n=145;
+during the treatment period, we pooled the entire                       figure 1). The final patient treatment was done on
+dupilumab every 2 weeks treatment period (group A up                    Aug 29, 2018. Both trials were unmasked simulta­
+to 52 weeks and B up to 24 weeks from SINUS-52 and                      neously once the SINUS-52 treatment period and
+the dupilumab group from SINUS-24) from both                            SINUS-24 study were completed.
+studies, and we included a forced censor for the                          In SINUS-24, 12 (4%) of 276 patients discontinued
+SINUS-52 group B at week 24. The entire placebo                         treatment before week 24, and 13 (5%) patients discon­
+treatment period, of up to 52 weeks for SINUS-52 and                    tinued from the study; one patient was randomly assigned,
+up to 24 weeks for SINUS-24, was pooled as well. The                    but not treated, and the primary reason for discontinuation
+probability that a patient in each treatment group would                was occurrence of adverse events (figure 1). In SINUS-52,
+require rescue at week 52 was determined with the Cox                   29 (6%) of 448 patients discontinued before week 24,
+proportional hazards model and the Kaplan-Meier                         and 49 (11%) patients discontinued treatment before
+method. The Cox model used the event as the dependent
+variable and the study indicator, treatment group,                                                                  Placebo      Dupilumab every 2 weeks            Dupilumab every 2 weeks until week 24 and
+                                                                                                                    Treatment ended at week 24                      every 4 weeks until week 52
+asthma or NSAID-exacerbated respiratory disease strata,
+previous surgery strata, and study region as covariates.                                                 A Nasal polyp score
+                                                                                                         0·5                     SINUS-24                                                    SINUS-52
+We estimated hazard ratios (HRs) and corresponding
+95% CIs and p values for dupilumab every 2 weeks                                                          0
+
+
+
+
+                                                                         LS mean change from baseline
+versus placebo. We used a Kaplan-Meier curve to derive                                                  –0·5
+                                                                                                                                                         Off treatment
+the probability that a patient would have an event up to
+                                                                                                        –1·0
+week 52, with point probabilities and corresponding
+95% CIs calculated.                                                                                     –1·5
+  We planned a pooled integrated assessment of the                                                      –2·0                                                                                      *
+safety adverse event data from SINUS-24 and SINUS-52,                                                                                      *
+                                                                                                        –2·5                                                                                                         *
+focusing on the first 24 weeks of treatment, combining                                                    e      4       8     16     24        36       40        48       4     8    16    24       36   40   48   52
+both dupilumab groups in SINUS-52 up to week 24 with                                          Ba
+                                                                                                        selin                                                  selin
+                                                                                                                                                                 Ba
+                                                                                                                                                                     e
+the dupilumab group in SINUS-24 and the placebo
+groups in both studies until week 24. The safety                                                          B Nasal congestion or obstruction
+population was defined as all patients exposed to the                                                     0
+                                                                                                        –0·2
+
+
+
+
+                                                                         LS mean change from baseline
+investigational medicinal product, regardless of the                                                                                      Off treatment
+amount of exposure. We assessed long-term safety up to                                                  –0·4
+
+week 52 of treatment in SINUS-52.                                                                       –0·6
+
+  An independent data monitoring committee reviewed                                                     –0·8
+
+safety data throughout the trial, meeting every 3 to                                                    –1·0
+
+6 months. These trials are registered at Clinicaltrials.gov,                                            –1·2
+
+NCT02912468 (SINUS-24) and NCT02898454 (SINUS-52).                                                      –1·4
+                                                                                                                                      *                                                       *
+We used SAS, version 9.4, for statistical analyses. The                                                 –1·6                                                                                                         *
+
+appendix (pp 9–10) gives further details of these analyses.
+                                                                                                          e
+                                                                                                         lin    4    8
+                                                                                                                    12
+                                                                                                                    16         20
+                                                                                                                               24     28       32   36   40
+                                                                                                                                                         44    48    lin
+                                                                                                                                                                         e
+                                                                                                                                                                         4    8
+                                                                                                                                                                             12
+                                                                                                                                                                             16
+                                                                                                                                                                             20
+                                                                                                                                                                             24                28     32
+                                                                                                                                                                                                      36
+                                                                                                                                                                                                      40         48
+                                                                                                                                                                                                                44
+                                                                                                                                                                                                                 52
+                                                                                                        se                                                          se
+                                                                                              Ba                                                                 Ba
+                                                                                                                          Treatment period (weeks)                                   Treatment period (weeks)
+
+Role of the funding source                                              Figure 2: Change from baseline over time in nasal polyp score (A) and nasal congestion or obstruction (B) in
+The external authors and study sponsors participated                    SINUS-24 and SINUS-52
+in the study design, data collection, data analysis, data               Error bars denote SE. LS=least squares. *p<0·0001.
+
+
+www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1                                                                                                                      7
+8
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                              Articles
+
+
+
+
+                                                                                                                                       Testing   LIBERTY NP SINUS-24                                                                                     LIBERTY NP SINUS-52
+                                                                                                                                       hierarchy
+                                                                                                                                       position
+                                                                                                                                                    Placebo (n=133)                     Dupilumab q2w (n=143)              LS mean difference vs         Placebo (n=153)                     Dupilumab q2w (n=295)*              LS mean difference vs
+                                                                                                                                                                                                                           placebo (95% CI; p value)                                                                             placebo (95% CI; p value)
+                                                                                                                                                    Mean (SD)         LS mean           Mean (SD)         LS mean                                        Mean (SD)         LS mean           Mean (SD)         LS mean
+                                                                                                                                                                      change from                         change from                                                      change from                         change from
+                                                                                                                                                                      baseline (SE)                       baseline (SE)                                                    baseline (SE)                       baseline (SE)
+                                                                                                       Primary endpoints at week 24
+                                                                                                       Bilateral nasal polyp score      1             5·94 (1·44)       0·17 (0·15)       3·75 (1·98)       –1·89 (0·14)     –2·06 (–2·43 to –1·69;        6·09 (1·19)       0·10 (0·14)       4·46 (1·89)       –1·71 (0·11)      –1·80 (–2·10 to –1·51;
+                                                                                                       (scale 0–8)                                                                                                         p<0·0001)                                                                                             p<0·0001)
+                                                                                                       Nasal congestion or              1             1·90 (0·85)      –0·45 (0·07)       0·94 (0·75)       –1·34 (0·07)     –0·89 (–1·07 to –0·71;        2·02 (0·77)      –0·38 (0·07)       1·19 (0·90)       –1·25 (0·06)     –0·87 (–1·03 to –0·71;
+                                                                                                       obstruction score (scale 0–3)                                                                                       p<0·0001)                                                                                             p<0·0001)
+                                                                                                       Key secondary endpoints at week 24
+                                                                                                       Lund–Mackay CT score             2            18·97 (4·51)      –0·74 (0·37)     10·89 (4·82)       –8·18 (0·34)      –7·44 (–8·35 to –6·53;       17·73 (3·81)      –0·09 (0·31)      12·86 (3·87)       –5·21 (0·24)      –5·13 (–5·80 to –4·46;
+                                                                                                       (scale 0–24)                                                                                                        p<0·0001)                                                                                             p<0·0001)
+                                                                                                       Total symptom score              3             6·02 (2·02)      –1·17 (0·17)       3·16 (1·93)      –3·77 (0·16)      –2·61 (–3·04 to –2·17;        6·08 (1·97)      –1·00 (0·20)       3·77 (2·44)       –3·45 (0·15)      –2·44 (–2·87 to –2·02;
+                                                                                                       (scale 0–9)                                                                                                         p<0·0001)                                                                                             p<0·0001)
+                                                                                                       Smell test score (UPSIT;         4            14·56 (8·58)       0·70 (0·71)     25·39 (9·49)       11·26 (0·67)     10·56 (8·79 to 12·34;         13·30 (7·96)      –0·81 (0·71)      23·89 (9·21)        9·71 (0·56)     10·52 (8·98 to 12·07;
+                                                                                                       scale 0–40)                                                                                                         p<0·0001)                                                                                             p<0·0001)
+                                                                                                       Loss-of-smell score              5             2·50 (0·77)      –0·29 (0·07)       1·35 (0·99)       –1·41 (0·07)     –1·12 (–1·31 to –0·93;        2·49 (0·79)      –0·23 (0·08)       1·55 (1·02)       –1·21 (0·06)     –0·98 (–1·15 to –0·81;
+                                                                                                       (scale 0–3)                                                                                                         p<0·0001)                                                                                             p<0·0001)
+                                                                                                       SNOT-22 score (scale 0–110)      6            40·49 (23·06)     –9·31 (1·62)     18·58 (14·92)     –30·43 (1·54)     –21·12 (–25·17 to –17·06;     42·16 (23·26)    –10·40 (1·61)      23·89 (18·77) –27·77 (1·26)         –17·36 (–20·87 to –13·85;
+                                                                                                                                                                                                                           p<0·0001)                                                                                             p<0·0001)
+                                                                                                       Key secondary endpoints at week 52
+                                                                                                       Bilateral nasal polyp score      7               ··               ··                ··                 ··                ··                         6·10 (1·52)       0·15 (0·15)      3·76 (2·20;       –2·24 (0·15;       –2·40 (–2·77 to –2·02;
+                                                                                                       (scale 0–8)                                                                                                                                                                           n=150)†           n=150)†           p<0·0001)
+                                                                                                       Nasal congestion or              8               ··               ··                ··                 ··                ··                         2·04 (0·78)     −0·37 (0·08)       1·10 (0·92;       –1·35 (0·07;      –0·98 (–1·17 to –0·79;
+                                                                                                       obstruction score (scale 0–3)                                                                                                                                                         n=150)†           n=150)†           p<0·0001)
+                                                                                                       SNOT-22 score (scale 0–110)      9               ··               ··                ··                 ··                ··                        44·05 (22·66) −8·88 (1·61)         21·67 (19·16; –29·84 (1·63;          –20·96
+                                                                                                                                                                                                                                                                                             n=150)†       n=150)†               (–25·03 to –16·89;
+                                                                                                                                                                                                                                                                                                                                 p<0·0001)
+                                                                                                      Endpoints were multiplicity-tested. More details on position within testing hierarchy can be found in the appendix (p 12). On the basis of published thresholds for clinical meaningfulness for SNOT-22,28 changes in the outcomes can be considered
+                                                                                                      clinically meaningful. q2w=every 2 weeks. LS=least squares. UPSIT=University of Pennsylvania Smell Identification Test. SNOT-22=22-item Sino-Nasal Outcome Test. *Pooling of groups A (patients treated up to 52 weeks) and B (patients treated up to
+                                                                                                      24 weeks from SINUS-52 and SINUS-24). †Group A.
+
+                                                                                                      Table 2: Summary of primary and key secondary efficacy endpoints for each intention-to-treat population of SINUS-24 and SINUS-52
+www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1
+                                                                                                                                                                                        Articles
+
+
+
+
+week 52; one patient was randomly assigned, but not                       Lund-Mackay CT scores improved significantly in
+treated. Occurrence of adverse events was the most                      dupilumab groups at week 24 compared with those of
+common reason for treatment discon­tinuation (figure 1).                placebo groups (table 2, appendix p 13), with improve­
+  Baseline demographics and characteristics were                        ments seen in all sinuses (appendix p 15). Patients with
+balanced across the treatment groups within each                        comorbid asthma, NSAID-exacerbated respiratory dis­
+study and across both studies and were consistent with a                ease, or previous surgery showed similar improve­ments
+population with severe, inadequately controlled CRSwNP,                 (appendix pp 25–27). Improvements in SNOT-22 scores
+on the basis of the ubiquity of chronic rhinosinusitis                  with dupilumab treatment exceeded the minimal clinically
+symptoms, bilateral obstructive polyps, and extensive                   important difference of an 8·9-point improvement or
+involvement of the sinuses (table 1). Most patients                     higher28 and were significant compared with those with
+(705 [97%] of 724) had either previously received systemic              placebo (table 2, appendix p 13). Results of the UPSIT
+corticosteroids (64–81%) or sinonasal surgery (58–74%).                 smell test showed that the proportion of patients with
+Approximately 551 (76%) of 724 patients had anosmia                     anosmia (UPSIT score of ≤18) in the dupilumab groups
+at baseline, 428 (59%) had comorbid asthma, and                         decreased in SINUS-24 from 104 (74%) of 140 patients
+204 (28%) had NSAID-exacer­bated respiratory disease.                   at baseline to 33 (24%) of 138 at week 24 and in
+Mean baseline FEV₁ in patients with asthma was 2·61 L                   SINUS-52 from 228 (79%) of 287 patients to 84 (30%)
+(percent predicted 84% [18·70]) and ACQ-6 score was                     of 280 at week 24, with almost no change observed in
+1·59, suggesting inadequately controlled asthma. Most                   the placebo group (appendix p 29). Patients treated with
+patients (388 [91%] of 427) in this subgroup had received               dupilumab in both studies had a substantial reduction
+asthma medi­   cations, primarily inhaled corticosteroids               in rhinosinusitis disease severity assessed with visual
+and long-acting β-agonists (282 [74%] of 382), in the                   analog scale and improvement in peak nasal inspiratory
+preceding year.                                                         flow and rhinorrhoea daily symptom score at week 24
+  The improvement in endoscopic NPS at week 24 was                      (prespecified secondary analyses; appendix p 30).
+significantly greater with dupilumab treatment than with                  The magnitude of additional improvements observed
+placebo in both studies (figure 2, table 2). In the placebo             for NPS and Lund-Mackay CT scan scores from week 24
+group treated with standard of care, NPS worsened at                    to week 52 in SINUS-52 were numerically greater in
+week 24 and week 52. Dupilumab treatment also sig­                      patients who continued the dupilumab every 2 weeks
+nificantly improved patient-reported nasal congestion                   regimen (group A) than in those who switched to a dose
+scores compared with placebo (figure 2, table 2). We                    every 4 weeks (group B; NPS: −0·53 for group A and
+observed improvements in NPS and nasal congestion as                    −0·31 for group B; Lund-Mackay CT scan score −1·37 for
+early as the first assessment timepoint after the start of              group A and −0·62 for group B). Additional improve­
+dupilumab treatment (within the first 4 to 8 weeks),                    ments for nasal congestion and the other secondary
+with continued improvement evident up to the end of                     endpoints from week 24 to week 52 were similar
+treatment in both studies.                                              between groups (appendix p 31).
+  We also observed improvements in NPS and nasal                          In a prespecified pooled analysis, the proportion of
+congestion in patient subgroups with comorbid asthma,                   patients who received treatment with systemic cortico­
+NSAID-exacerbated respiratory disease, or previous                      steroids or effectively underwent sinonasal surgery during
+surgery (appendix pp 25–27). The proportion of patients
+achieving at least a 2-point improvement in NPS at week
+                                                                                                                       80       Placebo
+24 was higher with dupilumab (66 [46%] of 143 patients                                                                          Dupilumab every 2 weeks
+in SINUS-24, and 136 [46%] of 295 patients with                                                                        70
+                                                                                                                            HR 0·243 (95% CI 0·169–0·351)
+SINUS-52) than with placebo (6 [5%] of 133 patients in                                                                 60   p<0·0001
+
+
+
+
+                                                                                           Cumulative event rate (%)
+SINUS-24, and 1 [1%] of 153 in SINUS-52; appendix p 28).
+                                                                                                                       50
+  All multiplicity-adjusted key secondary endpoints                                                                                                                                                      41.8%
+showed significant and clinically relevant improvements                                                                40
+with dupilumab treatment (p<0·0001 in both studies;                                                                    30
+table 2, appendix pp 13–14), with all effects having an
+                                                                                                                       20
+early onset (in the first 2 to 4 weeks of treatment).                                                                                                                                                    12.5%
+The magnitude of improvements in patient subgroups                                                                     10
+with comorbid asthma, NSAID-exacerbated respira­tory                                                                    0
+disease, or previous surgery was similar to that of                                                                    Baseline 4    8     12    16    20    24     28    32     36    40    44    48      52
+improvements in the overall treatment population.                                Number at risk
+                                                                                                                                                      Treatment period (weeks)
+Patients treated with dupilumab in SINUS-52 had                                          Placebo 286                          276   260   253   238    224   187    99    97      93    91    86    83      61
+                                                                         Dupilumab every 2 weeks 438                          423   416   411   407    404   376   131   129     129   127   127   127     100
+progressive improvement up to week 52 (figure 2, table 2,
+appendix pp 13–14), whereas symptoms worsened after                     Figure 3: Time to first systemic corticosteroid use or nasal polyp surgery during the treatment period in the
+discontinuation of dupilumab at week 24 in patients in                  pooled analysis of SINUS-24 and SINUS-52
+SINUS-24.                                                               HR=hazard ratio.
+
+
+
+www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1                                                                                                          9
+           Articles
+
+
+
+
+                                               Testing   Pooled            Pooled      HR vs placebo (95% CI; Pooled placebo with                         Pooled dupilumab q2w with comorbid asthma
+                                               hierarchy placebo           dupilumab   p value)               comorbid asthma (n=170)                     (n=258)
+                                               position (n=286)            q2w (n=438)
+                                                                                                                         Week 24           LS mean        Week 24       LS mean      LS mean difference vs
+                                                                                                                         mean (SD)         change from    mean (SD)     change from placebo (95% CI;
+                                                                                                                                           baseline at                  baseline at  p value)
+                                                                                                                                           week 24 (SE)                 week 24 (SE)
+     Prespecified pooled analysis
+     Patients requiring rescue with systemic 10                97 (34%)      42 (10%)        0·243 (0·169 to 0·351;           ··             ··            ··             ··             ··
+     corticosteroids or nasal polyp surgery                                                  p<0·0001)
+     (n [%])
+     Total patient-years followed up (years)     ··          208·4         280·1               ··                             ··             ··            ··             ··             ··
+     Prespecified pooled asthma analyses
+     FEV₁ (L)                                  11                ··             ··             ··                            2·57 (0·80)   –0·07 (0·04)   2·76 (0·91)    0·14 (0·03)    0·21 (0·13 to 0·29;
+                                                                                                                                                                                       p<0·0001)
+     ACQ-6 (scale 0–6)                           ··              ··             ··             ··                            1·52 (1·11)   –0·02 (0·07)   0·70 (0·82)   –0·84 (0·06)   –0·82 (–0·98 to –0·67;
+                                                                                                                                                                                       p<0·0001)
+ On the basis of published thresholds for clinical meaningfulness for ACQ-6,29 changes in the outcome can be considered clinically meaningful. Comparisons of dupilumab versus placebo for endpoints from
+ outside the testing hierarchy are shown with 95% CI. q2w=every 2 weeks. HR=hazard ratio. LS=least squares. FEV₁=forced expiratory volume in 1 s. ACQ-6=six-item Asthma Control Questionnaire.
+
+ Table 3: Prespecified efficacy endpoints in the pooled SINUS-24 and SINUS-52 population
+
+
+                                                                                                                                   with comorbid asthma was 0·43 × 10⁹ cells per L
+                                                              Placebo        Dupilumab Risk difference
+                                                              (n=282)        q2w       (% [95% CI]) dupilumab                      (IQR 0·26–0·65). Improvements in lung function and
+                                                                             (n=440)   q2w vs placebo                              asthma control were similar in patients with comorbid
+     Treatment-emergent adverse events                                                                                             asthma with high (≥0·3 × 10⁹ cells per L) and low
+     Any                                                      208 (74%)      305 (69%)       −6·48 (−13·04 to 0·08)                (<0·3 × 10⁹ cells per L) baseline blood eosinophil counts
+     Any serious                                               16 (6%)         15 (3%)       −2·80 (−6·30 to 0·70)                 (appendix pp 33–34). Prespecified exploratory analyses
+     Any leading to death                                        0              0              0
+                                                                                                                                   of biomarkers in patients treated with dupilumab in
+     Any leading to permanent treatment discontinuation        15 (5%)         11 (3%)       −2·66 (−6·01 to 0·69)
+                                                                                                                                   SINUS-52 showed a consistent decrease in concen­
+     Treatment-emergent adverse events occurring in ≥5% of patients*
+                                                                                                                                   trations of serum total IgE, periostin, TARC, and plasma
+                                                                                                                                   eotaxin-3 at weeks 24 and 52 and in concentrations of
+     Asthma                                                    20 (7%)          7 (2%)              ··
+                                                                                                                                   ECP, total IgE, eotaxin-3, and IL-5 in nasal secretions at
+     Epistaxis                                                 20 (7%)         25 (6%)              ··
+                                                                                                                                   week 24. In both studies, and consistent with previous
+     Headache                                                  24 (9%)         32 (7%)              ··
+                                                                                                                                   dupilumab studies, we observed a transient, but not
+     Injection-site erythema†                                  22 (8%)         28 (6%)              ··
+                                                                                                                                   significant, increase in mean (but not median) blood
+     Nasal polyps                                              33 (12%)        12 (3%)              ··
+                                                                                                                                   eosinophil counts in patients treated with dupilumab. In
+     Nasopharyngitis                                           41 (15%)        55 (13%)             ··
+                                                                                                                                   SINUS-52, eosinophil counts returned to baseline levels
+ Data are n (%) unless otherwise specified. q2w=every 2 weeks. *According to the preferred terms of the Medical                    by the end of the 52-week treatment period (appendix
+ Dictionary for Regulatory Activities; asthma refers to a worsening of asthma, and nasal polyps refers to a worsening of
+ nasal polyps leading to surgery or systemic corticosteroid use. †Injection-site reaction was a prespecified adverse event
+                                                                                                                                   pp 35–37).
+ of interest in the protocol.                                                                                                        Results of post-hoc analysis that excluded patients with
+                                                                                                                                   major or crucial deviations potentially affecting efficacy
+ Table 4: Adverse events that emerged during the intervention period (pooled safety population at week 24)
+                                                                                                                                   analyses were consistent with the primary analysis
+                                                                                                                                   (appendix pp 20–23). Sensitivity analyses including as-
+                                    the treatment period was significantly lower in the pooled                                     observed analysis (accounting for all post-systemic
+                                    dupilumab every 2 weeks group than in the pooled placebo                                       corticosteroid data in patients who received systemic
+                                    group (figure 3). This reduction reflects the reductions                                       corticosteroids for any reason) done in the intention-to-
+                                    seen in the separate HRs for patients who received systemic                                    treat population in both studies supported the robustness
+                                    corticosteroids (74% lower in the dupilumab group than                                         of the results (appendix p 24).
+                                    in placebo) and surgery (83% lower in the dupilumab                                              In the pooled safety population, the incidence of
+                                    group than in placebo; appendix p 32).                                                         adverse events emerging during the 24-week treatment
+                                      In prespecified analyses of the pooled subset of                                             period was lower in the dupilumab group than in the
+                                    patients with comorbid asthma (258 in the dupilumab                                            placebo group (table 4). The most commonly reported
+                                    group and 170 in the placebo group) at week 24, dupilumab                                      adverse events were nasopharyngitis, nasal polyps
+                                    significantly improved lung function (assessed with                                            (worsening nasal polyps, need for nasal polyp surgery or
+                                    FEV₁ in a multiplicity-controlled analysis) and asthma                                         systemic corticosteroids, or both), headache, asthma
+                                    control (assessed with ACQ-6) compared with placebo                                            (worsening of asthma), epistaxis, and injection-site
+                                    (table 3). Median baseline eosinophil count in patients                                        erythema; these events were more frequent with placebo
+
+
+10                                                                                       www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1
+                                                                                                                                       Articles
+
+
+
+
+than with dupilumab (table 4, appendix pp 38–39). Over                  week 24 to week 52 in SINUS-52 was greater in patients
+the 52-week period in SINUS-52, incidences of cough,                    who received dupilumab every 2 weeks for 52 weeks than
+bronchitis, arthralgia, accidental overdose, and injection-             in those who switched to dupilumab every 4 weeks after
+site reactions were slightly more frequent in the two                   week 24. In patients in the placebo groups who received
+dupilumab groups than in placebo (appendix pp 40–41).                   daily MFNS alone, no meaningful improvements were
+Treatment-emergent adverse events of worsening of                       noted in polyp size, CT scan score, or sense of smell.
+nasal polyps and asthma and of sinusitis, arthralgia, and                  The existing treatment approach for severe CRSwNP
+accidental overdose occurred more frequently in patients                is characterised by continuous topical and repeated
+who switched from dupilumab every 2 weeks to every                      systemic corticosteroid use and surgery, resulting in
+4 weeks than in those who remained on dupilumab every                   high risk for morbidity, poor health-related quality of
+2 weeks for the full 52 weeks (appendix pp 40–41).                      life, and sig­nificant economic burden.15,17,30 The goals of
+  In the pooled 24-week safety population, serious                      CRSwNP treatment are to achieve effective and sustained
+adverse events were more common in the placebo group                    symptom control, minimise recurrence of polyps, and
+than in the dupilumab group (table 4). Two deaths                       attain better control of comorbid lower airway disease
+occurred during the study period that were deemed                       while minimising the risk of side-effects associated with
+unrelated to the study drug: one patient given placebo in               systemic corticosteroid use and repeated sinus surgery.
+SINUS-24 had suspected acute myocardial infarction                      Almost all patients (97%) in SINUS-24 and SINUS-52 had
+occurring after the period of treatment-emergent adverse                received systemic corticosteroids or sinonasal surgery
+events, and one treated with dupilumab in SINUS-52 had                  before entering the studies. Compared with placebo,
+intracranial haemorrhage after a fall, occurring within                 dupilumab treatment greatly reduced the use of systemic
+the period of treatment-emergent adverse events.                        corticosteroids and the proportion of patients who had
+Conjunctivitis was reported in seven patients receiving                 sinonasal surgery in the prespecified pooled analyses.
+dupilumab and in one patient receiving placebo;                         Dupilumab also improved symptoms and health-related
+none of these cases were serious, severe, or associated                 quality of life, as reflected by an improvement in
+with treatment discontinuation. Four patients had                       SNOT-22 scores that largely exceeded the threshold for a
+eosinophilia with clinical symptoms reported as                         clinically relevant change.28 Impairment of the sense of
+treatment-emergent adverse events: one patient had                      smell, one of the most troublesome symptoms in
+eosinophilic granulomatosis with polyangiitis (EGPA)                    patients with CRSwNP, correlates with disease severity
+during treatment with dupilumab; one had eosinophilia                   and recurrence and has a substantial effect on health-
+associated with arthralgia, asthma exacerbation, and                    related quality of life.5,6 Approximately 75% of patients in
+insomnia during dupilumab treatment; one had EGPA                       SINUS-24 and SINUS-52 had anosmia at baseline,
+more than 300 days after a single dupilumab dose; and                   whereas only 24–30% had anosmia after dupilumab
+one had EGPA while receiving placebo. Further adverse                   treatment; no change was observed in the placebo
+event data can be found in the appendix (pp 42–55).                     groups.
+                                                                           Of importance, the efficacy of dupilumab was shown
+Discussion                                                              both in the overall population and in subgroups with
+Patients with CRSwNP generally have a high symptom                      higher disease burden that is difficult to control, such as
+burden, including anosmia, high polyp recurrence rates,                 patients with comorbid asthma, NSAID-exacerbated
+asthma comorbidity, and poor health-related quality of                  respiratory disease, or previous sinonasal surgery. In
+life. In patients with severe CRSwNP inadequately                       patients with CRSwNP and comorbid asthma, dupilumab
+controlled with standard of care, adding dupilumab to                   not only improved upper airway outcome measures, but
+daily MFNS provided early, significant, and clinically                  also significantly improved lung function and achieved
+meaningful improvements across all aspects of disease,                  better asthma control, whereas patients in the placebo
+including a reduction in systemic corticosteroid treat­                 groups showed little or no improvement despite use of
+ment and surgery. This broad and significant effect was                 asthma medication, including inhaled therapies. Patients
+reflected in reduced polyp size and disease in all sinuses,             with CRSwNP have been noted in the literature to have
+and relief in major symptoms of CRSwNP (nasal                           a predominant type 2 endotype.9,10 The robust FEV₁
+congestion, loss of smell, and rhinorrhoea). In patients                improvement after dupilumab treatment in patients with
+with comorbid asthma, regardless of baseline eosinophil                 CRSwNP and asthma, regardless of baseline eosinophil
+count, dupilumab treatment improved lung function                       count, supports this finding and suggests that blood
+and asthma control. In SINUS-24, treatment effects                      eosinophils provide no further specificity in identifying
+diminished after dupilumab discontinuation, whereas                     dupilumab responsiveness in this population. This
+in SINUS-52, treatment effects continued to improve up                  concomitant benefit for lower airway disease highlights
+to week 52, underscoring the need for continued                         the value of a therapy that can simultaneously address
+suppression of type 2 inflammation for sustained disease                multiple comorbid manifestations of type 2 inflammatory
+control. The magnitude of the additional reductions in                  diseases in the upper and lower airways. Dupilumab was
+nasal polyp size and sinus disease observed from                        generally well tolerated and had an acceptable safety
+
+
+www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1                                               11
+     Articles
+
+
+
+
+                profile for the treatment of patients with severe CRSwNP.                   GlaxoSmithKline, Meda-Mylan Pharmaceuticals, Menarini, Merck Sharp
+                One patient had EGPA while being treated with                               & Dohme, Novartis, Regeneron Pharmaceuticals, Sanofi, UCB Pharma,
+                                                                                            and Uriach; has received clinical trial funding from Genentech-Roche,
+                dupilumab, and two patients in placebo groups had EGPA                      Regeneron Pharmaceuticals, and Sanofi; has received research grants
+                in the context of steroid withdrawal; the causal relation­                  from Meda-Mylan Pharmaceuticals and Uriach; and has been an
+                ship of EGPA with dupilumab has not been established.                       advisory board member for Genentech-Roche, Meda-Mylan
+                   The reductions in type 2 biomarkers in serum (total IgE,                 Pharmaceuticals, Novartis, Regeneron Pharmaceuticals, Sanofi,
+                                                                                            and Uriach. LSG has received research grants from Glenmark
+                TARC, eotaxin-3, and periostin) and in nasal secretions                     Pharmaceuticals, Novartis, Roxane Laboratories, Sandoz,
+                (ECP, eotaxin-3, and total IgE) observed in these studies                   and Sanofi-Aventis. JVB has received clinical trial funding from
+                were consistent with the method of action of dupilumab                      Cumberland Pharmaceuticals and Sanofi and has been an advisory
+                and with previous dupilumab studies in asthma and                           board member for Novartis-Genentech, Regeneron Pharmaceuticals,
+                                                                                            and Optinose. TML has been a national and international scientific
+                atopic dermatitis. The transient increase in the blood                      advisory board member for Allakos, GlaxoSmithKline,
+                eosinophil counts observed in both studies is consistent                    and Sanofi-Aventis. AUC has been an advisory board member for
+                with the hypothesis that dupilumab blocks eosinophil                        Intrexon Actobiotics. JFM has been a consultant for AstraZeneca,
+                tissue migration by inhibiting the production of eotaxins                   GlaxoSmithKline, Novartis, Sanofi, and Teva; has received speaker fees
+                                                                                            from Boehringer Ingelheim, Menarini, Novartis, and Uriach; and has
+                mediated by IL-4 and IL-13 (supported by an observed                        received research grants from AstraZeneca, Novartis, and Sanofi.
+                reduction of eotaxin-3 concentrations in the serum and in                   CH has been an advisory board member for GlaxoSmithKline, Optinose,
+                the target organ [nasal secretion]), but not the production                 Sanofi Genzyme, and Smith & Nephew. GWC has received speaker fees
+                of eosinophils or egress from bone marrow. This                             and been an advisory board member for ALK, AstraZeneca, Boehringer
+                                                                                            Ingelheim, GlaxoSmithKline, HAL Allergy, Menarini, Mundipharma,
+                mechanism results in the observed transient increase in                     Novartis, Regeneron Pharmaceuticals, Sanofi, Stallergenes Greer,
+                circulating eosinophils, consistent with other clinical                     and Uriach. PP has received research grants and been an advisory board
+                studies of dupilumab.                                                       member for AstraZeneca, Chiesi, GlaxoSmithKline, Novartis,
+                   Our studies had some limitations. The treatment effects                  and Sanofi. SHC has received research grants from AOBiome, National
+                                                                                            Institutes of Health, and Sanofi; and has received a research network
+                showed progressive improvement during the randomised                        grant from the American Lung Association. WJF has received research
+                treatment period, and maximum effects were not reached                      grants from GlaxoSmithKline, Meda Pharmaceuticals, Novartis, and
+                at week 52 in SINUS-52, therefore it is not clear what the                  Sanofi. SF has been an advisory board member for GlaxoSmithKline,
+                                                                                            Kyowa Hakko Kirin, and Sanofi; and has received speaker fees from
+                full treatment effect of dupilumab might be beyond
+                                                                                            Kyorin, Taiho, and Mitsubishi Tanabe Pharma. MZ, XL, CF, SD, AK, GP,
+                52 weeks. We also did not assess dupilumab efficacy as a                    NP, HS, and LPM are Sanofi employees and might hold stock, stock
+                monotherapy without background MFNS treatment.                              options, or both in Sanofi. GDY is an employee, shareholder, and board
+                   These data support the benefits of adding dupilumab                      of directors’ member of Regeneron Pharmaceuticals. PWH and HO
+                                                                                            declare no competing interests.
+                to daily standard of care in patients with CRSwNP as
+                a novel approach in treating the entire spectrum of                         Acknowledgments
+                                                                                            This research was sponsored by Sanofi and Regeneron Pharmaceuticals.
+                clinical manifestations of the disease, a predominantly
+                                                                                            Medical writing and editorial assistance was provided by Adam J Beech
+                type 2 inflammatory condition, as well as the frequently                    (Excerpta Medica), funded by Sanofi Genzyme and Regeneron
+                associated type 2 lower airway comorbidities. Dupilumab                     Pharmaceuticals. We would also like to thank Linda Williams and
+                treatment also resulted in substantial reductions in the                    Jennifer Hamilton of Regeneron Pharmaceuticals; Dianne Barry,
+                                                                                            Nicolas Duverger, Valerie Le-Vraux, and Julien Labeirie of Sanofi;
+                need for systemic corticosteroids and surgery, offering an
+                                                                                            and Brian Swanson.
+                efficacious treatment for patients with severe CRSwNP
+                                                                                            References
+                who otherwise have few therapeutic options.                                 1    Fokkens WJ, Lund VJ, Mullol J, et al. EPOS 2012: European position
+                Contributors                                                                     paper on rhinosinusitis and nasal polyps 2012. A summary
+                CB, JKH, MD, PWH, SEL, JM, LSG, JVB, TML, AUC, JFM, CH, HO,                      for otorhinolaryngologists. Rhinol Suppl 2012; 23: 1–299.
+                GWC, PP, SHC, WJF, MZ, XL, CF, SD, and LPM acquired data.                   2    Orlandi RR, Kingdom TT, Hwang PH, et al. International
+                CB, MD, NA, JM, CF, SAK, AK, GP, NMHG, HS, DW, NS, GDY,                          consensus statement on allergy and rhinology: rhinosinusitis.
+                and LPM contributed to the conception and design of the study.                   Int Forum Allergy Rhinol 2016; 6 (suppl 1): S22–209.
+                CF, MZ, and XL did statistical analyses. All authors participated in the    3    Settipane GA, Chafee FH. Nasal polyps in asthma and rhinitis.
+                interpretation of the data, provided critical feedback and final approval        A review of 6,037 patients. J Allergy Clin Immunol 1977; 59: 17–21.
+                for submission, and took responsibility for the accuracy, completeness,     4    Hedman J, Kaprio J, Poussa T, Nieminen MM. Prevalence of
+                and protocol adherence of data and analyses. All investigators had               asthma, aspirin intolerance, nasal polyposis and chronic obstructive
+                                                                                                 pulmonary disease in a population-based study. Int J Epidemiol
+                confidentiality agreements with the sponsors.
+                                                                                                 1999; 28: 717–22.
+                Declaration of interests                                                    5    Kohli P, Naik AN, Harruff EE, Nguyen SA, Schlosser RJ, Soler ZM.
+                CB has been an advisory board member for ALK, ASIT Biotech,                      The prevalence of olfactory dysfunction in chronic rhinosinusitis.
+                AstraZeneca, Intrexon Actobiotics, GlaxoSmithKline, Novartis, Sanofi,            Laryngoscope 2017; 127: 309–20.
+                and Stallergenes Greer. JKH has been an advisory board member for           6    Chung JH, Lee YJ, Kang TW, et al. Altered quality of life and
+                Regeneron Pharmaceuticals and Sanofi. MD has received clinical trial             psychological health (SCL-90-R) in patients with chronic rhinosinusitis
+                funding from AstraZeneca, GlaxoSmithKline, Probionase Therapies,                 with nasal polyps. Ann Otol Rhinol Laryngol 2015; 124: 663–70.
+                and Sanofi; has been an advisory board member for Regeneron                 7    Alobid I, Cardelús S, Benítez P, et al. Persistent asthma has an
+                Pharmaceuticals and Sanofi; and has equity ownership in Probionase               accumulative impact on the loss of smell in patients with nasal
+                Therapies. NA, SAK, NMHG, MR, DW, and NS are employees and                       polyposis. Rhinology 2011; 49: 519–24.
+                shareholders of Regeneron Pharmaceuticals. SEL has received clinical        8    Alobid I, Bernal-Sprekelsen M, Mullol J. Chronic rhinosinusitis
+                trial funding from Allakos, AstraZeneca, Knopp Biosciences, and Sanofi;          and nasal polyps: the role of generic and specific questionnaires
+                                                                                                 on assessing its impact on patient’s quality of life. Allergy 2008;
+                and has been an advisory board member for Novartis, Regeneron
+                                                                                                 63: 1267–79.
+                Pharmaceuticals, and Sanofi. JM has received speaker fees from
+
+
+12                                                          www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1
+                                                                                                                                                            Articles
+
+
+
+
+9    Tomassen P, Vandeplas G, Van Zele T, et al. Inflammatory                  21   Blauvelt A, de Bruin-Weller M, Gooderham M, et al.
+     endotypes of chronic rhinosinusitis based on cluster analysis                  Long-term management of moderate-to-severe atopic dermatitis
+     of biomarkers. J Allergy Clin Immunol 2016; 137: 1449–56.                      with dupilumab and concomitant topical corticosteroids
+10   Han JK. Subclassification of chronic rhinosinusitis. Laryngoscope              (LIBERTY AD CHRONOS): a 1-year, randomised, double-blinded,
+     2013; 123 (suppl 2): S15–27.                                                   placebo-controlled, phase 3 trial. Lancet 2017; 389: 2287–303.
+11   Håkansson K, Thomsen SF, Konge L, Mortensen J, Backer V,                  22   Simpson EL, Bieber T, Guttman-Yassky E, et al. Two phase 3 trials
+     von Buchwald C. A comparative and descriptive study of asthma                  of dupilumab versus placebo in atopic dermatitis. N Engl J Med
+     in chronic rhinosinusitis with nasal polyps. Am J Rhinol Allergy               2016; 375: 2335–48.
+     2014; 28: 383–87.                                                         23   Thaçi D, Simpson EL, Beck LA, et al. Efficacy and safety of dupilumab
+12   Stevens WW, Peters AT, Hirsch AG, et al. Clinical characteristics              in adults with moderate-to-severe atopic dermatitis inadequately
+     of patients with chronic rhinosinusitis with nasal polyps,                     controlled by topical treatments: a randomised, placebo-controlled,
+     asthma, and aspirin-exacerbated respiratory disease.                           dose-ranging phase 2b trial. Lancet 2016; 387: 40–52.
+     J Allergy Clin Immunol Pract 2017; 5: 1061–70.                            24   Wenzel S, Castro M, Corren J, et al. Dupilumab efficacy and safety
+13   Laidlaw TM, Boyce JA. Aspirin-exacerbated respiratory                          in adults with uncontrolled persistent asthma despite use of
+     disease—new prime suspects. N Engl J Med 2016; 374: 484–88.                    medium-to-high-dose inhaled corticosteroids plus a long-acting
+14   Robinson D, Humbert M, Buhl R, et al. Revisiting type 2-high                   β2 agonist: a randomised double-blind placebo-controlled pivotal
+     and type 2-low airway inflammation in asthma: current knowledge                phase 2b dose-ranging trial. Lancet 2016; 388: 31–44.
+     and therapeutic implications. Clin Exp Allergy 2017; 47: 161–75.          25   Castro M, Corren J, Pavord ID, et al. Dupilumab efficacy and safety
+15   Bhattacharyya N, Villeneuve S, Joish VN, et al. Cost burden and                in moderate-to-severe uncontrolled asthma. N Engl J Med 2018;
+     resource utilization in patients with chronic rhinosinusitis and               378: 2486–96.
+     nasal polyps. Laryngoscope 2019; 129: 1969–75.                            26   Rabe KF, Nair P, Brusselle G, et al. Efficacy and safety of dupilumab
+16   Alobid I, Benítez P, Cardelús S, et al. Oral plus nasal corticosteroids        in glucocorticoid-dependent severe asthma. N Engl J Med 2018;
+     improve smell, nasal congestion, and inflammation in sino-nasal                378: 2475–85.
+     polyposis. Laryngoscope 2014; 124: 50–56.                                 27   Bachert C, Mannent L, Naclerio RM, et al. Effect of subcutaneous
+17   DeConde AS, Mace JC, Levy JM, Rudmik L, Alt JA, Smith TL.                      dupilumab on nasal polyp burden in patients with chronic sinusitis
+     Prevalence of polyp recurrence after endoscopic sinus surgery                  and nasal polyposis: a randomized clinical trial. JAMA 2016;
+     for chronic rhinosinusitis with nasal polyposis. Laryngoscope 2017;            315: 469–79.
+     127: 550–55.                                                              28   Hopkins C, Gillett S, Slack R, Lund VJ, Browne JP. Psychometric
+18   Macdonald LE, Karow M, Stevens S, et al. Precise and in situ                   validity of the 22-item Sinonasal Outcome Test. Clin Otolaryngol
+     genetic humanization of 6 Mb of mouse immunoglobulin genes.                    2009; 34: 447–54.
+     Proc Natl Acad Sci USA 2014; 111: 5147–52.                                29   Juniper EF, Svensson K, Mörk AC, Ståhl E. Measurement
+19   Murphy AJ, Macdonald LE, Stevens S, et al. Mice with megabase                  properties and interpretation of three shortened versions of the
+     humanization of their immunoglobulin genes generate antibodies                 asthma control questionnaire. Respir Med 2005; 99: 553–58.
+     as efficiently as normal mice. Proc Natl Acad Sci USA 2014;               30   Bachert C, Pawankar R, Zhang L, et al. ICON: chronic
+     111: 5153–58.                                                                  rhinosinusitis. World Allergy Organ J 2014; 7: 25.
+20   Gandhi NA, Pirozzi G, Graham NMH. Commonality of the
+     IL-4/IL-13 pathway in atopic diseases. Expert Rev Clin Immunol 2017;
+     13: 425–37.
+
+
+
+
+www.thelancet.com Published online September 19, 2019 https://doi.org/10.1016/S0140-6736(19)31881-1                                                                    13
+
