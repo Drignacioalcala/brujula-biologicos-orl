@@ -33,7 +33,9 @@ export const BIOLOGICS = {
     name: 'Tezepelumab',
     target: 'TSLP (linfopoyetina estromal tímica, vía superior)',
     color: '#10b981',
-    base: { nps: 0.72, snot22: 0.70, smell: 0.75, congestion: 0.65, comorbidity: 0.90 },
+    // Bases recalibradas con NMA post-WAYPOINT (Safia 2025, Reappraisal 2025).
+    // Los NMA previos (Xu, Cai, Wu) no incluían tezepelumab.
+    base: { nps: 0.85, snot22: 0.82, smell: 0.85, congestion: 0.78, comorbidity: 0.92 },
     trials: ['WAYPOINT (NEJM 2024-2025)'],
     dosing: '210 mg subcutáneo cada 4 semanas',
     cross: ['Asma de cualquier fenotipo (incluido T2-low)', 'EPOC eosinofílica'],
@@ -195,7 +197,11 @@ export function scoreBiologic(id, p) {
       s.comorbidity += 0.05;
       reasons.push('Eosinofilia ≥500: subgrupo de mejor respuesta a mepolizumab');
     }
-    if (id === 'dupilumab') s.nps += 0.05;
+    if (id === 'dupilumab') {
+      s.nps += 0.05;
+      s.comorbidity -= 0.04;
+      reasons.push('Eosinofilia ≥500: aunque dupilumab actúa, anti-IL-5 gana terreno como elección preferente');
+    }
   } else if (p.eosinophils >= 300) {
     if (id === 'mepolizumab') { s.nps += 0.10; s.comorbidity += 0.03; }
     if (id === 'dupilumab')   { s.nps += 0.05; }
@@ -210,9 +216,15 @@ export function scoreBiologic(id, p) {
     if (id === 'tezepelumab') {
       s.nps += 0.10;
       s.snot22 += 0.05;
-      reasons.push('T2-low: tezepelumab eficaz con eosinofilia baja');
+      s.comorbidity += 0.05;
+      reasons.push('T2-low: tezepelumab eficaz con eosinofilia baja (único T2-agnóstico)');
     }
-    if (id === 'dupilumab') s.nps -= 0.05;
+    if (id === 'dupilumab') {
+      s.nps -= 0.05;
+      s.smell -= 0.05;
+      s.comorbidity -= 0.05;
+      reasons.push('T2-low: dupilumab pierde fuerza relativa frente a tezepelumab');
+    }
   }
 
   // ─── IgE / alergia ───
@@ -222,6 +234,10 @@ export function scoreBiologic(id, p) {
       s.snot22 += 0.10;
       s.comorbidity += 0.10;
       reasons.push('Alergia documentada con IgE alta favorece omalizumab');
+    }
+    if (id === 'dupilumab') {
+      s.comorbidity -= 0.03;
+      reasons.push('Alergia + IgE alta: omalizumab gana preferencia mecanística sobre dupilumab');
     }
   }
   if (p.ige < 30 && p.ige > 0) {

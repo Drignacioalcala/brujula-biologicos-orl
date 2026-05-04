@@ -27,23 +27,23 @@ const NMA = [
 
 function RefLine({ name, authors, doi, biologic }) {
   return (
-    <li className="flex items-start gap-3 border-b border-slate-100 py-2 last:border-b-0">
-      <div className="flex-1 min-w-0">
-        <div className="flex flex-wrap items-baseline gap-x-2">
-          <span className="font-semibold text-rsInk">{name}</span>
-          {biologic && <span className="text-[11px] text-rsBlue font-medium">{biologic}</span>}
-        </div>
-        <div className="text-[12px] text-rsMuted">{authors}</div>
+    <li className="border-b border-slate-100 py-2 last:border-b-0">
+      <div className="flex flex-wrap items-baseline gap-x-2">
+        <span className="font-semibold text-rsInk">{name}</span>
+        {biologic && <span className="text-xs text-rsBlueText font-medium">{biologic}</span>}
+        <a
+          href={`https://doi.org/${doi}`}
+          target="_blank"
+          rel="noreferrer"
+          title={doi}
+          className="ml-auto inline-flex flex-none items-center gap-1 rounded-md border border-slate-200 px-2 py-0.5 text-xs font-medium text-rsBlueText hover:bg-rsBlueSoft"
+        >
+          DOI
+          <ExternalLink className="h-3 w-3" />
+        </a>
       </div>
-      <a
-        href={`https://doi.org/${doi}`}
-        target="_blank"
-        rel="noreferrer"
-        className="inline-flex flex-none items-center gap-1 rounded-md border border-slate-200 px-2 py-1 text-[11px] font-medium text-rsBlue hover:bg-rsBlueSoft"
-      >
-        {doi}
-        <ExternalLink className="h-3 w-3" />
-      </a>
+      <div className="text-xs text-rsMuted">{authors}</div>
+      <div className="mt-0.5 truncate text-[10px] font-mono text-slate-400">{doi}</div>
     </li>
   );
 }
@@ -59,9 +59,9 @@ export default function Bibliography() {
         Evidencia y guías clínicas
       </h3>
 
-      <div className="mt-4 grid gap-5 lg:grid-cols-3">
+      <div className="mt-4 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
         <div>
-          <div className="text-[11px] font-bold uppercase tracking-wider text-rsBlue">
+          <div className="text-xs font-bold uppercase tracking-wider text-rsBlueText">
             Ensayos pivotales y subgrupos
           </div>
           <ul className="mt-2">
@@ -69,7 +69,7 @@ export default function Bibliography() {
           </ul>
         </div>
         <div>
-          <div className="text-[11px] font-bold uppercase tracking-wider text-rsBlue">
+          <div className="text-xs font-bold uppercase tracking-wider text-rsBlueText">
             Guías y consensos
           </div>
           <ul className="mt-2">
@@ -77,7 +77,7 @@ export default function Bibliography() {
           </ul>
         </div>
         <div>
-          <div className="text-[11px] font-bold uppercase tracking-wider text-rsBlue">
+          <div className="text-xs font-bold uppercase tracking-wider text-rsBlueText">
             Meta-análisis en red (base SUCRA)
           </div>
           <ul className="mt-2">
@@ -86,7 +86,7 @@ export default function Bibliography() {
         </div>
       </div>
 
-      <div className="mt-4 rounded-lg bg-rsCanvas px-3 py-2 text-[11px] text-rsMuted">
+      <div className="mt-4 rounded-lg bg-rsCanvas px-3 py-2 text-xs text-rsMuted">
         El motor de scoring combina los SUCRA de los meta-análisis en red, ajustados por
         modificadores fenotípicos derivados de los subanálisis publicados (Bachert 2022 para
         eosinofilia, EVEREST para dupilumab vs omalizumab, WAYPOINT para tezepelumab en T2-low,

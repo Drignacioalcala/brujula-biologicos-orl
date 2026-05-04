@@ -5,15 +5,13 @@ export default {
     extend: {
       colors: {
         // Paleta oficial red sanitarIA
-        rsBlue: '#29ADFF',
+        rsBlue: '#29ADFF',          // Brand cyan — usar como fill / acento decorativo
+        rsBlueText: '#0E7AB5',      // Variante para TEXTO sobre blanco (AA: 4.6:1)
         rsBlueSoft: '#E8F4FB',
         rsInk: '#363B47',
         rsDark: '#2C3140',
-        rsMuted: '#8B9099',
+        rsMuted: '#6B7280',         // Subido de #8B9099 -> #6B7280 para pasar AA (4.6:1)
         rsCanvas: '#F5F6F8',
-        // Aliases para compatibilidad con el código existente
-        ink: '#363B47',
-        canvas: '#F5F6F8',
       },
       fontFamily: {
         sans: ['Montserrat', 'Arial', 'Helvetica', 'system-ui', 'sans-serif'],

@@ -11,7 +11,6 @@ import {
   evaluatePatient,
   rankBiologics,
   BIOLOGIC_ORDER,
-  BIOLOGICS,
 } from './data/biologics';
 import { exportPdf } from './lib/exportPdf';
 
@@ -88,12 +87,12 @@ export default function App() {
             />
           </aside>
           <section className="space-y-6">
+            <GuideSelector guideId={guideId} onChangeGuide={setGuideId} />
             {hasInteracted ? (
               <>
                 <GuideCheck
                   evaluation={evaluation}
                   guideId={guideId}
-                  onChangeGuide={setGuideId}
                 />
                 <BiologicRadar
                   ranking={ranking}
@@ -109,7 +108,7 @@ export default function App() {
                 />
               </>
             ) : (
-              <EmptyState />
+              <EmptyState onPreset={(k) => setPatient({ ...EMPTY_PATIENT, ...PRESETS[k] })} />
             )}
             <BiologicMatrix />
             <Bibliography />
@@ -122,7 +121,15 @@ export default function App() {
   );
 }
 
-function EmptyState() {
+function EmptyState({ onPreset }) {
+  const QUICK = [
+    { k: 'alergica', label: 'Alérgica + IgE alta' },
+    { k: 'eosinofilica', label: 'Eosinofílica + asma' },
+    { k: 't2low', label: 'T2-low / eos baja' },
+    { k: 'erea', label: 'EREA / N-ERD' },
+    { k: 'hipereos', label: 'Hipereosinofilia' },
+    { k: 'atopica', label: 'Dermatitis atópica' },
+  ];
   return (
     <div className="flex min-h-[400px] flex-col items-center justify-center rounded-2xl border-2 border-dashed border-slate-200 bg-white/60 p-10 text-center">
       <img
@@ -134,13 +141,65 @@ function EmptyState() {
         Empieza marcando los rasgos de tu paciente
       </h3>
       <p className="mt-2 max-w-md text-sm text-rsMuted">
-        Mueve los sliders, activa las comorbilidades o usa un caso rápido del panel izquierdo.
-        Cuando haya datos, aparecerá la verificación POLINA/EUFOREA, el radar comparativo y el
-        ranking adaptado a su fenotipo.
+        Mueve los sliders del panel izquierdo, o prueba la app con un caso típico:
       </p>
-      <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-rsBlueSoft px-3 py-1.5 text-xs font-semibold text-rsBlue">
+      <div className="mt-4 flex flex-wrap justify-center gap-2">
+        {QUICK.map((q) => (
+          <button
+            key={q.k}
+            onClick={() => onPreset(q.k)}
+            className="rounded-full border border-rsBlue/30 bg-white px-3 py-1.5 text-xs font-semibold text-rsBlueText hover:bg-rsBlueSoft"
+          >
+            {q.label}
+          </button>
+        ))}
+      </div>
+      <div className="mt-4 inline-flex items-center gap-2 text-xs text-rsMuted">
         <MousePointerClick className="h-3.5 w-3.5" />
         Sin datos no hay recomendación
+      </div>
+    </div>
+  );
+}
+
+function GuideSelector({ guideId, onChangeGuide }) {
+  return (
+    <div className="flex flex-wrap items-center justify-between gap-3 rounded-xl border border-slate-200 bg-white px-4 py-3 shadow-soft">
+      <div className="leading-tight">
+        <div className="text-xs font-semibold uppercase tracking-wider text-rsMuted">
+          Guía clínica aplicada
+        </div>
+        <div className="mt-0.5 text-sm text-rsInk">
+          {guideId === 'POLINA'
+            ? 'POLINA 2.0 — España (umbrales más estrictos: SNOT-22 ≥50, ≥2 cirugías, T2 obligatorio)'
+            : 'EPOS / EUFOREA 2023 — Internacional (SNOT-22 ≥40, ≥1 cirugía o contraindicación)'}
+        </div>
+      </div>
+      <div role="radiogroup" aria-label="Selector de guía clínica" className="inline-flex rounded-lg bg-slate-100 p-1">
+        <button
+          role="radio"
+          aria-checked={guideId === 'POLINA'}
+          onClick={() => onChangeGuide('POLINA')}
+          className={`rounded-md px-3 py-1.5 text-xs font-semibold transition ${
+            guideId === 'POLINA'
+              ? 'bg-white text-rsInk shadow-sm'
+              : 'text-rsMuted hover:text-rsInk'
+          }`}
+        >
+          🇪🇸 España (POLINA)
+        </button>
+        <button
+          role="radio"
+          aria-checked={guideId === 'EUFOREA'}
+          onClick={() => onChangeGuide('EUFOREA')}
+          className={`rounded-md px-3 py-1.5 text-xs font-semibold transition ${
+            guideId === 'EUFOREA'
+              ? 'bg-white text-rsInk shadow-sm'
+              : 'text-rsMuted hover:text-rsInk'
+          }`}
+        >
+          🌍 Internacional (EUFOREA)
+        </button>
       </div>
     </div>
   );
@@ -153,13 +212,13 @@ function Header() {
         <div className="flex items-center gap-3">
           <img src="/brand/logo-icon-dark.png" alt="red sanitarIA" className="h-10 w-10" />
           <div className="leading-tight">
-            <span className="inline-block rounded-md bg-rsBlue px-2 py-[2px] text-[10px] font-bold uppercase tracking-[0.12em] text-white">
+            <span className="inline-block rounded-md bg-rsBlue px-2 py-0.5 text-xs font-bold uppercase tracking-[0.12em] text-white">
               app by red sanitarIA
             </span>
             <h1 className="mt-1.5 text-lg font-bold text-white">Brújula Biológicos ORL</h1>
           </div>
         </div>
-        <div className="hidden items-center gap-2 text-[11px] font-medium text-white/90 sm:flex">
+        <div className="hidden items-center gap-2 text-xs font-medium text-white/90 sm:flex">
           <BookOpen className="h-3.5 w-3.5" />
           POLINA · EPOS / EUFOREA 2023
         </div>
@@ -180,14 +239,6 @@ function Hero() {
             <span className="font-semibold text-rsBlue">EPOS/EUFOREA 2023</span> (internacional)
             y compara los 4 biológicos aprobados sobre evidencia real.
           </p>
-          <p className="mt-3 text-base font-bold text-white">
-            App para médicos{' '}
-            <span className="line-through decoration-rsBlue decoration-2">neandertales</span>{' '}
-            que no quieren serlo.
-          </p>
-          <p className="mt-1 text-xs italic text-white/80">
-            «Deja de ser el neandertal de tu hospital»
-          </p>
         </div>
         <div className="relative hidden md:block">
           <div className="absolute -top-2 right-36 hidden lg:block">
@@ -207,9 +258,9 @@ function Hero() {
 
 function SpeechBubble() {
   return (
-    <div className="relative max-w-[210px]">
-      <div className="rounded-2xl bg-white px-4 py-2.5 text-[13px] font-semibold text-rsInk shadow-lg ring-1 ring-rsBlue/30">
-        ¿Eosinófilos? Yo dar palo a pólipo.
+    <div className="relative max-w-[230px]">
+      <div className="rounded-2xl bg-white px-4 py-2.5 text-sm font-semibold text-rsInk shadow-lg ring-1 ring-rsBlue/30">
+        Deja de ser el neandertal de tu hospital. Yo dar palo a pólipo.
       </div>
       <div className="absolute -bottom-2 right-10 h-3 w-3 rotate-45 bg-white ring-1 ring-rsBlue/30" />
     </div>
@@ -227,7 +278,7 @@ function Footer() {
             <div>Inteligencia artificial y salud digital aterrizadas al día a día clínico.</div>
           </div>
         </div>
-        <div className="text-[11px] leading-tight text-rsMuted">
+        <div className="text-xs leading-tight text-rsMuted">
           Apoyo a la decisión clínica · No sustituye juicio clínico ni indicación oficial.<br />
           Verifica financiación local y contraindicaciones antes de prescribir.
         </div>

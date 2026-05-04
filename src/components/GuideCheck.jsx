@@ -1,6 +1,6 @@
 import { Check, X, AlertCircle } from 'lucide-react';
 
-export default function GuideCheck({ evaluation, guideId, onChangeGuide }) {
+export default function GuideCheck({ evaluation, guideId }) {
   const { guide, surgeryReq, criteria, metCount, indicated } = evaluation;
 
   return (
@@ -8,38 +8,11 @@ export default function GuideCheck({ evaluation, guideId, onChangeGuide }) {
       <div className="flex flex-wrap items-start justify-between gap-3">
         <div>
           <div className="text-xs font-semibold uppercase tracking-wider text-rsMuted">
-            Criterios de indicación
+            Criterios de indicación · {guide.name}
           </div>
-          <div className="mt-1 flex items-center gap-2">
-            <h2 className="text-base font-bold text-rsInk">{guide.name}</h2>
-            <span className="rounded-full bg-slate-100 px-2 py-0.5 text-[11px] font-semibold text-rsInk">
-              {guide.label}
-            </span>
-          </div>
-        </div>
-
-        {/* Selector POLINA / EUFOREA */}
-        <div className="inline-flex rounded-lg bg-slate-100 p-1">
-          <button
-            onClick={() => onChangeGuide('POLINA')}
-            className={`rounded-md px-3 py-1 text-xs font-semibold transition ${
-              guideId === 'POLINA'
-                ? 'bg-white text-rsInk shadow-sm'
-                : 'text-rsMuted hover:text-rsInk'
-            }`}
-          >
-            🇪🇸 España (POLINA)
-          </button>
-          <button
-            onClick={() => onChangeGuide('EUFOREA')}
-            className={`rounded-md px-3 py-1 text-xs font-semibold transition ${
-              guideId === 'EUFOREA'
-                ? 'bg-white text-rsInk shadow-sm'
-                : 'text-rsMuted hover:text-rsInk'
-            }`}
-          >
-            🌍 Internacional (EUFOREA)
-          </button>
+          <h2 className="mt-1 text-base font-bold text-rsInk">
+            {guide.label}
+          </h2>
         </div>
       </div>
 
@@ -54,7 +27,7 @@ export default function GuideCheck({ evaluation, guideId, onChangeGuide }) {
               </span>
             )}
           </div>
-          <div className="mt-0.5 text-[11px] text-rsMuted">
+          <div className="mt-0.5 text-xs text-rsMuted">
             {surgeryReq.met ? '✓' : '✗'} {surgeryReq.label}
           </div>
         </div>
@@ -86,7 +59,7 @@ export default function GuideCheck({ evaluation, guideId, onChangeGuide }) {
         </div>
         <div className="flex-1">
           <div className="text-sm font-semibold text-rsInk">{surgeryReq.label}</div>
-          <div className="text-[11px] text-rsMuted">{surgeryReq.detail}</div>
+          <div className="text-xs text-rsMuted">{surgeryReq.detail}</div>
         </div>
       </div>
 
@@ -114,18 +87,18 @@ export default function GuideCheck({ evaluation, guideId, onChangeGuide }) {
               <div className={`flex items-center gap-2 text-sm font-medium ${c.met ? 'text-rsInk' : 'text-rsMuted'}`}>
                 {c.label}
                 {c.mandatory && (
-                  <span className="rounded bg-rose-100 px-1.5 py-px text-[9px] font-bold uppercase tracking-wider text-rose-700">
+                  <span className="rounded bg-rose-100 px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wider text-rose-700">
                     obligatorio
                   </span>
                 )}
               </div>
-              <div className="text-[11px] text-rsMuted">{c.detail}</div>
+              <div className="text-xs text-rsMuted">{c.detail}</div>
             </div>
           </div>
         ))}
       </div>
 
-      <div className="mt-3 text-[11px] text-rsMuted">
+      <div className="mt-3 text-xs text-rsMuted">
         {guideId === 'POLINA'
           ? 'POLINA exige inflamación T2 confirmada + 2 cirugías endoscópicas adecuadas previas + ≥3 criterios. SNOT-22 ≥50 como umbral de gravedad.'
           : 'EUFOREA/EPOS 2023: ≥3 criterios + cirugía adecuada previa o contraindicación. SNOT-22 ≥40 como umbral.'}

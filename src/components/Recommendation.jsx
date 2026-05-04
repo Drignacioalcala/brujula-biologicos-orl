@@ -46,7 +46,7 @@ export default function Recommendation({ ranking, patient, evaluation, guideId, 
           </div>
           <h2 className="mt-1 flex items-center gap-2 text-base font-semibold text-rsInk">
             <Trophy className="h-4 w-4 text-rsBlue" />
-            Ranking adaptado al fenotipo
+            Por qué este ranking — y cuál es
           </h2>
         </div>
         <button
@@ -58,39 +58,8 @@ export default function Recommendation({ ranking, patient, evaluation, guideId, 
         </button>
       </div>
 
-      <ol className="mt-4 space-y-2">
-        {ranking.map((r, i) => {
-          const b = BIOLOGICS[r.id];
-          const pct = Math.round(r.overall * 100);
-          return (
-            <li
-              key={r.id}
-              className={`flex items-center gap-3 rounded-lg border px-3 py-2.5 ${
-                i === 0 ? 'border-rsBlue/40 bg-rsBlueSoft' : 'border-slate-200 bg-white'
-              }`}
-            >
-              <div className="flex h-7 w-7 flex-none items-center justify-center rounded-full bg-white text-sm font-bold text-rsInk shadow-sm">
-                {i + 1}
-              </div>
-              <div className="min-w-0 flex-1">
-                <div className="flex flex-wrap items-baseline gap-x-2">
-                  <span className="font-semibold text-rsInk">{b.name}</span>
-                  <span className="text-xs text-rsMuted">{b.target}</span>
-                </div>
-                <div className="mt-1 h-1.5 w-full overflow-hidden rounded-full bg-slate-100">
-                  <div
-                    className="h-full rounded-full"
-                    style={{ width: `${pct}%`, backgroundColor: b.color }}
-                  />
-                </div>
-              </div>
-              <div className="tabular-nums text-sm font-bold text-rsInk">{pct}</div>
-            </li>
-          );
-        })}
-      </ol>
-
-      <div className="mt-5 rounded-xl border border-slate-200 bg-rsCanvas p-4">
+      {/* Bloque 1 — Razonamiento de Groog (subido arriba) */}
+      <div className="mt-4 rounded-xl border border-slate-200 bg-rsCanvas p-4">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <div className="flex items-center gap-3">
             <img
@@ -102,7 +71,7 @@ export default function Recommendation({ ranking, patient, evaluation, guideId, 
             />
             <div className="leading-tight">
               <div className="text-sm font-bold text-rsInk">Razonamiento clínico</div>
-              <div className="text-[11px] text-rsMuted">
+              <div className="text-xs text-rsMuted">
                 Groog te explica por qué este ranking, basado en el fenotipo.
               </div>
             </div>
@@ -135,7 +104,7 @@ export default function Recommendation({ ranking, patient, evaluation, guideId, 
             ) : (
               <>
                 {stale && (
-                  <div className="mb-2 rounded-md border border-amber-200 bg-amber-50 px-3 py-1.5 text-[11px] font-medium text-amber-800">
+                  <div className="mb-2 rounded-md border border-amber-200 bg-amber-50 px-3 py-1.5 text-xs font-medium text-amber-800">
                     El fenotipo ha cambiado desde la última explicación. Pulsa el botón para que Groog la actualice.
                   </div>
                 )}
@@ -146,13 +115,49 @@ export default function Recommendation({ ranking, patient, evaluation, guideId, 
         )}
 
         {!narrative && !loading && !error && (
-          <div className="mt-3 text-[11px] italic text-rsMuted">
+          <div className="mt-3 text-xs italic text-rsMuted">
             Groog no contesta hasta que se lo pides — así no quema API calls cada vez que mueves un slider.
           </div>
         )}
       </div>
 
-      <div className="mt-3 text-[11px] text-rsMuted">
+      {/* Bloque 2 — Ranking visual (debajo, como referencia rápida) */}
+      <div className="mt-5 text-xs font-semibold uppercase tracking-wider text-rsMuted">
+        Ranking adaptado al fenotipo
+      </div>
+      <ol className="mt-2 space-y-2">
+        {ranking.map((r, i) => {
+          const b = BIOLOGICS[r.id];
+          const pct = Math.round(r.overall * 100);
+          return (
+            <li
+              key={r.id}
+              className={`flex items-center gap-3 rounded-lg border px-3 py-2.5 ${
+                i === 0 ? 'border-rsBlue/40 bg-rsBlueSoft' : 'border-slate-200 bg-white'
+              }`}
+            >
+              <div className="flex h-7 w-7 flex-none items-center justify-center rounded-full bg-white text-sm font-bold text-rsInk shadow-sm">
+                {i + 1}
+              </div>
+              <div className="min-w-0 flex-1">
+                <div className="flex flex-wrap items-baseline gap-x-2">
+                  <span className="font-semibold text-rsInk">{b.name}</span>
+                  <span className="text-xs text-rsMuted">{b.target}</span>
+                </div>
+                <div className="mt-1 h-1.5 w-full overflow-hidden rounded-full bg-slate-100">
+                  <div
+                    className="h-full rounded-full"
+                    style={{ width: `${pct}%`, backgroundColor: b.color }}
+                  />
+                </div>
+              </div>
+              <div className="tabular-nums text-sm font-bold text-rsInk">{pct}</div>
+            </li>
+          );
+        })}
+      </ol>
+
+      <div className="mt-3 text-xs text-rsMuted">
         Apoyo a la decisión, no sustituto del juicio clínico. Verifica indicación, financiación
         local y contraindicaciones antes de prescribir.
       </div>

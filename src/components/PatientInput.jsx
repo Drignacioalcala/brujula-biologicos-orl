@@ -20,11 +20,11 @@ function Slider({ label, value, min, max, step = 1, unit = '', onChange, hint, a
         className="mt-2 w-full"
       />
       {anchors && (
-        <div className="mt-1 flex justify-between text-[10px] text-rsMuted">
+        <div className="mt-1 flex justify-between text-xs text-rsMuted">
           {anchors.map((a, i) => <span key={i}>{a}</span>)}
         </div>
       )}
-      {hint && <div className="mt-1 text-[11px] text-rsMuted">{hint}</div>}
+      {hint && <div className="mt-1 text-xs text-rsMuted">{hint}</div>}
     </div>
   );
 }
@@ -49,9 +49,9 @@ function Toggle({ label, value, onChange, hint, accent }) {
       </div>
       <div className="flex-1">
         <div className="text-sm font-medium text-rsInk">{label}</div>
-        {hint && <div className="text-[11px] text-rsMuted">{hint}</div>}
+        {hint && <div className="text-xs text-rsMuted">{hint}</div>}
         {accent && value && (
-          <div className="mt-1 inline-block rounded-full bg-rsBlue/15 px-2 py-0.5 text-[10px] font-semibold text-rsBlue">
+          <div className="mt-1 inline-block rounded-full bg-rsBlue/15 px-2 py-0.5 text-xs font-semibold text-rsBlueText">
             {accent}
           </div>
         )}
@@ -118,7 +118,7 @@ export default function PatientInput({ patient, setPatient, onReset, onPreset })
           hint="Corte EUFOREA T2: ≥150. Subgrupo respuesta mepolizumab: ≥500. >1500: descartar EGPA / hipereosinofílico"
         />
         {eosWarning && (
-          <div className="flex items-start gap-2 rounded-lg border border-amber-300 bg-amber-50 px-3 py-2 text-[11px] text-amber-900">
+          <div className="flex items-start gap-2 rounded-lg border border-amber-300 bg-amber-50 px-3 py-2 text-xs text-amber-900">
             <AlertTriangle className="mt-0.5 h-3.5 w-3.5 flex-none" />
             <span>
               Eosinofilia muy alta. Antes de iniciar biológico descarta EGPA, síndrome

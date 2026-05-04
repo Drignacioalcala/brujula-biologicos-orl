@@ -15,6 +15,17 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* Foco visible global para navegación con teclado (a11y) */
+*:focus-visible {
+  outline: 2px solid #29ADFF;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+button:focus-visible,
+a:focus-visible {
+  outline-offset: 3px;
+}
+
 input[type='range'] {
   -webkit-appearance: none;
   appearance: none;
