@@ -1,19 +1,29 @@
 import jsPDF from 'jspdf';
-import { BIOLOGICS, DOMAINS } from '../data/biologics';
+import { BIOLOGICS } from '../data/biologics';
 
 // Paleta red sanitarIA
 const C = {
   blue: [41, 173, 255],
   ink:  [54, 59, 71],
   dark: [44, 49, 64],
-  muted:[139, 144, 153],
+  muted:[107, 114, 128],
+  emerald: [16, 185, 129],
+  rose:    [225, 29, 72],
 };
 
-export function exportPdf({ patient, ranking, evaluation, guideId }) {
+const STEP_TITLE = {
+  eligibility:      '1 · Elegibilidad según guía',
+  crossIndication:  '2 · Indicación cruzada',
+  phenotype:        '3 · Fenotipo predominante',
+  recommendation:   '4 · Recomendación',
+};
+
+export function exportPdf({ patient, decision, evaluation, guideId }) {
   const doc = new jsPDF({ unit: 'pt', format: 'a4' });
   const W = doc.internal.pageSize.getWidth();
   const H = doc.internal.pageSize.getHeight();
   const margin = 40;
+  const maxLineWidth = W - margin * 2;
 
   // ── Cabecera oscura red sanitarIA ─────────────────────────
   doc.setFillColor(...C.dark);
@@ -34,16 +44,15 @@ export function exportPdf({ patient, ranking, evaluation, guideId }) {
   doc.setFontSize(9);
   doc.setTextColor(220);
   doc.text(
-    `Apoyo a la decisión clínica · Guía: ${guideId === 'POLINA' ? 'POLINA (España)' : 'EPOS / EUFOREA 2023'} · ${new Date().toLocaleDateString('es-ES')}`,
+    `Apoyo a la decisión clínica · Guía: ${guideId === 'POLINA' ? 'POLINA 2.0 (España)' : 'EPOS / EUFOREA 2023'} · ${new Date().toLocaleDateString('es-ES')}`,
     margin,
     62,
   );
 
   let y = 100;
 
-  // ── Fenotipo ──────────────────────────────────────────────
-  section(doc, 'Fenotipo del paciente', margin, y);
-  y += 18;
+  // ── Fenotipo del paciente ─────────────────────────────────
+  y = section(doc, 'Fenotipo del paciente', margin, y);
   doc.setFont('helvetica', 'normal');
   doc.setFontSize(10);
   doc.setTextColor(...C.ink);
@@ -62,7 +71,6 @@ export function exportPdf({ patient, ranking, evaluation, guideId }) {
       patient.eosinophilicEsophagitis && 'EoE',
       patient.prurigoNodular && 'Prurigo nodular',
       patient.chronicUrticaria && 'Urticaria crónica',
-      patient.copdEosinophilic && 'EPOC eosinofílica',
     ].filter(Boolean).join(', ') || 'ninguna'}`,
     `Cirugías previas: ${patient.priorSurgeries}  ·  Ciclos corticoides sistémicos/año: ${patient.scsCourses}  ·  Contraindicación SCS: ${yn(patient.scsContraindication)}`,
   ];
@@ -73,13 +81,12 @@ export function exportPdf({ patient, ranking, evaluation, guideId }) {
   y += 8;
 
   // ── Criterios de la guía aplicada ─────────────────────────
-  section(doc, evaluation.guide.name, margin, y);
-  y += 18;
+  y = section(doc, evaluation.guide.name, margin, y);
   doc.setFont('helvetica', 'bold');
   doc.setFontSize(11);
-  doc.setTextColor(...(evaluation.indicated ? C.blue : C.muted));
+  doc.setTextColor(...(evaluation.indicated ? C.emerald : C.rose));
   doc.text(
-    `${evaluation.indicated ? 'CUMPLE INDICACIÓN' : 'No cumple indicación'} · ${evaluation.metCount}/5 criterios + cirugía previa: ${evaluation.surgeryReq.met ? 'sí' : 'no'}`,
+    `${evaluation.indicated ? 'CUMPLE INDICACIÓN' : 'NO cumple indicación'} · ${evaluation.metCount}/5 criterios + cirugía previa: ${evaluation.surgeryReq.met ? 'sí' : 'no'}`,
     margin,
     y,
   );
@@ -87,77 +94,154 @@ export function exportPdf({ patient, ranking, evaluation, guideId }) {
   doc.setFont('helvetica', 'normal');
   doc.setFontSize(10);
   doc.setTextColor(...C.ink);
-  doc.text(`${evaluation.surgeryReq.met ? '☑' : '☐'} ${evaluation.surgeryReq.label}`, margin, y);
+  doc.text(`${evaluation.surgeryReq.met ? '✓' : '✗'} ${evaluation.surgeryReq.label}`, margin, y);
   y += 13;
   evaluation.criteria.forEach((c) => {
     const star = c.mandatory ? ' *' : '';
-    doc.text(`${c.met ? '☑' : '☐'} ${c.label}${star} — ${c.detail}`, margin, y);
+    doc.text(`${c.met ? '✓' : '✗'} ${c.label}${star} — ${c.detail}`, margin, y);
     y += 13;
   });
   y += 10;
 
-  // ── Ranking ───────────────────────────────────────────────
-  section(doc, 'Ranking adaptado al fenotipo', margin, y);
-  y += 18;
-  ranking.forEach((r, i) => {
-    const bx = BIOLOGICS[r.id];
-    const pct = Math.round(r.overall * 100);
-
+  // ── Camino del árbol de decisión ──────────────────────────
+  y = ensureSpace(doc, y, 60, H);
+  y = section(doc, 'Camino del árbol de decisión', margin, y);
+  decision.steps.forEach((step) => {
+    y = ensureSpace(doc, y, 50, H);
     doc.setFont('helvetica', 'bold');
-    doc.setFontSize(11);
+    doc.setFontSize(10);
     doc.setTextColor(...C.ink);
-    doc.text(`${i + 1}. ${bx.name}`, margin, y);
-    doc.setTextColor(...C.blue);
-    doc.text(`${pct}/100`, margin + 200, y);
+    doc.text(STEP_TITLE[step.id] || step.title, margin, y);
+    y += 13;
 
-    // Barra
-    doc.setFillColor(232, 244, 251);
-    doc.rect(margin, y + 4, 220, 5, 'F');
-    const [r0, g0, b0] = hexToRgb(bx.color);
-    doc.setFillColor(r0, g0, b0);
-    doc.rect(margin, y + 4, 220 * (pct / 100), 5, 'F');
-    y += 18;
+    doc.setFont('helvetica', 'italic');
+    doc.setFontSize(9);
+    doc.setTextColor(...C.muted);
+    doc.text(step.summary || '', margin, y);
+    y += 12;
 
     doc.setFont('helvetica', 'normal');
     doc.setFontSize(9);
-    doc.setTextColor(...C.muted);
-    doc.text(`Diana: ${bx.target}  ·  Pauta: ${bx.dosing}`, margin, y);
-    y += 11;
-    const breakdown = DOMAINS.map(
-      (d) =>
-        `${d.label.replace(' (NPS)', '').replace(' (SNOT-22)', '').replace(' (UPSIT)', '')}: ${Math.round(r.scores[d.id] * 100)}`,
-    ).join('  ·  ');
-    doc.text(breakdown, margin, y);
-    y += 18;
+    doc.setTextColor(...C.ink);
+    const lines = doc.splitTextToSize(step.detail || '', maxLineWidth);
+    lines.forEach((line) => {
+      y = ensureSpace(doc, y, 14, H);
+      doc.text(line, margin, y);
+      y += 12;
+    });
+    y += 4;
   });
 
+  // ── Recomendación + alternativa + cautelas ────────────────
+  if (decision.eligible && decision.primary) {
+    const primary = BIOLOGICS[decision.primary.id];
+    y = ensureSpace(doc, y, 80, H);
+    y = section(doc, `Recomendación · ${primary.name}`, margin, y);
+
+    doc.setFont('helvetica', 'normal');
+    doc.setFontSize(9);
+    doc.setTextColor(...C.ink);
+    decision.primary.reasons.forEach((reason) => {
+      const lines = doc.splitTextToSize(`• ${reason}`, maxLineWidth);
+      lines.forEach((line) => {
+        y = ensureSpace(doc, y, 14, H);
+        doc.text(line, margin, y);
+        y += 12;
+      });
+    });
+    y += 6;
+
+    if (decision.alternative) {
+      const alt = BIOLOGICS[decision.alternative.id];
+      y = ensureSpace(doc, y, 50, H);
+      doc.setFont('helvetica', 'bold');
+      doc.setFontSize(10);
+      doc.setTextColor(...C.ink);
+      doc.text(`Alternativa · ${alt.name}`, margin, y);
+      y += 13;
+      doc.setFont('helvetica', 'normal');
+      doc.setFontSize(9);
+      decision.alternative.reasons.forEach((reason) => {
+        const lines = doc.splitTextToSize(`• ${reason}`, maxLineWidth);
+        lines.forEach((line) => {
+          y = ensureSpace(doc, y, 14, H);
+          doc.text(line, margin, y);
+          y += 12;
+        });
+      });
+      y += 6;
+    }
+
+    if (decision.avoid.length) {
+      y = ensureSpace(doc, y, 40, H);
+      doc.setFont('helvetica', 'bold');
+      doc.setFontSize(10);
+      doc.setTextColor(...C.rose);
+      doc.text('Cautela / evitar', margin, y);
+      y += 13;
+      doc.setFont('helvetica', 'normal');
+      doc.setFontSize(9);
+      doc.setTextColor(...C.ink);
+      decision.avoid.forEach((a) => {
+        const b = BIOLOGICS[a.id];
+        const lines = doc.splitTextToSize(`• ${b.name}: ${a.reason}`, maxLineWidth);
+        lines.forEach((line) => {
+          y = ensureSpace(doc, y, 14, H);
+          doc.text(line, margin, y);
+          y += 12;
+        });
+      });
+      y += 6;
+    }
+
+    // Ficha AEMPS del primary
+    y = ensureSpace(doc, y, 60, H);
+    doc.setFont('helvetica', 'bold');
+    doc.setFontSize(10);
+    doc.setTextColor(...C.ink);
+    doc.text(`Ficha AEMPS · ${primary.brand}`, margin, y);
+    y += 13;
+    doc.setFont('helvetica', 'normal');
+    doc.setFontSize(9);
+    doc.setTextColor(...C.muted);
+    doc.text(`Diana: ${primary.target}`, margin, y); y += 12;
+    doc.text(`Pauta: ${primary.dosing}`, margin, y); y += 12;
+    doc.text(
+      `Financiación SNS: ${primary.aemps.financed ? 'desde ' + prettyDate(primary.aemps.since) : 'No financiado'}  ·  Prescripción: ${primary.aemps.prescriptionType}`,
+      margin, y,
+    ); y += 12;
+    const condLines = doc.splitTextToSize(`Condiciones AEMPS: ${primary.aemps.conditions}`, maxLineWidth);
+    condLines.forEach((line) => {
+      y = ensureSpace(doc, y, 14, H);
+      doc.text(line, margin, y);
+      y += 12;
+    });
+  }
+
+  // ── Alertas (al final, destacadas) ────────────────────────
+  if (decision.alerts.length) {
+    y = ensureSpace(doc, y, 50, H);
+    doc.setFont('helvetica', 'bold');
+    doc.setFontSize(10);
+    doc.setTextColor(...C.rose);
+    doc.text('Alertas clínicas', margin, y);
+    y += 13;
+    doc.setFont('helvetica', 'normal');
+    doc.setFontSize(9);
+    doc.setTextColor(...C.ink);
+    decision.alerts.forEach((a) => {
+      const lines = doc.splitTextToSize(`! ${a.text}`, maxLineWidth);
+      lines.forEach((line) => {
+        y = ensureSpace(doc, y, 14, H);
+        doc.text(line, margin, y);
+        y += 12;
+      });
+      y += 4;
+    });
+  }
+
   // ── Pie ───────────────────────────────────────────────────
-  const footY = H - 50;
-  doc.setDrawColor(...C.blue);
-  doc.setLineWidth(0.5);
-  doc.line(margin, footY, W - margin, footY);
-
-  doc.setFont('helvetica', 'italic');
-  doc.setFontSize(8);
-  doc.setTextColor(...C.muted);
-  doc.text(
-    'SUCRA de meta-análisis en red (Xu 2025, Safia 2025, Cai 2022, Wu 2021) ajustado al fenotipo.',
-    margin,
-    footY + 12,
-  );
-  doc.text(
-    'Verifique indicación oficial, financiación y contraindicaciones antes de prescribir.',
-    margin,
-    footY + 22,
-  );
-
-  doc.setFont('helvetica', 'bold');
-  doc.setFontSize(8);
-  doc.setTextColor(...C.blue);
-  doc.text('app by red sanitarIA', W - margin, footY + 12, { align: 'right' });
-  doc.setFont('helvetica', 'italic');
-  doc.setTextColor(...C.muted);
-  doc.text('«Deja de ser el neandertal de tu hospital»', W - margin, footY + 22, { align: 'right' });
+  drawFooter(doc, W, H, margin);
 
   doc.save(`brujula-biologicos_${Date.now()}.pdf`);
 }
@@ -170,17 +254,52 @@ function section(doc, title, x, y) {
   doc.setDrawColor(...C.blue);
   doc.setLineWidth(0.8);
   doc.line(x, y + 4, x + 24, y + 4);
+  return y + 18;
 }
 
-function hexToRgb(hex) {
-  const h = hex.replace('#', '');
-  return [
-    parseInt(h.slice(0, 2), 16),
-    parseInt(h.slice(2, 4), 16),
-    parseInt(h.slice(4, 6), 16),
-  ];
+function drawFooter(doc, W, H, margin) {
+  const footY = H - 50;
+  doc.setDrawColor(...C.blue);
+  doc.setLineWidth(0.5);
+  doc.line(margin, footY, W - margin, footY);
+
+  doc.setFont('helvetica', 'italic');
+  doc.setFontSize(8);
+  doc.setTextColor(...C.muted);
+  doc.text(
+    'Árbol determinístico anclado en POLINA 2.0, EPOS/EUFOREA 2023, WAYPOINT, EVEREST y Lipworth Reappraisal 2025.',
+    margin,
+    footY + 12,
+  );
+  doc.text(
+    'Verifique indicación oficial, financiación local y contraindicaciones antes de prescribir.',
+    margin,
+    footY + 22,
+  );
+
+  doc.setFont('helvetica', 'bold');
+  doc.setFontSize(8);
+  doc.setTextColor(...C.blue);
+  doc.text('app by red sanitarIA', W - margin, footY + 12, { align: 'right' });
+}
+
+function ensureSpace(doc, y, needed, pageH) {
+  if (y + needed > pageH - 70) {
+    doc.addPage();
+    return 60;
+  }
+  return y;
 }
 
 function yn(v) {
   return v ? 'Sí' : 'No';
+}
+
+function prettyDate(iso) {
+  if (!iso) return '';
+  if (iso.length === 4) return iso;
+  const [y, m, d] = iso.split('-');
+  if (!m) return iso;
+  if (!d) return `${m}-${y}`;
+  return `${d}-${m}-${y}`;
 }

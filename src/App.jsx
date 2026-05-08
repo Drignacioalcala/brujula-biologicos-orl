@@ -1,17 +1,13 @@
 import { useMemo, useState } from 'react';
-import { BookOpen, MousePointerClick } from 'lucide-react';
+import { BookOpen, Compass, MousePointerClick } from 'lucide-react';
 import PatientInput from './components/PatientInput';
 import GuideCheck from './components/GuideCheck';
-import BiologicRadar from './components/BiologicRadar';
-import Recommendation from './components/Recommendation';
+import DecisionTree from './components/DecisionTree';
+import RecommendationCard from './components/RecommendationCard';
 import BiologicMatrix from './components/BiologicMatrix';
 import Bibliography from './components/Bibliography';
-import {
-  EMPTY_PATIENT,
-  evaluatePatient,
-  rankBiologics,
-  BIOLOGIC_ORDER,
-} from './data/biologics';
+import { EMPTY_PATIENT, evaluatePatient } from './data/biologics';
+import { runDecisionTree } from './lib/decisionTree';
 import { exportPdf } from './lib/exportPdf';
 
 const PRESETS = {
@@ -27,7 +23,7 @@ const PRESETS = {
   },
   t2low: {
     eosinophils: 110, ige: 45, asthma: true, allergic: false,
-    nerd: false, atopicDermatitis: false, smellVAS: 7, snot22: 58,
+    nerd: false, atopicDermatitis: false, smellVAS: 5, snot22: 58,
     nps: 6, priorSurgeries: 2, scsCourses: 2, scsContraindication: false, age: 60,
   },
   erea: {
@@ -51,20 +47,17 @@ export default function App() {
   const [patient, setPatientRaw] = useState(EMPTY_PATIENT);
   const [hasInteracted, setHasInteracted] = useState(false);
   const [guideId, setGuideId] = useState('POLINA');
-  const [visible, setVisible] = useState(
-    Object.fromEntries(BIOLOGIC_ORDER.map((id) => [id, true])),
-  );
 
   const setPatient = (next) => {
     setHasInteracted(true);
     setPatientRaw(next);
   };
 
-  const ranking = useMemo(() => rankBiologics(patient), [patient]);
   const evaluation = useMemo(() => evaluatePatient(patient, guideId), [patient, guideId]);
+  const decision = useMemo(() => runDecisionTree(patient, guideId), [patient, guideId]);
 
   const handleExport = () =>
-    exportPdf({ patient, ranking, evaluation, guideId });
+    exportPdf({ patient, decision, evaluation, guideId });
 
   const handleReset = () => {
     setPatientRaw(EMPTY_PATIENT);
@@ -90,22 +83,9 @@ export default function App() {
             <GuideSelector guideId={guideId} onChangeGuide={setGuideId} />
             {hasInteracted ? (
               <>
-                <GuideCheck
-                  evaluation={evaluation}
-                  guideId={guideId}
-                />
-                <BiologicRadar
-                  ranking={ranking}
-                  visible={visible}
-                  toggleVisible={(id) => setVisible((v) => ({ ...v, [id]: !v[id] }))}
-                />
-                <Recommendation
-                  ranking={ranking}
-                  patient={patient}
-                  evaluation={evaluation}
-                  guideId={guideId}
-                  onExport={handleExport}
-                />
+                <GuideCheck evaluation={evaluation} guideId={guideId} />
+                <DecisionTree decision={decision} />
+                <RecommendationCard decision={decision} onExport={handleExport} />
               </>
             ) : (
               <EmptyState onPreset={(k) => setPatient({ ...EMPTY_PATIENT, ...PRESETS[k] })} />
@@ -123,25 +103,23 @@ export default function App() {
 
 function EmptyState({ onPreset }) {
   const QUICK = [
-    { k: 'alergica', label: 'Alérgica + IgE alta' },
+    { k: 'alergica', label: 'Alérgica + IgE alta + asma' },
     { k: 'eosinofilica', label: 'Eosinofílica + asma' },
-    { k: 't2low', label: 'T2-low / eos baja' },
+    { k: 't2low', label: 'T2-low + asma (eos baja, IgE baja)' },
     { k: 'erea', label: 'EREA / N-ERD' },
-    { k: 'hipereos', label: 'Hipereosinofilia' },
+    { k: 'hipereos', label: 'Hipereosinofilia (>1500)' },
     { k: 'atopica', label: 'Dermatitis atópica' },
   ];
   return (
     <div className="flex min-h-[400px] flex-col items-center justify-center rounded-2xl border-2 border-dashed border-slate-200 bg-white/60 p-10 text-center">
-      <img
-        src="/brand/groog.png"
-        alt="Groog te espera"
-        className="groog-wobble h-32 w-auto opacity-90"
-      />
+      <div className="flex h-20 w-20 items-center justify-center rounded-full bg-rsBlueSoft text-rsBlue">
+        <Compass className="h-10 w-10" />
+      </div>
       <h3 className="mt-4 text-lg font-bold text-rsInk">
-        Empieza marcando los rasgos de tu paciente
+        Empieza marcando los rasgos del paciente
       </h3>
       <p className="mt-2 max-w-md text-sm text-rsMuted">
-        Mueve los sliders del panel izquierdo, o prueba la app con un caso típico:
+        Mueve los sliders y toggles del panel izquierdo, o prueba la app con un caso típico:
       </p>
       <div className="mt-4 flex flex-wrap justify-center gap-2">
         {QUICK.map((q) => (
@@ -186,7 +164,7 @@ function GuideSelector({ guideId, onChangeGuide }) {
               : 'text-rsMuted hover:text-rsInk'
           }`}
         >
-          🇪🇸 España (POLINA)
+          España (POLINA)
         </button>
         <button
           role="radio"
@@ -198,7 +176,7 @@ function GuideSelector({ guideId, onChangeGuide }) {
               : 'text-rsMuted hover:text-rsInk'
           }`}
         >
-          🌍 Internacional (EUFOREA)
+          Internacional (EUFOREA)
         </button>
       </div>
     </div>
@@ -220,7 +198,7 @@ function Header() {
         </div>
         <div className="hidden items-center gap-2 text-xs font-medium text-white/90 sm:flex">
           <BookOpen className="h-3.5 w-3.5" />
-          POLINA · EPOS / EUFOREA 2023
+          POLINA 2.0 · EPOS / EUFOREA 2023
         </div>
       </div>
     </header>
@@ -230,39 +208,17 @@ function Header() {
 function Hero() {
   return (
     <div className="bg-rsDark text-white">
-      <div className="mx-auto flex max-w-7xl items-end justify-between gap-6 px-6 pb-7 pt-2">
-        <div className="max-w-2xl">
-          <p className="text-sm leading-relaxed text-white/95">
-            Apoyo a la decisión para la elección de biológico en poliposis nasal grave.
-            Fenotipa al paciente, comprueba criterios{' '}
-            <span className="font-semibold text-rsBlue">POLINA</span> (España) o{' '}
-            <span className="font-semibold text-rsBlue">EPOS/EUFOREA 2023</span> (internacional)
-            y compara los 4 biológicos aprobados sobre evidencia real.
-          </p>
-        </div>
-        <div className="relative hidden md:block">
-          <div className="absolute -top-2 right-36 hidden lg:block">
-            <SpeechBubble />
-          </div>
-          <img
-            src="/brand/groog.png"
-            alt="Groog, el médico neandertal — mascota de red sanitarIA"
-            className="groog-wobble h-44 w-auto drop-shadow-2xl"
-          />
-        </div>
+      <div className="mx-auto max-w-7xl px-6 pb-7 pt-2">
+        <p className="max-w-3xl text-sm leading-relaxed text-white/95">
+          Apoyo a la decisión clínica para la elección de biológico en poliposis nasal grave (CRSwNP).
+          Fenotipa al paciente, comprueba criterios{' '}
+          <span className="font-semibold text-rsBlue">POLINA 2.0</span> (España) o{' '}
+          <span className="font-semibold text-rsBlue">EPOS / EUFOREA 2023</span> (internacional)
+          y sigue el árbol determinístico hasta la recomendación, con razones explícitas y
+          ficha AEMPS. Sin IA generativa: el camino es trazable y reproducible.
+        </p>
       </div>
       <div className="h-1 w-full bg-gradient-to-r from-rsBlue/0 via-rsBlue to-rsBlue/0" />
-    </div>
-  );
-}
-
-function SpeechBubble() {
-  return (
-    <div className="relative max-w-[230px]">
-      <div className="rounded-2xl bg-white px-4 py-2.5 text-sm font-semibold text-rsInk shadow-lg ring-1 ring-rsBlue/30">
-        Deja de ser el neandertal de tu hospital. Yo dar palo a pólipo.
-      </div>
-      <div className="absolute -bottom-2 right-10 h-3 w-3 rotate-45 bg-white ring-1 ring-rsBlue/30" />
     </div>
   );
 }

@@ -1,72 +1,92 @@
-// Datos basales de los 4 biológicos aprobados para CRSwNP.
-// Las puntuaciones por dominio son adaptaciones de los SUCRA publicados
-// en los meta-análisis en red recientes (Xu 2025, Safia 2025, Cai 2022,
-// Wu 2021, Wang 2024) escaladas a 0–1.
-// Tezepelumab se calibra con WAYPOINT (Lipworth 2024-2025).
-// La calidad de evidencia para algunos cruces es baja: la herramienta
-// es de apoyo a la decisión, no sustituye el juicio clínico.
-
-export const DOMAINS = [
-  { id: 'nps',         label: 'Tamaño pólipo (NPS)' },
-  { id: 'snot22',      label: 'Calidad de vida (SNOT-22)' },
-  { id: 'smell',       label: 'Olfato' },
-  { id: 'congestion',  label: 'Congestión nasal' },
-  { id: 'comorbidity', label: 'Beneficio sistémico' },
-];
+// Datos de los 4 biológicos financiados en España (SNS) para CRSwNP
+// a fecha 8-mayo-2026. Verificado en BIFIMED, CIMA, AEMPS y notas CIPM.
+// La aplicación es un árbol de decisión determinístico (sin SUCRA, sin IA).
 
 export const BIOLOGICS = {
   dupilumab: {
     id: 'dupilumab',
     name: 'Dupilumab',
+    brand: 'Dupixent',
     target: 'IL-4Rα (bloquea IL-4 e IL-13)',
     color: '#29ADFF',
-    base: { nps: 0.95, snot22: 0.92, smell: 1.00, congestion: 0.93, comorbidity: 0.85 },
     trials: ['SINUS-24', 'SINUS-52', 'EVEREST'],
     dosing: '300 mg subcutáneo cada 2 semanas',
     cross: ['Dermatitis atópica', 'Esofagitis eosinofílica', 'Prurigo nodular', 'Asma tipo 2', 'EREA'],
+    aemps: {
+      financed: true,
+      since: '2020-02-01',
+      conditions: '≥2 cirugías endoscópicas previas (BIFIMED). Diagnóstico hospitalario (DH).',
+      prescriptionType: 'DH',
+      cima: 'https://cima.aemps.es/cima/publico/lista.html?nombre=dupixent',
+    },
     notes:
+      'Biológico con más evidencia robusta global en CRSwNP (Cai 2025 RWE, 64 estudios). ' +
       'Indicación cruzada en dermatitis atópica, EoE y prurigo nodular. ' +
-      'Eosinofilia transitoria al inicio: precaución si eosinófilos basales >1500/µL.',
+      'EVEREST 2025 (Lancet Respir Med): superior a omalizumab en CRSwNP+asma. ' +
+      'Eosinofilia transitoria al inicio: cautela si eos basales >1500/µL (descartar EGPA).',
   },
   tezepelumab: {
     id: 'tezepelumab',
     name: 'Tezepelumab',
+    brand: 'Tezspire',
     target: 'TSLP (linfopoyetina estromal tímica, vía superior)',
     color: '#10b981',
-    // Bases recalibradas con NMA post-WAYPOINT (Safia 2025, Reappraisal 2025).
-    // Los NMA previos (Xu, Cai, Wu) no incluían tezepelumab.
-    base: { nps: 0.85, snot22: 0.82, smell: 0.85, congestion: 0.78, comorbidity: 0.92 },
-    trials: ['WAYPOINT (NEJM 2024-2025)'],
+    trials: ['WAYPOINT (NEJM 2025)'],
     dosing: '210 mg subcutáneo cada 4 semanas',
-    cross: ['Asma de cualquier fenotipo (incluido T2-low)', 'EPOC eosinofílica'],
+    cross: ['Asma de cualquier fenotipo (incluido T2-low)'],
+    aemps: {
+      financed: true,
+      since: '2026-01-28',
+      conditions: 'Aprobado CIPM 28-ene-2026 para CRSwNP. Comercializado en España desde 30-mar-2026. Diagnóstico hospitalario (DH). Tratamiento complementario a corticoides intranasales en pacientes con respuesta inadecuada a corticoides sistémicos y/o cirugía.',
+      prescriptionType: 'DH',
+      cima: 'https://cima.aemps.es/cima/publico/lista.html?nombre=tezspire',
+    },
     notes:
-      'Único T2-agnóstico: eficaz aunque eosinófilos e IgE estén bajos. ' +
-      'Útil cuando no hay perfil eosinofílico claro o cuando dupilumab es contraindicado.',
+      'Único biológico T2-agnóstico: eficaz aunque eosinófilos e IgE estén bajos. ' +
+      'WAYPOINT (Lipworth NEJM 2025): redujo necesidad de cirugía 98% (0,5% vs 22,1%) y uso de corticoides sistémicos. ' +
+      'Útil cuando no hay perfil eosinofílico claro o cuando dupilumab no es opción.',
   },
   omalizumab: {
     id: 'omalizumab',
     name: 'Omalizumab',
+    brand: 'Xolair',
     target: 'IgE',
     color: '#f59e0b',
-    base: { nps: 0.50, snot22: 0.61, smell: 0.50, congestion: 0.69, comorbidity: 0.75 },
     trials: ['POLYP 1', 'POLYP 2', 'EVEREST'],
     dosing: 'Dosis ajustada por peso e IgE total (75–600 mg cada 2–4 semanas)',
     cross: ['Asma alérgica grave', 'Urticaria crónica espontánea'],
+    aemps: {
+      financed: true,
+      since: '2025',
+      conditions: 'Financiado para CRSwNP en 2025. Diagnóstico hospitalario (DH). Dosificación obligada por nomograma peso × IgE total.',
+      prescriptionType: 'DH',
+      cima: 'https://cima.aemps.es/cima/publico/lista.html?nombre=xolair',
+    },
     notes:
-      'Mejor opción en alergia IgE-mediada con asma alérgica o urticaria crónica espontánea concomitante.',
+      'Indicación cruzada en urticaria crónica espontánea (decanta la decisión). ' +
+      'EVEREST 2025: dupilumab superior a omalizumab en CRSwNP+asma para todos los endpoints — ' +
+      'omalizumab queda como alternativa cuando hay urticaria crónica concomitante.',
   },
   mepolizumab: {
     id: 'mepolizumab',
     name: 'Mepolizumab',
+    brand: 'Nucala',
     target: 'IL-5',
     color: '#ef4444',
-    base: { nps: 0.45, snot22: 0.55, smell: 0.30, congestion: 0.40, comorbidity: 0.85 },
     trials: ['SYNAPSE'],
     dosing: '100 mg subcutáneo cada 4 semanas',
-    cross: ['Asma eosinofílica grave', 'Granulomatosis eosinofílica con poliangeítis'],
+    cross: ['Asma eosinofílica grave', 'Granulomatosis eosinofílica con poliangeítis (EGPA)', 'Síndrome hipereosinofílico'],
+    aemps: {
+      financed: true,
+      since: '2023',
+      conditions: 'Primer biológico financiado en España para CRSwNP (2023). Diagnóstico hospitalario (DH). Eficacia mayor con eosinofilia ≥500/µL (subanálisis SYNAPSE, Bachert 2022).',
+      prescriptionType: 'DH',
+      cima: 'https://cima.aemps.es/cima/publico/lista.html?nombre=nucala',
+    },
     notes:
       'Eficacia que crece con la eosinofilia (Bachert 2022): preferente con eos ≥500/µL. ' +
-      'Limitado en perfil T2-low (<150/µL).',
+      'Limitado en perfil T2-low (<150/µL). ' +
+      'Indicación cruzada en EGPA e hipereosinofilia (relevante con eos >1500/µL).',
   },
 };
 
@@ -74,9 +94,11 @@ export const BIOLOGIC_ORDER = ['dupilumab', 'tezepelumab', 'omalizumab', 'mepoli
 
 // ─────────────────────────────────────────────────────────────────────────
 // Criterios de indicación: dos guías
-//   · EUFOREA / EPOS 2023  (uso internacional)
-//   · POLINA  (uso preferente en España)
+//   · POLINA 2.0 (Alobid 2023, JIACI) — uso preferente en España
+//   · EPOS / EUFOREA 2023 — uso internacional
 // Estructura común: requisito previo de cirugía + 5 criterios (≥3).
+// Diferencia clave (Golet 2025, Acta Otorrinolaringol Esp): POLINA es más
+// restrictiva — solo ~32% de pacientes elegibles vs 57% con EPOS.
 // ─────────────────────────────────────────────────────────────────────────
 
 export const GUIDES = {
@@ -139,7 +161,8 @@ export function evaluatePatient(p, guideId = 'POLINA') {
       id: 'qol',
       label: 'Impacto significativo en calidad de vida',
       met: p.snot22 >= g.snotThreshold,
-      detail: `SNOT-22 ≥${g.snotThreshold} (${g.id === 'POLINA' ? 'umbral POLINA' : 'umbral EUFOREA 2023'})`,
+      detail: `SNOT-22 ≥${g.snotThreshold} (${g.id === 'POLINA' ? 'umbral POLINA — obligatorio' : 'umbral EUFOREA 2023'})`,
+      mandatory: g.id === 'POLINA',
     },
     {
       id: 'smell',
@@ -166,162 +189,6 @@ export function evaluatePatient(p, guideId = 'POLINA') {
 }
 
 // ─────────────────────────────────────────────────────────────────────────
-// Motor de scoring: parte de los SUCRA basales y aplica modificadores
-// según el fenotipo. Devuelve scores normalizados 0–1 por dominio.
-// ─────────────────────────────────────────────────────────────────────────
-
-export function scoreBiologic(id, p) {
-  const base = BIOLOGICS[id].base;
-  const s = { ...base };
-  const reasons = [];
-
-  // ─── Eosinofilia ───
-  if (p.eosinophils >= 1500) {
-    if (id === 'dupilumab') {
-      s.nps -= 0.15;
-      s.comorbidity -= 0.10;
-      reasons.push('Eosinofilia muy alta (>1500): cautela con dupilumab por riesgo de eosinofilia paradójica');
-    }
-    if (id === 'mepolizumab') {
-      s.nps += 0.10;
-      s.comorbidity += 0.05;
-      reasons.push('Eosinofilia muy alta favorece anti-IL-5');
-    }
-    if (id === 'tezepelumab') {
-      s.nps += 0.05;
-      reasons.push('Eosinofilia muy alta: tezepelumab opción razonable por mecanismo upstream');
-    }
-  } else if (p.eosinophils >= 500) {
-    if (id === 'mepolizumab') {
-      s.nps += 0.12;
-      s.comorbidity += 0.05;
-      reasons.push('Eosinofilia ≥500: subgrupo de mejor respuesta a mepolizumab');
-    }
-    if (id === 'dupilumab') {
-      s.nps += 0.05;
-      s.comorbidity -= 0.04;
-      reasons.push('Eosinofilia ≥500: aunque dupilumab actúa, anti-IL-5 gana terreno como elección preferente');
-    }
-  } else if (p.eosinophils >= 300) {
-    if (id === 'mepolizumab') { s.nps += 0.10; s.comorbidity += 0.03; }
-    if (id === 'dupilumab')   { s.nps += 0.05; }
-    if (id === 'omalizumab')  { s.nps -= 0.05; }
-  } else if (p.eosinophils < 150 && p.eosinophils > 0) {
-    if (id === 'mepolizumab') {
-      s.nps -= 0.25;
-      s.smell -= 0.10;
-      s.comorbidity -= 0.15;
-      reasons.push('T2-low (<150): anti-IL-5 con eficacia reducida');
-    }
-    if (id === 'tezepelumab') {
-      s.nps += 0.10;
-      s.snot22 += 0.05;
-      s.comorbidity += 0.05;
-      reasons.push('T2-low: tezepelumab eficaz con eosinofilia baja (único T2-agnóstico)');
-    }
-    if (id === 'dupilumab') {
-      s.nps -= 0.05;
-      s.smell -= 0.05;
-      s.comorbidity -= 0.05;
-      reasons.push('T2-low: dupilumab pierde fuerza relativa frente a tezepelumab');
-    }
-  }
-
-  // ─── IgE / alergia ───
-  if (p.allergic && p.ige >= 100) {
-    if (id === 'omalizumab') {
-      s.nps += 0.12;
-      s.snot22 += 0.10;
-      s.comorbidity += 0.10;
-      reasons.push('Alergia documentada con IgE alta favorece omalizumab');
-    }
-    if (id === 'dupilumab') {
-      s.comorbidity -= 0.03;
-      reasons.push('Alergia + IgE alta: omalizumab gana preferencia mecanística sobre dupilumab');
-    }
-  }
-  if (p.ige < 30 && p.ige > 0) {
-    if (id === 'omalizumab') {
-      s.nps -= 0.10;
-      s.comorbidity -= 0.10;
-      reasons.push('IgE baja (<30): omalizumab pierde fundamento mecanístico');
-    }
-  }
-
-  // ─── Comorbilidades ───
-  if (p.asthma) {
-    if (id === 'dupilumab')   s.comorbidity += 0.05;
-    if (id === 'tezepelumab') s.comorbidity += 0.05;
-    if (id === 'mepolizumab') s.comorbidity += 0.05;
-    if (id === 'omalizumab' && p.allergic) s.comorbidity += 0.05;
-  }
-  if (p.nerd) {
-    if (id === 'dupilumab')   { s.comorbidity += 0.10; s.snot22 += 0.05; }
-    if (id === 'mepolizumab') s.comorbidity += 0.05;
-    if (id === 'tezepelumab') s.comorbidity += 0.05;
-  }
-  // Indicaciones cruzadas que decantan claramente
-  if (p.atopicDermatitis && id === 'dupilumab') {
-    s.comorbidity += 0.15; s.nps += 0.05;
-    reasons.push('Dermatitis atópica: dupilumab por indicación cruzada');
-  }
-  if (p.eosinophilicEsophagitis && id === 'dupilumab') {
-    s.comorbidity += 0.18; s.nps += 0.03;
-    reasons.push('Esofagitis eosinofílica: dupilumab por indicación cruzada');
-  }
-  if (p.prurigoNodular && id === 'dupilumab') {
-    s.comorbidity += 0.12;
-    reasons.push('Prurigo nodular: dupilumab por indicación cruzada');
-  }
-  if (p.chronicUrticaria && id === 'omalizumab') {
-    s.comorbidity += 0.18;
-    reasons.push('Urticaria crónica espontánea: omalizumab por indicación cruzada');
-  }
-  if (p.copdEosinophilic && id === 'tezepelumab') {
-    s.comorbidity += 0.10;
-    reasons.push('EPOC eosinofílica: tezepelumab opción reciente');
-  }
-
-  // ─── Olfato ───
-  if (p.smellVAS >= 7) {
-    if (id === 'dupilumab')   s.smell += 0.05;
-    if (id === 'tezepelumab') s.smell += 0.05;
-    if (id === 'mepolizumab') s.smell -= 0.05;
-  }
-
-  // ─── Carga de QoL muy alta ───
-  if (p.snot22 >= 60) {
-    if (id === 'dupilumab') s.snot22 += 0.03;
-  }
-
-  // ─── Cirugías repetidas ───
-  if (p.priorSurgeries >= 2) {
-    if (id === 'dupilumab')   s.nps += 0.03;
-    if (id === 'tezepelumab') s.nps += 0.03;
-  }
-
-  Object.keys(s).forEach((k) => {
-    s[k] = Math.max(0, Math.min(1, s[k]));
-  });
-  return { scores: s, reasons };
-}
-
-const WEIGHTS = { nps: 0.25, snot22: 0.25, smell: 0.20, congestion: 0.15, comorbidity: 0.15 };
-
-export function overallScore(scores) {
-  return Object.entries(WEIGHTS).reduce((acc, [k, w]) => acc + (scores[k] || 0) * w, 0);
-}
-
-export function rankBiologics(p) {
-  return BIOLOGIC_ORDER
-    .map((id) => {
-      const { scores, reasons } = scoreBiologic(id, p);
-      return { id, scores, reasons, overall: overallScore(scores) };
-    })
-    .sort((a, b) => b.overall - a.overall);
-}
-
-// ─────────────────────────────────────────────────────────────────────────
 // Estado inicial — todos los toggles en false, sliders en 0.
 // ─────────────────────────────────────────────────────────────────────────
 
@@ -336,8 +203,7 @@ export const EMPTY_PATIENT = {
   eosinophilicEsophagitis: false,
   prurigoNodular: false,
   chronicUrticaria: false,
-  copdEosinophilic: false,
-  smellVAS: 0,         // 0 = olfato normal · 10 = pérdida total
+  smellVAS: 0,
   snot22: 0,
   nps: 0,
   priorSurgeries: 0,

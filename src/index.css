@@ -53,12 +53,3 @@ input[type='range']::-moz-range-thumb {
   cursor: pointer;
   border: 3px solid white;
 }
-
-@keyframes wobble {
-  0%, 100% { transform: rotate(-2deg); }
-  50%      { transform: rotate(2deg); }
-}
-.groog-wobble {
-  animation: wobble 4s ease-in-out infinite;
-  transform-origin: 50% 90%;
-}
